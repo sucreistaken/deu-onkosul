@@ -5,9 +5,10 @@
  * Zincir dosyalari yalnizca o program secildiginde cekilir.
  */
 
-import type { DataIndex, ProgramChain } from '../types'
+import type { DataIndex, ProgramChain, ProgramPlans } from '../types'
 
 const cache = new Map<string, ProgramChain>()
+const planCache = new Map<string, ProgramPlans | null>()
 let indexPromise: Promise<DataIndex> | null = null
 
 export function loadIndex(): Promise<DataIndex> {
@@ -35,5 +36,25 @@ export async function loadProgram(id: string): Promise<ProgramChain> {
 
     const data = (await res.json()) as ProgramChain
     cache.set(id, data)
+    return data
+}
+
+/**
+ * Bolumun tarihsel plan surumleri. Arsivi olmayan bolumlerde null doner;
+ * bu bir hata degil, beklenen durumdur (yalnizca Muhendislik Fakultesi'nin
+ * arsivi yayinda).
+ */
+export async function loadPlans(id: string): Promise<ProgramPlans | null> {
+    const hit = planCache.get(id)
+    if (hit !== undefined) return hit
+
+    let data: ProgramPlans | null = null
+    try {
+        const res = await fetch(`${import.meta.env.BASE_URL}data/plans/${id}.json`)
+        if (res.ok) data = (await res.json()) as ProgramPlans
+    } catch {
+        data = null
+    }
+    planCache.set(id, data)
     return data
 }

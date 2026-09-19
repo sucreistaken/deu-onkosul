@@ -50,7 +50,11 @@ const App: React.FC = () => (
         <Shell>
             <Routes>
                 <Route path="/" element={<Home />} />
+                {/* Sihirbazin dort adimi; her adim kendi adresinde. */}
                 <Route path="/program/:id" element={<Program />} />
+                <Route path="/program/:id/yil" element={<Program />} />
+                <Route path="/program/:id/yil/:year/ders" element={<Program />} />
+                <Route path="/program/:id/yil/:year/ders/:code" element={<Program />} />
             </Routes>
         </Shell>
     </BrowserRouter>
