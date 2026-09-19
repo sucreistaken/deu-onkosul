@@ -12,7 +12,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { buildGraph, cascade, chainLevels, depth } from '../src/lib/prereq'
+import { buildGraph, cascade, chainLevels, depth, impactOf } from '../src/lib/prereq'
 import type { DataIndex, ProgramChain } from '../src/types'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
@@ -33,15 +33,59 @@ const esc = (s: string): string =>
  */
 function render(
     template: string,
-    opts: { title: string; description: string; body: string },
+    opts: { title: string; description: string; body: string; noindex?: boolean },
 ): string {
+    const head = opts.noindex
+        ? '<meta name="robots" content="noindex" />\n  <title>'
+        : '<title>'
     return template
-        .replace(/<title>.*?<\/title>/s, `<title>${esc(opts.title)}</title>`)
+        .replace(/<title>.*?<\/title>/s, `${head}${esc(opts.title)}</title>`)
         .replace(
             /<meta name="description"[\s\S]*?\/>/,
             `<meta name="description" content="${esc(opts.description)}" />`,
         )
         .replace('<div id="root"></div>', `<div id="root">${opts.body}</div>`)
+}
+
+/** Ders kodunu adres parcasina cevirir; src/lib/slug.ts ile ayni kural. */
+const TR: Record<string, string> = {
+    ç: 'c', ğ: 'g', ı: 'i', i: 'i', ö: 'o', ş: 's', ü: 'u',
+    Ç: 'c', Ğ: 'g', I: 'i', İ: 'i', Ö: 'o', Ş: 's', Ü: 'u',
+}
+const slugify = (code: string): string =>
+    code.split('').map((ch) => TR[ch] ?? ch).join('')
+        .toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
+
+/**
+ * "X dersinden kalirsan ne olur" sonuc sayfasinin govdesi.
+ *
+ * Aranan uzun kuyruk sorgusunun tam karsiligi; bu yuzden SEO icin
+ * indekslenecek asil sayfalar bunlar.
+ */
+function resultBody(program: ProgramChain, code: string): string {
+    const graph = buildGraph(program.courses)
+    const impact = impactOf(graph, code)
+    const out = [
+        `<h1>${esc(impact.code)} ${esc(impact.name)} dersinden kalirsan `
+        + `${impact.locked.length} ders kilitlenir</h1>`,
+        `<p>${esc(program.name)} &middot; ${esc(program.faculty)} &middot; `
+        + `DEU Ders Katalogu ${esc(program.catalogYear)}</p>`,
+        `<p>Zincir ${impact.depth} kademe`
+        + (impact.lastTerm !== null ? `, en gec ${impact.lastTerm}. yariyila kadar` : '')
+        + '.</p>',
+        '<h2>Kilitlenen dersler</h2>',
+        '<ul>',
+        ...impact.locked.map(
+            (c) =>
+                `<li>${esc(c.code)} ${esc(c.name)}`
+                + (c.term !== null ? ` (${c.term}. yariyil)` : '')
+                + '</li>',
+        ),
+        '</ul>',
+        `<p><a href="/program/${program.id}">${esc(program.name)} on kosul zincirinin `
+        + 'tamami</a></p>',
+    ]
+    return out.join('\n')
 }
 
 const NO_PREREQ_NOTE =
@@ -134,6 +178,7 @@ function main(): number {
     let written = 0
     let withChain = 0
     let withNote = 0
+    let results = 0
     const links: string[] = []
 
     for (const meta of index.programs) {
@@ -168,6 +213,48 @@ function main(): number {
             'utf-8',
         )
         written += 1
+
+        // Sihirbazin ara adimlari (yil ve ders secimi) icerik tasimaz;
+        // indekslenirlerse 647 x yil x ders kadar degersiz sayfa cikar.
+        for (const path of [
+            join(DIST, 'program', meta.id, 'yil'),
+            join(DIST, 'program', meta.id, 'yil', 'guncel', 'ders'),
+        ]) {
+            mkdirSync(path, { recursive: true })
+            writeFileSync(
+                join(path, 'index.html'),
+                render(template, {
+                    title: `${program.name} | DEU On Kosul`,
+                    description: `${program.name} on kosul sihirbazi.`,
+                    body: `<h1>${esc(program.name)}</h1>`,
+                    noindex: true,
+                }),
+                'utf-8',
+            )
+        }
+
+        // Sonuc sayfalari: her on kosullu ders icin bir tane.
+        const graph = buildGraph(program.courses)
+        for (const code of graph.dependents.keys()) {
+            const dir = join(DIST, 'program', meta.id, 'yil', 'guncel', 'ders', slugify(code))
+            mkdirSync(dir, { recursive: true })
+            writeFileSync(
+                join(dir, 'index.html'),
+                render(template, {
+                    title:
+                        `${code} dersinden kalirsan ne olur? | ${program.name} `
+                        + '| DEU On Kosul',
+                    description:
+                        `${program.name} bolumunde ${code} `
+                        + `${graph.byCode.get(code)?.name ?? ''} dersinden kalinca hangi `
+                        + 'dersler kilitlenir.',
+                    body: resultBody(program, code),
+                }),
+                'utf-8',
+            )
+            results += 1
+        }
+
         links.push(
             `<li><a href="/program/${meta.id}">${esc(meta.name)}</a> `
             + `&ndash; ${esc(meta.faculty)}`
@@ -199,6 +286,7 @@ function main(): number {
     console.log(`Prerender: ${written} bolum sayfasi + giris sayfasi`)
     console.log(`  zinciri olan bolum      : ${withChain}`)
     console.log(`  yalniz metin sarti olan : ${withNote}`)
+    console.log(`  sonuc sayfasi           : ${results}`)
     return 0
 }
 
