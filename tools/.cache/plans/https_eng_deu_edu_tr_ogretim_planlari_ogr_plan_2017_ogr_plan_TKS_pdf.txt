@@ -1,0 +1,166 @@
+                                                                                                                                                                                 07/04/2017 15:00:46
+
+                                                                               DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                               Mühendislik Fakültesi - Tekstil Mühendisliği Öğretim Planı
+                                                      Üniversitemiz Senatosunun 19/04/2016 tarih ve 457/7 sayılı karar ile kabul edilen şeklidir.
+
+
+                                        BİRİNCİ YARIYIL                                                                                            İKİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                            T   U     AKTS Süresi         Ön Şart     Kod        Ders Adı                                               T    U   AKTS Süresi
+    -       BIT 1003   BASIC INFORMATION TECHNOLOGIES                      1   1      3    1 Yarıyıl         -       MAK 1011   TEKNİK RESİM                                           4    0    4    1 Yarıyıl
+    -       FİZ 1101   FİZİK I                                             3   2      5    1 Yarıyıl         -       CME 1204   COMPUTER PROGRAMMING                                   2    2    3    1 Yarıyıl
+    -       KİM 1015   KİMYA                                               3   2      5    1 Yarıyıl         -       FİZ 1102   FİZİK II                                               3    2    5    1 Yarıyıl
+    -       MAT 1009   MATEMATİK I                                         4   0      4    1 Yarıyıl         -       KİM 1016   ORGANİK KİMYA                                          2    1    3    1 Yarıyıl
+    -       TKS 1005   TEKSTİL MÜHENDİSLİĞİNE GİRİŞ                        1   0      1    1 Yarıyıl         -       MAK 1014   STATİK                                                 3    0    5    1 Yarıyıl
+    -       TKS 1007   DOĞAL LİFLER                                        2   0      2    1 Yarıyıl         -       MAT 1010   MATEMATİK II                                           4    0    4    1 Yarıyıl
+    -       TKS 1103   GENEL EKONOMİ                                       2   0      2    1 Yarıyıl         -       TKS 1002   KİMYASAL LİFLER                                        2    0    2    1 Yarıyıl
+    -       ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                2   0      2    1 Yarıyıl         -       ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                  2    0    2    1 Yarıyıl
+    -       TDL 1001   Türk Dili I                                         2   0      2    1 Yarıyıl         -       TDL 1002   Türk Dili II                                           2    0    2    1 Yarıyıl
+    -       BDE 1003   Beden Eğitimi                                       2   0      2    1 Yarıyıl                                                                          AKTS TOPLAMI :     30
+    -       GSH 1003   Halk Oyunları                                       2   0      2    1 Yarıyıl
+    -       GSM 1003   Müzik                                               2   0      2    1 Yarıyıl
+    -       MAK 1021   ATÖLYE EĞİTİMİ(4 HAFTA)                             3   3      2    1 Yıllık
+                                                                    AKTS TOPLAMI :    30
+
+
+
+
+                                       ÜÇÜNCÜ YARIYIL                                                                                          DÖRDÜNCÜ YARIYIL
+Ön Şart     Kod        Ders Adı                                            T   U     AKTS Süresi         Ön Şart     Kod        Ders Adı                                               T    U   AKTS Süresi
+    -       MAK 2029   MUKAVEMET                                           3   0      5    1 Yarıyıl         -       EEE 2015   ELECTRIC                                               3    0    6    1 Yarıyıl
+    -       MTH 2011   CALCULUS III                                        4   0      4    1 Yarıyıl         -       MME 2011   MATERIALS SCIENCE                                      2    0    3    1 Yarıyıl
+    -       TEX 2007   TECHNICAL ENGLISH I                                 2   0      3    1 Yarıyıl         -       MTH 2014   CALCULUS IV                                            4    0    4    1 Yarıyıl
+    -       TEX 2009   INTRODUCTION TO STATISTICS                          2   0      3    1 Yarıyıl         -       TEX 2008   TECHNICAL ENGLISH II                                   2    0    3    1 Yarıyıl
+    -       TKS 2011   DOKUMACILIK I                                       2   1      4    1 Yarıyıl         -       TEX 2012   WEAVING II                                             2    1    5    1 Yarıyıl
+    -       TKS 2013   İPLİKÇİLİK I                                        3   0      4    1 Yarıyıl         -       TKS 2004   ÖRMECİLİK1                                             2    1    4    1 Yarıyıl
+    -       MAK 2009   DİNAMİK                                             3   0      5    1 Yarıyıl         -       TKS 2014   İPLİKÇİLİK II                                          2    0    3    1 Yarıyıl
+                                                                    AKTS TOPLAMI :    28                     -       TKS 2000   MESLEK STAJI                                           0    0    2    6 Hafta
+                                                                                                                                                                              AKTS TOPLAMI :     30
+
+
+                                        BEŞİNCİ YARIYIL                                                                                          ALTINCI YARIYIL
+Ön Şart     Kod        Ders Adı                                            T   U     AKTS Süresi         Ön Şart     Kod        Ders Adı                                               T    U   AKTS Süresi
+    -       TEX 3009   PHYSICAL TEXTILE TESTING I                          2   1      5    1 Yarıyıl         -       IND 3503   BUSINESS ECONOMICS                                     3    0    4    1 Yarıyıl
+    -       TEX 3013   KNITTING II                                         2   1      4    1 Yarıyıl         -       MAK 2019   TERMODİNAMİĞE GİRİŞ                                    2    0    3    1 Yarıyıl
+    -       TEX 3015   TIME AND MOTION STUDIES                             2   0      3    1 Yarıyıl         -       MAK 2032   MAKİNA ELEMANLARINA GİRİŞ                              2    0    2    1 Yarıyıl
+    -       TKS 3005   TERBİYE                                             3   1      5    1 Yarıyıl         -       TEX 3010   CHEMICAL TEXTILE TESTING                               1    2    4    1 Yarıyıl
+    -       TKS 3011   KONFEKSİYON I                                       2   1      4    1 Yarıyıl         -       TEX 3018   TECHNICAL TEXTILES II                                  2    0    2    1 Yarıyıl
+    -       TKS 3017   TEKNİK TEKSTİLLER I                                 2   0      3    1 Yarıyıl         -       TKS 3006   KONFEKSİYON II                                         2    1    4    1 Yarıyıl
+    -       TKS 3019   TEKSTİL KİMYASI                                     2   1      4    1 Yarıyıl         -       TKS 3014   FİZ.TEKS. MUAYENELERİ II                               2    2    5    1 Yarıyıl
+                                                                    AKTS TOPLAMI :    28                     -       TKS 3020   TEKSTİLDE ÜRÜN VE SÜREÇ TASARIMI                       0    2    4    1 Yarıyıl
+                                                                                                             -       TKS 3000   SERBEST İŞLETME STAJI                                  0    0    2    6 Hafta
+                                                                                                                                                                              AKTS TOPLAMI :     30
+
+
+                                        YEDİNCİ YARIYIL                                                                                         SEKİZİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                            T   U     AKTS Süresi         Ön Şart     Kod        Ders Adı                                               T    U   AKTS Süresi
+    -       İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                           2   0      2    1 Yarıyıl         -       İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                             2    0    2    1 Yarıyıl
+    -       TEX 4001   FABRIC DESIGN                                       2   1      5    1 Yarıyıl         -       MAK 4226   KONTROL SİSTEMLERİ                                     3    0    3    1 Yarıyıl
+    -       TKS 4700   SEMİNER                                             0   2      1    1 Yarıyıl         -       TKS 4006   TEKSTİL KALİTE KONTRÖLÜ                                2    0    4    1 Yarıyıl
+                                                                    AKTS TOPLAMI :    8                  TKS 3020    TKS 4894   BİTİRME PROJESİ                                        0    6    5    1 Yarıyıl
+Seçmeli Dersler                                                                                                                                                               AKTS TOPLAMI :     14
+    -       MAK 3033   ISI TRANSFERİ                                       3   0      5    1 Yarıyıl    Seçmeli Dersler
+    -       MAK 4218   MAKİNA DİNAMİĞİ                                     3   0      3    1 Yarıyıl         -       EEE 4018   ELECTRONICS                                            3    0    3    1 Yarıyıl
+    -       TEX 4019   WARP KNITTING                                       2   2      5    1 Yarıyıl         -       TEX 4004   POLYMER CHEMISTRY                                      3    0    3    1 Yarıyıl
+    -       TEX 4024   FASHION DESIGN                                      1   2      5    1 Yarıyıl         -       TEX 4030   COLOUR SCIENCE                                         1    2    5    1 Yarıyıl
+    -       TEX 4035   ANALYSIS AND DESIGN OF KNITTED FABRICS              1   2      3    1 Yarıyıl         -       TEX 4038   TEXTILE AUXILIARY AGENTS                               2    0    3    1 Yarıyıl
+    -       TEX 4039   WOVEN FABRIC ANALYSIS                               1   2      3    1 Yarıyıl         -       TEX 4042   KNITTING ENG.PRODUCT DEVELOPMENT & DESIGN 3                 2    5    1 Yarıyıl
+    -       TEX 4053   TEXTILE MICROSCOPY                                  1   2      3    1 Yarıyıl         -       TEX 4050   CLOTHING MACHINES                                      1    2    5    1 Yarıyıl
+    -       TKS 3025   TEKSTİL MEKANİZMALARI                               3   0      3    1 Yarıyıl         -       TEX 4052   MODERN YARN SPINNING METHODS                           2    0    3    1 Yarıyıl
+    -       TKS 4003   TEKSTİL FABRİKA ORGANİZASYONU                       2   0      3    1 Yarıyıl         -       TEX 4064   DYEING OF FIBER BLENDS                                 1    2    3    1 Yarıyıl
+    -       TKS 4005   DİKİŞ İPLİĞİ TEKNOLOJİSİ                            2   0      3    1 Yarıyıl         -       TEX 4066   TEXTILE PHYSICS                                        3    0    3    1 Yarıyıl
+    -       TKS 4021   BOYA TEKNOLOJİSİ                                    2   2      5    1 Yarıyıl         -       TKS 4002   TEKSTÜRE İPLİK TEKNOLOJİSİ                             2    0    3    1 Yarıyıl
+    -       TKS 4023   GİYSİ KALIPÇILIĞI                                   1   2      5    1 Yarıyıl     TKS 4023    TKS 4025   BİLGİSAYARLI KALIP HAZIRLAMA                           1    2    5    1 Yarıyıl
+    -       TKS 4031   TEKSTİL İŞLETME YÖNETİMİ                            2   0      3    1 Yarıyıl         -       TKS 4028   BİTİM İŞLEMLERİ                                        1    2    5    1 Yarıyıl
+    -       TKS 4033   TEKSTİLDE PAZARLAMA                                 2   0      3    1 Yarıyıl         -       TKS 4032   BASKI TEKNOLOJİSİ                                      1    2    5    1 Yarıyıl
+    -       TKS 4035   ÖRME KUMAŞ ANALİZİ VE TASARIMI                      1   2      3    1 Yarıyıl         -       TKS 4038   TEKSTİL YARDIMCI MADDELERİ                             2    0    3    1 Yarıyıl
+    -       TKS 4041   ÖN TERBİYE                                          1   2      5    1 Yarıyıl         -       TKS 4044   TEKSTİLDE ULUSLARARASI İŞLETME YÖNETİMİ                2    0    3    1 Yarıyıl
+    -       TKS 4043   FANTEZİ İPLİK TEKNOLOJİSİ                           2   0      3    1 Yarıyıl         -       TKS 4046   TEKSTİLDE İŞLETME FİNANSI                              2    0    3    1 Yarıyıl
+    -       TKS 4045   KARMAŞIK DOKUMALAR                                  1   2      5    1 Yarıyıl         -       TKS 4048   ATKI ÖRMECİLİĞİ                                        1    2    5    1 Yarıyıl
+    -       TKS 4047   TEKSTİL TERBİYESİ MAKİNALARI                        2   0      3    1 Yarıyıl         -       TKS 4050   KONFEKSİYON MAKİNALARI                                 1    2    5    1 Yarıyıl
+    -       TKS 4049   FİZİKOKİMYA                                         3   0      3    1 Yarıyıl         -       TKS 4052   MODERN İPLİK EĞİRME YÖNTEMLERİ                         2    0    3    1 Yarıyıl
+    -       TKS 4056   EL DOKUMALARI                                       1   2      5    1 Yarıyıl         -       TKS 4054   KONFEKSİYON İŞLET. BİLG. UYG.                          1    2    3    1 Yarıyıl
+                                                                                                             -       TKS 4058   KONFEKSİYON MALZEME BİLGİSİ                            2    0    3    1 Yarıyıl
+                                                                                                             -       TKS 4060   TEKNİK TEKSTİLLERE UYGULANAN PERFORMANS TESTLERİ 2          0    3    1 Yarıyıl
+                                                                                                             -       TKS 4062   TEKSTİLDE BİLGİSAYAR UYGULAMALI İSTATİSTİKSEL YÖNTEMLER 1   2    3    1 Yarıyıl
+                                                                                                                                                                                                                           07/04/2017 15:00:46
+
+                                                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                                Mühendislik Fakültesi - Tekstil Mühendisliği Öğretim Planı
+                                                               Üniversitemiz Senatosunun 19/04/2016 tarih ve 457/7 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                                                            Teknik Seçmeli Dersler
+Ön Şart     Kod        Ders Adı                                                                        T     U   AKTS Süresi      Ön Şart     Kod        Ders Adı                                                                 T     U   AKTS Süresi
+            ESE 2065     CAREER PLANNING AND DEVELOPMENT                                                2    0    3   1 Yarıyıl               ETE 3005     METHODS OF ARTIFICAL INTELLIGENCE                                       2    0    4   1 Yarıyıl
+            ESE 2067     BUSINESS MANAGEMENT AND MANAGEMENT                                             2    0    3   1 Yarıyıl               ETE 3014     GIS FOR ENGINEERS                                                       2    0    4   1 Yarıyıl
+            ESE 2069     PERSONAL STYLE AND IMAGE MANAGEMENT                                            2    0    3   1 Yarıyıl               MTS 3001     BİYOTEKNOLOJİ                                                           2    0    3   1 Yarıyıl
+            MSİ 2001     SUNUM VE SUNUŞ TEKNİKLERİ                                                      2    0    2   1 Yarıyıl               MTS 3003     NANOTEKNOLOJİYE GİRİŞ                                                   2    0    3   1 Yarıyıl
+            MSİ 2005     KİŞİSEL GELİŞİM VE ETKİLİ YAŞAMAK                                              2    0    2   1 Yarıyıl               MTS 3007     ROBOTUN TEMELLERİ                                                       2    0    3   1 Yarıyıl
+            MSİ 2009     AVRUPA BİRLİĞİNDE SOSYAL POLİTİKA                                              2    0    2   1 Yarıyıl               MTS 3009     ÇEVRENİN KORUNMASINI AMAÇLAYAN DİSİPLİNLERARASI PROJ. GELİŞ. 2               0    3   1 Yarıyıl
+            MSİ 2013     MÜHENDİSLİK ETİĞİ                                                              2    0    2   1 Yarıyıl               MTS 3011     MÜHENDİSLİK MALZEMELERİNİN KARAKTERİZASYONU 2                                0    3   1 Yarıyıl
+            MSİ 2015     MÜHENDİSLER İÇİN FRANSIZCA                                                     2    0    2   1 Yarıyıl               MTS 3015     YOL TEKNOLOJİSİNDE YENİLİKLER                                           2    0    3   1 Yarıyıl
+            MSİ 2027     PSİKOLOJİYE GİRİŞ                                                              2    0    2   1 Yarıyıl               MTS 3017     FİZİKSEL MODELLER                                                       2    0    3   1 Yarıyıl
+            MSİ 2029     İLETİŞİM BECERİLERİ                                                            2    0    2   1 Yarıyıl               MTS 3019     ÜRETİMDE ÇÖZÜM YAKLAŞIMLARI                                             2    0    3   1 Yarıyıl
+            MSİ 2031     İNSAN KAYNAKLARI YÖNETİMİ                                                      2    0    2   1 Yarıyıl               ETE 3006     BIOMEDICAL SYSTEMS                                                      2    0    4   1 Yarıyıl
+            MSİ 2037     MÜHENDİSLİK EKONOMİSİ                                                          2    0    2   1 Yarıyıl               ETE 3029     QUALITY MANAGEMENT                                                      2    0    4   1 Yarıyıl
+            MSİ 2041     BÜTÜNLEŞİK KIYI YÖNETİMİ, TÜRKİYEDE LİMAN YÖNETİMİ VE DEVLETLERARASI PROGRAMLAR 2   0    2   1 Yarıyıl               ETE 3031     NAVIGATION ENGINEERING                                                  2    0    4   1 Yarıyıl
+            MSİ 2043     İŞ KANUNU VE UYGULAMASI                                                        2    0    2   1 Yarıyıl               ETE 3032     PERFORMANCE MEASUREMENT IN BUSINESSES                                   2    0    4   1 Yarıyıl
+            MSİ 2049     DOĞAL AFETLER                                                                  2    0    2   1 Yarıyıl               ETE 3034     FINANCIAL MANAGEMENT FOR ENGINEERS                                      2    0    4   1 Yarıyıl
+            MSİ 2059     AFET YÖNETİMİ                                                                  2    0    2   1 Yarıyıl               MTS 3002     DEPREM MÜHENDİSLİĞİNDE SEÇMELİ KONULAR                                  2    0    3   1 Yarıyıl
+            MSİ 2061     İŞLETMELERDE İÇ DENETİM                                                        2    0    2   1 Yarıyıl               MTS 3004     ARKEOLOJİK PROSPEKSİYON                                                 2    0    3   1 Yarıyıl
+            MSİ 2063     PAZARLAMAYA GİRİŞ                                                              2    0    2   1 Yarıyıl               MTS 3008     MALZEME VE ÜRETİM                                                       2    0    3   1 Yarıyıl
+            MSİ 2065     KARİYER PLANLAMA VE GELİŞTİRME                                                 2    0    2   1 Yarıyıl               MTS 3010     MADENCİLİK FAALİYETLERİNİN ÇEVRESEL ETKİLERİ 2                               0    3   1 Yarıyıl
+            MSİ 2067     İŞLETME YÖNETİMİ VE YÖNETİCİLİĞİ                                               2    0    2   1 Yarıyıl               MTS 3014     MÜHENDİSLER İÇİN COĞRAFİ BİLGİ SİSTEMİ                                  2    0    3   1 Yarıyıl
+            MSİ 2069     KİŞİSEL STİL VE İMAJ YÖNETİMİ                                                  2    0    2   1 Yarıyıl               MTS 3016     ULAŞIM SİSTEMLERİ ANALİZİNE GİRİŞ                                       2    0    3   1 Yarıyıl
+            ESE 2066     OCCUPATIONAL HEALTH DISEASES IN ENGINEERING 2                                       0    3   1 Yarıyıl               MTS 3020     ENERJİ VE ÇEVRE                                                         2    0    3   1 Yarıyıl
+            MSİ 2002     FELSEFEYE GİRİŞ                                                                2    0    2   1 Yarıyıl               MTS 3021     MÜHENDİSLİK PROJELERİNDE KAYA MEKANİĞİ VE SAYISAL MODELLEME UYGULAMALARI 2   0    3   1 Yarıyıl
+            MSİ 2004     İNSAN İLİŞKİLERİ                                                               2    0    2   1 Yarıyıl               MTS 3022     TÜNEL AÇMA                                                              2    0    3   1 Yarıyıl
+            MSİ 2006     BRİÇ                                                                           2    0    2   1 Yarıyıl               MTS 3023     MADEN ARAMALARINDA JEOFİZİK YÖNTEMLER                                   2    0    3   1 Yarıyıl
+            MSİ 2008     EKONOMİK KÜRESELLEŞME                                                          2    0    2   1 Yarıyıl               MTS 3024     JEOLOJİK PROBLEMLER VE JEOFİZİK ÇÖZÜMLERİ                               2    0    3   1 Yarıyıl
+            MSİ 2010     İŞ GÜVENLİĞİ                                                                   2    0    2   1 Yarıyıl               MTS 3025     PROJE YÖNETİMİ                                                          2    0    3   1 Yarıyıl
+            MSİ 2012     GENÇ GİRİŞİMCİLİK                                                              2    0    2   1 Yarıyıl               MTS 3026     YER BİLİMLERİNDE BİLGİSAYAR DESTEKLİ TASARIM 2                               0    3   1 Yarıyıl
+            MSİ 2016     ÇEVRE KİRLİLİĞİ VE KONTROLU                                                    2    0    2   1 Yarıyıl               MTS 3027     SONDAJ TEKNOLOJİSİ VE UYGULAMALARI                                      2    0    3   1 Yarıyıl
+            MSİ 2022     MİMAR SİNAN                                                                    2    0    2   1 Yarıyıl               MTS 3028     MÜHENDİSLİKTE HARİTA BİLGİSİ                                            2    0    3   1 Yarıyıl
+            MSİ 2024     DOĞA ÇEVRE VE KENT                                                             2    0    2   1 Yarıyıl               MTS 3029     KALİTE YÖNETİMİ                                                         2    0    3   1 Yarıyıl
+            MSİ 2026     AVRUPA BİRLİĞİ VE AVRUPA KONSEYİNDE BÜTÜNLEŞİK ÇEVRE POLİTİKASI 2                   0    2   1 Yarıyıl               MTS 3031     SEYİR MÜHENDİSLİĞİ                                                      2    0    3   1 Yarıyıl
+            MSİ 2030     HALKLA İLİŞKİLER                                                               2    0    2   1 Yarıyıl               MTS 3032     İŞLETMELERDE PERFORMANS ÖLÇÜMÜ                                          2    0    3   1 Yarıyıl
+            MSİ 2032     SOSYAL PSİKOLOJİ                                                               2    0    2   1 Yarıyıl               MTS 3033     DIŞ TİCARET İŞLEMLERİ                                                   2    0    3   1 Yarıyıl
+            MSİ 2044     ORTAÇAĞ'DA ANADOLU UYGARLIKLARI                                                2    0    2   1 Yarıyıl               MTS 3034     MÜHENDİSLER İÇİN FİNANSAL YÖNETİM                                       2    0    3   1 Yarıyıl
+            MSİ 2048     TÜRKİYE'NİN JEO.MİRAS JEOTUR.JEOPARK POT.VE KORUNMASI 2                             0    2   1 Yarıyıl
+            MSİ 2050     FİKRİ VE SINAİ MÜLKİYET HAKLARI                                                2    0    2   1 Yarıyıl
+            MSİ 2054     SOSYAL POLİTİKA                                                                2    0    2   1 Yarıyıl
+            MSİ 2060     TEMEL JAPONCA                                                                  2    0    2   1 Yarıyıl
+            MSİ 2062     YÖNETİMDE STRATEJİK PLANLAMA                                                   2    0    2   1 Yarıyıl
+            MSİ 2064     SATRANÇ                                                                        2    0    2   1 Yarıyıl
+            MSİ 2066     MÜHENDİSLİKTE MESLEK HASTALIKLARI                                              2    0    2   1 Yarıyıl
+
+
+
+
+  AÇIKLAMALAR: SEÇMELİ DERSLER:
+  3. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  5. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  7. yarıyıl : 8 kredi (16 AKTS) Seçmeli (Tekstil Grubu), 3 kredi (3 AKTS) Seçmeli (Fen Grubu), 2 kredi (3 AKTS) Teknik Seçmeli (TOPLAM 22 AKTS)
+  8. yarıyıl : 6 kredi (13 AKTS) Seçmeli (Tekstil Grubu), 3 kredi (3 AKTS) Seçmeli (Fen Grubu) (TOPLAM 16 AKTS)
+  Tekstil Grubu derslerinin en az 2 kredisi, Fen Grubu derslerinin en az 3 kredisi İngilizce açılan derslerden seçilmelidir. HER YARIYIL
+  AÇILAN DERSLER:
+  TKS 3020 Tekstilde Ürün ve Süreç Tasarımı
+  TKS 4000 Seminer
+  TKS 4094 Bitirme Projesi STAJLAR:
+  Stajların öğreitm planında gösterilen yarıyıllarda yapılması zorunda değildir.
+  Atölye Stajı: Endüstri meslek liseleri atölyelerinde 4 hafta süre ile staj yapılır.
+  Entegre Tekstil Stajı: İkinci sınıfın bitiminde yapılır. İplik dokuma-örme, boya-terbiye ve konfeksiyon bölümlerini içeren entegre bir
+  tekstil fabrikasında yapılan stajdır.
+  Bu staj entegre tek bir işletme yerine tüm bölümleri içerecek şekilde iki ayrı fabrikada da toplam 6 hafta (6 hafta=39 iş günü) süre ile
+  yapılabilir.
+  Serbest İşletme Stajı: Üçüncü sınıf bitiminde gerçekleştirilir. Öğrencinin tercih ettiği bir branşta üretim yapan bir tekstil
+  fabrikasında toplam 6 hafta (6 hafta=30 iş günü) süreyle
+  yapılır. Bu staj, Tekstil Mühendisliği Bölümünde veya staj yapılan işletmelerde yürütülen bir proje çalışması kapsamında da, bölüm staj
+  komisyonunun onayı ile yapılabilir.
+
+
+
+
+  * Öğretim planında yer alan; Beden Eğitimi, Resim, Müzik, Halk Oyunları derslerinden yalnızca bir tanesi seçilecektir.
+

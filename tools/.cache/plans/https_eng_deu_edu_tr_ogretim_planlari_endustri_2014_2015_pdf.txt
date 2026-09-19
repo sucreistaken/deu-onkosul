@@ -1,0 +1,173 @@
+                            DOKUZ EYLÜL ÜNİVERSİTESİ
+                Mühendislik Fakültesi – Endüstri Mühendisliği Öğretim Planı
+                                (2014-2015 Öğretim Yılı)
+
+1. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T   U    AKTS
+             END 1105   İngilizce İletişim                                  4   0     6
+             FİZ 1101   Fizik I                                             3   2     5
+             KİM 1015   Kimya                                               3   2     5
+             MAK 1011   Teknik Resim                                        4   0     4
+             MAT 1009   Matematik I                                         4   0     4
+             ATA 1001   Atatürk İlkeleri ve İnk.Tarihi I                    2   0     2
+             TDL 1001   Türk Dili I                                         2   0     2
+             BDE 1003   Beden Eğitimi
+             GSH 1003   Halk Oyunları                                       2   0     2
+             GSM 1003   Müzik
+                                                                    AKTS TOPLAMI :    30
+2. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T  U     AKTS
+             BİL 1002   Bilgisayar Programlama                              2  2      3
+             END 1204   Teknik İngilizce                                    3  0      6
+             END 1206   Mühendisler İçin Ekonomi                            4  0      6
+             FİZ 1102   Fizik II                                            3  2      5
+             MAT 1010   Matematik II                                        4  0      4
+             ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II               2  0      2
+             TDL 1002   Türk Dili II                                        2  0      2
+             MAK 1021   Atölye Eğitimi (4 Hafta)                            3  3      2
+                                                                    AKTS TOPLAMI :    30
+3. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T  U     AKTS
+             END 2303   İstatistik I                                        3  0      5
+             END 2307   Maliyet Analizi ve Fizibilite                       4  0      5
+BİL 1002     END 2309   Bilgisayar Programlama Uygulamaları                 3  1      6
+             MAK 2325   Mühendislik Mekaniği                                4  0      5
+             MAT 2011   Matematik III                                       4  0      4
+             MMM 2011   Mazleme Bilgisi                                     2  0      3
+             END 2000   Üretim Stajı                                        -  -      2
+                                                                    AKTS TOPLAMI :    30
+4. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T  U     AKTS
+             ELK 2081   Elektroteknik Ve Elektrik Makinaları                2  0      2
+ END 2303    END 2404   İstatistik II                                       3  0      5
+             END 2408   Finansman ve Muhasebe                               4  0      6
+             END 2410   Sistem ve Matematiksel Modellemeye Giriş            3  0      4
+             END 2412   Bilgi Sistemleri Analizi                            4  0      6
+             MAK 3029   İmal Usulleri                                       3  0      5
+                        Sosyal Seçmeli Ders                                 2  0      2
+                                                                    AKTS TOPLAMI :    30
+
+5. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T  U     AKTS
+             END 3513   İş Etüdü ve İnsan Faktörleri Mühendisliği           3  1      6
+             END 3515   Üretim Yönetimi                                     4  0      6
+ END 2412    END 3517   Bilgi Sistemleri Tasarımı                           4  0      6
+             END 3519   Yöneylem Araştırması I                              4  0      6
+                        Seçmeli Ders                                        3  0      4
+                        Sosyal Seçmeli Ders                                 2  0      2
+                                                                    AKTS TOPLAMI :    30
+                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                  Mühendislik Fakültesi – Endüstri Mühendisliği Öğretim Planı
+                                  (2014-2015 Öğretim Yılı)
+
+Seçmeli Dersler
+Ön Şart        Kod        Ders Adı                                               T   U    AKTS
+               END 3903   Envanter Yönetimi                                      3   0      4
+               END 3905   Lojistik Sistem Tasarımı                               3   0      4
+               END 3907   Matematiksel Modelleme Ve Uygulamaları                 3   0      4
+               END 3909   Endüstriyel Pazarlama                                  3   0      4
+               END 3911   Modern Finans Teknikleri                               3   0      4
+               END 3915   Taminleme Ve Zaman Serileri Analizi                    3   0      4
+               END 3923   Servis Sistemleri                                      3   0      4
+               END 3925   İş ve İşletme Hukuku                                   3   0      4
+               END 3929   İşletme Ekonomisi                                      3   0      4
+               END 3931   Yenilikçilik ve Girişimciliğe Giriş                    3   0      4
+               END 3933   Kontrol Sistemi Teknolojileri                          3   0      4
+               IND 3905   Logistic Systems Design                                3   0      4
+               IND 3907   Mathematical Modeling And Applications                 3   0      4
+               IND 3915   Forecasting and Time Series Analysis                   3   0      4
+               IND 3923   Service Systems                                        3   0      4
+               IND 3931   Introduction to Innovation and Entrepreneurship        3   0      4
+
+6. Yarıyıl
+Ön Şart      Kod          Ders Adı                                               T  U     AKTS
+             END 3614     Üretim Planlama ve Kontrol                             4  0      5
+             END 3616     Sistem Simülasyonu                                     3  1      5
+             END 3618     Kalite Planlama ve Kontrol                             4  0      5
+ END 3519    END 3620     Yöneylem Araştırması II                                4  0      6
+             END 3000     Yönetim Stajı                                          -  -      2
+                          Seçmeli Ders                                           3  0      4
+                          Teknik Seçmeli Ders                                    2  0      3
+                                                                         AKTS TOPLAMI :    30
+
+Seçmeli Dersler
+Ön Şart        Kod        Ders Adı                                               T   U    AKTS
+               END 3902   Endüstride Bilgisayar Uygulamaları                     3   0     4
+               END 3906   Lojistik Operasyonların Yönetimi                       3   0     4
+               END 3908   Bilgisayarla Bütünleşik İmalat                         3   0     4
+               END 3912   Stratejik Yönetim                                      3   0     4
+               END 3922   Yalın Üretim                                           3   0     4
+               END 3926   İnsan Kaynakları Yönetimi                              3   0     4
+               END 3928   Proje Yönetimi                                         3   0     4
+               END 3930   Bilgi Tabanlı Sistemler                                3   0     4
+               END 3932   Montaj ve Demontaj Sistemleri                          3   0     4
+               END 3934   İş Süreci Yönetimi                                     3   0     4
+               IND 3906   Logistics Operations Management                        3   0     4
+               IND 3930   Knowledge Based Systems                                3   0     4
+               IND 3934   Business Process Management                            3   0     4
+
+7. Yarıyıl
+Ön Şart      Kod          Ders Adı                                               T  U     AKTS
+             END 4703     Yönetim ve Organizasyon                                3  0      5
+             END 4711     Tesis Tasarımı ve Malzeme Aktarma Sistemleri           4  0      6
+             END 4713     Seminer                                                0  4      7
+             END 4715     Modern Üretim Sistemleri                               3  0      4
+                          Seçmeli Ders                                           6  0      8
+                                                                         AKTS TOPLAMI :    30
+                                 DOKUZ EYLÜL ÜNİVERSİTESİ
+                     Mühendislik Fakültesi – Endüstri Mühendisliği Öğretim Planı
+                                     (2014-2015 Öğretim Yılı)
+
+Seçmeli Dersler
+Ön Şart        Kod               Ders Adı                                                      T     U     AKTS
+               END 4903          Kesikli Optimizasyon Mod. Ve Algoritmaları                    3     0      4
+               END 4905          Simülasyon ve Endüstride Uygulamaları                         3     0      4
+               END 4907          Kesikli Olay Sistemlerinin Modellenmesi Ve Analizi            3     0      4
+               END 4915          Risk Yönetimi                                                 3     0      4
+               END 4917          Endüstri Mühendisliğinde Kantitatif Teknikler                 3     0      4
+               IND 4903          Discrete Optimization Models And Algorithms                   3     0      4
+               IND 4907          Modeling And Analysis Of Discrete Event Systems               3     0      4
+               IND 4915          Risk Management                                               3     0      4
+               IND 4917          Quantitative Techniques in Industrial Engineering             3     0      4
+               IND 4919          Introduction to Computational Intelligence                    3     0      4
+               IND 4920          Ergonomic Assesment & Job Safety                              3     0      4
+               IND 4921          Introduction to Revenue Management                            3     0      4
+
+8. Yarıyıl
+Ön Şart         Kod              Ders Adı                                                    T   U   AKTS
+                END 4804         Tedarik ve Servis Sistemleri                                4   0    5
+                END 4806         Yeni Ürün-İş Geliştirme ve Teknoloji Yönetimi               4   0    5
+END 4713        END 4094         Bitirme Projesi                                             0   6    12
+                                 Seçmeli Ders                                                6   0    8
+                                                                                           AKTS TOPLAMI : 30
+Seçmeli Dersler
+Ön Şart        Kod               Ders Adı                                                      T     U     AKTS
+               END 4902          Tedarik Zinciri Modelleme Ve Analizi                          3     0      4
+               END 4910          Matematiksel Programlamada Seçilmiş Konular                   3     0      4
+               END 4912          Sürdürebilirliğin Temelleri                                   3     0      4
+               END 4914          Kurumsal Kaynak Planlaması                                    3     0      4
+               END 4916          Üretim Çizelgeleme                                            3     0      4
+               END 4918          Hesap Çizelgeleri İle Yönetim Bilimi Modellemesi              3     0      4
+               IND 4902          Supply Chain Modeling And Analysis                            3     0      4
+               IND 4910          Selected Topics On Mathematical Programming                   3     0      4
+               IND 4912          Principless Of Sustainability                                 3     0      4
+               IND 4916          Production Sheduling                                          3     0      4
+               IND 4918          Management Science Moeling With Spreadsheets                  3     0      4
+
+AÇIKLAMALAR
+
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler       : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (4 AKTS)
+Teknik Seçmeli Dersler       : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri       : 5. Yarıyılda 3 kredi (4 AKTS), 6. Yarıyılda 3 kredi (4 AKTS), 7 yarıyılda 6 kredi
+                               (8 AKTS), 8. Yarıyılda 6 kredi (8 AKTS) olmak üzere toplam 18 kredi (24 AKTS)
+                               alınacaktır.
+HER YARIYIL AÇILAN DERSLER
+END 4713 Seminer
+END 4094 Bitirme Projesi
+STAJLAR
+Toplam staj süresi 8 haftadır. Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu değildir.
+1. Üretim Stajı (4 Hafta)
+2. Yönetim Stajı (4 Hafta)
+Önceki aşama tamamlanmadan bir sonraki çalışmaya geçilemez.
+

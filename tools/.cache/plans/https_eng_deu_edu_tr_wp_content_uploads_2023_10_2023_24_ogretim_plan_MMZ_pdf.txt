@@ -1,0 +1,191 @@
+                                                                                                                                                                                                    03/10/2023 16:07:13
+
+                                                                                          DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                            Mühendislik Fakültesi - Metalurji ve Malzeme Mühendisliği 2023-2024 Öğretim Planı
+                                                              Üniversitemiz Senatosunun 12/09/2023 tarih ve 653/7 sayılı karar ile kabul edilen şeklidir.
+
+
+                                                BİRİNCİ YARIYIL                                                                                                    İKİNCİ YARIYIL
+ Ön Şart            Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+        -           BIT 1003   BASIC INFORMATION TECHNOLOGIES                         1   1     3    1 Yarıyıl           -           KİM 1115   KİMYA                                                   3   2     4    1 Yarıyıl
+        -           FİZ 1103   FİZİK I                                                3   2     4    1 Yarıyıl           -           CME 1202   COMPUTER PROGRAMMING                                    2   2     4    1 Yarıyıl
+        -           KPD 1000   Kariyer Planlama                                       1   0     2    1 Yarıyıl           -           FİZ 1102   FİZİK II                                                3   2     5    1 Yarıyıl
+        -           MAK 1011   TEKNİK RESİM                                           4   0     4    1 Yarıyıl           -           HUK 4057   İŞ HUKUKU                                               2   0     3    1 Yarıyıl
+        -           MAK 1021   ATÖLYE EĞİTİMİ (4 HAFTA)                               3   3     2    1 Yıllık            -           MAT 1010   MATEMATİK II                                            4   0     4    1 Yarıyıl
+        -           MAT 1009   MATEMATİK I                                            4   0     4    1 Yarıyıl           -           MME 1220   TECHNICAL ENGLISH II                                    4   0     5    1 Yarıyıl
+        -           MME 1107   TECHNICAL ENGLISH I                                    3   0     4    1 Yarıyıl           -           STA 1302   STATISTICS                                              2   0     3    1 Yarıyıl
+        -           MME 1113   INTRODUCTION TO MATERIALS ENGINEERING                  2   0     3    1 Yarıyıl           -           ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                   2   0     2    1 Yarıyıl
+        -           ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                   2   0     2    1 Yarıyıl                                                                          ZORUNLU AKTS TOPLAMI :    30
+        -           BDE 1003   Beden Eğitimi                                          2   0     2    1 Yarıyıl                                                                          SEÇMELİ AKTS TOPLAMI :    0
+        -           GSH 1003   Halk Oyunları                                          2   0     2    1 Yarıyıl
+        -           GSM 1003   Müzik                                                  2   0     2    1 Yarıyıl
+                                                                      ZORUNLU AKTS TOPLAMI :    30
+                                                                      SEÇMELİ AKTS TOPLAMI :    0
+
+
+
+
+                                               ÜÇÜNCÜ YARIYIL                                                                                                  DÖRDÜNCÜ YARIYIL
+ Ön Şart            Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+        -           KİM 2013   FİZİKOKİMYA                                            3   0     4    1 Yarıyıl    MME 2003           MME 2004   THERMODYNAMICS OF SOLUTIONS                             3   0     5    1 Yarıyıl
+        -           MAK 2325   MÜHENDİSLİK MEKANİĞİ                                   4   0     5    1 Yarıyıl           -           MME 2408   MATERIALS CHARACTERIZATION                              3   2     6    1 Yarıyıl
+        -           MAT 2011   MATEMATİK III                                          4   0     4    1 Yarıyıl   MME 2001,MMZ 2001   MMM 2402   MALZEME II                                              3   0     5    1 Yarıyıl
+        -           MME 2001   MATERIALS SCIENCE I                                    3   0     5    1 Yarıyıl           -           MMM 2414   MÜHENDİSLİK MATEMATİĞİ                                  3   0     5    1 Yarıyıl
+        -           MME 2003   METALLURGICAL THERMODYNAMICS                           3   0     4    1 Yarıyıl           -           MMM 2416   TAŞINIM OLAYLARI                                        3   0     5    1 Yarıyıl
+        -           TDL 1001   Türk Dili I                                            2   0     2    1 Yarıyıl           -           TDL 1002   Türk Dili II                                            2   0     2    1 Yarıyıl
+  MAK 1021          MMM 2501   STAJ I                                                 0   0     3    25 IG                                                                              ZORUNLU AKTS TOPLAMI :    28
+                                                                      ZORUNLU AKTS TOPLAMI :    27                                                                                      SEÇMELİ AKTS TOPLAMI :    2
+                                                                      SEÇMELİ AKTS TOPLAMI :    3
+
+
+
+                                                BEŞİNCİ YARIYIL                                                                                                  ALTINCI YARIYIL
+ Ön Şart            Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+        -           MME 3515   PHASE DIAGRAMS                                         3   0     5    1 Yarıyıl           -           MME 3006   MATERIAL AND ENERGY BALANCE                             3   0     5    1 Yarıyıl
+MME 2001,MMZ 2001   MMM 3003   MALZEME LABORATUVARI                                   1   4     6    1 Yarıyıl           -           MMM 3002   PLASTİK ŞEKİLLENDİRME                                   3   0     4    1 Yarıyıl
+MMZ 2004,MME 2004   MMM 3013   KİMYASAL METALURJİ                                     3   0     5    1 Yarıyıl           -           MMM 3008   DÖKÜM TEKNOLOJİSİ                                       3   0     5    1 Yarıyıl
+ MME 2001           MMM 3505   FİZİKSEL METALURJİ                                     3   0     5    1 Yarıyıl           -           MMM 3012   ISIL İŞLEMLER                                           2   2     6    1 Yarıyıl
+        -           İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                              2   0     2    1 Yarıyıl           -           MMM 3014   SERAMİK MALZEMELER                                      2   2     6    1 Yarıyıl
+ MMM 2501           MMM 3503   STAJ II                                                0   0     4    25 IG                                                                              ZORUNLU AKTS TOPLAMI :    26
+                                                                      ZORUNLU AKTS TOPLAMI :    27                                                                                      SEÇMELİ AKTS TOPLAMI :    4
+                                                                      SEÇMELİ AKTS TOPLAMI :    3
+                                                                                                                 Seçmeli Dersler
+                                                                                                                         -           MMM 4025   DEMİR ÇELİK ÜRETİMİ                                     3   0     4    1 Yarıyıl
+                                                                                                                         -           MMM 4028   DEMİR DIŞI METAL ÜRETİMİ                                3   0     4    1 Yarıyıl
+
+
+
+                                                YEDİNCİ YARIYIL                                                                                                SEKİZİNCİ YARIYIL
+ Ön Şart            Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+        -           MME 4713   POLYMERS                                               3   0     5    1 Yarıyıl           -           END 4822   KALİTE KONTROL                                          3   0     4    1 Yarıyıl
+        -           MMM 4709   BİTİRME PROJESİ HAZIRLIK                               0   2     6    1 Yarıyıl           -           İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                              2   0     2    1 Yarıyıl
+        -           MMM 4711   TASARIM VE MALZEME SEÇİMİ                              2   2     7    1 Yarıyıl    MMM 4709           MMM 4898   BİTİRME PROJESİ                                         0   6     12   1 Yarıyıl
+        -           END 3604   MÜHENDİSLİK EKONOMİSİ                                  3   0     4    1 Yarıyıl                                                                          ZORUNLU AKTS TOPLAMI :    18
+                                                                      ZORUNLU AKTS TOPLAMI :    22                                                                                      SEÇMELİ AKTS TOPLAMI :    12
+                                                                      SEÇMELİ AKTS TOPLAMI :    8
+                                                                                                                 Seçmeli Dersler
+Seçmeli Dersler                                                                                                          -           MAK 4102   MAKİNA ELEMANLARI                                       3   0     4    1 Yarıyıl
+        -           MME 4023   NONDESTRUCTIVE CONTROL                                 3   0     4    1 Yarıyıl           -           MME 4018   SURFACE TREATMENTS                                      3   0     4    1 Yarıyıl
+        -           MME 4031   HYDROMETALLURGY                                        3   0     4    1 Yarıyıl           -           MME 4020   TECHNOLOGY OF COMPOSITE MATERIALS                       3   0     4    1 Yarıyıl
+        -           MME 4043   MELTING AND SOLIDIFICATION                             3   0     4    1 Yarıyıl           -           MME 4024   TRIBOLOGY                                               3   0     4    1 Yarıyıl
+        -           MME 4045   METALLIC MATERIALS                                     3   0     4    1 Yarıyıl           -           MME 4040   ELECTRONIC AND MAGNETIC CERAMICS                        3   0     4    1 Yarıyıl
+        -           MME 4047   NANOMATERIALS                                          3   0     4    1 Yarıyıl    MME 4713           MME 4044   POLYMER APPLICATIONS                                    3   0     4    1 Yarıyıl
+        -           MME 4049   CORROSION                                              2   2     4    1 Yarıyıl           -           MME 4052   MATERIALS AND SUSTAINABILITY                            3   0     4    1 Yarıyıl
+        -           MME 4051   FAILURE SCIENCE                                        3   0     4    1 Yarıyıl           -           MME 4054   ELECTRONIC MATERIALS                                    2   2     4    1 Yarıyıl
+        -           MMM 4019   ÇELİK TASARIMI                                         3   0     4    1 Yarıyıl           -           MMM 4018   YÜZEY İŞLEMLERİ                                         3   0     4    1 Yarıyıl
+        -           MMM 4021   KAYNAK METALURJİSİ                                     3   0     4    1 Yarıyıl           -           MMM 4020   KOMPOZİT MALZEME TEKNOLOJİSİ                            3   0     4    1 Yarıyıl
+        -           MMM 4023   HASARSIZ KONTROL                                       3   0     4    1 Yarıyıl           -           MMM 4022   TOZ METALURJİSİ                                         3   0     4    1 Yarıyıl
+        -           MMM 4029   METALURJİK ÖN İŞLEMLER                                 3   0     4    1 Yarıyıl           -           MMM 4024   TRİBOLOJİ                                               3   0     4    1 Yarıyıl
+        -           MMM 4033   METALURJİ TEKNOLOJİSİ I                                3   0     4    1 Yarıyıl           -           MMM 4026   FIRINLAR VE REFRAKTERLER                                3   0     4    1 Yarıyıl
+        -           MMM 4035   METALURJİ TEKNOLOJİSİ III                              3   0     4    1 Yarıyıl           -           MMM 4030   ELEKTROMETALURJİ                                        3   0     4    1 Yarıyıl
+        -           MMM 4037   AMORF MALZEMELER                                       3   0     4    1 Yarıyıl           -           MMM 4032   KRİSTALLOGRAFİ                                          3   0     4    1 Yarıyıl
+        -           MMM 4041   CAM TEKNOLOJİSİ                                        3   0     4    1 Yarıyıl           -           MMM 4034   METALURJİ TEKNOLOJİSİ II                                3   0     4    1 Yarıyıl
+        -           MMM 4043   ERGİTME VE KATILAŞTIRMA                                3   0     4    1 Yarıyıl           -           MMM 4038   MALZEMELERİN YÜKSEK SICAKLIKTA DAVRANIŞI                3   0     4    1 Yarıyıl
+        -           MMM 4045   METALİK MALZEMELER                                     3   0     4    1 Yarıyıl           -           MMM 4040   ELEKTRONİK VE MAGNETİK SERAMİKLER                       3   0     4    1 Yarıyıl
+        -           MMM 4047   NANOMALZEMELER                                         3   0     4    1 Yarıyıl           -           MMM 4042   SERAMİK SÜPER İLETKENLER                                3   0     4    1 Yarıyıl
+        -           MMM 4051   HASAR BİLİMİ                                           3   0     4    1 Yarıyıl   MMZ 4001,MME 4713   MMM 4044   POLİMER UYGULAMALARI                                    3   0     4    1 Yarıyıl
+        -           MMM 4053   YAPISAL SERAMİKLER                                     3   0     4    1 Yarıyıl           -           MMM 4046   BİYOSERAMİKLER                                          3   0     4    1 Yarıyıl
+                                                                                                                  MMM 3008           MMM 4048   DÖKÜM TASARIMI                                          2   2     4    1 Yarıyıl
+                                                                                                                         -           MMM 4052   MALZEME VE SÜRDÜRÜLEBİLİRLİK                            3   0     4    1 Yarıyıl
+                                                                                                                         -           MMM 4054   ELEKTRONİK MALZEMELERİ                                  2   2     4    1 Yarıyıl
+                                                                                                                                                                                                                                 03/10/2023 16:07:14
+
+                                                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                            Mühendislik Fakültesi - Metalurji ve Malzeme Mühendisliği 2023-2024 Öğretim Planı
+                                                               Üniversitemiz Senatosunun 12/09/2023 tarih ve 653/7 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                                                            Teknik Seçmeli Dersler
+Ön Şart     Kod        Ders Adı                                                                        T     U   AKTS Süresi      Ön Şart     Kod        Ders Adı                                                                        T     U   AKTS Süresi
+            GÇD 1000     Gönüllülük Çalışmaları                                                         1    2    4   1 Yarıyıl               ETE 3005     METHODS OF ARTIFICAL INTELLIGENCE                                              2    0    4   1 Yarıyıl
+            GÇD 1001     Volunteerism Studies                                                           1    2    4   1 Yarıyıl               ETE 3014     GIS FOR ENGINEERS                                                              2    0    4   1 Yarıyıl
+            İHD 1002     Human Rights                                                                   2    0    4   1 Yarıyıl               MTS 3001     BİYOTEKNOLOJİ                                                                  2    0    3   1 Yarıyıl
+            İHD 1001     İnsan Hakları                                                                  2    0    4   1 Yarıyıl               MTS 3007     ROBOTUN TEMELLERİ                                                              2    0    3   1 Yarıyıl
+            ESE 2013     ENGINEERING ETHICS                                                             2    0    3   1 Yarıyıl               MTS 3009     ÇEVRENİN KORUNMASINI AMAÇLAYAN DİSİPLİNLERARASI PROJ. GELİŞ. 2                      0    3   1 Yarıyıl
+            ESE 2015     FRENCH FOR ENGINEERS                                                           2    0    3   1 Yarıyıl               MTS 3015     YOL TEKNOLOJİSİNDE YENİLİKLER                                                  2    0    3   1 Yarıyıl
+            ESE 2059     DISASTERS ADMINISTRATION                                                       2    0    3   1 Yarıyıl               MTS 3017     FİZİKSEL MODELLER                                                              2    0    3   1 Yarıyıl
+            ESE 2065     CAREER PLANNING AND DEVELOPMENT                                                2    0    3   1 Yarıyıl               MTS 3019     ÜRETİMDE ÇÖZÜM YAKLAŞIMLARI                                                    2    0    3   1 Yarıyıl
+            ESE 2067     BUSINESS MANAGEMENT AND MANAGEMENT                                             2    0    3   1 Yarıyıl               ETE 3006     BIOMEDICAL SYSTEMS                                                             2    0    4   1 Yarıyıl
+            ESE 2069     PERSONAL STYLE AND IMAGE MANAGEMENT                                            2    0    3   1 Yarıyıl               ETE 3018     MODERN ENGINEERING MATHEMATICS                                                 2    0    4   1 Yarıyıl
+            MSİ 2001     SUNUM VE SUNUŞ TEKNİKLERİ                                                      2    0    2   1 Yarıyıl               ETE 3025     PROJECT MANAGEMENT                                                             2    0    4   1 Yarıyıl
+            MSİ 2005     KİŞİSEL GELİŞİM VE ETKİLİ YAŞAMAK                                              2    0    2   1 Yarıyıl               ETE 3029     QUALITY MANAGEMENT                                                             2    0    4   1 Yarıyıl
+            MSİ 2009     AVRUPA BİRLİĞİNDE SOSYAL POLİTİKA                                              2    0    2   1 Yarıyıl               ETE 3032     PERFORMANCE MEASUREMENT IN BUSINESSES                                          2    0    4   1 Yarıyıl
+            MSİ 2013     MÜHENDİSLİK ETİĞİ                                                              2    0    2   1 Yarıyıl               ETE 3034     FINANCIAL MANAGEMENT FOR ENGINEERS                                             2    0    4   1 Yarıyıl
+            MSİ 2015     MÜHENDİSLER İÇİN FRANSIZCA                                                     2    0    2   1 Yarıyıl               ETE 3035     ELEMENTAL & ISOTOPIC ANALYSIS IN THE MULTIDISCIPLINARY FIELDS 2                     0    4   1 Yarıyıl
+            MSİ 2027     PSİKOLOJİYE GİRİŞ                                                              2    0    2   1 Yarıyıl               MTH 3501     BASIC CYBER SECURITY                                                           2    0    4   1 Yarıyıl
+            MSİ 2029     İLETİŞİM BECERİLERİ                                                            2    0    2   1 Yarıyıl               MTH 3502     INFORMATION NETWORKS                                                           2    0    4   1 Yarıyıl
+            MSİ 2031     İNSAN KAYNAKLARI YÖNETİMİ                                                      2    0    2   1 Yarıyıl               MTH 3503     INTRODUCTION TO QUANTUM COMPUTING                                              2    0    4   1 Yarıyıl
+            MSİ 2041     BÜTÜNLEŞİK KIYI YÖNETİMİ, TÜRKİYEDE LİMAN YÖNETİMİ VE DEVLETLERARASI PROGRAMLAR 2   0    2   1 Yarıyıl               MTH 3504     PHASE ARRAY RADAR TECHNOLOGIES                                                 2    0    4   1 Yarıyıl
+            MSİ 2043     İŞ KANUNU VE UYGULAMASI                                                        2    0    2   1 Yarıyıl               MTH 3506     PARDUS AND LIBREOFFICE EDUCATION                                               2    0    4   1 Yarıyıl
+            MSİ 2049     DOĞAL AFETLER                                                                  2    0    2   1 Yarıyıl               MTH 3507     SYSTEM ENGINEERING                                                             2    0    4   1 Yarıyıl
+            MSİ 2059     AFET YÖNETİMİ                                                                  2    0    2   1 Yarıyıl               MTH 3508     FUNDAMENTALS OF JAVA AND OBJECT ORIENTED PROGRAMMING 2                              0    4   1 Yarıyıl
+            MSİ 2061     İŞLETMELERDE İÇ DENETİM                                                        2    0    2   1 Yarıyıl               MTH 3509     UZAY RADYASYON ORTAMI VE ETKİLERİ                                              2    0    3   1 Yarıyıl
+            MSİ 2063     PAZARLAMAYA GİRİŞ                                                              2    0    2   1 Yarıyıl               MTH 3510     NANOCARBON MATERIALS AND THEIR APPPLICATIONS 2                                      0    4   1 Yarıyıl
+            MSİ 2065     KARİYER PLANLAMA VE GELİŞTİRME                                                 2    0    2   1 Yarıyıl               MTH 3606     PARDUS VE LIBREOFFICE EĞİTİMİ                                                  2    0    3   1 Yarıyıl
+            MSİ 2067     İŞLETME YÖNETİMİ VE YÖNETİCİLİĞİ                                               2    0    2   1 Yarıyıl               MTH 3607     SİSTEM MÜHENDİSLİĞİ                                                            2    0    3   1 Yarıyıl
+            MSİ 2069     KİŞİSEL STİL VE İMAJ YÖNETİMİ                                                  2    0    2   1 Yarıyıl               MTH 3608     TEMEL JAVA VE NESNE TABANLI PROGRAMLAMAYA GİRİŞ 2                                   0    3   1 Yarıyıl
+            MSİ 2071     HALK OYUNLARI                                                                  2    0    2   1 Yarıyıl               MTH 3610     NANOKARBON MALZEMELER VE TEKNOLOJİLERİ                                         2    0    3   1 Yarıyıl
+            ESE 2014     EFFECTIVE COMMUNICATION IN ENGINEERING                                         2    0    3   1 Yarıyıl               MTS 3002     DEPREM MÜHENDİSLİĞİNDE SEÇMELİ KONULAR                                         2    0    3   1 Yarıyıl
+            ESE 2016     ENVIROMENTAL POLLUTION & ITS CONTROL                                           2    0    3   1 Yarıyıl               MTS 3004     ARKEOLOJİK PROSPEKSİYON                                                        2    0    3   1 Yarıyıl
+            ESE 2024     NATURE, ENVIRONMENT AND URBANIZATION                                           2    0    3   1 Yarıyıl               MTS 3010     MADENCİLİK FAALİYETLERİNİN ÇEVRESEL ETKİLERİ 2                                      0    3   1 Yarıyıl
+            ESE 2050     INTELLECTUAL PROPERTY RIGHTS                                                   2    0    3   1 Yarıyıl               MTS 3012     TEKNİK TEKSTİLLER II                                                           2    0    3   1 Yarıyıl
+            ESE 2060     BASIC JAPANESE                                                                 2    0    3   1 Yarıyıl               MTS 3014     MÜHENDİSLER İÇİN COĞRAFİ BİLGİ SİSTEMİ                                         2    0    3   1 Yarıyıl
+            ESE 2066     OCCUPATIONAL HEALTH DISEASES IN ENGINEERING 2                                       0    3   1 Yarıyıl               MTS 3016     ULAŞIM SİSTEMLERİ ANALİZİNE GİRİŞ                                              2    0    3   1 Yarıyıl
+            ESE 2070     CLIMATE CHANGE AND SUSTAINABLE MANAGEMENT 2                                         0    3   1 Yarıyıl               MTS 3020     ENERJİ VE ÇEVRE                                                                2    0    3   1 Yarıyıl
+            MSİ 2002     FELSEFEYE GİRİŞ                                                                2    0    2   1 Yarıyıl               MTS 3021     MÜHENDİSLİK PROJELERİNDE KAYA MEKANİĞİ VE SAYISAL MODELLEME UYGULAMALARI 2          0    3   1 Yarıyıl
+            MSİ 2004     İNSAN İLİŞKİLERİ                                                               2    0    2   1 Yarıyıl               MTS 3022     TÜNEL AÇMA                                                                     2    0    3   1 Yarıyıl
+            MSİ 2006     BRİÇ                                                                           2    0    2   1 Yarıyıl               MTS 3023     MADEN ARAMALARINDA JEOFİZİK YÖNTEMLER                                          2    0    3   1 Yarıyıl
+            MSİ 2008     EKONOMİK KÜRESELLEŞME                                                          2    0    2   1 Yarıyıl               MTS 3024     JEOLOJİK PROBLEMLER VE JEOFİZİK ÇÖZÜMLERİ                                      2    0    3   1 Yarıyıl
+            MSİ 2012     GENÇ GİRİŞİMCİLİK                                                              2    0    2   1 Yarıyıl               MTS 3025     PROJE YÖNETİMİ                                                                 2    0    3   1 Yarıyıl
+            MSİ 2016     ÇEVRE KİRLİLİĞİ VE KONTROLU                                                    2    0    2   1 Yarıyıl               MTS 3026     YER BİLİMLERİNDE BİLGİSAYAR DESTEKLİ TASARIM 2                                      0    3   1 Yarıyıl
+            MSİ 2022     MİMAR SİNAN                                                                    2    0    2   1 Yarıyıl               MTS 3027     SONDAJ TEKNOLOJİSİ VE UYGULAMALARI                                             2    0    3   1 Yarıyıl
+            MSİ 2024     DOĞA ÇEVRE VE KENT                                                             2    0    2   1 Yarıyıl               MTS 3028     MÜHENDİSLİKTE HARİTA BİLGİSİ                                                   2    0    3   1 Yarıyıl
+            MSİ 2026     AVRUPA BİRLİĞİ VE AVRUPA KONSEYİNDE BÜTÜNLEŞİK ÇEVRE POLİTİKASI 2                   0    2   1 Yarıyıl               MTS 3029     KALİTE YÖNETİMİ                                                                2    0    3   1 Yarıyıl
+            MSİ 2030     HALKLA İLİŞKİLER                                                               2    0    2   1 Yarıyıl               MTS 3032     İŞLETMELERDE PERFORMANS ÖLÇÜMÜ                                                 2    0    3   1 Yarıyıl
+            MSİ 2032     SOSYAL PSİKOLOJİ                                                               2    0    2   1 Yarıyıl               MTS 3033     DIŞ TİCARET İŞLEMLERİ                                                          2    0    3   1 Yarıyıl
+            MSİ 2044     ORTAÇAĞ'DA ANADOLU UYGARLIKLARI                                                2    0    2   1 Yarıyıl               MTS 3034     MÜHENDİSLER İÇİN FİNANSAL YÖNETİM                                              2    0    3   1 Yarıyıl
+            MSİ 2048     TÜRKİYE'NİN JEO.MİRAS JEOTUR.JEOPARK POT.VE KORUNMASI 2                             0    2   1 Yarıyıl               MTS 3035     MULTİDİSİPLİNER ALANLARDA ELEMENT VE İZOTOP ÖLÇÜM TEKNİKLERİ 2                      0    3   1 Yarıyıl
+            MSİ 2050     FİKRİ VE SINAİ MÜLKİYET HAKLARI                                                2    0    2   1 Yarıyıl               MTS 3037     MÜHENDİSLER İÇİN GENEL FİZİKİ COĞRAFYA                                         2    0    3   1 Yarıyıl
+            MSİ 2054     SOSYAL POLİTİKA                                                                2    0    2   1 Yarıyıl               MTS 3038     MÜHENDİSLİK VE YERYÜZÜ YAPILARININ GLOBAL NAVİGASYON UYDU SİSTEMLERİ (GNSS) İLE 2   0    3   1 Yarıyıl
+            MSİ 2060     TEMEL JAPONCA                                                                  2    0    2   1 Yarıyıl               MTS 3039     YERBİLİMLERİ TARİHİ VE FELSEFESİ                                               2    0    3   1 Yarıyıl
+            MSİ 2062     YÖNETİMDE STRATEJİK PLANLAMA                                                   2    0    2   1 Yarıyıl               MTS 3040     JEOARKEOLOJİ                                                                   2    0    3   1 Yarıyıl
+            MSİ 2064     SATRANÇ                                                                        2    0    2   1 Yarıyıl
+            MSİ 2066     MÜHENDİSLİKTE MESLEK HASTALIKLARI                                              2    0    2   1 Yarıyıl
+            MSİ 2070     İKLİM DEĞİŞİKLİĞİ VE SÜRDÜRÜLEBİLİR YÖNETİM                                    2    0    2   1 Yarıyıl
+                                                                                                                                                          03/10/2023 16:07:14
+
+                                                                                                         DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                         Mühendislik Fakültesi - Metalurji ve Malzeme Mühendisliği 2023-2024 Öğretim Planı
+                                                            Üniversitemiz Senatosunun 12/09/2023 tarih ve 653/7 sayılı karar ile kabul edilen şeklidir.
+
+
+Erasmus Dersleri
+Ön Şart     Kod        Ders Adı                                                                    T     U   AKTS Süresi
+    -       ERA 2300   INTRODUCTION TO GEOSPATIAL ASSESSMENTS ON ENVIROMENTAL SUSTAINABILITY 2           1    5   1 Yarıyıl
+    -       ERA 2301   CLIMATE CHANGE ASSESSMENTS ON ENVIRONMENTAL ISSUES, PRIORITIES AND CHALLENGES 3   0    5   1 Yarıyıl
+    -       ERA 2302   SUSTAINABLE DESIGN OF ENGINEERING STRUCTURES 2                                    1    5   1 Yarıyıl
+    -       ERA 4800   INTRODUCTION TO SUSTAINABLE ENERGY SYSTEMS 3                                      0    5   1 Yarıyıl
+
+
+
+
+  AÇIKLAMALAR: SEÇMELİ DERSLER:
+  3. yarıyıl : 2 kredi (3 AKTS) Sosyal Seçmeli (İngilizce) (TOPLAM 3 AKTS)
+  4. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  5. yarıyıl : 2 kredi (3 AKTS) Teknik Seçmeli (TOPLAM 3 AKTS)
+  6. yarıyıl : 3 kredi (4 AKTS) Seçmeli (TOPLAM 4 AKTS)
+  7. yarıyıl : 6 kredi (8 AKTS) Seçmeli (En az 3 kredisi MME kodlu derslerden alınacaktır) (TOPLAM 8 AKTS)
+  8. yarıyıl : 9 kredi (12 AKTS) Seçmeli (En az 3 kredisi MME kodlu derslerden alınacaktır) (TOPLAM 12 AKTS) HER YARIYIL AÇILAN
+  DERSLER:
+  MME 2003 Metallurgical Thermodynamics
+  MME 2001 Metarial Sicience I
+  MME 2004 Thermodynamics of Solutions
+  MMM 4709 Bitirme Projesi Hazırlık MMM 4898 Bitirme Projesi STAJLAR:
+  Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunda değildir.
+  Öğrenciler, Temel Staj 5 hafta ve Sektör Stajı 5 hafta olmak üzere toplam 10 hafta zorunlu staj yapmaları gerekmektedir.
+
+
+
+
+  * Öğretim planında yer alan; Beden Eğitimi, Resim, Müzik, Halk Oyunları derslerinden yalnızca bir tanesi seçilecektir.
+

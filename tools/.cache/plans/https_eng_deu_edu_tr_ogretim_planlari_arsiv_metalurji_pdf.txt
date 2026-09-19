@@ -1,0 +1,156 @@
+                                DOKUZ EYLÜL ÜNİVERSİTESİ
+               Mühendislik Fakültesi - Metalurji ve Malzeme Mühendisliği Öğretim Planı
+             Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+
+1. Yarıyıl
+Ön Şart         Kod            Ders Adı                                                       T     U       AKTS
+                BIT 1003       Basic Information Technology                                   1     1        3
+                FİZ 1101       Fizik I                                                        3     2        5
+                KİM 1015       Kimya                                                          3     2        5
+                MAT 1009       Matematik I                                                    4     0        4
+                MME 1001       Introduction to Meterials Engineering                          2     0        2
+                MME 1007       Technical English I                                            3     0        3
+                ATA 1001       Atatürk İlkeleri ve İnk.Tarihi I                               2     0        2
+                TDL 1001       Türk Dili I                                                    2     0        2
+                BDE 1003       Beden Eğitimi
+                GSH 1003       Halk Oyunları                                                  2      0       2
+                GSM 1003       Müzik
+                MAK 1021       Atölye Eğitimi                                             3   3              2
+                                                                                   AKTS TOPLAMI :            30
+2. Yarıyıl
+Ön Şart         Kod            Ders Adı                                                   T   U             AKTS
+                CME 1202       Computer Programming                                       2   2              4
+                FİZ 1102       Fizik II                                                   3   2              5
+                MAK 1011       Teknik Resim                                               4   0              4
+                MAK 1014       Statik                                                     3   0              5
+                MAT 1010       Matematik II                                               4   0              4
+                MME 1008       Technical English II                                       3   0              4
+                ATA 1002       Atatürk İlkeleri ve İnk.Tarihi II                          2   0              2
+                TDL 1002       Türk Dili II                                               2   0              2
+                                                                                   AKTS TOPLAMI :            30
+3. Yarıyıl
+Ön Şart         Kod            Ders Adı                                                   T   U             AKTS
+                EEE 2073       Fundamentals of Electric and Electronics                   3   0              3
+                KİM 2013       Fizikokimya                                                3   0              4
+                MAK 2029       Mukavemet                                                  3   0              5
+                MAT 2011       Matematik III                                              4   0              4
+                MME 2001       Materials Science I                                        3   0              5
+                MME 2003       Metallurgical Thermodynamics                               3   0              4
+                MMM 2000       Staj I                                                     -   -              2
+                               Sosyal Seçmeli Ders (İngilizce)                            2   0              3
+                                                                                   AKTS TOPLAMI :            30
+4. Yarıyıl
+Ön Şart    Kod                 Ders Adı                                                   T   U             AKTS
+MME 2003 MME 2004              Thermodynamics of Solutions                                3   0              5
+           MME 2006            Phase Diagrams                                             3   0              5
+MME 2001 MMM 2002              Malzeme II                                                 3   0              4
+           MMM 2008            Malzeme Karakterizasyonu I                                 2   2              6
+           MMM 2010            Malzemelerin Mekanik Davranışı                             3   0              4
+           MMM 2014            Mühendislik Matematiği                                     3   0              4
+                               Sosyal Seçmeli Ders                                        2   0              2
+                                                                                   AKTS TOPLAMI :            30
+                                DOKUZ EYLÜL ÜNİVERSİTESİ
+               Mühendislik Fakültesi - Metalurji ve Malzeme Mühendisliği Öğretim Planı
+             Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+
+5. Yarıyıl
+Ön Şart  Kod                   Ders Adı                                                   T   U             AKTS
+         MME 3009              Materials Characterization II                              2   2              6
+MME 2001 MMM 3003              Malzeme Laboratuvarı                                       1   4              6
+MME 2001 MMM 3005              Fiziksel Metalurji                                         3   0              4
+         MMM 3011              Taşınım Olayları                                           3   0              4
+MME 2004 MMM 3013              Kimyasal Metalurji                                         3   0              5
+         MMM 3000              Staj II                                                    -   -              2
+                               Teknik Seçmeli Ders                                        2   0              3
+                                                                                   AKTS TOPLAMI :            30
+6. Yarıyıl
+Ön Şart         Kod            Ders Adı                                                   T   U             AKTS
+                MME 3006       Material and Energy Balance                                3   0              5
+                MMM 3002       Plastik Şekillendirme                                      3   0              4
+                MMM 3008       Döküm Teknolojisi                                          3   0              5
+                MMM 3012       Isıl İşlemler                                              2   2              6
+                MMM 3014       Seramik Malzemeler                                         2   2              6
+                               Seçmeli Ders                                               3   0              4
+                                                                                   AKTS TOPLAMI :            30
+Seçmeli Dersler
+Ön Şart      Kod      Ders Adı                                                                T     U       AKTS
+             MMM 4025 Demir Çelik Üretimi                                                     3     0        4
+             MMM 4028 Demir Dışı Metal Üretimi                                                3     0        4
+
+7. Yarıyıl
+Ön Şart         Kod            Ders Adı                                                   T   U             AKTS
+                END 3604       Mühendislik Ekonomisi                                      3   0              4
+                MME 4007       Corrosion                                                  2   2              6
+                MME 4013       Polymers                                                   3   0              4
+                MMM 4009       Bitirme Projesi Hazırlık                                   0   2              2
+                MMM 4011       Tasarım ve Malzeme Seçimi                                  2   2              6
+                               Seçmeli Ders (3 kredisi İngilizce alınacak)                6   0              8
+                                                                                   AKTS TOPLAMI :            30
+Seçmeli Dersler
+Ön Şart      Kod               Ders Adı                                                       T     U       AKTS
+             MMM 4019          Çelik Tasarımı                                                 3     0        4
+             MMM 4021          Kaynak Metalurji                                               3     0        4
+             MMM 4023          Hasarsız Kontrol                                               3     0        4
+             MMM 4027          Uzay ve Havacılık Malzemeleri                                  3     0        4
+             MMM 4029          Metalurjik Ön İşlemler                                         3     0        4
+             MMM 4031          Hidrometalurji                                                 3     0        4
+             MMM 4033          Metalurji Teknolojisi I                                        3     0        4
+             MMM 4035          Metalurji Teknolojisi III                                      3     0        4
+             MMM 4037          Amorf Malzemeler                                               3     0        4
+             MMM 4039          Yapı Seramikleri                                               3     0        4
+             MMM 4041          Cam Teknolojisi                                                3     0        4
+             MMM 4043          Ergitme ve Katılaştırma                                        3     0        4
+             MMM 4045          Metalik Malzemeler                                             3     0        4
+             MMM 4047          Nanomalzemeler                                                 3     0        4
+                                DOKUZ EYLÜL ÜNİVERSİTESİ
+               Mühendislik Fakültesi - Metalurji ve Malzeme Mühendisliği Öğretim Planı
+             Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+
+8. Yarıyıl
+Ön Şart  Kod      Ders Adı                                                                  T   U           AKTS
+         END 4822 Kalite Kontrol                                                            3   0            4
+MMM 4009 MMM 4098 Bitirme Projesi                                                           0   6            14
+                  Seçmeli Ders (3 kredisi İngilizce alınacak)                               9   0            12
+                                                                                     AKTS TOPLAMI :          30
+Seçmeli Dersler
+Ön Şart      Kod               Ders Adı                                                           T   U     AKTS
+             MAK 4102          Makina Elemanları                                                  3   0      4
+             MME 4020          Technology of Composite Materials                                  3   0      4
+             MME 4024          Tribology                                                          3   0      4
+             MME 4040          Electronic and Magnetic Ceramics                                   3   0      4
+MME 4001 MME 4044              Polymer Applications                                               3   0      4
+             MMM 4018          Yüzey İşlemleri                                                    3   0      4
+             MMM 4020          Kompozit Malzeme Teknolojisi                                       3   0      4
+             MMM 4022          Toz Metalurji                                                      3   0      4
+             MMM 4024          Triboloji                                                          3   0      4
+             MMM 4026          Fırınlar ve Refrakterler                                           3   0      4
+             MMM 4030          Elektrometalurji                                                   3   0      4
+             MMM 4032          Kristallografi                                                     3   0      4
+             MMM 4034          Metalurji Teknolojisi II                                           3   0      4
+             MMM 4036          Elektronik Malzemeleri                                             3   0      4
+             MMM 4038          Malz.Yüksek Sıcaklıkta Davranışı                                   3   0      4
+             MMM 4040          Elektronik Ve Magnetik Seramikler                                  3   0      4
+             MMM 4042          Seramik Süper İletkenler                                           3   0      4
+MME 4001 MMM 4044              Polimer Uygulamaları                                               3   0      4
+             MMM 4046          Biyoseramikler                                                     3   0      4
+MMM 3008 MMM 4048              Döküm Tasarımı                                                     2   2      4
+
+AÇIKLAMALAR
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler        : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (5 AKTS) (2
+                                kredi İngilizce açılan derslerden alınacaktır)
+Teknik Seçmeli Dersler        : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri        : 6. Yarıyılda 3 kredi (4 AKTS), 7. Yarıyılda 6 kredi (8 AKTS), 8. Yarıyılda 9 kredi
+                                (12 AKTS) olmak üzere toplam 18 kredi (24 AKTS) alınacaktır. 7. Ve 8.
+                                Yarıyıllarda alınması gereken seçmeli derslerin en az 3’er kredisi (toplam (6 kredi)
+                                İngilizce açılan derslerden alınacaktır.
+HER YARIYIL AÇILAN DERSLER
+MMM 4098 Bitirme Projesi
+STAJLAR
+Toplam staj süresi 14 haftadır.
+1.Grup staj (Mekanik Atölye Stajı): Bu staj öğretim programında "MAK 1021 Atölye Eğitimi" adı altında
+görülmekte ve yaz aylarında Fakülte tarafından yaptırılmaktadır.
+2.Grup staj: Fakülte dışında yapılan 5 haftalık staj 4. yarıyılı takiben yaz aylarında yapılır.
+3.Grup staj: Fakülte dışında yapılan 5 haftalık staj 6. yarıyılı takiben yaz aylarında yapılır.
+1. Grup stajı bitmeden 2. ve 3. grup stajlara başlanamaz.
+

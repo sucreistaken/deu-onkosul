@@ -1,0 +1,134 @@
+                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                     Mühendislik Fakültesi - Bilgisayar Mühendisliği Öğretim Planı
+             Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+
+1. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                       T      U       AKTS
+                CME 1001      Algorithms And Programming I                                   2      2        6
+                CME 1003      Introduction To Cumputer Engineering                           2      2        3
+                CME 1005      Discrete And Combinatorial Mathematics                         3      0        3
+                CME 1101      Project Based Learning I                                       2      2        4
+                MAT 1001      Calculus I                                                     4      0        5
+                PHY 1101      Physics I                                                      3      2        5
+                ATA 1001      Atatürk İlkeleri ve İnkılap Tarihi I                           2      0        2
+                BDE 1003      Beden Eğitimi
+                GSH 1003      Halk Oyunları                                                   2     0        2
+                GSM 1003      Müzik
+                                                                                  AKTS TOPLAMI :             30
+2. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+                CME 1002      Algorithms And Programming II                              2   2               7
+                CME 1004      Linear Algebra                                             2   0               3
+                CME 1006      Technical Engilish                                         2   0               2
+                CME 1102      Project Based Learning II                                  2   2               4
+                MAT 1002      Calculus II                                                4   0               5
+                PHY 1102      Physics II                                                 3   2               5
+                ATA 1002      Atatürk İlkeleri ve İnkılap Tarihi II                      2   0               2
+                CME 1000      Summer Training I                                          -   -               2
+                                                                                  AKTS TOPLAMI :             30
+3. Yarıyıl
+                CME 2001      Data Structures And Algorithms                             2   2               6
+                CME 2003      Logic Design                                               2   2               7
+                CME 2005      Probability And Statistics                                 2   2               4
+                CME 2007      Differential Equations                                     3   0               4
+                CME 2101      Project Based Learning III                                 2   2               4
+                TDL 1001      Türk Dili I                                                2   0               2
+                              Sosyal Seçmeli Ders (İngilizce)                            2   0               3
+                                                                                  AKTS TOPLAMI :             30
+4. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+                CME 2002      Data Organization And Management                           2   2               7
+                CME 2004      Concepts of Programming Languages                          2   2               7
+                CME 2006      Computer Architecture                                      3   2               7
+                CME 2102      Project Based Learninh IV                                  2   2               4
+                TDL 1002      Türk Dili II                                               2   0               2
+                              Sosyal Seçmeli Ders (İngilizce)                            2   0               3
+                                                                                  AKTS TOPLAMI :             30
+5. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+                CME 3001      Database Management Systems                                2   2               7
+                CME 3003      Software Engineering                                       2   2               7
+                CME 3005      Operating Systems                                          2   2               7
+                CME 3007      Data Communications                                        2   0               5
+                CME 3500      Summer Training II                                         -   -               4
+                                                                                  AKTS TOPLAMI :             30
+                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                     Mühendislik Fakültesi - Bilgisayar Mühendisliği Öğretim Planı
+             Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+
+6. Yarıyıl
+Ön Şart         Kod           Ders Adı                                              T   U                   AKTS
+                CME 3002      Automata And Formal Languages                         3   0                    6
+                CME 3004      Computer Networks                                     3   0                    6
+                CME 3006      Design And Implementation of Information Systems      2   2                    6
+                CME 3008      Circuit Theory And Electronics                        3   2                    6
+                CME 3600      Summer Training III                                   -   -                    6
+                                                                             AKTS TOPLAMI :                  30
+7.Yarıyıl
+                CME 4001      Senior Project Proposal                                    0      2            3
+                CME 4003      Principles of Embedded Systems                             2      2            5
+                              Seçmeli Ders                                                9 kredi            18
+                              Teknik seçmeli Ders (İngilizce)                            2      0            4
+                                                                                  AKTS TOPLAMI :             30
+Seçmeli Dersler
+Ön Şart      Kod              Ders Adı                                                       T      U       AKTS
+             CME 4401         Numerical Analysis                                             3      0        6
+             CME 4403         Introduction To Machine Learning                               2      2        6
+             CME 4405         Parallel Computing                                             2      2        6
+             CME 4407         Computer Game Design And Programming                           2      2        6
+             CME 4409         Computer Graphics                                              2      2        6
+             CME 4411         Software Project Management                                    3      0        6
+             CME 4413         Topics In Databases                                            2      2        6
+             CME 4415         Distributed Databases                                          2      2        6
+             CME 4417         Simulation And Modeling                                        2      2        6
+             CME 4419         Human Computer Interaction                                     2      2        6
+             CME 4421         System Programming                                             2      2        6
+             CME 4423         Mobile Devices and Applications                                2      2        6
+             CME 4425         Introduction to Bioinformatics Algorithms                      2      2        6
+             CME 4451         Microprocessors                                                2      2        6
+             CME 4453         Quality Of Service Advancements In IP Networks                 3      0        6
+             CME 4455         Fundamentals Of Network Design                                 2      2        6
+             CME 4457         Network Security                                               2      2        6
+
+8. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T      U           AKTS
+ CME 4001       CME 4002      Senior Project                                             0      6            12
+                              Seçmeli Ders                                                9 kredi            18
+                                                                                  AKTS TOPLAMI :             30
+Seçmeli Dersler
+Ön Şart      Kod              Ders Adı                                                       T      U       AKTS
+             CME 4402         Introduction to Cryptography                                   2      2        6
+             CME 4404         Introduction To Sofrware Verification                          2      2        6
+             CME 4406         Multimedia Systems                                             2      2        6
+             CME 4408         Introduction To Natural Language Processing                    2      2        6
+             CME 4410         Introduction To Pattern Recongnition                           2      2        6
+             CME 4412         Introduction To Digital Image Processing                       2      2        6
+             CME 4414         Advances In Web Technologies                                   2      2        6
+             CME 4416         Introduction To Data Mining                                    2      2        6
+             CME 4418         Introduction To Artifical Intelligence                         2      2        6
+             CME 4420         Analysis And Design Of Algorithms                              2      2        6
+             CME 4452         Microprocessor Based System Design                             2      2        6
+             CME 4454         Network Services And Applications                              3      0        6
+             CME 4456         Reconfigurable Computing                                       3      0        6
+                                DOKUZ EYLÜL ÜNİVERSİTESİ
+                   Mühendislik Fakültesi - Bilgisayar Mühendisliği Öğretim Planı
+           Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+
+AÇIKLAMALAR
+
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler      : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (6 AKTS)
+Teknik Seçmeli Dersler      : 6. Yarıyıldan itibaren toplam 2 kredi (4 AKTS)
+Bölüm Seçmeli Dersleri      : 7. Yarıyılda 9 kredi (18 AKTS), 8. Yarıyılda 9 kredi (18 AKTS) olmak üzere
+                              toplam 18 kredi (36 AKTS) alınacaktır.
+
+HER YARIYIL AÇILAN DERSLER
+CME 4001 Senior Project Proposal
+CME 4002 Senior Project
+
+STAJLAR
+Toplam staj süresi en az 12 iş haftasıdır. Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu
+değildir. Stajın en az dört haftasını Bilgisayar Yazılımı geliştiren veya kullanan, en az iki iş haftasını da
+Bilgisayar Donanımı geliştiren, İnternet ve Bilgisayar Ağları ile ilgili müesseseler veya bu müesseselerin ilgili
+bölümlerinde yapmak zorundadır.
+

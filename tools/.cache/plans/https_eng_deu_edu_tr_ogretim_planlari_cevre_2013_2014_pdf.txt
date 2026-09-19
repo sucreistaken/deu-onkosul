@@ -1,0 +1,177 @@
+                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                    Mühendislik Fakültesi –Çevre Mühendisliği Öğretim Planı
+                                   (2013-2014 Öğretim Yılı)
+
+1. Yarıyıl
+Ön Şart       Kod               Ders Adı                                      T       U       AKTS
+              ÇEV 1003          Teknik İngilizce                              3       0         3
+              ÇEV 1051          Çevre Mühendisliğine Giriş                    2       0         2
+              FİZ 1101          Fizik I                                       3       2         5
+              İNŞ 1011          Teknik Resim                                  3       1         5
+              KİM 1015          Kimya                                         3       2         5
+              MAT 1009          Matematik I                                   4       0         4
+              TBT 1003          Temel Bilgi Teknolojileri                     1       1         2
+              ATA 1001          Atatürk İlkeleri ve İnkılap Tarihi I          2       0         2
+              TDL 1001          Türk Dili I                                   2       0         2
+                                                                       AKTS TOPLAMI :           30
+2. Yarıyıl
+              BİL 1002        Bilgisayar Programlama                          2       2        3
+              ÇEV 1006        Çevre Biyolojisi ve Ekolojisi                   3       0        3
+              ÇEV 1008        Çevre Mühendisliği Kimyası I                    4       0        4
+              ÇEV 1012        Teknik İngilizce                                3       0        3
+              FİZ 1102        Fizik II                                        3       2        5
+              İNŞ 1012        Statik                                          3       0        4
+              MAT 1010        Matematik II                                    4       0        4
+              ATA 1002        Atatürk İlkeleri ve İnkılap Tarihi II           2       0        2
+              TDL 1002        Türk Dili II                                    2       0        2
+                                                                       AKTS TOPLAMI :          30
+3. Yarıyıl
+Ön Şart       Kod             Ders Adı                                        T       U       AKTS
+              ÇEV 2007        Çevre Mühendisliği Kimyası II                   3       0        4
+              ÇEV 2009        Çevre Mikrobiyolojisi                           2       2        5
+              İNŞ 2013        Mukavemet                                       3       0        4
+              İNŞ 2019        Akışkanlar Mekaniği                             3       0        4
+              İNŞ 2021        Çevre Mühendisleri İçin Malzeme                 2       0        3
+              MAK 2009        Dinamik                                         3       0        4
+              MAT 2011        Matematik III                                   4       0        4
+                              Sosyal Seçmeli Ders                             2       0        2
+                                                                       AKTS TOPLAMI :          30
+4. Yarıyıl
+                ÇEV 2006        Mühendislik Matematiği                        3       0        5
+                ÇEV 2008        Çevre Mühendisliği Kimyası III                3       0        3
+                ÇEV 2010        Çevre Analiz Teknikleri                       2       2        5
+                İNŞ 2016        Topoğrafya                                    2       2        5
+   İNŞ 2019     İNŞ 2018        Hidrolik                                      4       0        5
+                MAK 2019        Termodinamiğe Giriş                           2       0        3
+                BDE 1003        Beden Eğitimi
+                GSH 1003        Halk Oyunları                                 2       0        2
+                GSM 1003        Müzik
+                                Sosyal Seçmeli Ders                           2       0        2
+                                                                       AKTS TOPLAMI :          30
+5. Yarıyıl
+Ön Şart       Kod          Ders Adı                                               T       U    AKTS
+              ÇEV 3013     Temel İşlemler                                         3       0     4
+              ÇEV 3015     Su Getirme                                             3       1     6
+              ÇEV 3017     Su Kalitesi Kontrolü                                   3       0     4
+              ÇEV 3019     Deniz Deşarjları                                       2       0     3
+              ÇEV 3021     Kimyasal Prosesler                                     2       1     4
+              İNŞ 3015     Zemin Mekaniği                                         2       0     3
+ İNŞ 2013     İNŞ 3017     Yapı Mühendisliği I                                    2       0     3
+              ÇEV 3100     Laboratuvar Stajı                                      -       -     3
+                                                                         AKTS TOPLAMI :             30
+                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                   Mühendislik Fakültesi –Çevre Mühendisliği Öğretim Planı
+                                  (2013-2014 Öğretim Yılı)
+
+6. Yarıyıl
+Ön Şart      Kod        Ders Adı                                                T   U      AKTS
+             ÇEV 3014   Kanalizasyon                                            3   1       6
+             ÇEV 3016   Hava Kirliliği ve Kontrolü                              3   0       3
+             ÇEV 3018   İçme Sularının Arıtılması                               3   0       4
+             ÇEV 3020   İstatistiğe Giriş                                       2   0       3
+             ÇEV 3022   Biyolojik Prosesler                                     2   1       3
+             ÇEV 3024   Hidroloji                                               2   0       2
+ İNŞ 3017    İNŞ 3018   Yapı Mühendisliği II                                    3   0       3
+             ÇEV 3200   Laboratuvar Stajı                                       0   0       3
+                        Teknik Seçmeli Ders                                     2   0       3
+                                                                         AKTS TOPLAMI :     30
+7. Yarıyıl
+Ön Şart      Kod        Ders Adı                                                T    U     AKTS
+             ÇEV 4061   Çevre Sistemleri Analizi                                3     0     3
+             ÇEV 4063   Çevre Yönetimi                                          2     0     3
+             ÇEV 4067   Kullanılmış Suların Arıtılması                          4     0     6
+             ÇEV 4069   Katı Atıklar                                            3     0     4
+             ÇEV 4100   Meslek Staj                                             -     -     6
+                        Seçmeli Ders                                            8 Kredi     8
+                                                                         AKTS TOPLAMI :     30
+Seçmeli Dersler
+Ön Şart     Kod           Ders Adı                                                 T   U   AKTS
+            ÇEV 4001      İçme Suyu Arıtma Tesisi Tasarımı                         3   0     3
+            ÇEV 4006      Atıksu Arıtma Tesislerinin İşletimi                      2   0     2
+            ÇEV 4007      Deniz ve Göl Bilimleri                                   2   0     2
+            ÇEV 4009      İleri Arıtma Teknikleri                                  3   0     3
+            ÇEV 4010      Anaerobik Arıtma                                         2   0     2
+            ÇEV 4011      Veri Değerlendirme Yöntemleri                            2   0     2
+            ÇEV 4015      Biyoçevre Mühendisliği                                   2   0     2
+            ÇEV 4021      Endüstriyel Kaynaklı Hava Kirliliği                      3   0     3
+            ÇEV 4024      Atık Azaltma Teknikleri                                  2   0     2
+            ÇEV 4025      Katı Atık Tesisleri Tasarımı                             3   0     3
+            ÇEV 4027      Arıtma Çamurları Bertaraf Sis.Tas.                       2   0     2
+            ÇEV 4035      Çevresel Dispersiyon                                     2   0     2
+            ÇEV 4041      Deponi Planlama ve Tasarımı                              3   0     3
+            ÇEV 4042      Biyolojik Yöntemlerle Nutrient Giderimi                  2   0     2
+            ÇEV 4045      Su Kalitesi Modelleri                                    3   0     3
+            ÇEV 4053      Çevre Mühendisliğinde Coğrafi Bilgi Sistemi              2   0     2
+            ÇEV 4089      Arıtma Tesisi Hidroliği                                  2   0     2
+            ÇEV 4095      Çevre Mühendisliğinde Nanoteknolojik Uygulamalar         2   0     2
+            ENV 4003      Design of Ind. Wastewater Treatment Plants               2   0     2
+            ENV 4009      Advanced Treatment Techiques                             3   0     3
+            ENV 4017      Bioprocessing of Wastes                                  2   0     2
+            ENV 4027      Design of Sludge Processing Units                        2   0     2
+            ENV 4035      Environmental Dispersion                                 2   0     2
+            ENV 4041      Planning and Design of Landfills                         3   0     3
+            ENV 4101      Intro.to Contaminant Transport in Groundwater and Soil   2   0     2
+            ENV 4103      Numerical Methods in Environmental Eng.                  2   1     3
+            ENV 4105      Contaminant Soil Remediation                             2   0     2
+                                 DOKUZ EYLÜL ÜNİVERSİTESİ
+                       Mühendislik Fakültesi –Çevre Mühendisliği Öğretim Planı
+                                      (2013-2014 Öğretim Yılı)
+
+8. Yarıyıl
+Ön Şart       Kod            Ders Adı                                                   T    U           AKTS
+              ÇEV 4046       Endüstri Atık Sularının Arıtılması                         3     0           4
+              ÇEV 4048       Arıtma Çamurlarının Bertarafı                              2     0           2
+              ÇEV 4050       Arıtma Tesisi Tasarımı                                     2     2           6
+              ÇEV 4062       Bitirme Projesi                                            0     6           6
+              ÇEV 4200       Meslek Staj                                                -     -           6
+                             Seçmeli Ders                                               6 Kredi           6
+                                                                                 AKTS TOPLAMI :           30
+Seçmeli Dersler
+Ön Şart      Kod                Ders Adı                                                      T      U      AKTS
+             ÇEV 4003           Endüstriyel Atıksu Arıt.Tes.Tasarımı                          3      0        3
+             ÇEV 4004           Terfi Merkezleri                                              2      0        2
+             ÇEV 4005           Su Kaynakları Teknolojisi                                     2      0        2
+             ÇEV 4008           Yeraltısuyu Akımı ve Kirlenmesi                               3      0        3
+             ÇEV 4016           Katı Artıkların Geri Kazanılması                              2      0        2
+             ÇEV 4017           Atıkların Biyodönüşümü                                        2      0        2
+             ÇEV 4020           Hava Kalitesi Modelleri                                       2      0        2
+             ÇEV 4026           Tehlikeli ve Zararlı Atıklar                                  3      0        3
+             ÇEV 4029           Katı Atık Yönetimi ve Ekonomisi                               2      0        2
+             ÇEV 4030           Bilgisayar Destekli Tasarım                                   2      0        2
+             ÇEV 4033           Altyapı Tesisleri Maliyet Analizi                             2      0        2
+             ÇEV 4034           Kentsel Altyapı Tesisleri Tasarımı                            3      0        3
+             ÇEV 4037           Hava Kirliliği Kontrol Teknolojileri                          3      0        3
+             ÇEV 4038           Hava Kirliliği Ölçüm Teknikleri                               2      0        2
+             ÇEV 4044           Derin Deniz Deşarjları Projesi                                2      0        2
+             ÇEV 4052           Bilgisayar Destekli Teknik Çizim                              2      0        2
+             ÇEV 4064           Mesleki Uygulamalar                                           3      0        3
+                                Endüstriyel Atıksu Arıtımında Membran Teknolojileri
+              ÇEV 4066                                                                        2      1        3
+                                Uyg.
+              ÇEV 4078          Radyoaktif Kirlenme                                           2      0        2
+              ÇEV 4084          Aktif Çamur Biyolojisi                                        2      0        2
+              ÇEV 4086          Çevresel Etki Değerlendirmesi                                 2      0        2
+              ÇEV 4096          İstatiksel Deney Tasarım Metodları                            2      0        2
+              ENV 4006          Operation of Wastewater Treatnebt Plants                      2      0        2
+              ENV 4016          Solid Waste Recyling Technologies                             2      0        2
+              ENV 4026          Hazardous Wastes                                              2      0        2
+              ENV 4102          Groundwater Hydrology                                         2      0        2
+              ENV 4104          Environmental Modeling                                        2      0        2
+
+AÇIKLAMALAR
+
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler      : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (4 AKTS)
+Teknik Seçmeli Dersler      : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri      : 7. Yarıyılda 8 kredi (8 AKTS), 8. Yarıyılda 6 kredi (6 AKTS) olmak üzere toplam
+                              14 kredi (14 AKTS) alınacaktır.
+
+HER YARIYIL AÇILAN DERSLER
+ÇEV 4062 Bitirme Projesi
+
+STAJLAR
+Staj süresi toplam 12 haftadır (60 iş günü). Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu
+değildir. Stajın 4 haftalık (20 iş günü) kısmı laboratuvar veya işletme stajı olup, bu staja hak kazanabilmek için
+ilk 4 yarıyıldaki derslerin alınmış olması gerekmektedir. Stajın geriye kalan 8 haftalık (40 iş günü) kısmı meslek
+stajı olup, bu staja hak kazanabilmek için ilk 6 yarıyıldaki derslerin alınmış olması zorunludur.
+

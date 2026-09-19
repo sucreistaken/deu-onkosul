@@ -1,0 +1,185 @@
+                                                                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                Mühendislik Fakültesi - Endüstri Mühendisliği 2024-2025 Öğretim Planı
+                                                     Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+                                        BİRİNCİ YARIYIL                                                                                            İKİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart     Kod        Ders Adı                                                T   U    AKTS Süresi
+    -       END 1109   ENDÜSTRİ MÜHENDİSLİĞİNE GİRİŞ                          2   0     4    1 Yarıyıl       -       MAK 1021   ATÖLYE EĞİTİMİ (4 HAFTA)                                3   3     2    1 Yıllık
+    -       FİZ 1103   FİZİK I                                                3   2     4    1 Yarıyıl       -       END 1210   GENEL EKONOMİ                                           3   0     5    1 Yarıyıl
+    -       KİM 1115   KİMYA                                                  3   2     4    1 Yarıyıl       -       END 1212   ALGORİTMA TASARIMI VE UYGULAMALARI                      3   1     6    1 Yarıyıl
+    -       KPD 1000   Kariyer Planlama                                       1   0     2    1 Yarıyıl       -       FİZ 1102   FİZİK II                                                3   2     5    1 Yarıyıl
+    -       MAK 1011   TEKNİK RESİM                                           4   0     4    1 Yarıyıl       -       MAT 1010   MATEMATİK II                                            4   0     4    1 Yarıyıl
+    -       MAT 1009   MATEMATİK I                                            4   0     4    1 Yarıyıl       -       ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                   2   0     2    1 Yarıyıl
+    -       ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                   2   0     2    1 Yarıyıl       -       İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                              2   0     2    1 Yarıyıl
+    -       İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                              2   0     2    1 Yarıyıl       -       TDL 1002   Türk Dili II                                            2   0     2    1 Yarıyıl
+    -       TDL 1001   Türk Dili I                                            2   0     2    1 Yarıyıl       -       YDİ 1006   Yabancı Dil II (İngilizce)                              2   0     2    1 Yarıyıl
+    -       YDİ 1007   Yabancı Dil I (İngilizce)                              2   0     2    1 Yarıyıl                                                                  ZORUNLU AKTS TOPLAMI :    30
+                                                              ZORUNLU AKTS TOPLAMI :    30                                                                              SEÇMELİ AKTS TOPLAMI :    0
+                                                              SEÇMELİ AKTS TOPLAMI :    0
+
+
+
+
+                                       ÜÇÜNCÜ YARIYIL                                                                                          DÖRDÜNCÜ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart     Kod        Ders Adı                                                T   U    AKTS Süresi
+    -       END 2313   OLASILIK VE İSTATİSTİĞE GİRİŞ                          3   0     4    1 Yarıyıl    END 2313   END 2414   MÜHENDİSLİK İSTATİSTİĞİ                                 3   1     5    1 Yarıyıl
+    -       END 2315   MALİYET ANALİZİ                                        4   0     4    1 Yarıyıl       -       END 2416   BİLGİ SİSTEMLERİ ANALİZİ VE TASARIMI                    4   0     5    1 Yarıyıl
+    -       END 2317   TEKNİK İNGİLİZCE                                       2   0     2    1 Yarıyıl       -       END 2418   MATEMATİKSEL MODELLEMEYE GİRİŞ                          3   0     5    1 Yarıyıl
+    -       MAK 2325   MÜHENDİSLİK MEKANİĞİ                                   4   0     5    1 Yarıyıl       -       END 2420   İŞ ANALİZİ VE TASARIMI                                  3   1     6    1 Yarıyıl
+    -       MAT 2011   MATEMATİK III                                          4   0     4    1 Yarıyıl       -       MAK 3029   İMAL USULLERİ                                           3   0     5    1 Yarıyıl
+    -       MMM 2011   MALZEME BİLGİSİ                                        2   0     3    1 Yarıyıl                                                                  ZORUNLU AKTS TOPLAMI :    26
+ MAK 1021   END 2100   ÜRETİM STAJI                                           0   0     3    20 IG                                                                      SEÇMELİ AKTS TOPLAMI :    4
+                                                              ZORUNLU AKTS TOPLAMI :    25
+                                                              SEÇMELİ AKTS TOPLAMI :    5
+
+Seçmeli Dersler
+ END 1212   END 2901   C++ İLE BİLGİSAYAR PROGRAMLAMA UYGULAMALARI 3              1     5    1 Yarıyıl
+ END 1212   END 2903   PYTHON İLE BİLGİSAYAR PROGRAMLAMA UYGULAMALARI 3           1     5    1 Yarıyıl
+
+
+
+
+                                        BEŞİNCİ YARIYIL                                                                                          ALTINCI YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart     Kod        Ders Adı                                                T   U    AKTS Süresi
+    -       END 3521   ÜRETİM YÖNETİMİ                                        3   0     4    1 Yarıyıl       -       END 3616   SİSTEM SİMÜLASYONU                                      3   1     5    1 Yarıyıl
+    -       END 3523   VERİ ANALİTİĞİ VE MADENCİLİĞİ                          3   1     4    1 Yarıyıl       -       END 3622   ÜRETİM PLANLAMA VE KONTROL                              3   0     4    1 Yarıyıl
+ END 2418   END 3525   YÖNEYLEM ARAŞTIRMASI I                                 3   1     5    1 Yarıyıl    END 3525   END 3624   YÖNEYLEM ARAŞTIRMASI II                                 4   0     5    1 Yarıyıl
+    -       END 3527   MÜHENDİSLİK EKONOMİSİ                                  3   0     4    1 Yarıyıl    END 2414   END 3626   KALİTE PLANLAMA VE KONTROL                              3   0     4    1 Yarıyıl
+                                                              ZORUNLU AKTS TOPLAMI :    17                MAK 1021   END 3101   YÖNETİM STAJI                                           0   0     2    30 IG
+                                                              SEÇMELİ AKTS TOPLAMI :    13                                                                              ZORUNLU AKTS TOPLAMI :    20
+                                                                                                                                                                        SEÇMELİ AKTS TOPLAMI :    10
+Seçmeli Dersler
+    -       END 3944   ENVANTER YÖNETİMİ                                      3   0     5    1 Yarıyıl   Seçmeli Dersler
+    -       END 3945   LOJİSTİK SİSTEM TASARIMI                               3   0     5    1 Yarıyıl       -       END 3943   ENDÜSTRİDE BİLGİSAYAR UYGULAMALARI                      3   0     5    1 Yarıyıl
+ END 3525   END 3947   MATEMATİKSEL MODELLEME ve UYGULAMALARI                 3   0     5    1 Yarıyıl       -       END 3946   LOJİSTİK OPERASYONLARIN YÖNETİMİ                        3   0     5    1 Yarıyıl
+    -       END 3949   ENDÜSTRİYEL PAZARLAMA                                  3   0     5    1 Yarıyıl       -       END 3948   BİLGİSAYARLA BÜTÜNLEŞİK İMALAT                          3   0     5    1 Yarıyıl
+    -       END 3950   MODERN FİNANS TEKNİKLERİ                               3   0     5    1 Yarıyıl       -       END 3951   STRATEJİK YÖNETİM                                       3   0     5    1 Yarıyıl
+    -       END 3952   TAMİNLEME VE ZAMAN SERİLERİ ANALİZİ                    3   0     5    1 Yarıyıl       -       END 3953   YALIN ÜRETİM                                            3   0     5    1 Yarıyıl
+    -       END 3954   SERVİS SİSTEMLERİ                                      3   0     5    1 Yarıyıl       -       END 3956   İNSAN KAYNAKLARI YÖNETİMİ                               3   0     5    1 Yarıyıl
+    -       END 3955   İŞ VE İŞL. HUKUKU                                      3   0     5    1 Yarıyıl       -       END 3957   PROJE YÖNETİMİ                                          3   0     5    1 Yarıyıl
+    -       END 3958   İŞLETME EKONOMİSİ                                      3   0     5    1 Yarıyıl       -       END 3959   BİLGİ TABANLI SİSTEMLER                                 3   0     5    1 Yarıyıl
+    -       END 3960   YENİLİKÇİLİK VE GİRİŞİMCİLİK                           3   0     5    1 Yarıyıl       -       END 3961   MONTAJ VE DEMONTAJ SİSTEMLERİ                           3   0     5    1 Yarıyıl
+    -       END 3962   KONTROL SİSTEMİ TEKNOLOJİLERİ                          3   0     5    1 Yarıyıl       -       END 3963   İŞ SÜRECİ YÖNETİMİ                                      3   0     5    1 Yarıyıl
+    -       END 3966   VERİ MADENCİLİĞİ UYGULAMALARI                          3   0     5    1 Yarıyıl       -       END 3964   ENERJİ YÖNETİMİNE GİRİŞ                                 3   0     5    1 Yarıyıl
+    -       END 3971   KESİKLİ OLAY SİSTEMLERİNİN MODELLENMESİ VE ANALİZİ 3       0     5    1 Yarıyıl       -       END 3965   YAPAY ZEKA VE ENDÜSTRİDE UYGULAMALARI                   3   0     5    1 Yarıyıl
+    -       END 3975   RİSK YÖNETİMİ                                          3   0     5    1 Yarıyıl       -       END 3967   İSTATİSTİKSEL YAZILIMLAR İLE ANALİZLER                  3   0     5    1 Yarıyıl
+ END 3525   END 3977   ENDÜSTRİ MÜHENDİSLİĞİNDE KANTİTATİF TEKNİKLER 3            0     5    1 Yarıyıl       -       END 3968   DEPO YÖNETİMİ                                           3   0     5    1 Yarıyıl
+    -       END 3981   FİNANSMAN                                              3   0     5    1 Yarıyıl       -       END 3978   HESAP ÇİZELGELERİ İLE YÖNETİM BİLİMİ MODELLEMESİ 3          0     5    1 Yarıyıl
+    -       IND 3945   LOGISTICS SYSTEMS DESIGN                               3   0     5    1 Yarıyıl       -       END 3980   YÖNETİM VE ORGANİZASYON                                 3   0     5    1 Yarıyıl
+ END 3525   IND 3947   MATHEMATICAL MODELING AND APPLICATIONS                 3   0     5    1 Yarıyıl       -       IND 3946   LOGISTICS OPERATIONS MANAGEMENT                         3   0     5    1 Yarıyıl
+    -       IND 3952   FORECASTING AND TIME SERIES ANALYSIS                   3   0     5    1 Yarıyıl       -       IND 3959   KNOWLEDGE BASED SYSTEMS                                 3   0     5    1 Yarıyıl
+    -       IND 3954   SERVICE SYSTEMS                                        3   0     5    1 Yarıyıl       -       IND 3963   BUSINESS PROCESS MANAGEMENT                             3   0     5    1 Yarıyıl
+    -       IND 3960   INNOVATION AND ENTREPRENEURSHIP                        3   0     5    1 Yarıyıl       -       IND 3964   INTRODUCTION TO ENERGY MANAGEMENT                       3   0     5    1 Yarıyıl
+    -       IND 3966   DATA MINING APPLICATIONS                               3   0     5    1 Yarıyıl       -       IND 3965   ARTIFICAL INTELLIGENCE AND ITS APPLICATIONS IN INDUSTRY 3   0     5    1 Yarıyıl
+    -       IND 3971   MODELING AND ANALYSIS OF DISCRETE EVENT SYSTEMS 3          0     5    1 Yarıyıl       -       IND 3967   STATISTICAL ANALYSIS WITH SOFTWARE                      3   0     5    1 Yarıyıl
+    -       IND 3975   RISK MANAGEMENT                                        3   0     5    1 Yarıyıl       -       IND 3968   WAREHOUSE MANAGEMENT                                    3   0     5    1 Yarıyıl
+    -       IND 3982   INTRODUCTION TO COMPUTATIONAL INTELLIGENCE 3               0     5    1 Yarıyıl       -       IND 3973   PRINCIPLES OF SUSTAINABILITY                            3   0     5    1 Yarıyıl
+    -       IND 3984   INTRODUCTION TO REVENUE MANAGEMENT                     3   0     5    1 Yarıyıl       -       IND 3978   MANAGEMENT SCIENCE MODELING WITH SPREADSHEETS 3             0     5    1 Yarıyıl
+                                                                                                             -       IND 3983   ERGONOMIC ASSESSMENT AND JOB SAFETY                     3   0     5    1 Yarıyıl
+                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                      Mühendislik Fakültesi - Endüstri Mühendisliği 2024-2025 Öğretim Planı
+                                              Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+                                    YEDİNCİ YARIYIL                                                                                          SEKİZİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                         T    U   AKTS Süresi        Ön Şart            Kod        Ders Adı                                   T    U   AKTS Süresi
+    -       END 4719   TESİS PLANLAMA                                   3    0    5    1 Yarıyıl   END 4717,END 4721   END 4894   BİTİRME PROJESİ                            0    6    10   1 Yarıyıl
+    -       END 4723   YENİ ÜRÜN VE İŞ GELİŞTİRME YÖNETİMİ              4    0    5    1 Yarıyıl                                                             ZORUNLU AKTS TOPLAMI :    10
+    -       END 4725   TEDARİK ZİNCİRİ YÖNETİMİ                         3    0    5    1 Yarıyıl                                                             SEÇMELİ AKTS TOPLAMI :    20
+    -       END 4721   BİTİRME PROJESİ HAZIRLIK                         0    4    5    1 Yarıyıl
+                                                                                                   Seçmeli Dersler
+                                                   ZORUNLU AKTS TOPLAMI :         20
+                                                                                                           -           END 3973   SÜRDÜREBİLİRLİĞİN TEMELLERİ                3    0    5    1 Yarıyıl
+                                                    SEÇMELİ AKTS TOPLAMI :        10
+                                                                                                     END 3525          END 4922   TEDARİK ZİNCİRİ MODELLEME VE ANALİZİ       3    0    5    1 Yarıyıl
+Seçmeli Dersler                                                                                            -           END 4925   MATEMATİKSEL PROGRAMLAMADA SEÇİLMİŞ KONULAR 3   0    5    1 Yarıyıl
+ END 3525   END 4923   KESİKLİ OPTİMİZASYON MOD. VE ALGORİTMALARI       3    0    5    1 Yarıyıl     END 3622          END 4926   KURUMSAL KAYNAK PLANLANMASI                3    0    5    1 Yarıyıl
+ END 3616   END 4924   SİMÜLASYON VE ENDÜSTRİDE UYGULAMALARI            3    0    5    1 Yarıyıl           -           END 4927   ÜRETİM ÇİZELGELEME                         3    0    5    1 Yarıyıl
+ END 3525   IND 3977   QUANTITATIVE TECHNIQUES IN INDUSTRIAL ENGINEERING 3   0    5    1 Yarıyıl           -           END 4928   MODERN ÜRETİM SİSTEMLERİ                   3    0    5    1 Yarıyıl
+ END 3525   IND 4923   DISCRETE OPTIMIZATION MODELS AND ALGORITHMS 3         0    5    1 Yarıyıl     END 3525          IND 4922   SUPPLY CHAIN MODELLING AND ANALYSIS        3    0    5    1 Yarıyıl
+                                                                                                           -           IND 4925   SELECTED TOPICS ON MATHEMATICAL PROGRAMMING 3   0    5    1 Yarıyıl
+                                                                                                           -           IND 4927   PRODUCTION SCHEDULING                      3    0    5    1 Yarıyıl
+                                                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                          Mühendislik Fakültesi - Endüstri Mühendisliği 2024-2025 Öğretim Planı
+                                                              Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                                                                        Teknik Seçmeli Dersler
+Ön Şart      Kod        Ders Adı                                                                       T     U    AKTS Süresi                   Ön Şart   Kod        Ders Adı                                                                         T     U   AKTS Süresi
+             GÇD 1000    Gönüllülük Çalışmaları                                                         1    2         4    1 Yarıyıl                     ETE 3003     INTRODUCTION TO NANOTECHNOLOGY                                                  2    0    4   1 Yarıyıl
+             GÇD 1001    Volunteerism Studies                                                           1    2         4    1 Yarıyıl                     ETE 3005     METHODS OF ARTIFICAL INTELLIGENCE                                               2    0    4   1 Yarıyıl
+             İHD 1001    İnsan Hakları                                                                  2    0         4    1 Yarıyıl                     ETE 3007     FUNDAMENTALS OF ROBOTICS                                                        2    0    4   1 Yarıyıl
+             ESE 2065    CAREER PLANNING AND DEVELOPMENT                                                2    0         3    1 Yarıyıl                     ETE 3014     GIS FOR ENGINEERS                                                               2    0    4   1 Yarıyıl
+             ESE 2067    BUSINESS MANAGEMENT AND MANAGEMENT                                             2    0         3    1 Yarıyıl                     ETE 3017     PHYSICAL MODELS                                                                 2    0    4   1 Yarıyıl
+             ESE 2069    PERSONAL STYLE AND IMAGE MANAGEMENT                                            2    0         3    1 Yarıyıl                     ETE 3043     DIGITAL TRANSFORMATION IN INDUSTRY                                              2    0    4   1 Yarıyıl
+             MSİ 2001    SUNUM VE SUNUŞ TEKNİKLERİ                                                      2    0         2    1 Yarıyıl                     MTH 3618     İKLİM DEĞİŞİKLİĞİ: KAVRAMLAR, ETKİLER VE UYGULAMALAR 2                               0    3   1 Yarıyıl
+             MSİ 2005    KİŞİSEL GELİŞİM VE ETKİLİ YAŞAMAK                                              2    0         2    1 Yarıyıl                     MTS 3001     BİYOTEKNOLOJİ                                                                   2    0    3   1 Yarıyıl
+             MSİ 2009    AVRUPA BİRLİĞİNDE SOSYAL POLİTİKA                                              2    0         2    1 Yarıyıl                     MTS 3003     NANOTEKNOLOJİYE GİRİŞ                                                           2    0    3   1 Yarıyıl
+             MSİ 2013    MÜHENDİSLİK ETİĞİ                                                              2    0         2    1 Yarıyıl                     MTS 3007     ROBOTUN TEMELLERİ                                                               2    0    3   1 Yarıyıl
+             MSİ 2015    MÜHENDİSLER İÇİN FRANSIZCA                                                     2    0         2    1 Yarıyıl                     MTS 3009     ÇEVRENİN KORUNMASINI AMAÇLAYAN DİSİPLİNLERARASI PROJ. GELİŞ. 2                       0    3   1 Yarıyıl
+             MSİ 2027    PSİKOLOJİYE GİRİŞ                                                              2    0         2    1 Yarıyıl                     MTS 3015     YOL TEKNOLOJİSİNDE YENİLİKLER                                                   2    0    3   1 Yarıyıl
+             MSİ 2029    İLETİŞİM BECERİLERİ                                                            2    0         2    1 Yarıyıl                     MTS 3017     FİZİKSEL MODELLER                                                               2    0    3   1 Yarıyıl
+             MSİ 2031    İNSAN KAYNAKLARI YÖNETİMİ                                                      2    0         2    1 Yarıyıl                     MTS 3019     ÜRETİMDE ÇÖZÜM YAKLAŞIMLARI                                                     2    0    3   1 Yarıyıl
+             MSİ 2041    BÜTÜNLEŞİK KIYI YÖNETİMİ, TÜRKİYEDE LİMAN YÖNETİMİ VE DEVLETLERARASI PROGRAMLAR 2   0         2    1 Yarıyıl                     MTS 3043     ENDÜSTRİDE DİJİTAL DÖNÜŞÜM                                                      2    0    3   1 Yarıyıl
+             MSİ 2043    İŞ KANUNU VE UYGULAMASI                                                        2    0         2    1 Yarıyıl                     ETE 3006     BIOMEDICAL SYSTEMS                                                              2    0    4   1 Yarıyıl
+             MSİ 2049    DOĞAL AFETLER                                                                  2    0         2    1 Yarıyıl                     ETE 3018     MODERN ENGINEERING MATHEMATICS                                                  2    0    4   1 Yarıyıl
+             MSİ 2059    AFET YÖNETİMİ                                                                  2    0         2    1 Yarıyıl                     ETE 3031     NAVIGATION ENGINEERING                                                          2    0    4   1 Yarıyıl
+             MSİ 2061    İŞLETMELERDE İÇ DENETİM                                                        2    0         2    1 Yarıyıl                     ETE 3032     PERFORMANCE MEASUREMENT IN BUSINESSES                                           2    0    4   1 Yarıyıl
+             MSİ 2063    PAZARLAMAYA GİRİŞ                                                              2    0         2    1 Yarıyıl                     ETE 3035     ELEMENTAL & ISOTOPIC ANALYSIS IN THE MULTIDISCIPLINARY FIELDS 2                      0    4   1 Yarıyıl
+             MSİ 2065    KARİYER PLANLAMA VE GELİŞTİRME                                                 2    0         2    1 Yarıyıl                     ETE 3042     TEST, CONTROL AND CALIBRATION IN MEDICAL DEVICES 3                                   2    6   1 Yarıyıl
+             MSİ 2067    İŞLETME YÖNETİMİ VE YÖNETİCİLİĞİ                                               2    0         2    1 Yarıyıl                     MTH 3501     BASIC CYBER SECURITY                                                            2    0    4   1 Yarıyıl
+             MSİ 2069    KİŞİSEL STİL VE İMAJ YÖNETİMİ                                                  2    0         2    1 Yarıyıl                     MTH 3502     INFORMATION NETWORKS                                                            2    0    4   1 Yarıyıl
+             MSİ 2071    HALK OYUNLARI                                                                  2    0         2    1 Yarıyıl                     MTH 3503     INTRODUCTION TO QUANTUM COMPUTING                                               2    0    4   1 Yarıyıl
+             ESE 2070    CLIMATE CHANGE AND SUSTAINABLE MANAGEMENT 2                                         0         3    1 Yarıyıl                     MTH 3506     PARDUS AND LIBREOFFICE EDUCATION                                                2    0    4   1 Yarıyıl
+             MSİ 2002    FELSEFEYE GİRİŞ                                                                2    0         2    1 Yarıyıl                     MTH 3507     SYSTEM ENGINEERING                                                              2    0    4   1 Yarıyıl
+             MSİ 2004    İNSAN İLİŞKİLERİ                                                               2    0         2    1 Yarıyıl                     MTH 3508     FUNDAMENTALS OF JAVA AND OBJECT ORIENTED PROGRAMMING 2                               0    4   1 Yarıyıl
+             MSİ 2006    BRİÇ                                                                           2    0         2    1 Yarıyıl                     MTH 3606     PARDUS VE LIBREOFFICE EĞİTİMİ                                                   2    0    3   1 Yarıyıl
+             MSİ 2008    EKONOMİK KÜRESELLEŞME                                                          2    0         2    1 Yarıyıl                     MTH 3607     SİSTEM MÜHENDİSLİĞİ                                                             2    0    3   1 Yarıyıl
+             MSİ 2012    GENÇ GİRİŞİMCİLİK                                                              2    0         2    1 Yarıyıl                     MTH 3608     TEMEL JAVA VE NESNE TABANLI PROGRAMLAMAYA GİRİŞ 2                                    0    3   1 Yarıyıl
+             MSİ 2016    ÇEVRE KİRLİLİĞİ VE KONTROLU                                                    2    0         2    1 Yarıyıl                     MTS 3002     DEPREM MÜHENDİSLİĞİNDE SEÇMELİ KONULAR                                          2    0    3   1 Yarıyıl
+             MSİ 2022    MİMAR SİNAN                                                                    2    0         2    1 Yarıyıl                     MTS 3005     YAPAY ZEKA YÖNTEMLERİ                                                           2    0    3   1 Yarıyıl
+             MSİ 2024    DOĞA ÇEVRE VE KENT                                                             2    0         2    1 Yarıyıl                     MTS 3008     MALZEME VE ÜRETİM                                                               2    0    3   1 Yarıyıl
+             MSİ 2026    AVRUPA BİRLİĞİ VE AVRUPA KONSEYİNDE BÜTÜNLEŞİK ÇEVRE POLİTİKASI 2                   0         2    1 Yarıyıl                     MTS 3010     MADENCİLİK FAALİYETLERİNİN ÇEVRESEL ETKİLERİ 2                                       0    3   1 Yarıyıl
+             MSİ 2030    HALKLA İLİŞKİLER                                                               2    0         2    1 Yarıyıl                     MTS 3014     MÜHENDİSLER İÇİN COĞRAFİ BİLGİ SİSTEMİ                                          2    0    3   1 Yarıyıl
+             MSİ 2032    SOSYAL PSİKOLOJİ                                                               2    0         2    1 Yarıyıl                     MTS 3016     ULAŞIM SİSTEMLERİ ANALİZİNE GİRİŞ                                               2    0    3   1 Yarıyıl
+             MSİ 2044    ORTAÇAĞ'DA ANADOLU UYGARLIKLARI                                                2    0         2    1 Yarıyıl                     MTS 3020     ENERJİ VE ÇEVRE                                                                 2    0    3   1 Yarıyıl
+             MSİ 2048    TÜRKİYE'NİN JEO.MİRAS JEOTUR.JEOPARK POT.VE KORUNMASI 2                             0         2    1 Yarıyıl                     MTS 3028     MÜHENDİSLİKTE HARİTA BİLGİSİ                                                    2    0    3   1 Yarıyıl
+             MSİ 2050    FİKRİ VE SINAİ MÜLKİYET HAKLARI                                                2    0         2    1 Yarıyıl                     MTS 3029     KALİTE YÖNETİMİ                                                                 2    0    3   1 Yarıyıl
+             MSİ 2054    SOSYAL POLİTİKA                                                                2    0         2    1 Yarıyıl                     MTS 3032     İŞLETMELERDE PERFORMANS ÖLÇÜMÜ                                                  2    0    3   1 Yarıyıl
+             MSİ 2060    TEMEL JAPONCA                                                                  2    0         2    1 Yarıyıl                     MTS 3033     DIŞ TİCARET İŞLEMLERİ                                                           2    0    3   1 Yarıyıl
+             MSİ 2062    YÖNETİMDE STRATEJİK PLANLAMA                                                   2    0         2    1 Yarıyıl                     MTS 3037     MÜHENDİSLER İÇİN GENEL FİZİKİ COĞRAFYA                                          2    0    3   1 Yarıyıl
+             MSİ 2064    SATRANÇ                                                                        2    0         2    1 Yarıyıl                     MTS 3038     MÜHENDİSLİK VE YERYÜZÜ YAPILARININ GLOBAL NAVİGASYON UYDU SİSTEMLERİ (GNSS) İLE 2    0    3   1 Yarıyıl
+             MSİ 2066    MÜHENDİSLİKTE MESLEK HASTALIKLARI                                              2    0         2    1 Yarıyıl                     MTS 3039     YERBİLİMLERİ TARİHİ VE FELSEFESİ                                                2    0    3   1 Yarıyıl
+             MSİ 2070    İKLİM DEĞİŞİKLİĞİ VE SÜRDÜRÜLEBİLİR YÖNETİM                                    2    0         2    1 Yarıyıl                     MTS 3042     TIBBİ CİHAZLARDA TEST, KONTROL VE KALİBRASYON 3                                      2    6   1 Yarıyıl
+             MSİ 2072    BİLİŞİM HUKUKU                                                                 2    0         2    1 Yarıyıl                     MTS 3044     YER BİLİMLERİNDE İNSANSIZ HAVA ARAÇLARININ (İHA) KULLANIM ALANLARI VE UYGULAMALA 2   0    3   1 Yarıyıl
+
+
+
+
+          Erasmus Dersleri
+          Ön Şart       Kod             Ders Adı                                                                      T     U   AKTS Süresi
+              -         ERA 2300          INTRODUCTION TO GEOSPATIAL ASSESSMENTS ON ENVIROMENTAL SUSTAINABILITY 2           1     5     1 Yarıyıl
+              -         ERA 2301          CLIMATE CHANGE ASSESSMENTS ON ENVIRONMENTAL ISSUES, PRIORITIES AND CHALLENGES 3   0     5     1 Yarıyıl
+              -         ERA 2302          SUSTAINABLE DESIGN OF ENGINEERING STRUCTURES 2                                    1     5     1 Yarıyıl
+              -         ERA 4800          INTRODUCTION TO SUSTAINABLE ENERGY SYSTEMS 3                                      0     5     1 Yarıyıl
+
+
+
+
+            AÇIKLAMALAR: SEÇMELİ DERSLER:
+            3. YARIYIL: 1 adet Seçmeli Ders (3+1+5), TOPLAM 5 AKT
+            4. YARIYIL: 2 adet Sosyal Seçmeli Ders (2+0+2), TOPLAM 4 AKT
+            5.YARIYIL : 1 adet Teknik Seçmeli Ders ( (2+0+3) , 2 Seçmeli (3+0+5),TOPLAM 13 AKTS
+            6. YARIYIL : 2 adet Seçmeli (3+0+ 5), TOPLAM 10 AKT
+            7. YARIYIL : 2 adet Seçmeli (3+0+ 5), TOPLAM 10 AKT
+            8. YARIYIL : 4 adet Seçmeli (3+0+ 5), TOPLAM 20 AKT
+
+            1- STAJLAR: Öğrenciler öncelikle 2. yarıyılında yer alan Atölye Eğitimi dersini alıp başarmakla yükümlüdür. Ardından END 2100
+            Üretim Stajı (20 işgünü yapılacak, önşartı MAK 1021 Atölye Eğitimi)daha sonra END 3101 Yönetim Stajı ( 30 işgünü- önşartı MAK 1021 Atölye
+            Eğitimi) yapmakla yükümlüdürler.
+
+            2- HER YARIYIL AÇILAN DERSLER: END 4721 BİTİRME PROJESİ HAZIRLIK ve END 4894 BİTİRME PROJES
+            3- Öğrenciler 2.sınıf seçmeli derslerinden END 2901 C++ İLE BİLGİSAYAR PROGRAMLAMA UYGULAMALARI veya END 2903 PYTHON İLE
+            BİLGİSAYAR PROGRAMLAMA UYGULAMALARI derslerinden yalnızca bir tanesi seçilecektir
+

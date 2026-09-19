@@ -1,0 +1,172 @@
+                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                  Mühendislik Fakültesi – Tekstil Mühendisliği Öğretim Planı
+                                 (2012-2013 Öğretim Yılı)
+
+1. Yarıyıl
+Ön Şart      Kod        Ders Adı                                           T   U   AKTS
+             END 1103   Genel Ekonomi                                      3   0    3
+             FİZ 1101   Fizik I                                            3   2    5
+             KİM 1015   Kimya                                              3   2    5
+             MAT 1009   Matematik I                                        4   0    4
+             TBT 1003   Temel Bilgi Teknolojileri                          1   1    2
+             TKS 1003   Teknik İngilizce I                                 2   0    2
+             TKS 1005   Tekstil Mühendisliğine Giriş                       1   0    1
+             ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I               2   0    2
+             TDL 1001   Türk Dili I                                        2   0    2
+             BDE 1003   Beden Eğitimi
+             GSH 1003   Halk Oyunları                                      2   0    2
+             GSM 1003   Müzik
+             MAK 1021   Atölye Eğitimi (4 Hafta)                         3   3      2
+                                                                  AKTS TOPLAMI :    30
+2. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+             BİL 1002   Bilgisayar Programlama                           2   2      3
+             FİZ 1102   Fizik II                                         3   2      5
+             KİM 1016   Organik Kimya                                    2   1      3
+             MAK 1011   Teknik Resim                                     4   0      4
+             MAK 1014   Statik                                           3   0      5
+             MAT 1010   Matematik II                                     4   0      4
+             TKS 1004   Teknik İngilizce II                              2   0      2
+             ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II            2   0      2
+             TDL 1002   Türk Dili II                                     2   0      2
+                                                                  AKTS TOPLAMI :    30
+3. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+             MAK 2009   Dinamik                                          3   0      5
+             MAK 2029   Mukavemet                                        3   0      5
+             MAT 2011   Matematik III                                    4   0      4
+             TKS 2001   Doğal Lifler                                     2   0      3
+             TKS 2003   Tekstil Kimyası                                  2   1      4
+             TKS 2005   Temel İplikçilik                                 2   0      4
+             TKS 2009   İstatistiğe Giriş                                2   0      3
+                        Sosyal Seçmeli Ders                              2   0      2
+                                                                  AKTS TOPLAMI :    30
+4. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+             ELK 2070   Endüstriyel Elektronik                           3   0      5
+             END 3503   İşletme Ekonomisi                                3   0      4
+             MAT 2014   Matematik IV                                     4   0      4
+             MMM 2011   Malzeme Bilgisi                                  2   0      3
+             TKS 2002   Dokumacılık I                                    2   1      4
+             TKS 2004   Örmecilik I                                      2   1      4
+             TKS 2006   Kimyasal Lifler                                  3   0      4
+             TKS 2000   Meslek Stajı                                     -   -      2
+                                                                  AKTS TOPLAMI :    30
+                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                   Mühendislik Fakültesi – Tekstil Mühendisliği Öğretim Planı
+                                  (2012-2013 Öğretim Yılı)
+
+5. Yarıyıl
+Ön Şart      Kod        Ders Adı                                          T   U     AKTS
+             MAK 2019   Termodinamiğe Giriş                               2   0      3
+             TKS 3001   Dokumacılık II                                    2   1      4
+             TKS 3003   Kısa Lif İplik Teknolojisi                        2   0      3
+             TKS 3005   Terbiye                                           3   1      5
+             TKS 3007   Tekstil Fiziği I                                  1   1      4
+             TKS 3009   Fiziksel Tekstil Muayeneleri I                    2   1      5
+             TKS 3011   Konfeksiyon I                                     2   1      4
+                        Sosyal Seçmeli Ders                               2   0      2
+                                                                   AKTS TOPLAMI :    30
+6. Yarıyıl
+Ön Şart      Kod        Ders Adı                                          T   U     AKTS
+             MAK 2032   Makina Elemanlarına Giriş                         2   0      2
+             TKS 3002   Örmecilik II                                      2   1      4
+             TKS 3006   Konfeksiyon II                                    2   1      4
+             TKS 3008   İş ve Zaman Etüdü                                 2   0      3
+             TKS 3010   Kim.Teks.Muayeneleri                              1   2      4
+             TKS 3014   Fiz.Teks.Muayeneleri II                           2   2      5
+             TKS 3016   Uzun Lif İplik Teknolojisi                        2   0      2
+             TKS 3018   Yıliçi Projesi                                    0   2      4
+             TKS 3000   Serbest İşletme Stajı                             -   -      2
+                                                                   AKTS TOPLAMI :    30
+7. Yarıyıl
+Ön Şart      Kod        Ders Adı                                          T    U    AKTS
+             TKS 4001   Kumaş Tasarımı                                    2     1    5
+             TKS 4000   Seminer                                           0     2    3
+                        Seçmeli (Tekstil Grubu)                           8 Kredi    16
+                        Seçmeli (Fenl Grubu)                              3 Kredi    3
+                        Teknik Seçmeli Ders                               2     0    3
+                                                                   AKTS TOPLAMI :    30
+Seçmeli Dersler
+Ön Şart      Kod        Ders Adı                                            T   U   AKTS
+             MAK 3033   Isı Transferi                                       3   0    3
+             MMZ 4001   Polimerler                                          3   0    3
+             TEX 4019   Warp Knitting                                       2   2    5
+             TEX 4024   Fashion Design                                      1   2    5
+             TEX 4039   Woven Fabric Analysis                               1   2    3
+             TKS 3025   Tekstil Mekanizmaları                               3   0    3
+             TKS 4003   Tekstil Fabrika Organizasyonu                       2   0    3
+             TKS 4005   Dikiş İpliği Teknolojisi                            2   0    3
+             TKS 4021   Boya Teknolojisi                                    2   2    5
+             TKS 4023   Giysi Kalıpçılığı                                   1   2    5
+             TKS 4026   Tekstil Fiziği II                                   2   0    3
+             TKS 4027   Fizikokimya                                         3   1    3
+             TKS 4029   Analitik Kimya                                      3   1    3
+             TKS 4031   Tekstil İşletme Yönetimi                            2   0    3
+             TKS 4033   Tekstilde Pazarlama                                 2   0    3
+             TKS 4035   Örme Kumaş Analizi ve Tasarımı                      1   2    3
+             TKS 4037   Teknik Tekstiller I                                 2   0    3
+             TKS 4041   Önterbiye                                           1   2    5
+             TKS 4043   Fantezi İplik Teknolojisi                           2   0    3
+             TKS 4045   Karmaşık Dokumalar                                  1   2    5
+             TKS 4056   El Dokumaları                                       1   2    5
+                                 DOKUZ EYLÜL ÜNİVERSİTESİ
+                      Mühendislik Fakültesi – Tekstil Mühendisliği Öğretim Planı
+                                     (2012-2013 Öğretim Yılı)
+
+8. Yarıyıl
+Ön Şart       Kod           Ders Adı                                                       T      U     AKTS
+              MAK 3026      Kontrol Sistemleri                                             3      0      4
+              TKS 4006      Tekstilde Kalite Kontrolü                                      2      1      4
+ TKS 3018
+              TKS 4094      Bitirme Projesi                                                 0     6        6
+ TKS 4000
+                            Seçmeli (Tekstil Grubu)                                    6 Kredi            13
+                            Seçmeli (Fenl Grubu)                                       3 Kredi            3
+                                                                                AKTS TOPLAMI :            30
+Seçmeli Dersler
+Ön Şart      Kod            Ders Adı                                                       T      U     AKTS
+             BİL 1007       Bilgisayar Programlama II                                      2      2      3
+             END 4057       İşletmelerde Hesap İşleri                                      3      0      3
+             MAK 3018       Makina Dinamiği                                                3      0      3
+             MMZ 4020       Kompozit Malzeme Teknolojisi                                   3      0      3
+             TEX 4030       Colour Science                                                 1      2      5
+             TEX 4042       Knitting Eng.Product Devolopment & Design                      3      2      5
+             TKS 4002       Tekstüre İplik Teknolojisi                                     2      0      3
+             TKS 4004       Polimer Kimyası                                                3      0      3
+ TKS 4023 TKS 4025          Bilgisayarlı Kalıp Hazırlama                                   1      2      5
+             TKS 4028       Bitim İşlemleri                                                1      2      5
+             TKS 4032       Baskı Teknolojisi                                              1      2      5
+             TKS 4036       Teknik Tekstiller II                                           2      0      3
+             TKS 4038       Tekstil Yardımcı Maddeleri                                     2      0      3
+             TKS 4044       Tekstilde Uluslararası İşletme Yönetimi                        2      0      3
+             TKS 4046       Teksilde İşletme Finansı                                       2      0      3
+             TKS 4048       Atkı Örmeciliği                                                1      2      5
+             TKS 4050       Konfeksiyon Makinaları                                         1      2      5
+             TKS 4052       Modern İplik Eğirme Yöntemleri                                 2      0      3
+             TKS 4054       Konfeksiyon İşlet.Bilg.Uyg.                                    1      2      3
+             TKS 4058       Konfeksiyon Malzeme Bilgisi                                    2      0      3
+             TKS 4060       Teknik Tekstillere Uygulanan Performans Testleri               2      0      3
+             TKS 4062       Tekstilde Bilgisayar Uygulamalı İstatiksel Yöntemler           1      2      3
+AÇIKLAMALAR
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler      : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (4 AKTS)
+Teknik Seçmeli Dersler      : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri      : 7. Yarıyılda 8 kredi (16 AKTS) Tekstil Grubu, 3 kredi (3 AKTS) Fen Grubu, 8.
+                              Yarıyılda 6 kredi (13 AKTS) Tektil Grubu, 3 kredi (3 AKTS) Fen Grubu olmak
+                              üzere toplam 20 kredi (35 AKTS) alınacaktır.
+HER YARIYIL AÇILAN DERSLER
+TKS 3018 Yıliçi Projesi
+TKS 4000 Seminer
+TKS 4094 Bitirme Projesi
+STAJLAR
+Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu değildir.
+Atölye Stajı: Endüstri meslek liseleri atölyelerinde 4 hafta süre ile staj yapılır.
+Entegre Tekstil Stajı: İkinci sınıfın bitiminde yapılır. İplik dokuma-örme, boya-terbiye ve konfeksiyon
+bölümlerini içeren entegre bir tekstil fabrikasında yapılan stajdır. Bu staj entegre tek bir işletme yerine tüm
+bölümleri içerecek şekilde iki ayrı fabrikada da toplam 6 hafta (6 hafta=39 iş günü) süre ile yapılabilir.
+Serbest İşletme Stajı: Üçüncü sınıf bitiminde gerçekleştirilir. Öğrencinin tercih ettiği bir branşta üretim yapan
+bir tekstil fabrikasında toplam 6 hafta (6 hafta=30 iş günü) süreyle yapılır. Bu staj, Tekstil Mühendisliği
+Bölümünde veya staj yapılan işletmelerde yürütülen bir proje çalışması kapsamında da, bölüm staj
+komisyonunun onayı ile yapılabilir.
+

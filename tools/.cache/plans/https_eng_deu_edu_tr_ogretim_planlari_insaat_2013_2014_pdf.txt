@@ -1,0 +1,212 @@
+                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                   Mühendislik Fakültesi – İnşaat Mühendisliği Öğretim Planı
+                                  (2013-2014 Öğretim Yılı)
+
+1. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+             FİZ 1101   Fizik I                                          3   2      5
+             İNŞ 1001   İnşaat Müh.Giriş (Seminer)                       1   0      1
+             İNŞ 1003   Teknik İngilizce I                               3   0      4
+             İNŞ 1011   Teknik Resim                                     3   1      5
+             KİM 1015   Kimya                                            3   2      5
+             MAT 1009   Matematik I                                      4   0      4
+             TBT 1003   Temel Bilgi Teknolojileri                        1   1      2
+             ATA 1001   Atatürk İlkeleri ve İnkılapTarihi I              2   0      2
+             TDL 1001   Türk Dili I                                      2   0      2
+                                                                  AKTS TOPLAMI :    30
+2. Yarıyıl
+Ön Şart      Kod        Ders Adı                                           T   U   AKTS
+             BİL 1002   Bilgisayar Programlama                             2   2    3
+             FİZ 1102   Fizik II                                           3   2    5
+             İNŞ 1004   Teknik İngilizce II                                3   0    4
+             İNŞ 1012   Statik                                             3   0    4
+             JEO 1006   Mühendislik Jeolojisi                              2   1    4
+             MAT 1010   Matematik II                                       4   0    4
+             ATA 1002   Atatürk İlkeleri ve İnk.Tarihi II                  2   0    2
+             TDL 1002   Türk Dili II                                       2   0    2
+             BDE 1003   Beden Eğitimi
+             GSH 1003   Halk Oyunları
+                                                                           2   0    2
+             GSM 1003   Müzik
+             GSS 1003   Güzel Sanatlar
+                                                                  AKTS TOPLAMI :    30
+3. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+ İNŞ 1012    İNŞ 2001   Mukavemet I                                      3   1      4
+             İNŞ 2007   Yapı Elemanları                                  3   0      3
+             İNŞ 2009   Dinamik                                          3   0      4
+             İNŞ 2011   İstatistiğe Giriş                                3   0      4
+             İNŞ 2016   Topoğrafya                                       2   2      5
+             İNŞ 2023   Yapı Malzemesi I                                 3   0      4
+             MAT 2011   Matematik III                                    4   0      4
+                        Sosyal Seçmeli Ders                              2   0      2
+                                                                  AKTS TOPLAMI :    30
+4. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+ İNŞ 2001    İNŞ 2002   Mukavemat II                                     3   1      5
+ İNŞ 1011    İNŞ 2010   Mühendislik Çizimleri                            2   1      4
+             İNŞ 2012   Mühendislik Matematiği                           3   0      5
+             İNŞ 2014   Akışkanlar Mekaniği                              3   0      5
+ İNŞ 2023    İNŞ 2024   Yapı Malzemesi II                                2   2      5
+             İNŞ 2028   Hidroloji                                        3   1      4
+                        Sosyal Seçmeli Ders                              2   0      2
+                                                                  AKTS TOPLAMI :    30
+                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                   Mühendislik Fakültesi – İnşaat Mühendisliği Öğretim Planı
+                                  (2013-2014 Öğretim Yılı)
+
+5. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+ İNŞ 2001    İNŞ 3007   Yapı Statiği I                                   3   1      4
+ İNŞ 2001    İNŞ 3011   Betonarme I                                      3   1      4
+             İNŞ 3013   Zemin Mekaniği I                                 3   1      5
+ İNŞ 2014    İNŞ 3023   Hidrolik                                         4   2      6
+ İNŞ 2016    İNŞ 3025   Ulaştırma I                                      3   1      4
+             İNŞ 3000   Meslek Stajı I                                   -   -      4
+                        Seçmeli Ders                                     2   0      3
+                                                                  AKTS TOPLAMI :    30
+
+Seçmeli Dersler
+Ön Şart      Kod        Ders Adı                                           T   U   AKTS
+ İNŞ 2028 CIE 3032      Water Resources Engineering                        2   0    3
+             CIE 3061   Fundamentals of Geotechnical Eng.                  2   0    3
+ İNŞ 2024 CIE 3081      Properties of Concrete                             2   0    3
+
+
+6. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+ İNŞ 3007    İNŞ 3008   Yapı Statiği II                                  3   1      4
+ İNŞ 3011    İNŞ 3012   Betonarme II                                     3   0      3
+ İNŞ 3013    İNŞ 3014   Zemin Mekaniği II                                3   0      4
+ İNŞ 3023    İNŞ 3024   Su Yapıları                                      4   1      5
+ İNŞ 3025    İNŞ 3026   Ulaştırma II                                     3   0      4
+ İNŞ 3007    İNŞ 3028   Çelik Yapılar                                    3   1      4
+                        Seçmeli Ders                                     2   0      3
+                        Teknik Seçmeli Ders                              2   0      3
+                                                                  AKTS TOPLAMI :    30
+
+Seçmeli Dersler
+Ön Şart      Kod        Ders Adı                                           T   U   AKTS
+ İNŞ 2001 CIE 3011      Structures Engineering                             2   0    3
+
+
+7. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T   U     AKTS
+             İNŞ 4001   Yapı İşletmesi                                   3   0      3
+ İNŞ 3024    İNŞ 4005   Su Yapılarının Tasarımı                          2   0      4
+ İNŞ 3028    İNŞ 4007   Çelik Yapıların Tasarımı                         2   0      4
+ İNŞ 3008    İNŞ 4009   Yapı Dinamiği                                    3   0      5
+ İNŞ 3014    İNŞ 4011   Temel İnşaatı                                    3   0      5
+             İNŞ 4000   Meslek Stajı II                                  -   -      6
+                        Seçmeli Ders                                     3   0      3
+                                                                  AKTS TOPLAMI :    30
+                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                   Mühendislik Fakültesi – İnşaat Mühendisliği Öğretim Planı
+                                  (2013-2014 Öğretim Yılı)
+
+Seçmeli Dersler
+Ön Şart      Kod        Ders Adı                                           T   U   AKTS
+ İNŞ 2016 İNŞ 4020      Şehircilik                                         2   0    3
+ İNŞ 2009 İNŞ 4021      İnşaat Makinaları ve İşletmeleri                   2   0    3
+ İNŞ 4001 İNŞ 4022      Yapı Programlaması                                 3   0    3
+ BİL 1002 İNŞ 4023      Bilgisayar Uygulaması                              2   0    3
+ İNŞ 3011 İNŞ 4027      Öngerilmeli Beton                                  2   0    3
+ İNŞ 3012 İNŞ 4028      Depreme Dayanıklı Tasarım                          3   0    3
+             İNŞ 4029   Yapı Yönetimi                                      2   0    3
+ İNŞ 2023
+             İNŞ 4030   Yapıların Yalıtımı ve Korunması                    3   0    3
+ İNŞ 2024
+ İNŞ 3008 İNŞ 4031      Yapı Statiği III                                   3   0    3
+ İNŞ 3008 İNŞ 4036      Mühendislik Yapıları                               3   0    3
+ İNŞ 3008 İNŞ 4037      Köprüler                                           3   0    3
+ İNŞ 2024 İNŞ 4038      Altarnatif Yapı Malzemeleri                        3   0    3
+ İNŞ 3026 İNŞ 4040      Kırsal Yapılar                                     2   0    3
+ İNŞ 3011 İNŞ 4041      Konut Teknolojisi                                  2   0    3
+ İNŞ 3007 İNŞ 4042      Ahşap Yapılar                                      2   0    3
+ İNŞ 3012 İNŞ 4046      Betonarme Eleman Davranışı                         2   0    3
+ İNŞ 3011 İNŞ 4050      Betonarmede Özel Konular                           3   0    3
+ İNŞ 3023 İNŞ 4051      Akarsularda Katı Madde Hareketi                    3   0    3
+ İNŞ 2028 İNŞ 4052      Uygulamalı Hidroloji                               3   0    3
+ İNŞ 3024 İNŞ 4054      Su Kuvveti Tesisleri                               3   0    3
+ İNŞ 3024 İNŞ 4055      Barajlar                                           3   0    3
+ İNŞ 2028 İNŞ 4058      Taşkın Kontrolü                                    2   0    3
+ İNŞ 3024 İNŞ 4060      Su Getirme Kanalizasyon                            3   0    3
+ İNŞ 2028 İNŞ 4062      Su Kaynaklarının Korunması                         2   0    3
+ İNŞ 3014 İNŞ 4070      Zemin Dinamiğine Giriş                             3   0    3
+ İNŞ 3014 İNŞ 4071      Zemin Mekaniği III                                 3   0    3
+ İNŞ 3014 İNŞ 4073      Kaya Mekaniği                                      3   0    3
+ İNŞ 3014 İNŞ 4074      Bilgisayar Destekli Geoteknik Tasarım              3   0    3
+ İNŞ 3025 İNŞ 4085      Toprak İşleri                                      3   0    3
+ İNŞ 3025 İNŞ 4087      Yol Malzemeleri                                    3   0    3
+ İNŞ 3025 İNŞ 4090      Ulaşım Planlaması                                  3   0    3
+ İNŞ 2007 İNŞ 4091      Tesisat                                            2   0    3
+ İNŞ 3025 İNŞ 4092      Deniz Ulaşımı                                      3   0    3
+ İNŞ 3012 İNŞ 4093      Betonarme Yüksek Yapılar                           3   0    3
+ İNŞ 2010 İNŞ 4094      Bilgisayar Destekli Çizim                          3   0    3
+             İNŞ 4801   Coğrafi Bilgi Sistemleri                           3   0    3
+
+8. Yarıyıl
+Ön Şart      Kod        Ders Adı                                           T   U   AKTS
+ İNŞ 3008
+             İNŞ 4002   Betonarme Yapılarının Tasarımı                     2   0    4
+ İNŞ 3012
+             İNŞ 4006   İnşaat Mühendisliği Ekonomisi                    3   1      5
+             İNŞ 4016   İş ve İmar Hukuku                                2   0      3
+             İNŞ 4099   Bitirme Projesi                                  0   6      9
+                        Seçmeli Ders                                     7   0      9
+                                                                  AKTS TOPLAMI :    30
+                                   DOKUZ EYLÜL ÜNİVERSİTESİ
+                        Mühendislik Fakültesi – İnşaat Mühendisliği Öğretim Planı
+                                       (2013-2014 Öğretim Yılı)
+
+Seçmeli Dersler
+Ön Şart      Kod               Ders Adı                                                           T      U      AKTS
+             CIE 3033          GIS for Civil Engineers                                            2      0       3
+ İNŞ 3024 CIE 4011             Applied Hydraulics                                                 2      0       3
+ İNŞ 3025 CIE 4072             Transportation Engineering                                         2      0       3
+ İNŞ 2007 İNŞ 4024             Mimarlık Bilgisi                                                   2      0       3
+ İNŞ 3008 İNŞ 4025             İleri Yapı Statiği                                                 2      0       3
+ İNŞ 2024 İNŞ 4026             Betonarme Elemanlarının Dayanıklığı                                3      0       3
+ İNŞ 2024 İNŞ 4033             Yapı Malzemesinde Özel Konular                                     3      0       3
+ İNŞ 3008 İNŞ 4035             Yüksek Yapılar                                                     3      0       3
+ İNŞ 3008 İNŞ 4039             Uzaysal Sistemler                                                  3      0       3
+ İNŞ 3008 İNŞ 4044             Özel Taşıyıcı Sistemler                                            2      0       3
+ İNŞ 3008 İNŞ 4045             Taşıyıcı sistem Kavramları                                         2      0       3
+ İNŞ 4009 İNŞ 4048             Deprem Mühendisliğine Giriş                                        3      0       3
+ İNŞ 3012 İNŞ 4049             Betonarme Yapılar                                                  3      0       3
+ İNŞ 3024 İNŞ 4053             Sulama Kurutma                                                     3      0       3
+ İNŞ 2014 İNŞ 4056             Kıyı Yapıları ve Limanlar                                          3      0       3
+ İNŞ 3024 İNŞ 4057             Su Mühendisliği Tarihi                                             2      0       3
+ İNŞ 3023 İNŞ 4059             Bilgisayar Destekli Hidrolik Tasarımı                              3      0       3
+ İNŞ 2028 İNŞ 4061             Su Kaynaklarının Yönetimi                                          2      0       3
+ İNŞ 2014 İNŞ 4063             Yeraltı Suları                                                     3      0       3
+ İNŞ 3014 İNŞ 4072             Özel Temeller                                                      3      0       3
+ İNŞ 3014 İNŞ 4076             Zemin İyileştirme Yöntemleri                                       3      0       3
+ İNŞ 3025 İNŞ 4081             Trafik                                                             3      0       3
+ İNŞ 3026 İNŞ 4084             Otoyol                                                             3      0       3
+ İNŞ 3025 İNŞ 4086             Havaalanları                                                       2      0       3
+ İNŞ 3025 İNŞ 4088             Kaplamalar                                                         3      0       3
+ İNŞ 3025 İNŞ 4089             Demiryolu                                                          3      0       3
+ İNŞ 2024 İNŞ 4096             İleri Beton Teknolojisi                                            2      0       3
+
+
+
+
+AÇIKLAMALAR
+
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler        : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (4 AKTS)
+Teknik Seçmeli Dersler        : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri        : 5. Yarıyıldann itibaren toplam 14 kredi (18 AKTS) alınacaktır.
+
+HER YARIYIL AÇILAN DERSLER
+İNŞ 4005 Su Yapılarının Tasarımı
+İNŞ 4007 Çelik Yapılarının Tasarımı
+İNŞ 4002 Betonarme Yapılarının Tasarımı
+İNŞ 4099 Bitirme Projesi
+
+STAJLAR
+Meslek staj süresi 10 hafta veya 50 iş günüdür. Stajların öğretim planında gösterilen yarıyıllarda yapılması
+zorunlu değildir. Staj süresinin en az 4 haftası şantiye stajı olup, 10 haftalık stajın en az 6 haftası 3. sınıfın
+sonunda yapılır.
+

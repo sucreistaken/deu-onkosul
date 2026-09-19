@@ -1,0 +1,176 @@
+                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                  Mühendislik Fakültesi – Makina Mühendisliği Öğretim Planı
+                                  (2012-2013 Öğretim Yılı)
+
+
+1. Yarıyıl
+Ön Şart      Kod        Ders Adı                                       T   U      AKTS
+             FİZ 1101   Fizik I                                        3   2       5
+             KİM 1015   Kimya                                          3   2       5
+             MAK 1011   Teknik Resim                                   4   0       4
+             MAK 1101   Makina Mühendisliğine Giriş                    1   0       1
+             MAT 1009   Matematik I                                    4   0       4
+             MEE 1003   Technical English I                            3   0       3
+             TBT 1003   Temel Bilgi Teknolojileri                      1   1       2
+             ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I           2   0       2
+             TDL 1001   Türk Dili I                                    2   0       2
+             MAK 1021   Atölye Eğitimi (4 Hafta)                       3   3       2
+                                                                AKTS TOPLAMI :     30
+2. Yarıyıl
+Ön Şart      Kod        Ders Adı                                         T    U   AKTS
+             BİL 1002   Bilgisayar Programlama                           2    2    3
+             FİZ 1102   Fizik II                                         3    2    5
+             MAK 1016   Teknik Resim II                                  4    0    4
+             MAT 1010   Matematik II                                     4    0    4
+             MEE 1004   Technical English II                             3    0    3
+             MEE 1018   Statics                                          4    0    5
+             ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II            2    0    2
+             TDL 1002   Türk Dili II                                     2    0    2
+             BDE 1003   Beden Eğitimi
+             GSH 1003   Halk Oyunları                                     2   0    2
+             GSM 1003   Müzik
+                                                                AKTS TOPLAMI :     30
+3. Yarıyıl
+Ön Şart      Kod        Ders Adı                                       T   U      AKTS
+             EEE 2015   Electric                                       3   0       6
+             MAK 2015   Mukavemet I                                    3   0       6
+             MAT 2011   Matematik III                                  4   0       4
+             MEE 2021   Dynamics                                       4   0       6
+             MMM 2027   Mühendislik Malzemeleri                        4   0       6
+                        Sosyal Seçmeli Ders                            2   0       2
+                                                                AKTS TOPLAMI :     30
+4. Yarıyıl
+Ön Şart      Kod        Ders Adı                                       T   U      AKTS
+             EEE 2018   Electronics                                    3   0       5
+             MAK 2022   Mukavemet II                                   3   0       6
+             MEE 2024   Thermodynamics I                               3   0       6
+             MEE 2026   Fluid Mechanics                                4   0       6
+             MEE 2028   Engineering Mathematics                        3   0       5
+                        Sosyal Seçmeli Ders                            2   0       2
+                                                                AKTS TOPLAMI :     30
+5. Yarıyıl
+Ön Şart      Kod        Ders Adı                                       T   U      AKTS
+             MAK 3019   İmal Usulleri I                                3   0       5
+             MAK 3027   Makina Tasarımı I                              4   0       5
+             MAK 3033   Isı Transferi                                  3   0       5
+             MEE 3017   System Modeling and Analysis                   3   0       5
+             MEE 3025   Mechanism                                      3   0       5
+             MEE 3031   Thermodynamics II                              3   0       5
+                                                                AKTS TOPLAMI :     30
+                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                  Mühendislik Fakültesi – Makina Mühendisliği Öğretim Planı
+                                  (2012-2013 Öğretim Yılı)
+
+6. Yarıyıl
+Ön Şart      Kod        Ders Adı                                             T   U     AKTS
+             MAK 3008   Makina Tasarımı II                                   4   0      6
+             MAK 3012   Isıtma Havalandırma Sistemleri                       3   0      6
+             MAK 3028   İmal Usulleri II                                     3   0      5
+             MAK 3030   Makina Müh.Uygulamalı İstatistik.                    3   0      3
+             MEE 3018   Dynamics of Machinery                                3   0      5
+             MEE 3026   Control Systems                                      3   0      5
+                                                                      AKTS TOPLAMI :    30
+7. Yarıyıl
+Ön Şart      Kod        Ders Adı                                             T   U     AKTS
+             MAK 4097   Makina Mühendisliğinde Ölçüm ve Analiz.Lab.          0   2      2
+             MAK 4099   Araştırma Projesi                                    0   4      4
+             MAK 4100   Temel Staj                                            -  -      5
+                        Seçmeli Ders                                         12  0      16
+                        Teknik Seçmeli Ders                                  2   0      3
+                                                                      AKTS TOPLAMI :    30
+Seçmeli Dersler
+Ön Şart      Kod        Ders Adı                                             T   U     AKTS
+             MAK 4031   Takım Tezgahları                                     3   0      4
+             MAK 4039   Yakıtlar Yanma                                       3   0      4
+             MAK 4041   Mekanik Titreşimler                                  3   0      4
+             MAK 4047   Termik Türbo Makinaları                              3   0      4
+             MAK 4048   Hidrolik Makinalar                                   3   0      4
+             MAK 4049   Ölçme ve Sinyal Analizi                              3   0      4
+             MAK 4051   Kırılma Mekaniğine Giriş                             3   0      4
+             MAK 4055   Enerji Yönetimi Esasları                             3   0      4
+             MAK 4061   Bilgisayar Destekli Tasarım                          3   0      4
+             MAK 4065   Asansör Teknolojileri                                3   0      4
+             MAK 4069   İleri Matematik                                      3   0      4
+             MAK 4073   Sonlu Farklara Giriş                                 3   0      4
+             MAK 4075   Elektriksel Otomasyon Tekniği                        3   0      4
+             MAK 4077   Kestirimci Bakım Esasları ve Tek.                    3   0      4
+             MAK 4079   İleri Makine Konstrüksiyonu                          3   0      4
+             MAK 4081   Transport Tekniği                                    3   0      4
+             MAK 4083   Kaynak Tekniği                                       3   0      4
+             MAK 4085   Sonlu Elemanlara Giriş                               3   0      4
+             MAK 4087   Kompozit Malzeme Mekaniği                            3   0      4
+             MAK 4089   Mot.Taşıt Temel Esasları                             3   0      4
+             MAK 4091   Trafik Kazalarının Analizi                           3   0      4
+             MAK 4093   Isı Değiştirgeçleri                                  3   0      4
+             MAK 4095   Akışkanlar Mekaniği II                               3   0      4
+             MEE 4041   Mechanical Vibrations                                3   0      4
+             MEE 4049   Measurement and Signal Analysis                      3   0      4
+             MEE 4051   Introduction to Fracture Mechanics                   3   0      4
+             MEE 4087   Mechanics of Composite Materials                     3   0      4
+             MEE 4093   Heat Exchangers                                      3   0      4
+
+8. Yarıyıl
+Ön Şart      Kod        Ders Adı                                             T   U     AKTS
+             MAK 4004   Mesleğe Geçiş                                        2   0      2
+             MAK 4098   Bitirme Projesi                                      0   6      7
+             MAK 4200   Meslek Stajı                                          -  -      5
+                        Seçmeli Ders                                         12  0      16
+                                                                      AKTS TOPLAMI :    30
+                                DOKUZ EYLÜL ÜNİVERSİTESİ
+                     Mühendislik Fakültesi – Makina Mühendisliği Öğretim Planı
+                                     (2012-2013 Öğretim Yılı)
+
+
+Seçmeli Dersler
+Ön Şart      Kod             Ders Adı                                                       T      U     AKTS
+             END 2013        İstatistik I                                                   3      0      5
+             END 3022        Kalite Kontrol                                                 3      0      5
+             END 3023        Ergonomi                                                       3      0      5
+             END 4051        Üretim Planlama                                                3      0      5
+             END 4846        Yönetim                                                        3      0      5
+             MAK 4025        Optimizasyon                                                   3      0      4
+             MAK 4026        Ses ve Gürültü Kontrolü                                        3      0      4
+             MAK 4028        Otomasyon ve Robotik                                           3      0      4
+             MAK 4029        Yöneylem Araştırması                                           3      0      4
+             MAK 4032        Tahribatsız Muayene                                            3      0      4
+             MAK 4033        İklimlendirme                                                  3      0      4
+             MAK 4038        Buhar Kazanları                                                3      0      4
+             MAK 4042        Soğutma Makinaları                                             3      0      4
+             MAK 4044        Güneş Enerjisi                                                 3      0      4
+             MAK 4045        İnşaat Makinaları ve Traktörler                                3      0      4
+             MAK 4046        Korozyon                                                       3      0      4
+             MAK 4052        Dişli Çarklar                                                  3      0      4
+             MAK 4056        Jeotermal Isıtma Sistemleri                                    3      0      4
+             MAK 4064        Sayısal Kontrollü Tezgahlar                                    3      0      4
+             MAK 4066        Kol Mekanizmalarının Sentezi                                   3      0      4
+             MAK 4070        Deneysel Mekanik                                               3      0      4
+             MAK 4072        Plastik Teknolojileri                                          3      0      4
+             MAK 4074        Mekatronik                                                     3      0      4
+             MAK 4076        Pnömatik ve hidrolik Sistemler                                 3      0      4
+             MAK 4078        Kaldırma Makinaları                                            3      0      4
+             MAK 4080        Endüstriyel Uygulamalarla Bilg.Des.Müh.                        3      0      4
+             MAK 4082        Kompozit Üretim Teknolojileri                                  3      0      4
+             MAK 4084        Mot.Taşıtların Yapı Elemanları                                 3      0      4
+             MAK 4086        Motorlar                                                       3      0      4
+             MAK 4088        Isı Transferi II                                               3      0      4
+             MEE 4042        Refrigeration Machines                                         3      0      4
+             MEE 4076        Pneumatic and Hydraulic System                                 3      0      4
+             MEE 4082        Composite Manufacturing Technologies                           3      0      4
+             MEE 4090        Design Of Composite Structures                                 3      0      4
+             MMM 3002        Plastik Şekillendirme                                          3      0      4
+AÇIKLAMALAR
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler     : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (4 AKTS)
+Teknik Seçmeli Dersler : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri : 7. Yarıyılda 12 kredi (16 AKTS), 8. Yarıyılda 12 kredi (16 AKTS) olmak üzere
+toplam 24 kredi (36 AKTS) alınacaktır. Mekanik Tasarım ve Isıl Tasarım gruplarından birer tane ders alınması
+zorunludur. Toplam kredinin en az %30 u İngilizce olacak sekilde, bölüm seçmeli derslerinin en az 1 tanesi
+İngilizce açılan (MEE) kodlu derslerden alınacaktır.
+HER YARIYIL AÇILAN DERSLER
+MAK 4099 Araştırma Projesi
+MAK 4098 Bitirme Projesi
+STAJLAR
+Toplam süresi 10 haftadır. Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu değildir. I. Bölüm
+Stajı toplam 5 hafta süreli olup, TEMEL (ÜRETİM) stajıdır. II. Bölüm Stajı toplam 5 hafta olup, MESLEK
+stajıdır. Her iki staj da 2+3 yada 3+2 hafta şeklinde bölünerek yapılabilir.
+

@@ -1,0 +1,50 @@
+                           BTK Akademi: Ücretsiz Çevrim İçi Eğitim Fırsatları
+
+BTK Akademi, Bilgi Teknolojileri ve İletişim Kurumu (BTK) bünyesinde bilgi teknolojileri alanında eğitim, gelişim
+fırsatları sunmak amacıyla 2017 yılında kurulmuştur. BTK Akademi çevrim içi eğitim portalında, 160 bin + dakikadan
+oluşan 315 + çevrim içi eğitim seçeneği mevcuttur. Platformda eğitimler ücretsiz olarak sunulmakta olup, alanında
+uzman eğitmenler tarafından farklı seviyelerde ve konularda eğitim seçenekleri bulunmaktadır. Tamamlanan
+eğitimlerden sertifika alınabilmektedir. E-devlet şifresi ile giriş yapılarak eğitimlere katılım sağlanabilmektedir.
+
+
+
+Öğretim üyelerinin, araştırma görevlilerinin, her düzeyden öğrencilerin yararlanabileceği başlıca eğitimlerin listesine
+aşağıda ulaşabilirsiniz.
+
+
+                         EĞİTİMİN ADI                       SÜRESİ     KATILIM SERTİFİKASI                EĞİTİM LİNKİ
+                                               PROGRAMLAMA DİLLERİ
+Yeni Başlayanlar için Python Programlama                   14:46:43 KATILIM SERTİFİKALI                  Link
+Sıfırdan İleri Seviye Python Programlama                   44:01:15 KATILIM SERTİFİKALI                  Link
+Python Programlama Dili                                    12:20:36 KATILIM SERTİFİKALI                  Link
+İleri Seviye Python Programlama Dili                       12:27:38 KATILIM SERTİFİKALI                  Link
+JAVA ile Programlamaya Giriş                               14:56:16 KATILIM SERTİFİKALI                  Link
+C#                                                         45:24:36 KATILIM SERTİFİKALI                  Link
+C Programlama Dili                                         10:08:54 KATILIM SERTİFİKALI                  Link
+Dart Programlama Dili                                      10:38:06 KATILIM SERTİFİKALI                  Link
+Rust Programlama Dili                                      9:45:50 KATILIM SERTİFİKALI                   Link
+                      PYTHON VE VERİ BİLİMİ
+Python ile Makine Öğrenmesi Uygulamaları                         11:22:51 KATILIM SERTİFİKALI            Link
+Python ile Makine Öğrenmesi                                      22:11:43 KATILIM SERTİFİKALI            Link
+Veri Bilimi için Python ve Tensorflow                            15:57:33 KATILIM SERTİFİKALI            Link
+Keras ile Derin Öğrenme Algoritmaları                            14:23:15 KATILIM SERTİFİKALI            Link
+PyTorch ile Derin Öğrenme Algoritmaları                          14:19:20 KATILIM SERTİFİKALI            Link
+                      YAPAY ZEKA EĞİTİMLERİ
+Araştırmada Üretken Yapay Zekâ Kullanımı                         5:03:57    KATILIM SERTİFİKALI          Link
+Üretken Yapay Zekâya Giriş                                       5:39:13    KATILIM SERTİFİKALI          Link
+Kişiselleştirilmiş GPT'ler                                       2:32:09    KATILIM SERTİFİKALI          Link
+Yapay Zekâ Etiği                                                 1:00:14    KATILIM SERTİFİKALI          Link
+                     İNGİLİZCE DİL EĞİTİMLERİ
+A1 Seviye İngilizce                                              8:40:43 KATILIM SERTİFİKALI             Link
+A2 Seviye İngilizce                                              7:48:14 KATILIM SERTİFİKALI             Link
+B1 Seviye İngilizce                                              9:54:11 KATILIM SERTİFİKALI             Link
+B2 Seviye İngilizce                                              9:59:39 KATILIM SERTİFİKALI             Link
+C1 Seviye İngilizce                                              19:47:50 KATILIM SERTİFİKALI            Link
+                    KİŞİSEL GELİŞİM EĞİTİMLERİ
+Eğitimde Oyunlaştırma ve Web 2.0 Araçları                        4:05:05    KATILIM SERTİFİKALI          Link
+Kişisel Bilgi Güvenliği                                                                                  Link
+Etkili Sunum Teknikleri                                                                                  Link
+Topluluk Önünde Konuşma ve Etkili Sunum Teknikleri               0:48:13    KATILIM SERTİFİKALI          Link
+İletişim ve Network Yönetimi                                     0:35:02    KATILIM SERTİFİKALI          Link
+LinkedIn'de Etkili Profil Oluşturma                              0:48:55    KATILIM SERTİFİKALI          Link
+

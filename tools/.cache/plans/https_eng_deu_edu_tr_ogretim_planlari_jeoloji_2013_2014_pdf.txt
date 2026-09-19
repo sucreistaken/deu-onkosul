@@ -1,0 +1,161 @@
+                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                   Mühendislik Fakültesi – Jeoloji Mühendisliği Öğretim Planı
+                                  (2013-2014 Öğretim Yılı)
+
+1. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T   U   AKTS
+             FİZ 1101   Fizik I                                             3   2    5
+             JEO 1107   Teknik İngilizce I                                  2   0    4
+             JEO 1109   Jeoloji Mühendisliğine Giriş                        2   0    6
+             KİM 1015   Kimya                                               3   2    5
+             MAT 1009   Matematik I                                         4   0    4
+             TBT 1003   Temel Bilgi Teknolojileri                           1   1    2
+             ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                2   0    2
+             BDE 1003   Beden Eğitimi
+             GSH 1003   Halk Oyunları                                       2   0    2
+             GSM 1003   Müzik
+                                                                   AKTS TOPLAMI :    30
+2. Yarıyıl
+Ön Şart      Kod        Ders Adı                                          T   U     AKTS
+             BİL 1002   Bilgisayar Programlama                            2   2      3
+             FİZ 1102   Fizik II                                          3   2      5
+             İNŞ 1011   Teknik Resim                                      3   1      5
+             JEO 1202   Genel Jeoloji                                     2   2      5
+             JEO 1208   Teknik İngilizce II                               2   0      4
+             KİM 1014   Kimya II                                          2   0      3
+             MAT 1010   Matematik II                                      4   0      4
+             ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II             2   0      2
+                                                                   AKTS TOPLAMI :    30
+3. Yarıyıl
+Ön Şart      Kod        Ders Adı                                          T   U     AKTS
+             İNŞ 1012   Statik                                            3   0      4
+             JEO 2302   Mineraloji                                        2   2      5
+             JEO 2304   İstatistik                                        2   0      3
+             JEO 2306   Stratigrafi                                       2   2      6
+             JEO 2307   Paleontoloji                                      2   2      6
+             MAT 2011   Matematik III                                     4   0      4
+             TDL 1001   Türk Dili I                                       2   0      2
+                                                                   AKTS TOPLAMI :    30
+4. Yarıyıl
+Ön Şart      Kod        Ders Adı                                          T   U     AKTS
+             İNŞ 2013   Mukavemet                                         3   0      4
+             JEO 2401   Yapısal Jeoloji                                   2   2      4
+             JEO 2403   Kaya Mekaniği                                     2   2      4
+             JEO 2405   Harita Çizim                                      2   2      5
+             JEO 2406   Optik Mineraloji                                  2   2      5
+             TDL 1002   Türk Dili II                                      2   0      2
+             JEO 2000   Meslek Stajı I                                    -   -      4
+                        Sosyal Seçmeli Ders                               2   0      2
+                                                                   AKTS TOPLAMI :    30
+                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                   Mühendislik Fakültesi – Jeoloji Mühendisliği Öğretim Planı
+                                  (2013-2014 Öğretim Yılı)
+
+5. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T   U     AKTS
+             JEF 3805   Jeofizikte Arama Yöntemleri                         1   2      3
+             JEO 3500   Jeokimya                                            2   2      4
+             JEO 3501   Tarihsel ve Türkiye Jeolojisi                       2   2      4
+             JEO 3502   Magmatik Petroloji                                  2   2      4
+             JEO 3503   Sedimentoloji-Sedimenter Petrografi                 2   2      5
+             JEO 3504   Hidrojeoloji                                        2   2      4
+             JEO 3000   Meslek Stajı II                                     -   -      4
+                        Sosyal Seçmeli Ders                                 2   0      2
+                                                                     AKTS TOPLAMI :    30
+6. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T   U     AKTS
+             JEO 3600   Saha Jeolojisi                                      2   2      6
+             JEO 3602   Metamorfik Petroloji                                2   2      4
+             JEO 3603   Maden Yatakları                                     2   2      5
+             JEO 3604   Çevre Jeolojisi                                     3   0      4
+             JEO 3606   Zemin Mekaniği                                      2   2      4
+             JEO 3608   Jeolojik Harita Alma Stajı                          -   -      4
+                        Teknik Seçmeli Ders                                 2   0      3
+                                                                     AKTS TOPLAMI :    30
+7. Yarıyıl
+Ön Şart      Kod        Ders Adı                                            T    U    AKTS
+             JEO 4701   Maden Jeolojisi ve Arama Yöntemleri                 2     2    5
+             JEO 4705   Mühendislik Jeolojisi                               2     2    5
+             JEO 4707   Yakıtlar Jeolojisi                                  2     0    3
+             JEO 4709   Jeoloji Mühendisliği Tasarımı I                     4     2    7
+                        Seçmeli Ders                                        6 Kredi    10
+                                                                     AKTS TOPLAMI :    30
+Seçmeli Dersler
+Ön Şart     Kod           Ders Adı                                          T   U     AKTS
+            GEO 4151      Structural Analysis Methods                       2   2       5
+            GEO 4155      Earthquake Geology                                2   2       5
+            JEO 4151      Yapısal Analiz Yöntemleri                         2   2       5
+            JEO 4153      Yeraltı Jeolojisi ve Kuyu Logları                 2   2       5
+            JEO 4155      Deprem Jeolojisi                                  2   2       5
+            JEO 4157      Doğa Tarihi ve Evrim                              3   0       5
+            JEO 4159      Traverten Jeolojisi                               2   2       5
+            JEO 4161      Gemoloji                                          2   2       5
+            JEO 4163      Tıbbi Jeoloji                                     3   0       5
+            JEO 4167      Mermer Jeolojisi ve Teknolojisi                   2   2       5
+            JEO 4169      Sıvı Kapanım Uygulamaları                         2   2       5
+            JEO 4171      Cevher Mikroskopisi                               2   2       5
+            JEO 4173      Jeokimyasal Termodinamik                          2   2       5
+            JEO 4175      Maden Hukuku ve ÇED                               3   0       5
+            JEO 4177      Geçmişten Günümüze Jeolojik Mirasın Korunması     2   2       5
+            JEO 4179      Jeotermal Sistemler                               2   2       5
+            JEO 4181      Kaya-Şev Tasarımı                                 2   2       5
+            JEO 4183      Uzaktan Algılama                                  2   2       5
+            JEO 4185      Deprem Jeotekniği                                 2   2       5
+            JEO 4187      Baraj-Tünel Jeolojisi                             2   2       5
+            JEO 4189      Mühendislikte Jeolojik Malzemeler                 2   2       5
+            JEO 4191      Uygulamalı Mineroloji                             2   2       5
+            JEO 4193      Doğal Yapı Taşlarının Mühendislik Özellikleri     2   2       5
+                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                       Mühendislik Fakültesi – Jeoloji Mühendisliği Öğretim Planı
+                                      (2013-2014 Öğretim Yılı)
+
+8. Yarıyıl
+Ön Şart        Kod            Ders Adı                                                     T    U            AKTS
+               JEO 4803       Jeoloji Mühendisliği Tasarımı II                             4     2            7
+               JEO 4805       Sondaj Tekniği                                               2     0            3
+               JEO 4094       Bitirme Projesi                                              0     6            10
+                              Seçmeli Ders                                                 6 Kredi            10
+                                                                                    AKTS TOPLAMI :            30
+
+Seçmeli Dersler
+Ön Şart     Kod                 Ders Adı                                                        T     U     AKTS
+            GEO 4162            Evaporits                                                       2     2       5
+            GEO 4180            Geotechnical Test                                               2     2       5
+            GEO 4192            Hydrothermal Polymetallic Ore Deposits                          2     2       5
+            JEO 4152            Jeolojide Bilgisayar Uygulamaları                               2     2       5
+            JEO 4154            Yerbilimleri ve Doğal Afetler                                   2     2       5
+            JEO 4156            Fiziksel Volkanoloji                                            2     2       5
+            JEO 4162            Evaporitler                                                     2     2       5
+            JEO 4164            Jeolojide Mutlak Yaş Tayini ve Yöntemleri                       2     2       5
+            JEO 4168            Kayaç ve Mineral Analizleri                                     2     2       5
+            JEO 4172            Endüstriyel Hammaddeler                                         2     2       5
+            JEO 4174            Fosil Yakıtlar                                                  3     0       5
+            JEO 4178            Yer Altı Suları Kimyası                                         2     2       5
+            JEO 4180            Jeoteknik Deneyler                                              2     2       5
+            JEO 4184            Yer Altı Hidrolojisi                                            2     2       5
+            JEO 4186            Hidrojeolojik Prospeksiyon                                      2     2       5
+            JEO 4188            Yerbilimlerinde CBS Uygulamaları                                2     2       5
+            JEO 4190            Bilimsel Araştırmalarda Sözlü ve Yazılı Anlatım                 2     2       5
+            JEO 4192            Hidrotermal Polimetalik Maden Yatakları                         2     2       5
+
+AÇIKLAMALAR
+
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler       : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (4 AKTS)
+Teknik Seçmeli Dersler       : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri       : 7. Yarıyıldan itibaren toplam 12 kredi (20 AKTS) alınacaktır.
+
+HER YARIYIL AÇILAN DERSLER
+JEO 4094 Bitirme Projesi
+
+STAJLAR
+Toplam staj süresi 8 haftadır. Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu değildir.
+1) Jeolojik Harita alma Kamp Stajı : 6. yarıyıldan sonra yapılır. Süresi 2 (iki) haftadır. Öğrencilerin bu staja
+katılabilmeleri için JEO 2306 Stratigrafi, JEO 2307 Paleontoloji, JEO 2405 Harita Çizim ve JEO 2401 Yapısal
+Jeoloji derslerinden en az DD notuyla başarılı olmaları ve JEO 3502 Magmatik Petroloji, JEO 3602 Metamorfik
+Petroloji ve JEO 3600 Saha derslerinden final sınavına girmiş olmaları gerekir.
+2) Meslek Stajı : Toplam süresi 6 (altı) haftadır (5 işgünü=1 hafta) En az 4. yarıyılı tamamlamış olanlar staj
+yapabilirler. 3. sınıfı tamamlamış öğrenciler stajın hepsini birden (6 hafta) yada iki farklı iş yerinde (3+3 hafta
+olmak üzere) yapabilirler. Ancak 2. sınıfı tamamlamış öğrenciler, izleyen yaz döneminde 6 haftalık stajın
+bölümünü yapabilirler. Diğer 3 veya kalan haftayı 3. sınıfı izleyen yaz dönemine bırakmak zorundadırlar.
+

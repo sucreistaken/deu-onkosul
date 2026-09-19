@@ -1,0 +1,219 @@
+                                                                                DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                              Mühendislik Fakültesi - Makina Mühendisliği 2024-2025 Öğretim Planı
+                                                   Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+                                       BİRİNCİ YARIYIL                                                                                          İKİNCİ YARIYIL
+Ön Şart   Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart    Kod        Ders Adı                                                T   U    AKTS Süresi
+   -      FİZ 1103   FİZİK I                                                3   2     4    1 Yarıyıl      -       BİL 1002   BİLGİSAYAR PROGRAMLAMA                                  2   2     3    1 Yarıyıl
+   -      KİM 1115   KİMYA                                                  3   2     4    1 Yarıyıl      -       FİZ 1102   FİZİK II                                                3   2     5    1 Yarıyıl
+   -      KPD 1000   Kariyer Planlama                                       1   0     2    1 Yarıyıl      -       MAK 1116   TEKNİK RESİM II                                         4   0     5    1 Yarıyıl
+   -      MAK 1015   TEKNİK RESİM I                                         4   0     4    1 Yarıyıl      -       MAT 1010   MATEMATİK II                                            4   0     4    1 Yarıyıl
+   -      MAK 1021   ATÖLYE EĞİTİMİ (4 HAFTA)                               3   3     2    1 Yıllık       -       MEE 1004   TECHNICAL ENGLISH II                                    3   0     3    1 Yarıyıl
+   -      MAK 1101   MAKİNA MÜHENDİSLİĞİNE GİRİŞ                            1   0     1    1 Yarıyıl      -       MEE 1118   STATICS                                                 4   0     6    1 Yarıyıl
+   -      MAT 1009   MATEMATİK I                                            4   0     4    1 Yarıyıl      -       ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                   2   0     2    1 Yarıyıl
+   -      MEE 1003   TECHNICAL ENGLISH I                                    3   0     3    1 Yarıyıl      -       TDL 1002   Türk Dili II                                            2   0     2    1 Yarıyıl
+   -      TBT 1003   TEMEL BİLGİ TEKNOLOJİLERİ                              1   1     2    1 Yarıyıl                                                                 ZORUNLU AKTS TOPLAMI :    30
+   -      ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                   2   0     2    1 Yarıyıl                                                                 SEÇMELİ AKTS TOPLAMI :    0
+   -      TDL 1001   Türk Dili I                                            2   0     2    1 Yarıyıl
+                                                            ZORUNLU AKTS TOPLAMI :    30
+                                                            SEÇMELİ AKTS TOPLAMI :    0
+
+
+
+
+                                       ÜÇÜNCÜ YARIYIL                                                                                       DÖRDÜNCÜ YARIYIL
+Ön Şart   Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart    Kod        Ders Adı                                                T   U    AKTS Süresi
+   -      EEE 2015   ELECTRIC                                               3   0     6    1 Yarıyıl      -       EEE 2018   ELECTRONICS                                             3   0     5    1 Yarıyıl
+   -      MAK 2115   MUKAVEMET I                                            3   0     5    1 Yarıyıl      -       MAK 2122   MUKAVEMET II                                            3   0     5    1 Yarıyıl
+   -      MAT 2011   MATEMATİK III                                          4   0     4    1 Yarıyıl      -       MEE 2028   ENGINEERING MATHEMATICS                                 3   0     5    1 Yarıyıl
+   -      MEE 2121   DYNAMICS                                               4   0     5    1 Yarıyıl      -       MEE 2124   THERMODYNAMICS I                                        3   0     5    1 Yarıyıl
+   -      MMM 2127   MÜHENDİSLİK MALZEMELERİ                                4   0     5    1 Yarıyıl      -       MEE 2126   FLUID MECHANICS                                         4   0     5    1 Yarıyıl
+   -      İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                              2   0     2    1 Yarıyıl      -       İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                              2   0     2    1 Yarıyıl
+   -      BDE 1001   Beden Eğitimi I                                        1   0     1    1 Yarıyıl      -       BDE 1002   Beden Eğitimi II                                        1   0     1    1 Yarıyıl
+   -      GSH 1001   Halk Oyunları I                                        1   0     1    1 Yarıyıl      -       GSH 1002   Halk Oyunları II                                        1   0     1    1 Yarıyıl
+   -      GSM 1001   Müzik I                                                1   0     1    1 Yarıyıl      -       GSM 1002   Müzik II                                                1   0     1    1 Yarıyıl
+                                                            ZORUNLU AKTS TOPLAMI :    28                                                                             ZORUNLU AKTS TOPLAMI :    28
+                                                            SEÇMELİ AKTS TOPLAMI :    2                                                                              SEÇMELİ AKTS TOPLAMI :    2
+
+
+
+
+                                       BEŞİNCİ YARIYIL                                                                                        ALTINCI YARIYIL
+Ön Şart   Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart    Kod        Ders Adı                                                T   U    AKTS Süresi
+   -      MAK 3119   İMAL USULLERİ I                                        3   0     4    1 Yarıyıl      -       MAK 3028   İMAL USULLERİ II                                        3   0     5    1 Yarıyıl
+   -      MAK 3127   MAKİNA TASARIMI I                                      4   0     4    1 Yarıyıl      -       MAK 3030   MAKİNA MÜHENDİSLİĞİNDE UYGULAMALI İSTATİSTİK 3              0     3    1 Yarıyıl
+   -      MAK 3133   ISI TRANSFERİ                                          3   0     4    1 Yarıyıl      -       MAK 3108   MAKİNA TASARIMI II                                      4   0     5    1 Yarıyıl
+   -      MEE 3017   SYSTEM MODELING AND ANALYSIS                           3   0     5    1 Yarıyıl      -       MAK 3112   ISITMA HAVALANDIRMA SİSTEMLERİ                          3   0     5    1 Yarıyıl
+   -      MEE 3025   MECHANISMS                                             3   0     5    1 Yarıyıl      -       MAK 4004   MESLEĞE GEÇİŞ                                           2   0     2    1 Yarıyıl
+   -      MEE 3031   THERMODYNAMICS II                                      3   0     5    1 Yarıyıl      -       MEE 3018   DYNAMICS OF MACHINERY                                   3   0     5    1 Yarıyıl
+                                                            ZORUNLU AKTS TOPLAMI :    27                  -       MEE 3026   CONTROL SYSTEMS                                         3   0     5    1 Yarıyıl
+                                                            SEÇMELİ AKTS TOPLAMI :    3                                                                              ZORUNLU AKTS TOPLAMI :    30
+                                                                                                                                                                     SEÇMELİ AKTS TOPLAMI :    0
+                                                                        DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                      Mühendislik Fakültesi - Makina Mühendisliği 2024-2025 Öğretim Planı
+                                              Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+                                    YEDİNCİ YARIYIL                                                                                 SEKİZİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                     T   U    AKTS Süresi         Ön Şart     Kod        Ders Adı                                    T   U    AKTS Süresi
+    -       MAK 4297   MAKİNA MÜHENDİSLİĞİNDE ÖLÇÜM VE ANALİZ LAB. 0    2     1    1 Yarıyıl      MAK 4299   MAK 4208   BİTİRME PROJESİ                             0   4     2    1 Yarıyıl
+    -       MAK 4703   TEMEL STAJ                                   0   0     1    25 IG             -       MAK 4804   MESLEK STAJI                                0   0     4    25 IG
+                                                    ZORUNLU AKTS TOPLAMI :    2                                                                    ZORUNLU AKTS TOPLAMI :     6
+                                                    SEÇMELİ AKTS TOPLAMI :    28                                                                    SEÇMELİ AKTS TOPLAMI :    24
+
+Alan Seçmeli Dersler                                                                            Seçmeli Dersler
+    -       MAK 4299   ARAŞTIRMA PROJESİ                            0   4     2    1 Yarıyıl         -       MAK 4114   YOL DIŞI ARAÇLARIN BAKIMI VE İŞLETİLMESİ    3   0     6    1 Yarıyıl
+Seçmeli Dersler                                                                                      -       MAK 4116   METALLERİN PLASTİK ŞEKİLLENDİRİLMESİ        3   0     6    1 Yarıyıl
+    -       MAK 4105   MAKİNA ELEMANLARINDA AŞINMA VE YAĞLAMA       3   0     6    1 Yarıyıl         -       MAK 4120   HİBRİT VE ELEKTRİKLİ TAŞIT TEKNOLOJİSİ      3   0     6    1 Yarıyıl
+    -       MAK 4203   UYGULAMALI İLERİ MUKAVEMET                   3   0     6    1 Yarıyıl         -       MAK 4216   SES VE GÜRÜLTÜ KONTROLÜ                     3   0     6    1 Yarıyıl
+    -       MAK 4225   OPTİMİZASYON                                 3   0     6    1 Yarıyıl         -       MAK 4232   TAHRİBATSIZ MUAYENE                         3   0     6    1 Yarıyıl
+    -       MAK 4231   TAKIM TEZGAHLARI                             3   0     6    1 Yarıyıl         -       MAK 4238   BUHAR KAZANLARI                             3   0     6    1 Yarıyıl
+    -       MAK 4233   İKLİMLENDİRME                                3   0     6    1 Yarıyıl         -       MAK 4242   SOĞUTMA MAKİNALARI                          3   0     6    1 Yarıyıl
+    -       MAK 4239   YAKITLAR YANMA                               3   0     6    1 Yarıyıl         -       MAK 4244   GÜNEŞ ENERJİSİ                              3   0     6    1 Yarıyıl
+    -       MAK 4241   MEKANİK TİTREŞİMLER                          3   0     6    1 Yarıyıl         -       MAK 4248   OTOMASYON VE ROBOTİK                        3   0     6    1 Yarıyıl
+    -       MAK 4245   İNŞAAT MAKİNALARI VE TRAKTÖRLER              3   0     6    1 Yarıyıl         -       MAK 4252   DİŞLİ ÇARKLAR                               3   0     6    1 Yarıyıl
+    -       MAK 4247   TERMİK TÜRBO MAKİNALARI                      3   0     6    1 Yarıyıl         -       MAK 4256   JEOTERMAL ISITMA SİSTEMLERİ                 3   0     6    1 Yarıyıl
+    -       MAK 4249   ÖLÇME VE SİNYAL ANALİZİ                      3   0     6    1 Yarıyıl         -       MAK 4258   HİDROLİK MAKİNALAR                          3   0     6    1 Yarıyıl
+    -       MAK 4251   KIRILMA MEKANİĞİNE GİRİŞ                     3   0     6    1 Yarıyıl         -       MAK 4264   SAYISAL KONTROLLÜ TEZGAHLAR                 3   0     6    1 Yarıyıl
+    -       MAK 4255   ENERJİ YÖNETİMİ ESASLARI                     3   0     6    1 Yarıyıl         -       MAK 4266   KOL MEKANİZMALARININ SENTEZİ                3   0     6    1 Yarıyıl
+    -       MAK 4261   BİLGİSAYAR DESTEKLİ TASARIM                  3   0     6    1 Yarıyıl         -       MAK 4270   DENEYSEL MEKANİK                            3   0     6    1 Yarıyıl
+    -       MAK 4265   ASANSÖR TEKNOLOJİLERİ                        3   0     6    1 Yarıyıl         -       MAK 4272   PLASTİK TEKNOLOJİLERİ                       3   0     6    1 Yarıyıl
+    -       MAK 4273   SONLU FARKLARA GİRİŞ                         3   0     6    1 Yarıyıl         -       MAK 4274   MEKATRONİK                                  3   0     6    1 Yarıyıl
+    -       MAK 4275   ELEKTRİKSEL OTOMASYON TEKNİĞİ                3   0     6    1 Yarıyıl         -       MAK 4278   KALDIRMA MAKİNALARI                         3   0     6    1 Yarıyıl
+    -       MAK 4277   KESTİRİMCİ BAKIM ESASLARI VE TEK.            3   0     6    1 Yarıyıl         -       MAK 4280   ENDÜSTRİYEL UYGULAMALARLA BİLG. DES. MÜH.   3   0     6    1 Yarıyıl
+    -       MAK 4279   İLERİ MAKİNA KONSTRÜKSİYONU                  3   0     6    1 Yarıyıl         -       MAK 4282   KOMPOZİT ÜRETİM TEKNOLOJİLERİ               3   0     6    1 Yarıyıl
+    -       MAK 4281   TRANSPORT TEKNİĞİ                            3   0     6    1 Yarıyıl         -       MAK 4284   MOT.TAŞITLARIN YAPI ELEMANLARI              3   0     6    1 Yarıyıl
+    -       MAK 4283   KAYNAK TEKNİĞİ                               3   0     6    1 Yarıyıl         -       MAK 4286   PNÖMATİK VE HİDROLİK SİSTEMLER              3   0     6    1 Yarıyıl
+    -       MAK 4285   SONLU ELEMANLARA GİRİŞ                       3   0     6    1 Yarıyıl         -       MAK 4288   ISI TRANSFERİ II                            3   0     6    1 Yarıyıl
+    -       MAK 4287   KOMPOZİT MALZEME MEKANİĞİ                    3   0     6    1 Yarıyıl         -       MAK 4290   KOMPOZİT YAPILARIN TASARIMI                 3   0     6    1 Yarıyıl
+    -       MAK 4289   MOT.TAŞIT.TEMEL ESASLARI                     3   0     6    1 Yarıyıl         -       MAK 4292   MÜHENDİSLİKTE DENEYSEL TASARIM              3   0     6    1 Yarıyıl
+    -       MAK 4291   TRAFİK KAZALARININ ANALİZİ                   3   0     6    1 Yarıyıl         -       MAK 4296   MOTORLAR                                    3   0     6    1 Yarıyıl
+    -       MAK 4293   ISI DEĞİŞTİRGEÇLERİ                          3   0     6    1 Yarıyıl
+    -       MAK 4295   AKIŞKANLAR MEKANİĞİ II                       3   0     6    1 Yarıyıl
+    -       MEE 4241   MECHANICAL VIBRATIONS                        3   0     8    1 Yarıyıl
+    -       MEE 4249   MEASUREMENT AND SIGNAL ANALYSIS              3   0     8    1 Yarıyıl
+    -       MEE 4251   INTRODUCTION TO FRACTURE MECHANICS           3   0     8    1 Yarıyıl
+    -       MEE 4287   MECHANICS OF COMPOSITE MATERIALS             3   0     8    1 Yarıyıl
+    -       MEE 4293   HEAT EXCHANGERS                              3   0     8    1 Yarıyıl
+    -       MEE 4343   REFRIGERATION MACHINES                       3   0     8    1 Yarıyıl
+    -       MEE 4377   PNEUMATIC AND HYDRAULIC SYSTEMS              3   0     8    1 Yarıyıl
+    -       MEE 4383   COMPOSITES MANUFACTURING TECHNOLOGIES        3   0     8    1 Yarıyıl
+    -       MEE 4391   DESIGN OF COMPOSITE STRUCTURES               3   0     8    1 Yarıyıl
+    -       MEE 4397   COMPUTER AIDED MODELLING OF THERMAL SYSTEMS 3    0     8    1 Yarıyıl
+                                                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                            Mühendislik Fakültesi - Makina Mühendisliği 2024-2025 Öğretim Planı
+                                                              Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                                                            Teknik Seçmeli Dersler
+Ön Şart     Kod        Ders Adı                                                                        T     U   AKTS Süresi      Ön Şart     Kod        Ders Adı                                                                         T     U   AKTS Süresi
+            GÇD 1000     Gönüllülük Çalışmaları                                                         1    2    4   1 Yarıyıl               ETE 3003     INTRODUCTION TO NANOTECHNOLOGY                                                  2    0    4   1 Yarıyıl
+            GÇD 1001     Volunteerism Studies                                                           1    2    4   1 Yarıyıl               ETE 3005     METHODS OF ARTIFICAL INTELLIGENCE                                               2    0    4   1 Yarıyıl
+            İHD 1002     Human Rights                                                                   2    0    4   1 Yarıyıl               ETE 3007     FUNDAMENTALS OF ROBOTICS                                                        2    0    4   1 Yarıyıl
+            İHD 1001     İnsan Hakları                                                                  2    0    4   1 Yarıyıl               ETE 3014     GIS FOR ENGINEERS                                                               2    0    4   1 Yarıyıl
+            ESE 2065     CAREER PLANNING AND DEVELOPMENT                                                2    0    3   1 Yarıyıl               ETE 3017     PHYSICAL MODELS                                                                 2    0    4   1 Yarıyıl
+            ESE 2067     BUSINESS MANAGEMENT AND MANAGEMENT                                             2    0    3   1 Yarıyıl               ETE 3043     DIGITAL TRANSFORMATION IN INDUSTRY                                              2    0    4   1 Yarıyıl
+            ESE 2069     PERSONAL STYLE AND IMAGE MANAGEMENT                                            2    0    3   1 Yarıyıl               MTH 3616     FİKRİ VE SINAİ HAKLAR (PATENT-MARKA-TASARIM) GENEL BAKIŞ 2                           0    3   1 Yarıyıl
+            MSİ 2001     SUNUM VE SUNUŞ TEKNİKLERİ                                                      2    0    2   1 Yarıyıl               MTH 3620     MÜHENDİSLİK SİSTEMLERİ İÇİN NÜMERİK ANALİZ YAKLAŞIMLARI 2                            0    3   1 Yarıyıl
+            MSİ 2005     KİŞİSEL GELİŞİM VE ETKİLİ YAŞAMAK                                              2    0    2   1 Yarıyıl               MTS 3001     BİYOTEKNOLOJİ                                                                   2    0    3   1 Yarıyıl
+            MSİ 2009     AVRUPA BİRLİĞİNDE SOSYAL POLİTİKA                                              2    0    2   1 Yarıyıl               MTS 3003     NANOTEKNOLOJİYE GİRİŞ                                                           2    0    3   1 Yarıyıl
+            MSİ 2013     MÜHENDİSLİK ETİĞİ                                                              2    0    2   1 Yarıyıl               MTS 3007     ROBOTUN TEMELLERİ                                                               2    0    3   1 Yarıyıl
+            MSİ 2015     MÜHENDİSLER İÇİN FRANSIZCA                                                     2    0    2   1 Yarıyıl               MTS 3009     ÇEVRENİN KORUNMASINI AMAÇLAYAN DİSİPLİNLERARASI PROJ. GELİŞ. 2                       0    3   1 Yarıyıl
+            MSİ 2027     PSİKOLOJİYE GİRİŞ                                                              2    0    2   1 Yarıyıl               MTS 3011     MÜHENDİSLİK MALZEMELERİNİN KARAKTERİZASYONU 2                                        0    3   1 Yarıyıl
+            MSİ 2029     İLETİŞİM BECERİLERİ                                                            2    0    2   1 Yarıyıl               MTS 3015     YOL TEKNOLOJİSİNDE YENİLİKLER                                                   2    0    3   1 Yarıyıl
+            MSİ 2031     İNSAN KAYNAKLARI YÖNETİMİ                                                      2    0    2   1 Yarıyıl               MTS 3017     FİZİKSEL MODELLER                                                               2    0    3   1 Yarıyıl
+            MSİ 2037     MÜHENDİSLİK EKONOMİSİ                                                          2    0    2   1 Yarıyıl               MTS 3019     ÜRETİMDE ÇÖZÜM YAKLAŞIMLARI                                                     2    0    3   1 Yarıyıl
+            MSİ 2041     BÜTÜNLEŞİK KIYI YÖNETİMİ, TÜRKİYEDE LİMAN YÖNETİMİ VE DEVLETLERARASI PROGRAMLAR 2   0    2   1 Yarıyıl               MTS 3043     ENDÜSTRİDE DİJİTAL DÖNÜŞÜM                                                      2    0    3   1 Yarıyıl
+            MSİ 2043     İŞ KANUNU VE UYGULAMASI                                                        2    0    2   1 Yarıyıl               ETE 3006     BIOMEDICAL SYSTEMS                                                              2    0    4   1 Yarıyıl
+            MSİ 2049     DOĞAL AFETLER                                                                  2    0    2   1 Yarıyıl               ETE 3018     MODERN ENGINEERING MATHEMATICS                                                  2    0    4   1 Yarıyıl
+            MSİ 2059     AFET YÖNETİMİ                                                                  2    0    2   1 Yarıyıl               ETE 3025     PROJECT MANAGEMENT                                                              2    0    4   1 Yarıyıl
+            MSİ 2061     İŞLETMELERDE İÇ DENETİM                                                        2    0    2   1 Yarıyıl               ETE 3029     QUALITY MANAGEMENT                                                              2    0    4   1 Yarıyıl
+            MSİ 2063     PAZARLAMAYA GİRİŞ                                                              2    0    2   1 Yarıyıl               ETE 3031     NAVIGATION ENGINEERING                                                          2    0    4   1 Yarıyıl
+            MSİ 2065     KARİYER PLANLAMA VE GELİŞTİRME                                                 2    0    2   1 Yarıyıl               ETE 3032     PERFORMANCE MEASUREMENT IN BUSINESSES                                           2    0    4   1 Yarıyıl
+            MSİ 2067     İŞLETME YÖNETİMİ VE YÖNETİCİLİĞİ                                               2    0    2   1 Yarıyıl               ETE 3034     FINANCIAL MANAGEMENT FOR ENGINEERS                                              2    0    4   1 Yarıyıl
+            MSİ 2069     KİŞİSEL STİL VE İMAJ YÖNETİMİ                                                  2    0    2   1 Yarıyıl               ETE 3035     ELEMENTAL & ISOTOPIC ANALYSIS IN THE MULTIDISCIPLINARY FIELDS 2                      0    4   1 Yarıyıl
+            MSİ 2071     HALK OYUNLARI                                                                  2    0    2   1 Yarıyıl               ETE 3042     TEST, CONTROL AND CALIBRATION IN MEDICAL DEVICES 3                                   2    6   1 Yarıyıl
+            ESE 2060     BASIC JAPANESE                                                                 2    0    3   1 Yarıyıl               ETE 3044     IMAGING, ART AND MUSEUMS                                                        2    0    4   1 Yarıyıl
+            ESE 2066     OCCUPATIONAL HEALTH DISEASES IN ENGINEERING 2                                       0    3   1 Yarıyıl               MTH 3501     BASIC CYBER SECURITY                                                            2    0    4   1 Yarıyıl
+            ESE 2070     CLIMATE CHANGE AND SUSTAINABLE MANAGEMENT 2                                         0    3   1 Yarıyıl               MTH 3502     INFORMATION NETWORKS                                                            2    0    4   1 Yarıyıl
+            MSİ 2002     FELSEFEYE GİRİŞ                                                                2    0    2   1 Yarıyıl               MTH 3503     INTRODUCTION TO QUANTUM COMPUTING                                               2    0    4   1 Yarıyıl
+            MSİ 2004     İNSAN İLİŞKİLERİ                                                               2    0    2   1 Yarıyıl               MTH 3504     PHASE ARRAY RADAR TECHNOLOGIES                                                  2    0    4   1 Yarıyıl
+            MSİ 2006     BRİÇ                                                                           2    0    2   1 Yarıyıl               MTH 3505     WIRELESS POWER TRANSER SYSTEMS                                                  2    0    4   1 Yarıyıl
+            MSİ 2008     EKONOMİK KÜRESELLEŞME                                                          2    0    2   1 Yarıyıl               MTH 3509     UZAY RADYASYON ORTAMI VE ETKİLERİ                                               2    0    3   1 Yarıyıl
+            MSİ 2012     GENÇ GİRİŞİMCİLİK                                                              2    0    2   1 Yarıyıl               MTH 3606     PARDUS VE LIBREOFFICE EĞİTİMİ                                                   2    0    3   1 Yarıyıl
+            MSİ 2016     ÇEVRE KİRLİLİĞİ VE KONTROLU                                                    2    0    2   1 Yarıyıl               MTH 3607     SİSTEM MÜHENDİSLİĞİ                                                             2    0    3   1 Yarıyıl
+            MSİ 2022     MİMAR SİNAN                                                                    2    0    2   1 Yarıyıl               MTH 3608     TEMEL JAVA VE NESNE TABANLI PROGRAMLAMAYA GİRİŞ 2                                    0    3   1 Yarıyıl
+            MSİ 2024     DOĞA ÇEVRE VE KENT                                                             2    0    2   1 Yarıyıl               MTH 3610     NANOKARBON MALZEMELER VE TEKNOLOJİLERİ                                          2    0    3   1 Yarıyıl
+            MSİ 2026     AVRUPA BİRLİĞİ VE AVRUPA KONSEYİNDE BÜTÜNLEŞİK ÇEVRE POLİTİKASI 2                   0    2   1 Yarıyıl               MTH 3612     ENSTRÜMENTAL ANALİZ                                                             2    0    3   1 Yarıyıl
+            MSİ 2030     HALKLA İLİŞKİLER                                                               2    0    2   1 Yarıyıl               MTH 3613     ENERJİ SİSTEMLERİ VE ENDÜSTRİYEL KAZAN TEKNOLOJİLERİ 2                               0    3   1 Yarıyıl
+            MSİ 2032     SOSYAL PSİKOLOJİ                                                               2    0    2   1 Yarıyıl               MTS 3002     DEPREM MÜHENDİSLİĞİNDE SEÇMELİ KONULAR                                          2    0    3   1 Yarıyıl
+            MSİ 2044     ORTAÇAĞ'DA ANADOLU UYGARLIKLARI                                                2    0    2   1 Yarıyıl               MTS 3004     ARKEOLOJİK PROSPEKSİYON                                                         2    0    3   1 Yarıyıl
+            MSİ 2048     TÜRKİYE'NİN JEO.MİRAS JEOTUR.JEOPARK POT.VE KORUNMASI 2                             0    2   1 Yarıyıl               MTS 3005     YAPAY ZEKA YÖNTEMLERİ                                                           2    0    3   1 Yarıyıl
+            MSİ 2050     FİKRİ VE SINAİ MÜLKİYET HAKLARI                                                2    0    2   1 Yarıyıl               MTS 3008     MALZEME VE ÜRETİM                                                               2    0    3   1 Yarıyıl
+            MSİ 2054     SOSYAL POLİTİKA                                                                2    0    2   1 Yarıyıl               MTS 3010     MADENCİLİK FAALİYETLERİNİN ÇEVRESEL ETKİLERİ 2                                       0    3   1 Yarıyıl
+            MSİ 2060     TEMEL JAPONCA                                                                  2    0    2   1 Yarıyıl               MTS 3012     TEKNİK TEKSTİLLER II                                                            2    0    3   1 Yarıyıl
+            MSİ 2062     YÖNETİMDE STRATEJİK PLANLAMA                                                   2    0    2   1 Yarıyıl               MTS 3014     MÜHENDİSLER İÇİN COĞRAFİ BİLGİ SİSTEMİ                                          2    0    3   1 Yarıyıl
+            MSİ 2064     SATRANÇ                                                                        2    0    2   1 Yarıyıl               MTS 3016     ULAŞIM SİSTEMLERİ ANALİZİNE GİRİŞ                                               2    0    3   1 Yarıyıl
+            MSİ 2066     MÜHENDİSLİKTE MESLEK HASTALIKLARI                                              2    0    2   1 Yarıyıl               MTS 3020     ENERJİ VE ÇEVRE                                                                 2    0    3   1 Yarıyıl
+            MSİ 2070     İKLİM DEĞİŞİKLİĞİ VE SÜRDÜRÜLEBİLİR YÖNETİM                                    2    0    2   1 Yarıyıl               MTS 3021     MÜHENDİSLİK PROJELERİNDE KAYA MEKANİĞİ VE SAYISAL MODELLEME UYGULAMALARI 2           0    3   1 Yarıyıl
+            MSİ 2072     BİLİŞİM HUKUKU                                                                 2    0    2   1 Yarıyıl               MTS 3022     TÜNEL AÇMA                                                                      2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3023     MADEN ARAMALARINDA JEOFİZİK YÖNTEMLER                                           2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3024     JEOLOJİK PROBLEMLER VE JEOFİZİK ÇÖZÜMLERİ                                       2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3025     PROJE YÖNETİMİ                                                                  2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3026     YER BİLİMLERİNDE BİLGİSAYAR DESTEKLİ TASARIM 2                                       0    3   1 Yarıyıl
+                                                                                                                                              MTS 3027     SONDAJ TEKNOLOJİSİ VE UYGULAMALARI                                              2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3028     MÜHENDİSLİKTE HARİTA BİLGİSİ                                                    2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3029     KALİTE YÖNETİMİ                                                                 2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3030     SULAK ALANLAR                                                                   2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3031     SEYİR MÜHENDİSLİĞİ                                                              2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3032     İŞLETMELERDE PERFORMANS ÖLÇÜMÜ                                                  2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3033     DIŞ TİCARET İŞLEMLERİ                                                           2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3034     MÜHENDİSLER İÇİN FİNANSAL YÖNETİM                                               2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3035     MULTİDİSİPLİNER ALANLARDA ELEMENT VE İZOTOP ÖLÇÜM TEKNİKLERİ 2                       0    3   1 Yarıyıl
+                                                                                                                                              MTS 3036     YERBİLİMLERİNDE YAPAY ZEKA UYGULAMALARI                                         2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3037     MÜHENDİSLER İÇİN GENEL FİZİKİ COĞRAFYA                                          2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3038     MÜHENDİSLİK VE YERYÜZÜ YAPILARININ GLOBAL NAVİGASYON UYDU SİSTEMLERİ (GNSS) İLE 2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3039     YERBİLİMLERİ TARİHİ VE FELSEFESİ                                                2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3040     JEOARKEOLOJİ                                                                    2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3041     ARKEOSİSMOLOJİ                                                                  2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3042     TIBBİ CİHAZLARDA TEST, KONTROL VE KALİBRASYON 3                                      2    6   1 Yarıyıl
+                                                                                                                                              MTS 3044     YER BİLİMLERİNDE İNSANSIZ HAVA ARAÇLARININ (İHA) KULLANIM ALANLARI VE UYGULAMALA 2   0    3   1 Yarıyıl
+                                                                                                         DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                         Mühendislik Fakültesi - Makina Mühendisliği 2024-2025 Öğretim Planı
+                                                           Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+Erasmus Dersleri
+Ön Şart     Kod        Ders Adı                                                                    T     U   AKTS Süresi
+    -       ERA 2300   INTRODUCTION TO GEOSPATIAL ASSESSMENTS ON ENVIROMENTAL SUSTAINABILITY 2           1    5   1 Yarıyıl
+    -       ERA 2301   CLIMATE CHANGE ASSESSMENTS ON ENVIRONMENTAL ISSUES, PRIORITIES AND CHALLENGES 3   0    5   1 Yarıyıl
+    -       ERA 2302   SUSTAINABLE DESIGN OF ENGINEERING STRUCTURES 2                                    1    5   1 Yarıyıl
+    -       ERA 4800   INTRODUCTION TO SUSTAINABLE ENERGY SYSTEMS 3                                      0    5   1 Yarıyıl
+
+
+
+
+  AÇIKLAMALAR: SEÇMELİ DERSLER:
+  3. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  4. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  5. yarıyıl: 2 kredi (3 AKTS) Teknik Seçmeli (TOPLAM 3 AKTS)
+  7. yarıyıl : 12 kredi (26 AKTS) Seçmeli (TOPLAM 26 AKTS)
+  7. yarıyıl : 2 Kredi (2 AKTS) MAK 4299 Araştırma Projesi Alan Seçmeli (TOPLAM 2 AKTS)
+  8. yarıyıl : 12 kredi (24 AKTS) Seçmeli (TOPLAM 24 AKTS)
+
+
+  Mekanik Tasarım ve Isıl Tasarım gruplarından birer tane ders alınması zorunludur. Toplam kredinin en az %30 u İngilizce olacak
+  sekilde, bölüm seçmeli derslerinin en az 1 tanesi İngilizce açılan (MEE) kodlu derslerden alınacaktır.
+
+  HER YARIYIL AÇILAN DERSLER:
+  MAK 4299 Araştırma Projesi
+  MAK 4208 Bitirme Projesi
+
+  STAJLAR:
+  Toplam süresi 50 İş günüdür. Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu değildir. I. Bölüm Stajı
+  toplam 25 iş günü olup TEMEL (ÜRETİM) stajıdır. II. Bölüm Stajı toplam 25 iş günü olup, MESLEK stajıdır. Her iki staj da 10+15 iş günü ya da
+  15+10 iş günü şeklinde bölünerek yapılabilir.
+
+  * Öğretim planında yer alan; Beden Eğitimi, Resim, Müzik, Halk Oyunları derslerinden yalnızca bir tanesi seçilecektir.
+

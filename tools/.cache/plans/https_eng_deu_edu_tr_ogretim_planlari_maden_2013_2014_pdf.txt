@@ -1,0 +1,149 @@
+                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                  Mühendislik Fakültesi – Maden Mühendisliği Öğretim Planı
+                                 (2013-2014 Öğretim Yılı)
+
+1. Yarıyıl
+Ön Şart      Kod        Ders Adı                                                 T   U     AKTS
+             FİZ 1101   Fizik I                                                  3   2      5
+             JEO 1013   Genel Jeoloji                                            2   0      3
+             KİM 1015   Kimya                                                    3   2      5
+             MAT 1009   Matematik I                                              4   0      4
+             MDN 1003   Teknik İngilizce I                                       2   0      3
+             MDN 1005   Maden Mühendisliğine Giriş                               2   0      2
+             TBT 1003   Temel Bilgi Teknolojileri                                1   1      2
+             BDE 1003   Beden Eğitimi
+             GSH 1003   Halk Oyunları                                            2    0     2
+             GSM 1003   Müzik
+             MDN 1000   Staj I                                                   -   -      4
+                                                                          AKTS TOPLAMI :    30
+2. Yarıyıl
+Ön Şart      Kod        Ders Adı                                                 T   U     AKTS
+             BİL 1002   Bilgisayar Programlama                                   2   2      3
+             FİZ 1102   Fizik II                                                 3   2      5
+             İNŞ 1011   Teknik Resim                                             3   1      5
+             JEO 1024   Mineraloji ve Petrografi                                 2   1      3
+             KİM 1040   Fizikokimya                                              2   0      3
+             MAT 1010   Matematik II                                             4   0      4
+             MDN 1004   Teknik İngilizce II                                      2   0      3
+             MDN 1500   Staj II                                                  -   -      4
+                                                                          AKTS TOPLAMI :    30
+3. Yarıyıl
+Ön Şart      Kod        Ders Adı                                                 T   U     AKTS
+             ELK 2081   Elektroteknik ve Elektrik Makinaları                     2   0      2
+             İNŞ 1012   Statik                                                   3   0      4
+             İNŞ 2033   Akışkanlar Mekaniği                                      2   0      3
+             MAT 2011   Matematik III                                            4   0      4
+             MDN 2015   İstatistik                                               3   0      4
+             MMM 2026   Mühendislik Malzemeleri                                  3   0      5
+             ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                     2   0      2
+             TDL 1001   Türk Dili I                                              2   0      2
+             MDN 2000   Staj III                                                 -   -      4
+                                                                          AKTS TOPLAMI :    30
+
+4. Yarıyıl
+Ön Şart      Kod           Ders Adı                                               T  U     AKTS
+             İNŞ 2013      Mukavemet                                              3  0      4
+             JEO 2044      Maden Yatakları                                        2  0      3
+             MAT 2014      Matematik IV                                           4  0      4
+             MDN 2012      Cevher Hazırlama I                                     3  2      6
+             MDN 2014      Maden Topoğrafyası                                     2  2      5
+             MDN 2016      Madencilikte Temel Mühendislik Pratiği (PBL)           2  0      4
+             ATA 1002      Atatürk İlkeleri ve İnk. Tarihi II                     2  0      2
+             TDL 1002      Türk Dili II                                           2  0      2
+                                                                          AKTS TOPLAMI :    30
+                               DOKUZ EYLÜL ÜNİVERSİTESİ
+                    Mühendislik Fakültesi – Maden Mühendisliği Öğretim Planı
+                                   (2013-2014 Öğretim Yılı)
+
+5. Yarıyıl
+Ön Şart       Kod          Ders Adı                                              T   U         AKTS
+MDN 2012      MDN 3009     Cevher Hazırlama PDÖ                                  2   2          6
+              MDN 3011     Yeraltı Madencilik Yöntemleri                         3   0          3
+              MDN 3013     Maden Arama ve Sondaj Tekniği                         2   1          5
+              MDN 3015     Cevher Hazırlama II                                   3   2          6
+              MDN 3019     Maden Ekonomisi                                       2   0          3
+              MDN 3021     Seminer                                               0   2          3
+                           Sosyal Seçmeli Ders                                   4   0          4
+                                                                          AKTS TOPLAMI :        30
+6. Yarıyıl
+Ön Şart       Kod          Ders Adı                                              T   U         AKTS
+              MDN 3004     Madenlerde Havalandırma                               3   0          3
+              MDN 3006     Kaya ve Zemin Mekaniği                                2   2          4
+MDN 3011      MDN 3008     Maden İşletme PDÖ                                     2   2          6
+              MDN 3010     Cevher Hazırlama III                                  3   2          6
+              MDN 3012     Açık İşletme Madenciliği                              3   0          3
+                           Seçmeli Ders                                          2   2          5
+                           Teknik Seçmeli Ders                                   2   0          3
+                                                                          AKTS TOPLAMI :        30
+
+Seçmeli Dersler
+Ön Şart Kod                  Ders Adı                                                  T   U   AKTS
+          MDN 3110           Madencilikte Satış ve Pazarlama Teknikleri                2   2    5
+          MDN 3112           Madencilikte Bilgisayar Destekli Tasarım                  2   2    5
+          MDN 3114           Madenlerde Basınçlı Hava Pnömatik ve Hidrolik Sistemler   2   2    5
+          MDN 3116           Açık Maden Ocaklarında Şev Stabilitesi                    2   2    5
+          MDN 3118           Madenciliktre Kazı Teknolojisi                            2   2    5
+          MDN 3120           Cevher Zenginleştirmede Uygulamalı Yöntem Seçimi          2   2    5
+          MDN 3122           Cevher Hazırlama ve Zenginleştirmede Isıl İşlemler        2   2    5
+          MDN 3124           Madencilik Faaliyetlerinde Süreksizliklerin Etkisi        2   2    5
+                             Cevher Hazırlama ve Zenginleştirme Tesislerinde İş
+             MDN 3126                                                                  2   2    5
+                             Güvenliği ve Risk Yönetimi
+             MIN 3102        Bench Blasting and Fragmentation                          2   2    5
+             MIN 3104        Reserve Estimation Techniques in Mining                   2   2    5
+             MIN 3106        Size Reduction Models                                     2   2    5
+             MIN 3122        Thermal Processes In Mineral Processing                   2   2    5
+
+7. Yarıyıl
+Ön Şart         Kod             Ders Adı                                               T   U    AKTS
+                MDN 4005        Kömür Hazırlama ve Teknolojisi                         2   0     4
+                MDN 4011        Maden Mekanizasyonu ve Nakliyat                        3   0     5
+                MDN 4015        İş Güvenliği                                           2   0     3
+MDN 3011
+MDN 3012        MDN 4017        Maden İşletme Tasarımı                                 2   4     13
+                                Seçmeli Ders                                        2  2         5
+                                                                            AKTS TOPLAMI :       30
+                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                       Mühendislik Fakültesi – Maden Mühendisliği Öğretim Planı
+                                      (2013-2014 Öğretim Yılı)
+
+Seçmeli Dersler
+Ön Şart      Kod              Ders Adı                                                           T     U      AKTS
+             MDN 4111         Madencilik Operasyonlarının Tasarımı                               2     2       5
+             MDN 4115         Mermer Teknolojisi                                                 2     2       5
+             MDN 4117         Katı Sıvı Ayırımı                                                  2     2       5
+             MDN 4123         Tünel Planlama Ve Projelendirme                                    2     2       5
+             MDN 4125         Patlatma Tasarımı ve Verimlilik Analizi                            2     2       5
+             MDN 4129         Sığ Yer Altı Yapıları ve Tasarımı                                  2     2       5
+             MDN 4131         Hidrometalurjide Çözelti Kimyası                                   2     2       5
+             MIN 4115         Marble Technology                                                  2     2       5
+             MIN 4117         Solid-Liquid Separation                                            2     2       5
+             MIN 4127         Particle Technology And Characterization                           2     2       5
+
+8. Yarıyıl
+Ön Şart          Kod                Ders Adı                                                      T     U      AKTS
+                 MDN 4006           Yer Altı Yapıları ve Tahkimat Tasarımı                        2     0       4
+                 MDN 4008           Maden Hukuku ve Çevre                                         2     0       3
+MDN 3010
+MDN 3015         MDN 4010           Cevher Hazırlama Tasarımı                                     2      4       13
+                 MDN 4012           Mühendislik Etiği                                        2  0                2
+                 MDN 4094           Bitirme Projesi                                          0  6                8
+                                                                                     AKTS TOPLAMI :              30
+AÇIKLAMALAR
+
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler       : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (4 AKTS)
+Teknik Seçmeli Dersler       : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri       : 6. Yarıyılda 3 kredi (5 AKTS), 7. Yarıyılda 3 kredi (5 AKTS) olmak üzere toplam
+                               6 kredi (10 AKTS) alınacaktır.
+
+HER YARIYIL AÇILAN DERSLER
+MDN 4017 Maden İşletme Tasarımı
+MDN 4010 Cevher Hazırlama Tasarımı
+MDN 4094 Bitirme Projesi
+
+STAJLAR
+Staj süresi en az 12 iş haftasıdır (5 iş günü 1 hafta olarak kabul edilir). Stajların öğretim planında gösterilen
+yarıyıllarda yapılması zorunlu değildir. Öğrenci, bu stajın en az4 iş haftasını yeraltında, en az 2'şer iş hftasını da
+açık işletme ve cevher hazırlama tesislerinde yapmak zorundadır.
+

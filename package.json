@@ -10,7 +10,8 @@
     "test": "vitest run",
     "data": "tsx tools/build-data.ts",
     "prerender": "tsx tools/prerender.ts",
-    "deploy": "npm run build && wrangler pages deploy dist --project-name=deu-onkosul --branch=main --commit-dirty=true"
+    "deploy": "npm run build && wrangler pages deploy dist --project-name=deu-onkosul --branch=main --commit-dirty=true",
+    "archive": "tsx tools/import-archive.ts"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",

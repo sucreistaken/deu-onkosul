@@ -1,0 +1,260 @@
+                                                                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                 Mühendislik Fakültesi - İnşaat Mühendisliği 2024-2025 Öğretim Planı
+                                                     Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+                                        BİRİNCİ YARIYIL                                                                                            İKİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart     Kod        Ders Adı                                                T   U    AKTS Süresi
+    -       FİZ 1103   FİZİK I                                                3   2     4    1 Yarıyıl       -       BİL 1002   BİLGİSAYAR PROGRAMLAMA                                  2   2     3    1 Yarıyıl
+    -       İNŞ 1011   TEKNİK RESİM                                           3   1     5    1 Yarıyıl       -       FİZ 1102   FİZİK II                                                3   2     5    1 Yarıyıl
+    -       İNŞ 1101   İNŞAAT MÜHENDİSLİĞİNE GİRİŞ                            2   0     3    1 Yarıyıl       -       İNŞ 1012   STATİK                                                  3   0     4    1 Yarıyıl
+    -       KİM 1115   KİMYA                                                  3   2     4    1 Yarıyıl       -       JEO 1006   MÜHENDİSLİK JEOLOJİSİ                                   2   1     4    1 Yarıyıl
+    -       KPD 1000   Kariyer Planlama                                       1   0     2    1 Yarıyıl       -       MAT 1010   MATEMATİK II                                            4   0     4    1 Yarıyıl
+    -       MAT 1009   MATEMATİK I                                            4   0     4    1 Yarıyıl       -       ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                   2   0     2    1 Yarıyıl
+    -       TBT 1003   TEMEL BİLGİ TEKNOLOJİLERİ                              1   1     2    1 Yarıyıl       -       TDL 1002   Türk Dili II                                            2   0     2    1 Yarıyıl
+    -       ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                   2   0     2    1 Yarıyıl       -       YDİ 1006   Yabancı Dil II (İngilizce)                              2   0     2    1 Yarıyıl
+    -       TDL 1001   Türk Dili I                                            2   0     2    1 Yarıyıl                                                                  ZORUNLU AKTS TOPLAMI :    26
+    -       YDİ 1007   Yabancı Dil I (İngilizce)                              2   0     2    1 Yarıyıl                                                                  SEÇMELİ AKTS TOPLAMI :    4
+                                                              ZORUNLU AKTS TOPLAMI :    30
+                                                                                                         Alan Seçmeli Dersler
+                                                              SEÇMELİ AKTS TOPLAMI :    0
+                                                                                                             -       İNŞ 1150   SÜRDÜRÜLEBİLİR SU KAYNAKLARI YÖNETİMİ                   2   0     4    1 Yarıyıl
+                                                                                                             -       İNŞ 1152   SÜRDÜRÜLEBİLİR ULAŞIM                                   2   0     4    1 Yarıyıl
+                                                                                                             -       İNŞ 1154   SÜRDÜRÜLEBİLİR YAPI MALZEMELERİ                         2   0     4    1 Yarıyıl
+
+
+
+
+                                       ÜÇÜNCÜ YARIYIL                                                                                          DÖRDÜNCÜ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart     Kod        Ders Adı                                                T   U    AKTS Süresi
+ İNŞ 1012   İNŞ 2001   MUKAVEMET I                                            3   1     4    1 Yarıyıl       -       İNŞ 2012   MÜHENDİSLİK MATEMATİĞİ                                  3   0     5    1 Yarıyıl
+    -       İNŞ 2009   DİNAMİK                                                3   0     4    1 Yarıyıl       -       İNŞ 2028   HİDROLOJİ                                               3   1     4    1 Yarıyıl
+    -       İNŞ 2011   İSTATİSTİĞE GİRİŞ                                      3   0     4    1 Yarıyıl    İNŞ 2001   İNŞ 2102   MUKAVEMET II                                            3   1     4    1 Yarıyıl
+    -       İNŞ 2115   TOPOĞRAFYA                                             2   2     4    1 Yarıyıl       -       İNŞ 2110   MÜHENDİSLİK ÇİZİMLERİ                                   2   1     3    1 Yarıyıl
+    -       İNŞ 2123   YAPI MALZEMESİ I                                       3   0     3    1 Yarıyıl       -       İNŞ 2114   AKIŞKANLAR MEKANİĞİ                                     3   0     3    1 Yarıyıl
+    -       MAT 2011   MATEMATİK III                                          4   0     4    1 Yarıyıl    İNŞ 2123   İNŞ 2124   YAPI MALZEMESİ II                                       2   2     4    1 Yarıyıl
+                                                              ZORUNLU AKTS TOPLAMI :    23                                                                              ZORUNLU AKTS TOPLAMI :    23
+                                                              SEÇMELİ AKTS TOPLAMI :    7                                                                               SEÇMELİ AKTS TOPLAMI :    7
+
+Seçmeli Dersler                                                                                          Seçmeli Dersler
+    -       İNŞ 2101   MİMARLIK BİLGİSİ                                       3   0     5    1 Yarıyıl       -       İNŞ 2104   YAPI ELEMANLARI                                         3   0     5    1 Yarıyıl
+    -       İNŞ 2103   DENİZ ULAŞIMI                                          3   0     5    1 Yarıyıl       -       İNŞ 2106   TESİSAT                                                 3   0     5    1 Yarıyıl
+
+
+
+
+                                        BEŞİNCİ YARIYIL                                                                                          ALTINCI YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi       Ön Şart     Kod        Ders Adı                                                T   U    AKTS Süresi
+ İNŞ 2001   İNŞ 3007   YAPI STATİĞİ I                                         3   1     4    1 Yarıyıl    İNŞ 3007   İNŞ 3008   YAPI STATİĞİ II                                         3   1     4    1 Yarıyıl
+ İNŞ 2001   İNŞ 3011   BETONARME I                                            3   1     4    1 Yarıyıl    İNŞ 3011   İNŞ 3012   BETONARME II                                            3   0     3    1 Yarıyıl
+ İNŞ 2114   İNŞ 3023   HİDROLİK                                               4   2     6    1 Yarıyıl    İNŞ 3113   İNŞ 3014   ZEMİN MEKANİĞİ II                                       3   0     4    1 Yarıyıl
+    -       İNŞ 3025   ULAŞTIRMA I                                            3   1     4    1 Yarıyıl    İNŞ 3023   İNŞ 3024   SU YAPILARI                                             4   1     5    1 Yarıyıl
+    -       İNŞ 3113   ZEMİN MEKANİĞİ I                                       3   1     4    1 Yarıyıl    İNŞ 2102   İNŞ 3028   ÇELİK YAPILAR                                           3   1     4    1 Yarıyıl
+    -       İNŞ 3501   MESLEK STAJI I                                         0   0     2    20 IG        İNŞ 3025   İNŞ 3126   ULAŞTIRMA II                                            3   0     3    1 Yarıyıl
+                                                              ZORUNLU AKTS TOPLAMI :    24                                                                              ZORUNLU AKTS TOPLAMI :    23
+                                                              SEÇMELİ AKTS TOPLAMI :    6                                                                               SEÇMELİ AKTS TOPLAMI :    7
+
+Alan Seçmeli Dersler                                                                                     Seçmeli Dersler
+    -       İNŞ 3101   SU KAYNAKLARI MÜHENDİSLİĞİNDE MESLEKİ İNGİLİZCE 2          0     3    1 Yarıyıl       -       İNŞ 3102   ULAŞTIRMA SİSTEMLERİ                                    2   0     4    1 Yarıyıl
+    -       İNŞ 3103   GEOTEKNİK MÜHENDİSLİĞİNDE MESLEKİ İNGİLİZCE 2              0     3    1 Yarıyıl       -       İNŞ 3104   ŞEHİRCİLİK                                              2   0     4    1 Yarıyıl
+    -       İNŞ 3105   BETON TEKNOLOJİSİNDE MESLEKİ İNGİLİZCE                 2   0     3    1 Yarıyıl       -       İNŞ 3106   KIRSAL YAPILAR                                          2   0     4    1 Yarıyıl
+    -       İNŞ 3107   YAPI MÜHENDİSLİĞİNDE MESLEKİ İNGİLİZCE                 2   0     3    1 Yarıyıl       -       İNŞ 3108   KONUT TEKNOLOJİSİ                                       2   0     4    1 Yarıyıl
+    -       İNŞ 3109   ULAŞTIRMA MÜHENDİSLİĞİNDE MESLEKİ İNGİLİZCE 2              0     3    1 Yarıyıl       -       İNŞ 3110   ÖZEL BETONLAR                                           2   0     4    1 Yarıyıl
+                                                                        DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                       Mühendislik Fakültesi - İnşaat Mühendisliği 2024-2025 Öğretim Planı
+                                              Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+                                     YEDİNCİ YARIYIL                                                                                SEKİZİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                     T   U    AKTS Süresi         Ön Şart     Kod        Ders Adı                                     T   U    AKTS Süresi
+    -       İNŞ 4001   YAPI İŞLETMESİ                               3   0     3    1 Yarıyıl      İNŞ 3012   İNŞ 4102   BETONARME YAPILARININ TASARIMI               2   0     2    1 Yarıyıl
+ İNŞ 3024   İNŞ 4105   SU YAPILARININ TASARIMI                      2   0     2    1 Yarıyıl         -       İNŞ 4106   İNŞAAT MÜHENDİSLİĞİ EKONOMİSİ                3   1     4    1 Yarıyıl
+ İNŞ 3028   İNŞ 4107   ÇELİK YAPILARININ TASARIMI                   2   0     3    1 Yarıyıl         -       İNŞ 4116   İŞ VE İMAR HUKUKU                            2   0     2    1 Yarıyıl
+ İNŞ 3008   İNŞ 4109   YAPI DİNAMİĞİ                                3   0     3    1 Yarıyıl         -       İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                   2   0     2    1 Yarıyıl
+    -       İNŞ 4111   TEMEL İNŞAATI                                3   0     3    1 Yarıyıl                                                         ZORUNLU AKTS TOPLAMI :    10
+    -       İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                    2   0     2    1 Yarıyıl                                                         SEÇMELİ AKTS TOPLAMI :    20
+    -       İNŞ 4701   MESLEK STAJI II                              0   0     4    30 IG
+                                                                                                Alan Seçmeli Dersler
+                                                    ZORUNLU AKTS TOPLAMI :    20
+                                                                                                     -       İNŞ 4902   YAPI MÜHENDİSLİĞİ BİTİRME PROJESİ            0   6     10   1 Yarıyıl
+                                                    SEÇMELİ AKTS TOPLAMI :    10
+                                                                                                     -       İNŞ 4904   GEOTEKNİK MÜHENDİSLİĞİ BİTİRME PROJESİ       0   6     10   1 Yarıyıl
+Seçmeli Dersler                                                                                      -       İNŞ 4906   ULAŞTIRMA MÜHENDİSLİĞİ BİTİRME PROJESİ       0   6     10   1 Yarıyıl
+    -       CIE 4111   APPLIED HYDRAULICS                           2   0     4    1 Yarıyıl         -       İNŞ 4908   HİDROLİK MÜHENDİSLİĞİ BİTİRME PROJESİ        0   6     10   1 Yarıyıl
+    -       CIE 4133   GIS FOR CIVIL ENGINEERS                      2   0     4    1 Yarıyıl         -       İNŞ 4910   YAPI MALZEMESİ BİTİRME PROJESİ               0   6     10   1 Yarıyıl
+    -       İNŞ 4021   İNŞAAT MAKİNALARI VE İŞL                     2   0     3    1 Yarıyıl         -       İNŞ 4914   YAPI İŞLETMESİ BİTİRME PROJESİ               0   6     10   1 Yarıyıl
+    -       İNŞ 4023   BİLGİSAYAR UYGULAMASI                        2   0     3    1 Yarıyıl         -       İNŞ 4916   MEKANİK BİTİRME PROJESİ                      0   6     10   1 Yarıyıl
+    -       İNŞ 4129   YAPI YÖNETİMİ                                2   0     4    1 Yarıyıl    Seçmeli Dersler
+    -       İNŞ 4130   YAPILARIN YALITIMI VE KORUNMASI              3   0     5    1 Yarıyıl         -       İNŞ 4125   İLERİ YAPI STATİĞİ                           2   0     4    1 Yarıyıl
+    -       İNŞ 4142   AHŞAP YAPILAR                                2   0     4    1 Yarıyıl         -       İNŞ 4196   İLERİ BETON TEKNOLOJİSİ                      2   0     4    1 Yarıyıl
+    -       İNŞ 4144   ÖZEL TAŞIYICI SİSTEMLER                      2   0     4    1 Yarıyıl         -       İNŞ 4226   BETONARME ELEM. DAYANIKLIĞI                  3   0     5    1 Yarıyıl
+    -       İNŞ 4145   TAŞYICI SİSTEM KAVRAMLARI                    2   0     4    1 Yarıyıl         -       İNŞ 4233   YAPI MALZEMESİNDE ÖZEL KONULAR               3   0     5    1 Yarıyıl
+    -       İNŞ 4157   SU MÜHENDİSLİĞİ TARİHİ                       2   0     4    1 Yarıyıl         -       İNŞ 4234   KIYI YAPILARIN TASARIMI                      3   0     5    1 Yarıyıl
+    -       İNŞ 4158   TAŞKIN KONTROLÜ                              2   0     4    1 Yarıyıl         -       İNŞ 4235   YÜKSEK YAPILAR                               3   0     5    1 Yarıyıl
+    -       İNŞ 4161   SU KAYNAKLARININ YÖNETİMİ                    2   0     4    1 Yarıyıl         -       İNŞ 4253   SULAMA KURUTMA                               3   0     5    1 Yarıyıl
+    -       İNŞ 4162   SU KAYNAKLARININ KORUNMASI                   2   0     4    1 Yarıyıl         -       İNŞ 4256   KIYI YAPILARI VE LİMANLAR                    3   0     5    1 Yarıyıl
+    -       İNŞ 4186   HAVAALANLARI                                 2   0     4    1 Yarıyıl         -       İNŞ 4272   ÖZEL TEMELLER                                3   0     5    1 Yarıyıl
+    -       İNŞ 4222   YAPI PROGRAMLAMASI                           3   0     5    1 Yarıyıl         -       İNŞ 4276   ZEMİN İYİLEŞTİRME YÖNTEMLERİ                 3   0     5    1 Yarıyıl
+    -       İNŞ 4227   ÖNGERİLMELİ BETON                            2   0     4    1 Yarıyıl         -       İNŞ 4281   TRAFİK                                       3   0     5    1 Yarıyıl
+    -       İNŞ 4228   DEPREME DAYANIKLI TASARIM                    3   0     5    1 Yarıyıl
+    -       İNŞ 4231   YAPI STATİĞİ III                             3   0     5    1 Yarıyıl
+    -       İNŞ 4232   KIYI MÜHENDİSLİĞİNE GİRİŞ                    3   0     5    1 Yarıyıl
+    -       İNŞ 4236   MÜHENDİSLİK YAPILARI                         3   0     5    1 Yarıyıl
+    -       İNŞ 4237   KÖPRÜLER                                     3   0     5    1 Yarıyıl
+    -       İNŞ 4238   ALTERNATİF YAPI MALZEMELERİ                  3   0     5    1 Yarıyıl
+    -       İNŞ 4239   UZAYSAL SİSTEMLER                            3   0     5    1 Yarıyıl
+    -       İNŞ 4246   BETONARME ELEMAN DAVRANIŞI                   3   0     5    1 Yarıyıl
+    -       İNŞ 4248   DEPREM MÜHENDİSLİĞİNE GİRİŞ                  3   0     5    1 Yarıyıl
+    -       İNŞ 4249   BETONARME YAPILAR                            3   0     5    1 Yarıyıl
+    -       İNŞ 4250   BETONARMEDE ÖZEL KONULAR                     3   0     5    1 Yarıyıl
+    -       İNŞ 4251   AKARSULARDA KATI MADDE HAREKETİ              3   0     5    1 Yarıyıl
+    -       İNŞ 4252   UYGULAMALI HİDROLOJİ                         3   0     5    1 Yarıyıl
+    -       İNŞ 4254   SU KUVVETİ TESİSLERİ                         3   0     5    1 Yarıyıl
+    -       İNŞ 4255   BARAJLAR                                     3   0     5    1 Yarıyıl
+    -       İNŞ 4259   BİLGİSAYAR DESTEKLİ HİDROLİK TASARIMI        3   0     5    1 Yarıyıl
+    -       İNŞ 4260   SU GETİRME KANALİZASYON                      3   0     5    1 Yarıyıl
+    -       İNŞ 4263   YERALTI SULARI                               3   0     5    1 Yarıyıl
+    -       İNŞ 4270   ZEMİN DİNAMİĞİNE GİRİŞ                       3   0     5    1 Yarıyıl
+    -       İNŞ 4271   ZEMİN MEKANİĞİ III                           3   0     5    1 Yarıyıl
+    -       İNŞ 4273   KAYA MEKANİĞİ                                3   0     5    1 Yarıyıl
+    -       İNŞ 4274   BİLGİSAYAR DESTEKLİ GEOTEKNİK TASARIM        3   0     5    1 Yarıyıl
+    -       İNŞ 4282   BİLGİSAYAR DESTEKLİ KARAYOLU TASARIMI        3   0     5    1 Yarıyıl
+    -       İNŞ 4284   OTOYOL                                       3   0     5    1 Yarıyıl
+    -       İNŞ 4285   TOPRAK İŞLERİ                                3   0     5    1 Yarıyıl
+    -       İNŞ 4287   YOL MALZEMELERİ                              3   0     5    1 Yarıyıl
+    -       İNŞ 4288   KAPLAMALAR                                   3   0     5    1 Yarıyıl
+    -       İNŞ 4289   DEMİRYOLU                                    3   0     5    1 Yarıyıl
+    -       İNŞ 4290   ULAŞIM PLANLAMASI                            3   0     5    1 Yarıyıl
+    -       İNŞ 4293   BETONARME YÜKSEK YAPILAR                     3   0     5    1 Yarıyıl
+    -       İNŞ 4294   BİLGİSAYAR DESTEKLİ ÇİZİM                    3   0     5    1 Yarıyıl
+    -       İNŞ 4912   COĞRAFİ BİLGİ SİSTEMLERİ                     3   0     5    1 Yarıyıl
+                                                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                             Mühendislik Fakültesi - İnşaat Mühendisliği 2024-2025 Öğretim Planı
+                                                              Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                                                            Teknik Seçmeli Dersler
+Ön Şart     Kod        Ders Adı                                                                        T     U   AKTS Süresi      Ön Şart     Kod        Ders Adı                                                                         T     U   AKTS Süresi
+            GÇD 1000     Gönüllülük Çalışmaları                                                         1    2    4   1 Yarıyıl               ETE 3003     INTRODUCTION TO NANOTECHNOLOGY                                                  2    0    4   1 Yarıyıl
+            GÇD 1001     Volunteerism Studies                                                           1    2    4   1 Yarıyıl               ETE 3005     METHODS OF ARTIFICAL INTELLIGENCE                                               2    0    4   1 Yarıyıl
+            İHD 1001     İnsan Hakları                                                                  2    0    4   1 Yarıyıl               ETE 3007     FUNDAMENTALS OF ROBOTICS                                                        2    0    4   1 Yarıyıl
+            ESE 2065     CAREER PLANNING AND DEVELOPMENT                                                2    0    3   1 Yarıyıl               ETE 3014     GIS FOR ENGINEERS                                                               2    0    4   1 Yarıyıl
+            ESE 2067     BUSINESS MANAGEMENT AND MANAGEMENT                                             2    0    3   1 Yarıyıl               ETE 3017     PHYSICAL MODELS                                                                 2    0    4   1 Yarıyıl
+            ESE 2069     PERSONAL STYLE AND IMAGE MANAGEMENT                                            2    0    3   1 Yarıyıl               ETE 3043     DIGITAL TRANSFORMATION IN INDUSTRY                                              2    0    4   1 Yarıyıl
+            MSİ 2001     SUNUM VE SUNUŞ TEKNİKLERİ                                                      2    0    2   1 Yarıyıl               MTH 3620     MÜHENDİSLİK SİSTEMLERİ İÇİN NÜMERİK ANALİZ YAKLAŞIMLARI 2                            0    3   1 Yarıyıl
+            MSİ 2005     KİŞİSEL GELİŞİM VE ETKİLİ YAŞAMAK                                              2    0    2   1 Yarıyıl               MTS 3001     BİYOTEKNOLOJİ                                                                   2    0    3   1 Yarıyıl
+            MSİ 2009     AVRUPA BİRLİĞİNDE SOSYAL POLİTİKA                                              2    0    2   1 Yarıyıl               MTS 3003     NANOTEKNOLOJİYE GİRİŞ                                                           2    0    3   1 Yarıyıl
+            MSİ 2013     MÜHENDİSLİK ETİĞİ                                                              2    0    2   1 Yarıyıl               MTS 3007     ROBOTUN TEMELLERİ                                                               2    0    3   1 Yarıyıl
+            MSİ 2015     MÜHENDİSLER İÇİN FRANSIZCA                                                     2    0    2   1 Yarıyıl               MTS 3009     ÇEVRENİN KORUNMASINI AMAÇLAYAN DİSİPLİNLERARASI PROJ. GELİŞ. 2                       0    3   1 Yarıyıl
+            MSİ 2027     PSİKOLOJİYE GİRİŞ                                                              2    0    2   1 Yarıyıl               MTS 3011     MÜHENDİSLİK MALZEMELERİNİN KARAKTERİZASYONU 2                                        0    3   1 Yarıyıl
+            MSİ 2029     İLETİŞİM BECERİLERİ                                                            2    0    2   1 Yarıyıl               MTS 3017     FİZİKSEL MODELLER                                                               2    0    3   1 Yarıyıl
+            MSİ 2031     İNSAN KAYNAKLARI YÖNETİMİ                                                      2    0    2   1 Yarıyıl               MTS 3019     ÜRETİMDE ÇÖZÜM YAKLAŞIMLARI                                                     2    0    3   1 Yarıyıl
+            MSİ 2037     MÜHENDİSLİK EKONOMİSİ                                                          2    0    2   1 Yarıyıl               MTS 3043     ENDÜSTRİDE DİJİTAL DÖNÜŞÜM                                                      2    0    3   1 Yarıyıl
+            MSİ 2041     BÜTÜNLEŞİK KIYI YÖNETİMİ, TÜRKİYEDE LİMAN YÖNETİMİ VE DEVLETLERARASI PROGRAMLAR 2   0    2   1 Yarıyıl               ETE 3006     BIOMEDICAL SYSTEMS                                                              2    0    4   1 Yarıyıl
+            MSİ 2043     İŞ KANUNU VE UYGULAMASI                                                        2    0    2   1 Yarıyıl               ETE 3018     MODERN ENGINEERING MATHEMATICS                                                  2    0    4   1 Yarıyıl
+            MSİ 2049     DOĞAL AFETLER                                                                  2    0    2   1 Yarıyıl               ETE 3025     PROJECT MANAGEMENT                                                              2    0    4   1 Yarıyıl
+            MSİ 2059     AFET YÖNETİMİ                                                                  2    0    2   1 Yarıyıl               ETE 3029     QUALITY MANAGEMENT                                                              2    0    4   1 Yarıyıl
+            MSİ 2061     İŞLETMELERDE İÇ DENETİM                                                        2    0    2   1 Yarıyıl               ETE 3031     NAVIGATION ENGINEERING                                                          2    0    4   1 Yarıyıl
+            MSİ 2063     PAZARLAMAYA GİRİŞ                                                              2    0    2   1 Yarıyıl               ETE 3032     PERFORMANCE MEASUREMENT IN BUSINESSES                                           2    0    4   1 Yarıyıl
+            MSİ 2065     KARİYER PLANLAMA VE GELİŞTİRME                                                 2    0    2   1 Yarıyıl               ETE 3034     FINANCIAL MANAGEMENT FOR ENGINEERS                                              2    0    4   1 Yarıyıl
+            MSİ 2067     İŞLETME YÖNETİMİ VE YÖNETİCİLİĞİ                                               2    0    2   1 Yarıyıl               ETE 3035     ELEMENTAL & ISOTOPIC ANALYSIS IN THE MULTIDISCIPLINARY FIELDS 2                      0    4   1 Yarıyıl
+            MSİ 2069     KİŞİSEL STİL VE İMAJ YÖNETİMİ                                                  2    0    2   1 Yarıyıl               MTH 3501     BASIC CYBER SECURITY                                                            2    0    4   1 Yarıyıl
+            MSİ 2071     HALK OYUNLARI                                                                  2    0    2   1 Yarıyıl               MTH 3502     INFORMATION NETWORKS                                                            2    0    4   1 Yarıyıl
+            ESE 2070     CLIMATE CHANGE AND SUSTAINABLE MANAGEMENT 2                                         0    3   1 Yarıyıl               MTH 3503     INTRODUCTION TO QUANTUM COMPUTING                                               2    0    4   1 Yarıyıl
+            MSİ 2002     FELSEFEYE GİRİŞ                                                                2    0    2   1 Yarıyıl               MTH 3504     PHASE ARRAY RADAR TECHNOLOGIES                                                  2    0    4   1 Yarıyıl
+            MSİ 2004     İNSAN İLİŞKİLERİ                                                               2    0    2   1 Yarıyıl               MTH 3505     WIRELESS POWER TRANSER SYSTEMS                                                  2    0    4   1 Yarıyıl
+            MSİ 2006     BRİÇ                                                                           2    0    2   1 Yarıyıl               MTH 3509     UZAY RADYASYON ORTAMI VE ETKİLERİ                                               2    0    3   1 Yarıyıl
+            MSİ 2008     EKONOMİK KÜRESELLEŞME                                                          2    0    2   1 Yarıyıl               MTH 3606     PARDUS VE LIBREOFFICE EĞİTİMİ                                                   2    0    3   1 Yarıyıl
+            MSİ 2012     GENÇ GİRİŞİMCİLİK                                                              2    0    2   1 Yarıyıl               MTH 3607     SİSTEM MÜHENDİSLİĞİ                                                             2    0    3   1 Yarıyıl
+            MSİ 2016     ÇEVRE KİRLİLİĞİ VE KONTROLU                                                    2    0    2   1 Yarıyıl               MTH 3608     TEMEL JAVA VE NESNE TABANLI PROGRAMLAMAYA GİRİŞ 2                                    0    3   1 Yarıyıl
+            MSİ 2022     MİMAR SİNAN                                                                    2    0    2   1 Yarıyıl               MTH 3610     NANOKARBON MALZEMELER VE TEKNOLOJİLERİ                                          2    0    3   1 Yarıyıl
+            MSİ 2024     DOĞA ÇEVRE VE KENT                                                             2    0    2   1 Yarıyıl               MTS 3002     DEPREM MÜHENDİSLİĞİNDE SEÇMELİ KONULAR                                          2    0    3   1 Yarıyıl
+            MSİ 2026     AVRUPA BİRLİĞİ VE AVRUPA KONSEYİNDE BÜTÜNLEŞİK ÇEVRE POLİTİKASI 2                   0    2   1 Yarıyıl               MTS 3004     ARKEOLOJİK PROSPEKSİYON                                                         2    0    3   1 Yarıyıl
+            MSİ 2030     HALKLA İLİŞKİLER                                                               2    0    2   1 Yarıyıl               MTS 3005     YAPAY ZEKA YÖNTEMLERİ                                                           2    0    3   1 Yarıyıl
+            MSİ 2032     SOSYAL PSİKOLOJİ                                                               2    0    2   1 Yarıyıl               MTS 3008     MALZEME VE ÜRETİM                                                               2    0    3   1 Yarıyıl
+            MSİ 2044     ORTAÇAĞ'DA ANADOLU UYGARLIKLARI                                                2    0    2   1 Yarıyıl               MTS 3010     MADENCİLİK FAALİYETLERİNİN ÇEVRESEL ETKİLERİ 2                                       0    3   1 Yarıyıl
+            MSİ 2048     TÜRKİYE'NİN JEO.MİRAS JEOTUR.JEOPARK POT.VE KORUNMASI 2                             0    2   1 Yarıyıl               MTS 3012     TEKNİK TEKSTİLLER II                                                            2    0    3   1 Yarıyıl
+            MSİ 2050     FİKRİ VE SINAİ MÜLKİYET HAKLARI                                                2    0    2   1 Yarıyıl               MTS 3014     MÜHENDİSLER İÇİN COĞRAFİ BİLGİ SİSTEMİ                                          2    0    3   1 Yarıyıl
+            MSİ 2054     SOSYAL POLİTİKA                                                                2    0    2   1 Yarıyıl               MTS 3016     ULAŞIM SİSTEMLERİ ANALİZİNE GİRİŞ                                               2    0    3   1 Yarıyıl
+            MSİ 2060     TEMEL JAPONCA                                                                  2    0    2   1 Yarıyıl               MTS 3020     ENERJİ VE ÇEVRE                                                                 2    0    3   1 Yarıyıl
+            MSİ 2062     YÖNETİMDE STRATEJİK PLANLAMA                                                   2    0    2   1 Yarıyıl               MTS 3021     MÜHENDİSLİK PROJELERİNDE KAYA MEKANİĞİ VE SAYISAL MODELLEME UYGULAMALARI 2           0    3   1 Yarıyıl
+            MSİ 2064     SATRANÇ                                                                        2    0    2   1 Yarıyıl               MTS 3022     TÜNEL AÇMA                                                                      2    0    3   1 Yarıyıl
+            MSİ 2066     MÜHENDİSLİKTE MESLEK HASTALIKLARI                                              2    0    2   1 Yarıyıl               MTS 3023     MADEN ARAMALARINDA JEOFİZİK YÖNTEMLER                                           2    0    3   1 Yarıyıl
+            MSİ 2070     İKLİM DEĞİŞİKLİĞİ VE SÜRDÜRÜLEBİLİR YÖNETİM                                    2    0    2   1 Yarıyıl               MTS 3024     JEOLOJİK PROBLEMLER VE JEOFİZİK ÇÖZÜMLERİ                                       2    0    3   1 Yarıyıl
+            MSİ 2072     BİLİŞİM HUKUKU                                                                 2    0    2   1 Yarıyıl               MTS 3025     PROJE YÖNETİMİ                                                                  2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3027     SONDAJ TEKNOLOJİSİ VE UYGULAMALARI                                              2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3028     MÜHENDİSLİKTE HARİTA BİLGİSİ                                                    2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3029     KALİTE YÖNETİMİ                                                                 2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3030     SULAK ALANLAR                                                                   2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3032     İŞLETMELERDE PERFORMANS ÖLÇÜMÜ                                                  2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3033     DIŞ TİCARET İŞLEMLERİ                                                           2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3034     MÜHENDİSLER İÇİN FİNANSAL YÖNETİM                                               2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3035     MULTİDİSİPLİNER ALANLARDA ELEMENT VE İZOTOP ÖLÇÜM TEKNİKLERİ 2                       0    3   1 Yarıyıl
+                                                                                                                                              MTS 3036     YERBİLİMLERİNDE YAPAY ZEKA UYGULAMALARI                                         2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3037     MÜHENDİSLER İÇİN GENEL FİZİKİ COĞRAFYA                                          2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3038     MÜHENDİSLİK VE YERYÜZÜ YAPILARININ GLOBAL NAVİGASYON UYDU SİSTEMLERİ (GNSS) İLE 2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3040     JEOARKEOLOJİ                                                                    2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3041     ARKEOSİSMOLOJİ                                                                  2    0    3   1 Yarıyıl
+                                                                                                                                              MTS 3044     YER BİLİMLERİNDE İNSANSIZ HAVA ARAÇLARININ (İHA) KULLANIM ALANLARI VE UYGULAMALA 2   0    3   1 Yarıyıl
+                                                                                                        DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                         Mühendislik Fakültesi - İnşaat Mühendisliği 2024-2025 Öğretim Planı
+                                                          Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+Erasmus Dersleri
+Ön Şart    Kod        Ders Adı                                                                    T     U   AKTS Süresi
+    -      ERA 2300   INTRODUCTION TO GEOSPATIAL ASSESSMENTS ON ENVIROMENTAL SUSTAINABILITY 2           1    5   1 Yarıyıl
+    -      ERA 2301   CLIMATE CHANGE ASSESSMENTS ON ENVIRONMENTAL ISSUES, PRIORITIES AND CHALLENGES 3   0    5   1 Yarıyıl
+    -      ERA 2302   SUSTAINABLE DESIGN OF ENGINEERING STRUCTURES 2                                    1    5   1 Yarıyıl
+    -      ERA 4800   INTRODUCTION TO SUSTAINABLE ENERGY SYSTEMS 3                                      0    5   1 Yarıyıl
+
+
+
+
+  2. Yarıyıl
+  2 kredi (4 AKTS) Alan Seçmeli*
+  * (Bu dönemde tanımlanmış olan İNŞ 1150, İNŞ 1152, İNŞ 1154 kodlu Alan Seçmeli derslerinden birinin seçilmesi zorunludur)
+  Toplam 2 Kredi 4 AKTS
+
+
+  5. Yarıyıl
+  4 kredi 6 AKTS Alan Seçmeli *
+  * (Bu dönemde tanımlanmış olan İNŞ 3101, İNŞ 3103, İNŞ 3105, İNŞ 3107 ve İNŞ 3109 kodlu Alan Seçmeli derslerinden ikisinin
+  seçilmesi zorunludur.)
+  Toplam 4 kredi 6 AKTS
+
+
+  8. Yarıyıl
+  3 Kredi (0+6) 10 AKTS Alan Seçmeli * * (İNŞ 4902, İNŞ 4904, İNŞ 4906, İNŞ 4908, İNŞ 4910, İNŞ 4914 ve İNŞ 4916 kodlu Alan Seçmeli
+  derslerinden birinin seçilmesi zorunludur) ve (Bu alan kodlu dersler her dönem açılabilir)
+
+
+  Öğrenciler;
+  3. Yarıyıldan itibaren 2 Adet (4 Kredi-4 AKTS) Sosyal Seçmeli (MSİ Kodlu)
+  3. Yarıyıldan itibaren 20 Kredi 34 AKTS Seçmeli
+  6. Yarıyıldan itibaren 1 Adet (2 Kredi-3 AKTS) Teknik Seçmeli (MTS Kodlu)
+  ders alıp başarmış olmaları gerekmektedir.
+
+
+  STAJLAR: Meslek staj süresi 50 iş günüdür. Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu değildir.
+  Staj süresinin en az 30 iş günü (6 Hafta) şantiye stajı, en az 10 iş günü (2 Hafta) büro stajıdır. Öğrenciler ilk stajlarını 1'inci
+  sınıfın sonunda ve en fazla 15 iş günü (3 Hafta) süreyle Şantiye stajı olarak yapabilirler. 2'inci sınıfın sonunda toplamda en fazla 40 iş
+  günü (8 hafta) staj yapılabilir. Zorunlu staj süresinin en az 10 iş günü (2 hafta) 3'üncü sınıfın sonuna bırakılmalıdır.
+
+
+  HER YARIYIL AÇILACAK ZORUNLU DERSLER:
+  İNŞ 4102 BETONARME YAPILARININ TASARIMI
+  İNŞ 4105 SU YAPILARININ TASARIMI
+  İNŞ 4107 ÇELİK YAPILARININ TASARIMI
+
+
+
+  HER YARIYIL AÇILACAK ALAN SEÇMELİ (BİTİRME PROJESİ) DERSLER:
+  İNŞ 4902 YAPI MÜHENDİSLİĞİ BİTİRME PROJESİ
+  İNŞ 4904 GEOTEKNİK MÜHENDİSLİĞİ BİTİRME PROJESİ
+  İNŞ 4906 ULAŞTIRMA MÜHENDİSLİĞİ BİTİRME PROJESİ
+  İNŞ 4908 HİDROLİK MÜHENDİSLİĞİ BİTİRME PROJESİ
+  İNŞ 4910 YAPI MALZEMESİ BİTİRME PROJESİ
+  İNŞ 4914 YAPI İŞLETMESİ BİTİRME PROJESİ
+  İNŞ 4916 MEKANİK BİTİRME PROJESİ
+

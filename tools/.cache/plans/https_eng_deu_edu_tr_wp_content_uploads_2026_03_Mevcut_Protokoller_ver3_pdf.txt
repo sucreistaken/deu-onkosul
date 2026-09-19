@@ -1,0 +1,51 @@
+                                MEVCUT PROTOKOLLER
+Protokol       Kapsadığı       İmza      Geçerlilik      İş Birliği Kapsamı
+Tarafları      Bölümler        Tarihi    Süresi
+Dokuz Eylül    Mühendislik     3 Temmuz 2 yıl            Zorunlu staj ve proje
+Üniversitesi   Fakültesi       2024                      çalışmaları, öğrencilerin
+& CMS                                                    teorik bilgilerini sanayide
+                                                         uygulamalı olarak
+                                                         deneyimlemesi, teknik
+                                                         geziler, seminerler ve kariyer
+                                                         etkinlikleri düzenlenmesi.
+Dokuz Eylül Makine,            17 Aralık 2 yıl           Öğrencilerin zorunlu stajları,
+Üniversitesi Elektrik-         2024                      teknik geziler, üniversite-
+& Vestel     Elektronik,                                 sanayi işbirliği projelerinde
+             Bilgisayar,                                 yer alma, derslerde sanayi
+             Endüstri                                    uzmanlarının katılımı,
+             Mühendisliği                                bitirme projelerinde sanayi
+             bölümleri                                   desteği, seminerler ve
+                                                         mülakat simülasyonları.
+Dokuz Eylül Mühendislik        15 Ocak   5 yıl (1 yıllık Öğrencilerin zorunlu yaz
+Üniversitesi Fakültesi         2025      otomatik        stajları, bitirme projelerine
+& Batıçim                                yenileme        destek, sanayi ve üniversite
+                                         opsiyonu        etkinliklerinde iş birliği,
+                                         ile)            teknik seminerler,
+                                                         endüstriyel uygulamalar
+Dokuz Eylül Mühendislik        17 Nisan  2 yıl (2        Zorunlu/gönüllü staj imkânı,
+Üniversitesi Fakültesi ve      2025      yıllık          teknik bilgi paylaşımı, iş
+& İzmirGaz ilgili birimler               yenileme        sağlığı ve güvenliği eğitimi,
+                                         opsiyonu
+                                                         stajyer seçimi ve takibi,
+                                         ile)
+                                                         proje ve araştırma
+                                                         işbirlikleri.
+Dokuz Eylül Mühendislik        3 Haziran 2 yıl (İki      TÜBİTAK projeleri, ortak
+Üniversitesi Fakültesi ve      2025      yıllık          etkinlikler, öğrenci staj ve
+& BMC        ilgili birimler             yenileme        uygulamalı eğitimleri,
+                                         opsiyonu        akademisyenlerle Ar-Ge
+                                         ile)            projeleri, sanayi için mesleki
+                                                         eğitimler ve konferanslar.
+Dokuz Eylül Endüstri        6 Şubat   7 ay   Mentör–menti programı
+Üniversitesi Mühendisliği   2026             kapsamında bilgi ve deneyim
+& Akdeniz                                    paylaşımı, zorunlu ve
+Chemson                                      gönüllü staj imkânlarının
+                                             sağlanması, iş sağlığı ve
+                                             güvenliği farkındalığına
+                                             yönelik eğitim faaliyetleri,
+                                             stajyer seçimi ve takibi
+                                             süreçlerinde iş birliği ile
+                                             Endüstri Mühendisliği
+                                             alanında proje ve araştırma
+                                             iş birliklerinin geliştirilmesi
+

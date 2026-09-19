@@ -1,0 +1,154 @@
+                                                                                                                                                                          07/04/2017 14:58:15
+
+                                                                               DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                               Mühendislik Fakültesi - Jeoloji Mühendisliği Öğretim Planı
+                                                      Üniversitemiz Senatosunun 19/04/2016 tarih ve 457/7 sayılı karar ile kabul edilen şeklidir.
+
+
+                                        BİRİNCİ YARIYIL                                                                                            İKİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                            T   U     AKTS Süresi         Ön Şart     Kod        Ders Adı                                       T    U    AKTS Süresi
+    -       FİZ 1101   FİZİK I                                             3   2      5    1 Yarıyıl         -       İNŞ 1011   TEKNİK RESİM                                   3    1     5    1 Yarıyıl
+    -       JEO 1107   TEKNİK İNGİLİZCE I                                  2   0      4    1 Yarıyıl         -       BİL 1002   BİLGİSAYAR PROGRAMLAMA                         2    2     3    1 Yarıyıl
+    -       JEO 1109   JEOLOJİ MÜHENDİSLİĞİNE GİRİŞ                        2   0      6    1 Yarıyıl         -       FİZ 1102   FİZİK II                                       3    2     5    1 Yarıyıl
+    -       KİM 1015   KİMYA                                               3   2      5    1 Yarıyıl         -       JEO 1202   GENEL JEOLOJİ                                  2    2     4    1 Yarıyıl
+    -       MAT 1009   MATEMATİK I                                         4   0      4    1 Yarıyıl         -       JEO 1208   TEKNİK İNGİLİZCE II                            2    0     4    1 Yarıyıl
+    -       TBT 1003   TEMEL BİLGİ TEKNOLOJİLERİ                           1   1      2    1 Yarıyıl         -       KİM 1014   KİMYA II                                       2    0     3    1 Yarıyıl
+    -       ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                2   0      2    1 Yarıyıl         -       MAT 1010   MATEMATİK II                                   4    0     4    1 Yarıyıl
+    -       BDE 1003   Beden Eğitimi                                       2   0      2    1 Yarıyıl         -       ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II          2    0     2    1 Yarıyıl
+    -       GSH 1003   Halk Oyunları                                       2   0      2    1 Yarıyıl                                                                    AKTS TOPLAMI :    30
+    -       GSM 1003   Müzik                                               2   0      2    1 Yarıyıl
+                                                                    AKTS TOPLAMI :    30
+
+
+
+                                       ÜÇÜNCÜ YARIYIL                                                                                          DÖRDÜNCÜ YARIYIL
+Ön Şart     Kod        Ders Adı                                            T   U     AKTS Süresi         Ön Şart     Kod        Ders Adı                                       T    U    AKTS Süresi
+    -       JEO 2302   MİNERALOJİ                                          2   2      5    1 Yarıyıl         -       İNŞ 2013   MUKAVEMET                                      3    0     4    1 Yarıyıl
+    -       JEO 2304   İSTATİSTİK                                          2   0      3    1 Yarıyıl         -       JEO 2401   YAPISAL JEOLOJİ                                2    2     4    1 Yarıyıl
+    -       JEO 2306   STRATİGRAFİ                                         2   2      6    1 Yarıyıl         -       JEO 2403   KAYA MEKANİĞİ                                  2    2     4    1 Yarıyıl
+    -       JEO 2307   PALEONTOLOJİ                                        2   2      6    1 Yarıyıl         -       JEO 2405   HARİTA ÇİZİM                                   2    2     5    1 Yarıyıl
+    -       MAT 2011   MATEMATİK III                                       4   0      4    1 Yarıyıl         -       JEO 2406   OPTİK MİNERALOJİ                               2    2     5    1 Yarıyıl
+    -       TDL 1001   Türk Dili I                                         2   0      2    1 Yarıyıl         -       TDL 1002   Türk Dili II                                   2    0     2    1 Yarıyıl
+    -       İNŞ 1012   STATİK                                              3   0      4    1 Yarıyıl         -       JEO 2000   MESLEK STAJI I                                 0    0     4    3 Hafta
+                                                                    AKTS TOPLAMI :    30                                                                                AKTS TOPLAMI :    28
+
+                                        BEŞİNCİ YARIYIL                                                                                          ALTINCI YARIYIL
+Ön Şart     Kod        Ders Adı                                            T   U     AKTS Süresi         Ön Şart     Kod        Ders Adı                                       T    U    AKTS Süresi
+    -       İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                           2   0      2    1 Yarıyıl         -       JEO 3600   SAHA JEOLOJİSİ                                 2    2     6    1 Yarıyıl
+    -       JEF 3805   JEOFİZİKTE ARAMA YÖNTEMLERİ                         1   2      3    1 Yarıyıl         -       JEO 3602   METAMORFİK PETROLOJİ                           2    2     4    1 Yarıyıl
+    -       JEO 3500   JEOKİMYA                                            2   2      4    1 Yarıyıl         -       JEO 3603   MADEN YATAKLARI                                2    2     5    1 Yarıyıl
+    -       JEO 3501   TARİHSEL VE TÜRKİYE JEOLOJİSİ                       2   2      4    1 Yarıyıl         -       JEO 3604   ÇEVRE JEOLOJİSİ                                3    0     4    1 Yarıyıl
+    -       JEO 3502   MAGMATİK PETROLOJİ                                  2   2      4    1 Yarıyıl         -       JEO 3606   ZEMİN MEKANİĞİ                                 2    2     4    1 Yarıyıl
+    -       JEO 3503   SEDİMENTOLOJİ - SEDİMENTER PETROGRAFİ               2   2      5    1 Yarıyıl         -       JEO 3608   JEOLOJİK HARİTA ALMA KAMP STAJI                0    0     4    2 Hafta
+    -       JEO 3504   HİDROJEOLOJİ                                        2   2      4    1 Yarıyıl                                                                    AKTS TOPLAMI :    27
+    -       JEO 3100   MESLEK STAJI II                                     0   0      2    3 Hafta
+                                                                    AKTS TOPLAMI :    28
+
+
+                                        YEDİNCİ YARIYIL                                                                                        SEKİZİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                            T   U     AKTS Süresi         Ön Şart     Kod        Ders Adı                                       T    U    AKTS Süresi
+    -       JEO 4701   MADEN JEOLOJİSİ VE ARAMA YÖNTEMLERİ                 2   2      5    1 Yarıyıl         -       İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                     2    0     2    1 Yarıyıl
+    -       JEO 4705   MÜHENDİSLİK JEOLOJİSİ                               2   2      5    1 Yarıyıl         -       JEO 4803   JEOLOJİ MÜHENDİSLİĞİ TASARIMI II               4    2     7    1 Yarıyıl
+    -       JEO 4707   YAKITLAR JEOLOJİSİ                                  2   0      3    1 Yarıyıl         -       JEO 4805   SONDAJ TEKNİĞİ                                 2    0     3    1 Yarıyıl
+    -       JEO 4709   JEOLOJİ MÜHENDİSLİĞİ TASARIMI I                     4   2      7    1 Yarıyıl         -       JEO 4894   BİTİRME PROJESİ                                0    6     8    1 Yarıyıl
+                                                                    AKTS TOPLAMI :    20                                                                                AKTS TOPLAMI :    20
+Seçmeli Dersler                                                                                         Seçmeli Dersler
+    -       GEO 4151   STRUCTURAL ANALYSIS METHODS                         2   2      5    1 Yarıyıl         -       GEO 4162   EVAPORITS                                      2    2     5    1 Yarıyıl
+    -       GEO 4155   EARTHQUAKE GEOLOGY                                  2   2      5    1 Yarıyıl         -       GEO 4180   GEOTECHNICAL TEST                              2    2     5    1 Yarıyıl
+    -       JEO 4151   YAPISAL ANALİZ YÖNTEMLERİ                           2   2      5    1 Yarıyıl         -       GEO 4192   HYDROTHERMAL POLYMETALLIC ORE DEPOSITS         2    2     5    1 Yarıyıl
+    -       JEO 4153   YER ALTI JEOLOJİSİ VE KUYU LOGLARI                  2   2      5    1 Yarıyıl         -       JEO 4152   JEOLOJİDE BİLGİSAYAR UYGULAMALARI              2    2     5    1 Yarıyıl
+    -       JEO 4155   DEPREM JEOLOJİSİ                                    2   2      5    1 Yarıyıl         -       JEO 4154   YERBİLİMLERİ VE DOĞAL AFETLER                  2    2     5    1 Yarıyıl
+    -       JEO 4157   DOĞA TARİHİ VE EVRİM                                3   0      5    1 Yarıyıl         -       JEO 4156   FİZİKSEL VOLKANOLOJİ                           2    2     5    1 Yarıyıl
+    -       JEO 4159   TRAVERTEN JEOLOJİSİ                                 2   2      5    1 Yarıyıl         -       JEO 4162   EVAPORİTLER                                    2    2     5    1 Yarıyıl
+    -       JEO 4161   GEMOLOJİ                                            2   2      5    1 Yarıyıl         -       JEO 4164   JEOLOJİDE MUTLAK YAŞ TAYİNİ YÖNTEMLERİ         2    2     5    1 Yarıyıl
+    -       JEO 4163   TIBBİ JEOLOJİ                                       3   0      5    1 Yarıyıl         -       JEO 4168   KAYAÇ VE MİNERAL ANALİZLERİ                    2    2     5    1 Yarıyıl
+    -       JEO 4167   MERMER JEOLOJİSİ VE TEKNOLOJİSİ                     2   2      5    1 Yarıyıl         -       JEO 4172   ENDÜSTRİYEL HAMMADDELER                        2    2     5    1 Yarıyıl
+    -       JEO 4169   SIVI KAPANIM UYGULAMALARI                           2   2      5    1 Yarıyıl         -       JEO 4174   FOSİL YAKITLAR                                 3    0     5    1 Yarıyıl
+    -       JEO 4171   CEVHER MİKROSKOPİSİ                                 2   2      5    1 Yarıyıl         -       JEO 4178   YER ALTI SULARI KİMYASI                        2    2     5    1 Yarıyıl
+    -       JEO 4173   JEOKİMYASAL TERMODİNAMİK                            2   2      5    1 Yarıyıl         -       JEO 4180   JEOTEKNİK DENEYLER                             2    2     5    1 Yarıyıl
+    -       JEO 4175   MADEN HUKUKU VE ÇED                                 3   0      5    1 Yarıyıl         -       JEO 4184   YER ALTI HİDROLOJİSİ                           2    2     5    1 Yarıyıl
+    -       JEO 4177   GEÇMİŞTEN GÜNÜMÜZE JEOLOJİK MİRASIN KORUNMASI 2         2      5    1 Yarıyıl         -       JEO 4186   HİDROJEOLOJİK PROSPEKSİYON                     2    2     5    1 Yarıyıl
+    -       JEO 4179   JEOTERMAL SİSTEMLER                                 2   2      5    1 Yarıyıl         -       JEO 4188   YERBİLİMLERİNDE CBS UYGULAMALARI               2    2     5    1 Yarıyıl
+    -       JEO 4181   KAYA-ŞEV TASARIMI                                   2   2      5    1 Yarıyıl         -       JEO 4190   BİLİMSEL ARAŞTIRMALARDA SÖZLÜ VE YAZILI ANLATIM 2   2     5    1 Yarıyıl
+    -       JEO 4183   UZAKTAN ALGILAMA                                    2   2      5    1 Yarıyıl         -       JEO 4192   HİDROTERMAL POLİMETALİK MADEN YATAKLARI        2    2     5    1 Yarıyıl
+    -       JEO 4185   DEPREM JEOTEKNİĞİ                                   2   2      5    1 Yarıyıl         -       JEO 4194   BAZİK VE ULTRABAZİK KAYALARIN PETROLOJİSİ      2    2     5    1 Yarıyıl
+    -       JEO 4187   BARAJ-TÜNEL JEOLOJİSİ                               2   2      5    1 Yarıyıl
+    -       JEO 4189   MÜHENDİSLİKTE JEOLOJİK MALZEMELER                   2   2      5    1 Yarıyıl
+    -       JEO 4191    UYGULAMALI MİNERALOJİ                              2   2      5    1 Yarıyıl
+    -       JEO 4193   DOĞAL YAPI TAŞLARININ MÜHENDİSLİK ÖZELLİKLERİ 2         2      5    1 Yarıyıl
+    -       JEO 4195   HİDROJEOLOJİK SİSTEMDE SULAK ALANLAR                3   0      5    1 Yarıyıl
+                                                                                                                                                                                                                           07/04/2017 14:58:16
+
+                                                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                                Mühendislik Fakültesi - Jeoloji Mühendisliği Öğretim Planı
+                                                               Üniversitemiz Senatosunun 19/04/2016 tarih ve 457/7 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                                                            Teknik Seçmeli Dersler
+Ön Şart     Kod        Ders Adı                                                                        T     U   AKTS Süresi      Ön Şart     Kod        Ders Adı                                                                 T     U   AKTS Süresi
+            ESE 2065     CAREER PLANNING AND DEVELOPMENT                                                2    0    3   1 Yarıyıl               ETE 3005     METHODS OF ARTIFICAL INTELLIGENCE                                       2    0    4   1 Yarıyıl
+            ESE 2067     BUSINESS MANAGEMENT AND MANAGEMENT                                             2    0    3   1 Yarıyıl               ETE 3014     GIS FOR ENGINEERS                                                       2    0    4   1 Yarıyıl
+            ESE 2069     PERSONAL STYLE AND IMAGE MANAGEMENT                                            2    0    3   1 Yarıyıl               MTS 3001     BİYOTEKNOLOJİ                                                           2    0    3   1 Yarıyıl
+            MSİ 2001     SUNUM VE SUNUŞ TEKNİKLERİ                                                      2    0    2   1 Yarıyıl               MTS 3003     NANOTEKNOLOJİYE GİRİŞ                                                   2    0    3   1 Yarıyıl
+            MSİ 2005     KİŞİSEL GELİŞİM VE ETKİLİ YAŞAMAK                                              2    0    2   1 Yarıyıl               MTS 3007     ROBOTUN TEMELLERİ                                                       2    0    3   1 Yarıyıl
+            MSİ 2009     AVRUPA BİRLİĞİNDE SOSYAL POLİTİKA                                              2    0    2   1 Yarıyıl               MTS 3009     ÇEVRENİN KORUNMASINI AMAÇLAYAN DİSİPLİNLERARASI PROJ. GELİŞ. 2               0    3   1 Yarıyıl
+            MSİ 2013     MÜHENDİSLİK ETİĞİ                                                              2    0    2   1 Yarıyıl               MTS 3011     MÜHENDİSLİK MALZEMELERİNİN KARAKTERİZASYONU 2                                0    3   1 Yarıyıl
+            MSİ 2015     MÜHENDİSLER İÇİN FRANSIZCA                                                     2    0    2   1 Yarıyıl               MTS 3015     YOL TEKNOLOJİSİNDE YENİLİKLER                                           2    0    3   1 Yarıyıl
+            MSİ 2027     PSİKOLOJİYE GİRİŞ                                                              2    0    2   1 Yarıyıl               MTS 3017     FİZİKSEL MODELLER                                                       2    0    3   1 Yarıyıl
+            MSİ 2029     İLETİŞİM BECERİLERİ                                                            2    0    2   1 Yarıyıl               MTS 3019     ÜRETİMDE ÇÖZÜM YAKLAŞIMLARI                                             2    0    3   1 Yarıyıl
+            MSİ 2031     İNSAN KAYNAKLARI YÖNETİMİ                                                      2    0    2   1 Yarıyıl               ETE 3006     BIOMEDICAL SYSTEMS                                                      2    0    4   1 Yarıyıl
+            MSİ 2037     MÜHENDİSLİK EKONOMİSİ                                                          2    0    2   1 Yarıyıl               ETE 3029     QUALITY MANAGEMENT                                                      2    0    4   1 Yarıyıl
+            MSİ 2041     BÜTÜNLEŞİK KIYI YÖNETİMİ, TÜRKİYEDE LİMAN YÖNETİMİ VE DEVLETLERARASI PROGRAMLAR 2   0    2   1 Yarıyıl               ETE 3031     NAVIGATION ENGINEERING                                                  2    0    4   1 Yarıyıl
+            MSİ 2043     İŞ KANUNU VE UYGULAMASI                                                        2    0    2   1 Yarıyıl               ETE 3032     PERFORMANCE MEASUREMENT IN BUSINESSES                                   2    0    4   1 Yarıyıl
+            MSİ 2049     DOĞAL AFETLER                                                                  2    0    2   1 Yarıyıl               ETE 3034     FINANCIAL MANAGEMENT FOR ENGINEERS                                      2    0    4   1 Yarıyıl
+            MSİ 2059     AFET YÖNETİMİ                                                                  2    0    2   1 Yarıyıl               ETE 3035     ELEMENTAL & ISOTOPIC ANALYSIS IN THE MULTIDISCIPLINARY FIELDS 2              0    4   1 Yarıyıl
+            MSİ 2061     İŞLETMELERDE İÇ DENETİM                                                        2    0    2   1 Yarıyıl               MTS 3002     DEPREM MÜHENDİSLİĞİNDE SEÇMELİ KONULAR                                  2    0    3   1 Yarıyıl
+            MSİ 2063     PAZARLAMAYA GİRİŞ                                                              2    0    2   1 Yarıyıl               MTS 3004     ARKEOLOJİK PROSPEKSİYON                                                 2    0    3   1 Yarıyıl
+            MSİ 2065     KARİYER PLANLAMA VE GELİŞTİRME                                                 2    0    2   1 Yarıyıl               MTS 3008     MALZEME VE ÜRETİM                                                       2    0    3   1 Yarıyıl
+            MSİ 2067     İŞLETME YÖNETİMİ VE YÖNETİCİLİĞİ                                               2    0    2   1 Yarıyıl               MTS 3010     MADENCİLİK FAALİYETLERİNİN ÇEVRESEL ETKİLERİ 2                               0    3   1 Yarıyıl
+            MSİ 2069     KİŞİSEL STİL VE İMAJ YÖNETİMİ                                                  2    0    2   1 Yarıyıl               MTS 3012     TEKNİK TEKSTİLLER II                                                    2    0    3   1 Yarıyıl
+            MSİ 2002     FELSEFEYE GİRİŞ                                                                2    0    2   1 Yarıyıl               MTS 3014     MÜHENDİSLER İÇİN COĞRAFİ BİLGİ SİSTEMİ                                  2    0    3   1 Yarıyıl
+            MSİ 2004     İNSAN İLİŞKİLERİ                                                               2    0    2   1 Yarıyıl               MTS 3016     ULAŞIM SİSTEMLERİ ANALİZİNE GİRİŞ                                       2    0    3   1 Yarıyıl
+            MSİ 2006     BRİÇ                                                                           2    0    2   1 Yarıyıl               MTS 3020     ENERJİ VE ÇEVRE                                                         2    0    3   1 Yarıyıl
+            MSİ 2008     EKONOMİK KÜRESELLEŞME                                                          2    0    2   1 Yarıyıl               MTS 3021     MÜHENDİSLİK PROJELERİNDE KAYA MEKANİĞİ VE SAYISAL MODELLEME UYGULAMALARI 2   0    3   1 Yarıyıl
+            MSİ 2010     İŞ GÜVENLİĞİ                                                                   2    0    2   1 Yarıyıl               MTS 3022     TÜNEL AÇMA                                                              2    0    3   1 Yarıyıl
+            MSİ 2012     GENÇ GİRİŞİMCİLİK                                                              2    0    2   1 Yarıyıl               MTS 3023     MADEN ARAMALARINDA JEOFİZİK YÖNTEMLER                                   2    0    3   1 Yarıyıl
+            MSİ 2016     ÇEVRE KİRLİLİĞİ VE KONTROLU                                                    2    0    2   1 Yarıyıl               MTS 3024     JEOLOJİK PROBLEMLER VE JEOFİZİK ÇÖZÜMLERİ                               2    0    3   1 Yarıyıl
+            MSİ 2022     MİMAR SİNAN                                                                    2    0    2   1 Yarıyıl               MTS 3025     PROJE YÖNETİMİ                                                          2    0    3   1 Yarıyıl
+            MSİ 2024     DOĞA ÇEVRE VE KENT                                                             2    0    2   1 Yarıyıl               MTS 3026     YER BİLİMLERİNDE BİLGİSAYAR DESTEKLİ TASARIM 2                               0    3   1 Yarıyıl
+            MSİ 2026     AVRUPA BİRLİĞİ VE AVRUPA KONSEYİNDE BÜTÜNLEŞİK ÇEVRE POLİTİKASI 2                   0    2   1 Yarıyıl               MTS 3027     SONDAJ TEKNOLOJİSİ VE UYGULAMALARI                                      2    0    3   1 Yarıyıl
+            MSİ 2030     HALKLA İLİŞKİLER                                                               2    0    2   1 Yarıyıl               MTS 3028     MÜHENDİSLİKTE HARİTA BİLGİSİ                                            2    0    3   1 Yarıyıl
+            MSİ 2032     SOSYAL PSİKOLOJİ                                                               2    0    2   1 Yarıyıl               MTS 3029     KALİTE YÖNETİMİ                                                         2    0    3   1 Yarıyıl
+            MSİ 2044     ORTAÇAĞ'DA ANADOLU UYGARLIKLARI                                                2    0    2   1 Yarıyıl               MTS 3030     SULAK ALANLAR                                                           2    0    3   1 Yarıyıl
+            MSİ 2048     TÜRKİYE'NİN JEO.MİRAS JEOTUR.JEOPARK POT.VE KORUNMASI 2                             0    2   1 Yarıyıl               MTS 3031     SEYİR MÜHENDİSLİĞİ                                                      2    0    3   1 Yarıyıl
+            MSİ 2050     FİKRİ VE SINAİ MÜLKİYET HAKLARI                                                2    0    2   1 Yarıyıl               MTS 3032     İŞLETMELERDE PERFORMANS ÖLÇÜMÜ                                          2    0    3   1 Yarıyıl
+            MSİ 2054     SOSYAL POLİTİKA                                                                2    0    2   1 Yarıyıl               MTS 3034     MÜHENDİSLER İÇİN FİNANSAL YÖNETİM                                       2    0    3   1 Yarıyıl
+            MSİ 2060     TEMEL JAPONCA                                                                  2    0    2   1 Yarıyıl               MTS 3035     MULTİDİSİPLİNER ALANLARDA ELEMENT VE İZOTOP ÖLÇÜM TEKNİKLERİ 2               0    3   1 Yarıyıl
+            MSİ 2062     YÖNETİMDE STRATEJİK PLANLAMA                                                   2    0    2   1 Yarıyıl
+            MSİ 2064     SATRANÇ                                                                        2    0    2   1 Yarıyıl
+            MSİ 2066     MÜHENDİSLİKTE MESLEK HASTALIKLARI                                              2    0    2   1 Yarıyıl
+
+
+
+
+  AÇIKLAMALAR: SEÇMELİ DERSLER:
+  4. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  5. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  6. yarıyıl : 2 kredi (3 AKTS) Teknik Seçmeli (TOPLAM 3 AKTS)
+  7. yarıyıl : 6 kredi (10 AKTS) Seçmeli (TOPLAM 10 AKTS)
+  8. yarıyıl : 6 kredi (10 AKTS) Seçmeli (TOPLAM 10 AKTS) HER YARIYIL AÇILAN DERSLER:
+  JEO 4094 Bitirme Projesi STAJLAR:
+  Toplam staj süresi 8 haftadır. Stajların öğreitm planında gösterilen yarıyıllarda yapılması zorunlu değildir.
+  1) Jeolojik Harita alma Kamp Stajı : 6. yarıyıldan sonra yapılır. Süresi 2 (iki) haftadır. Öğrencilerin bu staja katılabilmeleri için JEO
+  2303 Paleontoloji, JEO 2400 Harita Çizim ve JEO 2401 Yapısal Jeoloji derslerinden en az DD notuyla başarılı olmaları
+  ve JEO 3502 Magmatik Petroloji ve JEO 3600 Saha Jeolojisi derslerinden sınava girmiş olmaları gerekir.
+  2) Meslek Stajı : Toplam süresi 6 (altı) haftadır (5 işgünü=1 hafta) En az 4. yarıyılı tamamlamış olanlar staj yapabilirler. 3. sınıfı
+  tamamlamış öğrenciler stajın hepsini birden (6 hafta) yada iki farklı iş yerinde (3+3 hafta olmak üzere) yapabilirler.
+  Ancak 2. sınıfı tamamlamış öğrenciler, izleyen yaz döneminde 6 haftalık stajın maksimum 3 haftalık bölümünü yapabilirler. Diğer 3 veya
+  kalan haftayı 3. sınıfı izleyen yaz dönemine bırakmak zorundadırlar.
+
+
+
+
+  * Öğretim planında yer alan; Beden Eğitimi, Resim, Müzik, Halk Oyunları derslerinden yalnızca bir tanesi seçilecektir.
+

@@ -1,0 +1,152 @@
+                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                       Mühendislik Fakültesi - Jeofizik Mühendisliği Öğretim Planı
+             Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+1. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+                FİZ 1101      Fizik I                                                    3   2               5
+                İNŞ 1012      Statik                                                     3   0               4
+                JEF 1105      Jeofizik Mühendisliğine Giriş                              3   0               6
+                KİM 1015      Kimya                                                      3   2               5
+                MAT 1009      Matematik I                                                4   0               4
+                TBT 1003      Temel Bilgi Teknolojileri                                  1   1               2
+                ATA 1001      Atatürk İlkeleri ve İnk. Tarihi I                          2   0               2
+                TDL 1001      Türk Dili I                                                2   0               2
+                                                                                  AKTS TOPLAMI :             30
+2. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                       T      U       AKTS
+                BİL 1002      Bilgisayar Programlama                                         2      2        3
+                FİZ 1102      Fizik II                                                       3      2        5
+                JEF 1205      Uygulamalı Jeofizik                                            3      0        5
+                JEO 1008      Genel Jeoloji                                                  3      2        7
+                MAT 1010      Matematik II                                                   4      0        4
+                ATA 1002      Atatürk İlkeleri ve İnk. Tarihi II                             2      0        2
+                TDL 1002      Türk Dili II                                                   2      0        2
+                BDE 1003      Beden Eğitimi
+                GSH 1003      Halk Oyunları                                                   2     0        2
+                GSM 1003      Müzik
+                                                                                  AKTS TOPLAMI :             30
+3. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+                JEF 2301      Harita ve Ölçme Bilgisi                                    2   1               5
+                JEF 2303      Teknik İngilizce I                                         2   0               3
+                JEF 2309      Jeofizikte Olasılık ve İstatistik                          2   1               4
+MAT 1009        JEF 2311      Potansiyel Kuramı ve Uygulamaları                          2   2               6
+                JEO 2023      Yapısal Jeoloji                                            2   2               6
+                MAT 2011      Matematik III                                              4   0               4
+                              Sosyal Seçmeli Ders                                        2   0               2
+                                                                                  AKTS TOPLAMI :             30
+4. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+                İNŞ 2013      Mukavemet                                                  3   0               4
+                JEF 2402      Jeofizikte Sayısal Analiz ve Programlama                   2   2               6
+                JEF 2403      Veri-İşlem I                                               2   1               5
+                JEF 2404      Teknik İngilizce II                                        2   0               3
+                JEF 2405      Jeofizik Mühendisliğinde Temel Çizim ve Tasarım            1   2               3
+                JEF 2409      Jeomanyetizma ve Paleomanyetizma                           2   0               4
+                MAT 2004      Kompleks Analiz                                            2   0               3
+                              Sosyal Seçmeli Ders                                        2   0               2
+                                                                                  AKTS TOPLAMI :             30
+5. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+                İNŞ 3515      Zemin Mekaniği                                             2   2               4
+ JEF 2311       JEF 3502      Elektrik Prospeksiyon                                      2   2               5
+ JEF 2403       JEF 3504      Veri-İşlem II                                              2   1               4
+ JEF 2311       JEF 3506      Gravite-Manyetik Prospeksiyon                              2   2               5
+                JEF 3508      Jeofizikte Özel Konular I (PDÖ)                            2   2               4
+                JEF 3100      Bölüm Arazi Stajı I                                        -   -               2
+                JEF 3300      Kurum Arazi Stajı I                                        -   -               3
+                              Seçmeli Ders                                               2   0               3
+                                                                                  AKTS TOPLAMI :             30
+                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                       Mühendislik Fakültesi - Jeofizik Mühendisliği Öğretim Planı
+             Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+
+Seçmeli Dersler
+Ön Şart      Kod              Ders Adı                                                       T      U       AKTS
+             GPH 3513         Marine Geophysics                                              2      0        3
+             JEF 3511         Radyometrik Prospeksiyon                                       2      0        3
+             JEF 3513         Deniz Jeofiziği                                                2      0        3
+             JEF 3515         Uzaktan Algılama                                               2      0        3
+             JEF 3517         Jeotermal Jeofiziği                                            2      0        3
+
+6. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+JEF 2311        JEF 3601      Sismik Prospeksiyon                                        2   2               5
+JEF 2311        JEF 3603      Elektromanyetik Prospeksiyon                               2   2               5
+                JEF 3605      Hidrolojik İlkeler                                         2   0               3
+                JEF 3607      Sismoloji                                                  2   2               4
+                JEF 3609      Jeofizikte Özel Konular II (PDÖ)                           2   2               4
+                JEF 3200      Bölüm Arazi Stajı II                                       -   -               3
+                JEF 3400      Kurum Arazi Stajı II                                       -   -               3
+                              Seçmeli Ders                                               2   0               3
+                                                                                  AKTS TOPLAMI :             30
+Seçmeli Dersler
+Ön Şart      Kod              Ders Adı                                                       T      U       AKTS
+             JEF 3612         Maden Jeofiziği                                                2      0        3
+             JEF 3614         CBS ve Jeofizik Uygulamaları                                   2      0        3
+             JEF 3616         Mühendislik Jeolojisi                                          2      0        3
+             JEF 3618         Jeodinamiğe Giriş                                              2      0        3
+
+7. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                   T   U              AKTS
+JEF 3607        JEF 4701      Sismotektonik                                              2   1               4
+JEF 3607        JEF 4702      Mühendislik Sismolojisine Giriş                            2   0               3
+                JEF 4706      Ters Çözüme Giriş                                          2   1               4
+                JEF 4707      Yıliçi Çalışması                                           0   4               4
+                JEF 4709      Sondaj Teknikleri                                          2   0               3
+                JEF 4300      Kurum Arazi Stajı III                                      -   -               3
+                              Seçmeli Ders                                               4   0               6
+                              Teknik Seçmeli Ders                                        2   0               3
+                                                                                  AKTS TOPLAMI :             30
+Seçmeli Dersler
+Ön Şart      Kod              Ders Adı                                                       T      U       AKTS
+             GPH 4717         Modelling and Interpretation Techniques in Geophysics          2      0        3
+             GPH 4723         Analysis of Seismic Data                                       2      0        3
+             JEF 4713         Yer Radarı Yöntemi ve Uygulamaları                             2      0        3
+             JEF 4717         Jeofizikte Modelleme ve Değerlendirme Yöntemleri               2      0        3
+             JEF 4721         Mühendislik Jeofiziği                                          2      0        3
+             JEF 4723         Sismik Verilerin Analizi                                       2      0        3
+             JEF 4725         Arkeojeofizik                                                  2      0        3
+                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                       Mühendislik Fakültesi - Jeofizik Mühendisliği Öğretim Planı
+             Üniversitemiz Senatosunun 17/07/2012 tarih ve 402/03 sayılı karar ile kabul edilen şeklidir.
+
+8. Yarıyıl
+Ön Şart         Kod           Ders Adı                                                    T   U             AKTS
+                JEF 4801      Yerfiziği                                                   2   0              4
+                JEF 4803      Kuyu Logları                                                3   0              5
+                JEF 4805      Mesleki Yasalar ve Uygulamaları                             2   0              2
+                MDN 4012      Mühendislik Etiği                                           2   0              2
+ JEF 4707       JEF 4094      Bitirme Projesi                                             0   6              11
+                              Seçmeli Ders                                                4   0              6
+                                                                                   AKTS TOPLAMI :            30
+Seçmeli Dersler
+Ön Şart      Kod              Ders Adı                                                         T     U      AKTS
+             GPH 4810         Seismic Interpretation                                           2     0       3
+             GPH 4812         Environmental Geophysics                                         2     0       3
+             GPH 4814         Petroleum and Natural Gas Geophysics                             2     0       3
+             GPH 4816         Seismic Tomography                                               2     0       3
+             JEF 4810         Sismik Yorumlama                                                 2     0       3
+             JEF 4812         Çevre Jeofiziği                                                  2     0       3
+             JEF 4814         Petrol ve Doğal Gaz Jeofiziği                                    2     0       3
+             JEF 4816         Sismik Tomografi                                                 2     0       3
+             JEF 4818         Deprem Mühendisliğine Giriş                                      2     0       3
+             JEF 4820         Elektrik Tomografi                                               2     0       3
+             JEO 4172         Endüstriyel Hammaddeler                                          2     2       5
+
+AÇIKLAMALAR
+
+SEÇMELİ DERSLER
+Sosyal Seçmeli Dersler       : 3. Yarıyıldan itibaren istenilen gruptan olmak üzere toplam 4 kredi (4 AKTS)
+Teknik Seçmeli Dersler       : 6. Yarıyıldan itibaren toplam 2 kredi (3 AKTS)
+Bölüm Seçmeli Dersleri       : 5. Yarıyıldann itibaren toplam 12 kredi (18 AKTS) alınacaktır.
+
+HER YARIYIL AÇILAN DERSLER
+JEF 4707 Yıliçi Çalışması
+JEF 4094 Bitirme Projesi
+
+STAJLAR
+Staj süreleri toplam en az 8 haftadır. Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu değildir.
+1) Kurum Arazi Stajı (6 hafta-30 iş günü)
+2) Bölüm Arazi Stajı (2 hafta)
+

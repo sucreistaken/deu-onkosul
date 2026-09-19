@@ -1,0 +1,170 @@
+                                                                                          DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                   Mühendislik Fakültesi - Elektrik - Elektronik Mühendisliği (İngilizce) 2024-2025 Öğretim Planı
+                                                             Üniversitemiz Senatosunun 22/08/2024 tarih ve 690/14 sayılı karar ile kabul edilen şeklidir.
+
+
+                                                BİRİNCİ YARIYIL                                                                                                    İKİNCİ YARIYIL
+ Ön Şart            Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+        -           EED 1001   INTRODUCTION TO ELECTRICAL ENGINEERING                 1   0     2    1 Yarıyıl     EED 1005          EED 1010   ALGORITHMS & PROGRAMMING                                2   2     4    1 Yarıyıl
+        -           EED 1005   INTRODUCTION TO PROGRAMMING                            2   2     5    1 Yarıyıl           -           EED 1014   ENGINEERING DESIGN I                                    0   2     3    1 Yarıyıl
+        -           EED 1009   DEVELOPMENT OF READING & WRITING SKILLS                2   0     2    1 Yarıyıl           -           EED 1018   LINEAR ALGEBRA                                          3   0     5    1 Yarıyıl
+        -           KPD 1001   Career Planning                                        1   0     2    1 Yarıyıl           -           EED 1112   INTRODUCTION TO SIGNALS                                 2   2     4    1 Yarıyıl
+        -           MAT 1001   CALCULUS I                                             4   0     5    1 Yarıyıl           -           MAT 1002   CALCULUS II                                             4   0     5    1 Yarıyıl
+        -           PHY 1101   PHYSICS I                                              3   2     5    1 Yarıyıl           -           PHY 1102   PHYSICS II                                              3   2     5    1 Yarıyıl
+        -           ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                   2   0     2    1 Yarıyıl           -           ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                   2   0     2    1 Yarıyıl
+        -           TDL 1001   Türk Dili I                                            2   0     2    1 Yarıyıl           -           TDL 1002   Türk Dili II                                            2   0     2    1 Yarıyıl
+                                                                      ZORUNLU AKTS TOPLAMI :    25                                                                                      ZORUNLU AKTS TOPLAMI :    30
+                                                                      SEÇMELİ AKTS TOPLAMI :    5                                                                                       SEÇMELİ AKTS TOPLAMI :    0
+
+Seçmeli Dersler
+        -           CHE 1115   CHEMISTRY                                              3   2     5    1 Yarıyıl
+        -           MME 1115   MATERIALS FOR ELECTRICAL AND ELECTRONICS ENGINEERING 3     0     5    1 Yarıyıl
+
+
+
+
+                                               ÜÇÜNCÜ YARIYIL                                                                                                  DÖRDÜNCÜ YARIYIL
+ Ön Şart            Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+        -           EED 2007   COMPLEX ANALYSIS                                       3   0     5    1 Yarıyıl     PHY 1102          EED 2008   ELECTROMAGNETIC THEORY                                  4   0     6    1 Yarıyıl
+        -           EED 2303   LOGIC DESIGN                                           3   2     5    1 Yarıyıl          *            EED 2012   ANALOG ELECTRONICS                                      4   2     6    1 Yarıyıl
+  EED 1018          EED 2311   CIRCUIT THEORY I                                       4   0     4    1 Yarıyıl     EED 1112          EED 2410   SIGNALS AND SYSTEMS                                     4   0     6    1 Yarıyıl
+  PHY 1102          EED 2313   LABORATORY I                                           0   3     3    1 Yarıyıl     EED 2311          EED 2414   CIRCUIT THEORY II                                       4   0     6    2 Yarıyıl
+        -           EED 2315   SEMICONDUCTOR DEVICES                                  3   2     5    1 Yarıyıl   EED 2311,EED 2313   EED 2416   LABORATORY II                                           0   3     3    1 Yarıyıl
+        -           MAT 2507   DIFFERENTIAL EQUATIONS                                 4   0     5    1 Yarıyıl                                                                          ZORUNLU AKTS TOPLAMI :    27
+                                                                      ZORUNLU AKTS TOPLAMI :    27                                                                                      SEÇMELİ AKTS TOPLAMI :    3
+                                                                      SEÇMELİ AKTS TOPLAMI :    3
+
+
+
+                                                BEŞİNCİ YARIYIL                                                                                                  ALTINCI YARIYIL
+ Ön Şart            Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+EED 2008,EED 2414   EED 3001   ENERGY CONVERSION I                                    4   2     6    1 Yarıyıl     EED 3005          EED 3014   ANALOG COMMUNICATION                                    3   2     5    1 Yarıyıl
+EED 2003,EED 2303   EED 3003   DIGITAL ELECTRONICS                                    3   2     6    1 Yarıyıl     EED 2414          EED 3016   CONTROL SYSTEMS                                         3   2     5    1 Yarıyıl
+        -           EED 3005   PROBABILITY AND RANDOM SIGNAL PRINCIPLES               4   0     5    1 Yarıyıl     EED 3003          EED 3018   MICROPROCESSOR SYSTEMS                                  3   2     5    1 Yarıyıl
+  EED 2008          EED 3507   ELECTROMAGNETIC WAVE THEORY                            4   0     6    1 Yarıyıl     EED 3001          EED 3020   ENERGY CONVERSION II                                    4   2     6    1 Yarıyıl
+        -           EED 3509   ENGINEERING DESIGN II                                  0   2     3    1 Yarıyıl           -           EED 3600   SUMMER PRACTICE                                         0   0     5    40 IG
+                                                                      ZORUNLU AKTS TOPLAMI :    26                                                                                      ZORUNLU AKTS TOPLAMI :    26
+                                                                      SEÇMELİ AKTS TOPLAMI :    4                                                                                       SEÇMELİ AKTS TOPLAMI :    4
+
+Seçmeli Dersler
+MAT 2507,MAT 2505   EED 3101   NUMERICAL ANALYSIS                                     4   0     4    1 Yarıyıl
+  EED 2410          EED 3103   DIGITAL SIGNAL PROCESSING                              3   2     5    1 Yarıyıl
+  EED 2414          EED 3105   NETWORK SYNTHESIS                                      4   0     4    1 Yarıyıl
+  EED 2410          EED 3107   FUNDAMENTALS OF NEURAL NETWORKS                        3   2     5    1 Yarıyıl
+
+
+
+
+                                                YEDİNCİ YARIYIL                                                                                                SEKİZİNCİ YARIYIL
+ Ön Şart            Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+        -           EED 4003   ENGINEERING AND TECHNOLOGY MANAGEMENT                  2   0     2    1 Yarıyıl           -           İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                              2   0     2    1 Yarıyıl
+        -           EED 4795   RESEARCH PROJECT                                       0   2     2    1 Yarıyıl   EED 4793,EED 4795   EED 4894   FINAL YEAR PROJECT                                      0   6     10   1 Yarıyıl
+        -           İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                              2   0     2    1 Yarıyıl                                                                          ZORUNLU AKTS TOPLAMI :    12
+                                                                      ZORUNLU AKTS TOPLAMI :    6                                                                                       SEÇMELİ AKTS TOPLAMI :    18
+                                                                      SEÇMELİ AKTS TOPLAMI :    24
+                                                                                                                 Seçmeli Dersler
+Seçmeli Dersler                                                                                                          -           EED 4004   SPECIAL TOPICS IN EE. II                                4   0     6    1 Yarıyıl
+        -           EED 4005   SPECIAL TOPICS IN EE. I                                4   0     6    1 Yarıyıl           -           EED 4006   CODING THEORY                                           3   0     6    1 Yarıyıl
+        -           EED 4007   MODERN ENGINEERING MATHEMATICS                         4   0     6    1 Yarıyıl     EED 4009          EED 4008   AUDIO SIGNAL PROCESSING                                 3   2     6    1 Yarıyıl
+        -           EED 4011   COMPUTER NETWORKS                                      3   0     6    1 Yarıyıl     EED 3005          EED 4010   PATTERN RECOGNITION                                     3   2     6    1 Yarıyıl
+  EED 2008          EED 4017   HIGH VOLTAGE TECHNIQUES                                3   0     6    1 Yarıyıl     EED 4103          EED 4012   TELOCOMMUNICATION ELECTRONICS                           3   2     6    1 Yarıyıl
+EED 3018,EED 3008   EED 4019   EMBEDDED SYSTEMS DESIGN                                3   2     6    1 Yarıyıl           -           EED 4014   DIGITAL IMAGE PROCESSING                                3   2     6    1 Yarıyıl
+  EED 3507          EED 4025   OPTICS AND PHOTONICS                                   3   0     6    1 Yarıyıl           -           EED 4016   POWER SYSTEM DISTRIBUTION AND PROTECTION                3   0     6    1 Yarıyıl
+EED 3014,EED 3004   EED 4101   DIGITAL COMMUNICATION                                  3   2     6    1 Yarıyıl           -           EED 4018   COMPUTER SYSTEM ARCHITECTURE                            3   2     6    1 Yarıyıl
+  EED 3507          EED 4103   MICROWAVE THEORY AND APPLICATIONS                      3   2     6    1 Yarıyıl     EED 3507          EED 4022   OPTICAL COMMUNICATION SYSTEMS                           3   0     6    1 Yarıyıl
+EED 2006,EED 2012   EED 4201   POWER ELECTRONICS I                                    3   2     6    1 Yarıyıl     EED 4103          EED 4106   ANTENNAS AND PROPAGATION                                3   2     6    1 Yarıyıl
+  EED 3020          EED 4203   POWER SYSTEM ANALYSIS I                                3   2     6    1 Yarıyıl     EED 4101          EED 4108   WIRELESS COMMUNICATION                                  3   0     6    1 Yarıyıl
+       **           EED 4301   DIGITAL CONTROL                                        3   2     6    1 Yarıyıl     EED 4201          EED 4206   POWER ELECTRONICS II                                    3   2     6    1 Yarıyıl
+EED 3006,EED 3016   EED 4303   CONTROL SYSTEMS MODELING AND SIMULATIONS 3                 2     6    1 Yarıyıl     EED 4203          EED 4208   POWER SYSTEM ANALYSIS II                                3   2     6    1 Yarıyıl
+        -           EED 4401   FUNDAMENTALS OF BIOMEDICAL ENGINEERING                 3   0     6    1 Yarıyıl     EED 4301          EED 4306   ROBOTICS                                                3   2     6    1 Yarıyıl
+        -           EED 4407   MEDICAL IMAGING SYSTEMS                                3   2     6    1 Yarıyıl     EED 4301          EED 4308   INDUSTRIAL AUTOMATION                                   3   2     6    1 Yarıyıl
+  EED 2012          EED 4501   ANALOG ELECTRONICS II                                  3   0     6    1 Yarıyıl     EED 3016          EED 4406   BIOMEDICAL SYSTEMS AND CONTROL                          4   0     6    1 Yarıyıl
+  EED 3018          EED 4521   ADVANCED LOGIC DESIGN                                  4   0     6    1 Yarıyıl     EED 4401          EED 4408   BIOELECTRICITY                                          3   0     6    1 Yarıyıl
+                                                                                                                   EED 4501          EED 4502   ANALOG INTEGRATED CIRCUITS                              3   0     6    1 Yarıyıl
+                                                                                                                   EED 4521          EED 4520   FUNDAMENTALS OF VLSI DESIGN                             4   0     6    1 Yarıyıl
+                                                                                                     DOKUZ EYLÜL ÜNİVERSİTESİ
+                                            Mühendislik Fakültesi - Elektrik - Elektronik Mühendisliği (İngilizce) 2024-2025 Öğretim Planı
+                                                       Üniversitemiz Senatosunun 22/08/2024 tarih ve 690/14 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                                                                    Teknik Seçmeli Dersler
+Ön Şart     Kod           Ders Adı                                                             T      U      AKTS Süresi                   Ön Şart    Kod        Ders Adı                                                      T     U   AKTS Süresi
+            GÇD 1001       Volunteerism Studies                                                 1      2         4       1 Yarıyıl                    ETE 3003     INTRODUCTION TO NANOTECHNOLOGY                               2    0    4   1 Yarıyıl
+            İHD 1002       Human Rights                                                         2      0         4       1 Yarıyıl                    ETE 3005     METHODS OF ARTIFICAL INTELLIGENCE                            2    0    4   1 Yarıyıl
+            ESE 2013       ENGINEERING ETHICS                                                   2      0         3       1 Yarıyıl                    ETE 3007     FUNDAMENTALS OF ROBOTICS                                     2    0    4   1 Yarıyıl
+            ESE 2015       FRENCH FOR ENGINEERS                                                 2      0         3       1 Yarıyıl                    ETE 3014     GIS FOR ENGINEERS                                            2    0    4   1 Yarıyıl
+            ESE 2037       ENGINEERING ECONOMICS                                                2      0         3       1 Yarıyıl                    ETE 3017     PHYSICAL MODELS                                              2    0    4   1 Yarıyıl
+            ESE 2059       DISASTERS ADMINISTRATION                                             2      0         3       1 Yarıyıl                    ETE 3043     DIGITAL TRANSFORMATION IN INDUSTRY                           2    0    4   1 Yarıyıl
+            ESE 2065       CAREER PLANNING AND DEVELOPMENT                                      2      0         3       1 Yarıyıl                    ETE 3006     BIOMEDICAL SYSTEMS                                           2    0    4   1 Yarıyıl
+            ESE 2067       BUSINESS MANAGEMENT AND MANAGEMENT                                   2      0         3       1 Yarıyıl                    ETE 3018     MODERN ENGINEERING MATHEMATICS                               2    0    4   1 Yarıyıl
+            ESE 2069       PERSONAL STYLE AND IMAGE MANAGEMENT                                  2      0         3       1 Yarıyıl                    ETE 3025     PROJECT MANAGEMENT                                           2    0    4   1 Yarıyıl
+            ESE 2014       EFFECTIVE COMMUNICATION IN ENGINEERING                               2      0         3       1 Yarıyıl                    ETE 3029     QUALITY MANAGEMENT                                           2    0    4   1 Yarıyıl
+            ESE 2016       ENVIROMENTAL POLLUTION & ITS CONTROL                                 2      0         3       1 Yarıyıl                    ETE 3031     NAVIGATION ENGINEERING                                       2    0    4   1 Yarıyıl
+            ESE 2024       NATURE, ENVIRONMENT AND URBANIZATION                                 2      0         3       1 Yarıyıl                    ETE 3032     PERFORMANCE MEASUREMENT IN BUSINESSES                        2    0    4   1 Yarıyıl
+            ESE 2050       INTELLECTUAL PROPERTY RIGHTS                                         2      0         3       1 Yarıyıl                    ETE 3034     FINANCIAL MANAGEMENT FOR ENGINEERS                           2    0    4   1 Yarıyıl
+            ESE 2060       BASIC JAPANESE                                                       2      0         3       1 Yarıyıl                    ETE 3035     ELEMENTAL & ISOTOPIC ANALYSIS IN THE MULTIDISCIPLINARY FIELDS 2   0    4   1 Yarıyıl
+            ESE 2066       OCCUPATIONAL HEALTH DISEASES IN ENGINEERING 2                               0         3       1 Yarıyıl                    ETE 3042     TEST, CONTROL AND CALIBRATION IN MEDICAL DEVICES 3                2    6   1 Yarıyıl
+            ESE 2070       CLIMATE CHANGE AND SUSTAINABLE MANAGEMENT 2                                 0         3       1 Yarıyıl                    ETE 3044     IMAGING, ART AND MUSEUMS                                     2    0    4   1 Yarıyıl
+            ESE 2072       INFORMATICS LAW                                                      2      0         3       1 Yarıyıl                    MTH 3501     BASIC CYBER SECURITY                                         2    0    4   1 Yarıyıl
+                                                                                                                                                      MTH 3502     INFORMATION NETWORKS                                         2    0    4   1 Yarıyıl
+                                                                                                                                                      MTH 3503     INTRODUCTION TO QUANTUM COMPUTING                            2    0    4   1 Yarıyıl
+                                                                                                                                                      MTH 3504     PHASE ARRAY RADAR TECHNOLOGIES                               2    0    4   1 Yarıyıl
+                                                                                                                                                      MTH 3505     WIRELESS POWER TRANSER SYSTEMS                               2    0    4   1 Yarıyıl
+                                                                                                                                                      MTH 3506     PARDUS AND LIBREOFFICE EDUCATION                             2    0    4   1 Yarıyıl
+                                                                                                                                                      MTH 3507     SYSTEM ENGINEERING                                           2    0    4   1 Yarıyıl
+                                                                                                                                                      MTH 3508     FUNDAMENTALS OF JAVA AND OBJECT ORIENTED PROGRAMMING 2            0    4   1 Yarıyıl
+                                                                                                                                                      MTH 3510     NANOCARBON MATERIALS AND THEIR APPPLICATIONS 2                    0    4   1 Yarıyıl
+
+
+
+
+            Erasmus Dersleri
+             Ön Şart          Kod          Ders Adı                                                                     T     U   AKTS Süresi
+                    -         ERA 2300      INTRODUCTION TO GEOSPATIAL ASSESSMENTS ON ENVIROMENTAL SUSTAINABILITY 2           1      5   1 Yarıyıl
+                    -         ERA 2301      CLIMATE CHANGE ASSESSMENTS ON ENVIRONMENTAL ISSUES, PRIORITIES AND CHALLENGES 3   0      5   1 Yarıyıl
+                    -         ERA 2302      SUSTAINABLE DESIGN OF ENGINEERING STRUCTURES 2                                    1      5   1 Yarıyıl
+                    -         ERA 4800      INTRODUCTION TO SUSTAINABLE ENERGY SYSTEMS 3                                      0      5   1 Yarıyıl
+
+               *        EED 2009,EED 2309,EED 2315
+
+               **       EED 3016,EED 3018,EED 3006,EED 3008
+
+
+
+
+               SEÇMELİ DERSLER:
+               1.yarıyıl : 1 Adet (4 AKTS) Seçmeli (TOPLAM 4 AKTS)
+               3. yarıyıl : 2 kredi (3 AKTS) Sosyal Seçmeli (TOPLAM 3 AKTS
+               4. yarıyıl : 2 kredi (3 AKTS) Sosyal Seçmeli (TOPLAM 3 AKTS
+               5.yarıyıl : 1 Adet (4 AKTS) Seçmeli (TOPLAM 4 AKTS)
+               6. yarıyıl : 2 kredi (4 AKTS) Teknik Seçmeli (TOPLAM 4 AKTS
+               7. yarıyıl : 2 adet (12 AKTS) Seçmeli, 2 adet opsiyon dersi (12 AKTS) (TOPLAM 24 AKTS
+               8. yarıyıl : 1 adet (6 AKTS) Seçmeli, 2 adet opsiyon dersi (12 AKTS) (TOPLAM 18 AKTS
+
+
+
+
+               HER YARIYIL AÇILAN DERSLER:
+               EED 2311 Circuit Theory I
+               EED 2313 Laboratory I
+               EED 2414 Circuit Theory II
+               EED 2416 Laboratory II
+               EED 2008 Electromagnetic Theory
+               EED 4795 Research Project
+               EED 4894 Final Year Project
+
+
+               Programı tamamlayarak mezun olabilmek için 4 opsiyondan birinin seçilmesi ve seçilen opsiyondan mezun olunması zorunludur.
+               Seçilen opsiyondan mezun olabilmek için o opsiyonun 4 adet opsiyon ana dersinden başarılı olunmalıdır. Opsiyonların ve seçmeli
+               derslerin kontenjanları dönem baslarında bölüm baskanlıgınca belirlenerek ilan edilecektir.
+
+
+               OPSİYON 1 "TELECOMMUNICATIONS AND WIRELESS SYSTEMS" Dersler: EED4101, EED 4103, EED 4106, EED 4108
+               OPSİYON 2 "ENERGY" Dersler: EED4201, EED 4203, EED 4206, EED 4208
+               OPSİYON 3 "CONTROL" Dersler: EED4301, EED 4303, EED 4306, EED 4308
+               OPSIYON 4 "BIOMEDICAL SYSTEMS" Dersler: EED 4401, EED 4407, EED 4406, EED 4408
+               OPSIYON 5 "MICROELECTRONICS' Dersler: EED 4501, EED 4521, EED 4502, EED 4520
+
+               STAJLAR: EED 3600 Summer Practice stajı 40 iş günüdür.Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu
+               değildir. Öğrenciler EED 3600 stajını en erken 6. yarıyıldan sonraki yaz döneminde yapabilirler.
+

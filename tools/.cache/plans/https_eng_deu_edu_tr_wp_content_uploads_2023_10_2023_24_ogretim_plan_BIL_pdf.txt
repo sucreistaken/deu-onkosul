@@ -1,0 +1,139 @@
+                                                                                                                                                                                            03/10/2023 16:01:08
+
+                                                                                  DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                               Mühendislik Fakültesi - Bilgisayar Mühendisliği 2023-2024 Öğretim Planı
+                                                      Üniversitemiz Senatosunun 12/09/2023 tarih ve 653/7 sayılı karar ile kabul edilen şeklidir.
+
+
+                                        BİRİNCİ YARIYIL                                                                                                    İKİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+    -       CME 1203   INTRODUCTION TO COMPUTER ENGINEERING                   2   2     4    1 Yarıyıl           -           CME 1206   TECHNICAL ENGLISH                                       2   0     3    1 Yarıyıl
+    -       CME 1205   DISCRETE COMPUTATIONAL STRUCTURES                      3   0     5    1 Yarıyıl           -           CME 1212   ALGORITHMS AND PROGRAMMING II                           2   2     7    1 Yarıyıl
+    -       CME 1211   ALGORITHMS AND PROGRAMMING I                           2   2     5    1 Yarıyıl           -           CME 1214   LOGIC DESIGN                                            2   2     6    1 Yarıyıl
+    -       CME 1251   PROJECT BASED LEARNING I                               2   2     4    1 Yarıyıl           -           CME 1252   PROJECT BASED LEARNING II                               2   2     4    1 Yarıyıl
+    -       KPD 1001   Career Planning                                        1   0     2    1 Yarıyıl           -           MAT 1002   CALCULUS II                                             4   0     5    1 Yarıyıl
+    -       MAT 1001   CALCULUS I                                             4   0     5    1 Yarıyıl           -           PHY 1102   PHYSICS II                                              3   2     5    1 Yarıyıl
+    -       PHY 1101   PHYSICS I                                              3   2     5    1 Yarıyıl                                                                          ZORUNLU AKTS TOPLAMI :    30
+                                                              ZORUNLU AKTS TOPLAMI :    30                                                                                      SEÇMELİ AKTS TOPLAMI :    0
+                                                              SEÇMELİ AKTS TOPLAMI :    0
+
+
+
+                                       ÜÇÜNCÜ YARIYIL                                                                                                  DÖRDÜNCÜ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+ CME 1212   CME 2201   DATA STRUCTURES                                        2   2     7    1 Yarıyıl           -           CME 2202   DATA ORGANIZATION AND MANAGEMENT                        3   2     6    1 Yarıyıl
+    -       CME 2203   INTRODUCTION TO CIRCUITS AND ELECTRONICS               3   2     7    1 Yarıyıl     CME 1212          CME 2204   ALGORITHM ANALYSIS                                      2   2     6    1 Yarıyıl
+    -       CME 2205   PROBABILITY AND STATISTICS                             2   2     4    1 Yarıyıl           -           CME 2206   COMPUTER ARCHITECTURE                                   3   2     6    1 Yarıyıl
+    -       CME 2207   DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA              4   0     5    1 Yarıyıl           -           CME 2208   NUMERICAL ANALYSIS                                      3   0     4    1 Yarıyıl
+    -       TDL 1001   Türk Dili I                                            2   0     2    1 Yarıyıl           -           CME 2210   OBJECT ORIENTED ANALYSIS AND DESIGN                     2   2     6    1 Yarıyıl
+    -       BDE 1003   Beden Eğitimi                                          2   0     2    1 Yarıyıl           -           TDL 1002   Türk Dili II                                            2   0     2    1 Yarıyıl
+    -       GSH 1003   Halk Oyunları                                          2   0     2    1 Yarıyıl                                                                          ZORUNLU AKTS TOPLAMI :    30
+    -       GSM 1003   Müzik                                                  2   0     2    1 Yarıyıl                                                                          SEÇMELİ AKTS TOPLAMI :    0
+                                                              ZORUNLU AKTS TOPLAMI :    27
+                                                              SEÇMELİ AKTS TOPLAMI :    3
+
+
+
+
+                                        BEŞİNCİ YARIYIL                                                                                                  ALTINCI YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+    -       CME 3201   DATABASE MANAGEMENT SYSTEMS                            2   2     6    1 Yarıyıl     CME 1212          CME 3202   CONCEPTS OF PROGRAMMING LANGUAGES                       2   2     6    1 Yarıyıl
+ CME 1205   CME 3203   THEORY OF COMPUTATION                                  2   2     6    1 Yarıyıl           -           CME 3204   DATA COMMUNICATIONS AND COMPUTER NETWORKS 3                 1     6    1 Yarıyıl
+ CME 2206   CME 3205   OPERATING SYSTEMS                                      2   2     6    1 Yarıyıl           -           CME 3206   SOFTWARE ENGINEERING                                    3   2     7    1 Yarıyıl
+    -       CME 3207   SIGNALS AND SYSTEMS FOR COMPUTER ENGINEERING 2             2     6    1 Yarıyıl     CME 3205          CME 3208   PRINCIPLES OF EMBEDDED SYSTEMS                          2   2     6    1 Yarıyıl
+    -       ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                   2   0     2    1 Yarıyıl           -           ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                   2   0     2    1 Yarıyıl
+                                                              ZORUNLU AKTS TOPLAMI :    26                                                                                      ZORUNLU AKTS TOPLAMI :    27
+                                                              SEÇMELİ AKTS TOPLAMI :    4                                                                                       SEÇMELİ AKTS TOPLAMI :    3
+
+
+                                        YEDİNCİ YARIYIL                                                                                                SEKİZİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T   U    AKTS Süresi        Ön Şart            Kod        Ders Adı                                                T   U    AKTS Süresi
+    -       CME 4203   COMPUTER ENGINEERING DESIGN                            0   2     4    1 Yarıyıl           -           İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                              2   0     2    1 Yarıyıl
+    -       İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                              2   0     2    1 Yarıyıl   CME 4201,CME 4203   CME 4202   SENIOR PROJECT                                          0   6     6    1 Yarıyıl
+    -       CME 4293   SUMMER TRAINING I                                      0   0     6    40 IG               -           CME 4294   SUMMER TRAINING II                                      0   0     4    20 IG
+                                                              ZORUNLU AKTS TOPLAMI :    12                                                                                      ZORUNLU AKTS TOPLAMI :    12
+                                                              SEÇMELİ AKTS TOPLAMI :    18                                                                                      SEÇMELİ AKTS TOPLAMI :    18
+
+Seçmeli Dersler                                                                                          Seçmeli Dersler
+    -       CME 4403   INTRODUCTION TO MACHINE LEARNING                       2   2     6    1 Yarıyıl           -           CME 4404   INTRODUCTION TO SOFTWARE VERIFICATION                   2   2     6    1 Yarıyıl
+ CME 2201   CME 4405   PARALLEL COMPUTING                                     2   2     6    1 Yarıyıl           -           CME 4406   MULTIMEDIA SYSTEMS                                      2   2     6    1 Yarıyıl
+    -       CME 4407   COMPUTER GAME DESIGN AND PROGRAMMING                   2   2     6    1 Yarıyıl           -           CME 4408   INTRODUCTION TO NATURAL LANGUAGE PROCESSING 2               2     6    1 Yarıyıl
+    -       CME 4409   COMPUTER GRAPHICS                                      2   2     6    1 Yarıyıl           -           CME 4410   INTRODUCTION TO PATTERN RECOGNITION                     2   2     6    1 Yarıyıl
+    -       CME 4411   SOFTWARE PROJECT MANAGEMENT                            3   0     6    1 Yarıyıl           -           CME 4412   INTRODUCTION TO DIGITAL IMAGE PROCESSING                2   2     6    1 Yarıyıl
+ CME 3201   CME 4413   TOPICS IN DATABASES                                    2   2     6    1 Yarıyıl           -           CME 4414   ADVANCES IN WEB TECHNOLOGIES                            2   2     6    1 Yarıyıl
+ CME 3201   CME 4415   DISTRIBUTED DATABASES                                  2   2     6    1 Yarıyıl           -           CME 4416   INTRODUCTION TO DATA MINING                             2   2     6    1 Yarıyıl
+    -       CME 4417   SIMULATION AND MODELING                                2   2     6    1 Yarıyıl           -           CME 4418   INTRODUCTION TO ARTIFICIAL INTELLIGENCE                 2   2     6    1 Yarıyıl
+    -       CME 4419   HUMAN COMPUTER INTERACTION                             2   2     6    1 Yarıyıl           -           CME 4420   ANALYSIS AND DESIGN OF ALGORITHMS                       2   2     6    1 Yarıyıl
+ CME 3205   CME 4421   SYSTEMS PROGRAMMING                                    2   2     6    1 Yarıyıl           -           CME 4422   INTRODUCTION TO GRAPH THEORY                            2   2     6    1 Yarıyıl
+ CME 3205   CME 4423   MOBILE DEVICES AND APPLICATIONS                        2   2     6    1 Yarıyıl           -           CME 4430   VISUAL SYSTEMS DESIGN                                   2   2     6    1 Yarıyıl
+    -       CME 4425   INTRODUCTION TO BIOINFORMATICS ALGORITHMS 2                2     6    1 Yarıyıl           -           CME 4432   APPLICATIONS OF DECISION SUPPORT SYSTEMS                2   2     6    1 Yarıyıl
+ CME 2201   CME 4428   iOS PROGRAMMING                                        2   2     6    1 Yarıyıl           -           CME 4434   DATA WAREHOUSES AND BUSINESS INTELLIGENCE 2                 2     6    1 Yarıyıl
+    -       CME 4453   QUALITY OF SERVICE ADVANCEMENTS IN IP NETWORKS 3           0     6    1 Yarıyıl           -           CME 4436   BASICS OF INTERNET OF THINGS                            2   2     6    1 Yarıyıl
+    -       CME 4455   FUNDAMENTALS OF NETWORK DESIGN                         2   2     6    1 Yarıyıl           -           CME 4454   NETWORK SERVICES AND APPLICATIONS                       3   0     6    1 Yarıyıl
+    -       CME 4459   MICROPROCESSORS                                        3   0     6    1 Yarıyıl           -           CME 4456   RECONFIGURABLE COMPUTING                                3   0     6    1 Yarıyıl
+    -       CME 4461   NETWORK SECURITY                                       3   0     6    1 Yarıyıl     CME 3205          CME 4458   MICROPROCESSOR BASED SYSTEM DESIGN                      3   0     6    1 Yarıyıl
+    -       CME 4463   DRONE TECHNOLOGY                                       3   0     6    1 Yarıyıl           -           CME 4460   INTRODUCTION TO CRYPTOGRAPHY                            3   0     6    1 Yarıyıl
+                                                                                                                 -           CME 4462   DIGITAL AUDIO PROCESSING                                3   0     6    1 Yarıyıl
+                                                                                                                 -           CME 4464   ENTREPRENEURSHIP AND INNOVATION                         2   2     6    1 Yarıyıl
+                                                                                                                                                                      03/10/2023 16:01:09
+
+                                                                         DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                     Mühendislik Fakültesi - Bilgisayar Mühendisliği 2023-2024 Öğretim Planı
+                                                Üniversitemiz Senatosunun 12/09/2023 tarih ve 653/7 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                            Teknik Seçmeli Dersler
+Ön Şart     Kod        Ders Adı                                      T   U   AKTS Süresi           Ön Şart     Kod        Ders Adı                                         T    U   AKTS Süresi
+            GÇD 1001     Volunteerism Studies                        1   2     4   1 Yarıyıl                   ETE 3003    INTRODUCTION TO NANOTECHNOLOGY                  2    0    4   1 Yarıyıl
+            İHD 1002     Human Rights                                2   0     4   1 Yarıyıl                   ETE 3007    FUNDAMENTALS ROBOTICS                           2    0    4   1 Yarıyıl
+            ESE 2013     ENGINEERING ETHICS                          2   0     3   1 Yarıyıl                   ETE 3014    GIS FOR ENGINEERS                               2    0    4   1 Yarıyıl
+            ESE 2015     FRENCH FOR ENGINEERS                        2   0     3   1 Yarıyıl                   ETE 3017    PHYSICAL MODELS                                 2    0    4   1 Yarıyıl
+            ESE 2037     ENGINEERING ECONOMICS                       2   0     3   1 Yarıyıl                   ETE 3006    BIOMEDICAL SYSTEMS                              2    0    4   1 Yarıyıl
+            ESE 2059     DISASTERS ADMINISTRATION                    2   0     3   1 Yarıyıl                   ETE 3018    MODERN ENGINEERING MATHEMATICS                  2    0    4   1 Yarıyıl
+            ESE 2065     CAREER PLANNING AND DEVELOPMENT             2   0     3   1 Yarıyıl                   ETE 3025    PROJECT MANAGEMENT                              2    0    4   1 Yarıyıl
+            ESE 2067     BUSINESS MANAGEMENT AND MANAGEMENT          2   0     3   1 Yarıyıl                   ETE 3029    QUALITY MANAGEMENT                              2    0    4   1 Yarıyıl
+            ESE 2069     PERSONAL STYLE AND IMAGE MANAGEMENT         2   0     3   1 Yarıyıl                   ETE 3031    NAVIGATION ENGINEERING                          2    0    4   1 Yarıyıl
+            ESE 2014     EFFECTIVE COMMUNICATION IN ENGINEERING      2   0     3   1 Yarıyıl                   ETE 3032    PERFORMANCE MEASUREMENT IN BUSINESSES           2    0    4   1 Yarıyıl
+            ESE 2016     ENVIROMENTAL POLLUTION & ITS CONTROL        2   0     3   1 Yarıyıl                   ETE 3034    FINANCIAL MANAGEMENT FOR ENGINEERS              2    0    4   1 Yarıyıl
+            ESE 2024     NATURE, ENVIRONMENT AND URBANIZATION        2   0     3   1 Yarıyıl                   ETE 3042    TEST, CONTROL AND CALIBRATION IN MEDICAL DEVICES 3   2    6   1 Yarıyıl
+            ESE 2050     INTELLECTUAL PROPERTY RIGHTS                2   0     3   1 Yarıyıl                   MTH 3501    BASIC CYBER SECURITY                            2    0    4   1 Yarıyıl
+            ESE 2060     BASIC JAPANESE                              2   0     3   1 Yarıyıl                   MTH 3502    INFORMATION NETWORKS                            2    0    4   1 Yarıyıl
+            ESE 2066     OCCUPATIONAL HEALTH DISEASES IN ENGINEERING 2   0     3   1 Yarıyıl                   MTH 3503    INTRODUCTION TO QUANTUM COMPUTING               2    0    4   1 Yarıyıl
+            ESE 2070     CLIMATE CHANGE AND SUSTAINABLE MANAGEMENT 2     0     3   1 Yarıyıl                   MTH 3504    PHASE ARRAY RADAR TECHNOLOGIES                  2    0    4   1 Yarıyıl
+                                                                                                               MTH 3505    WIRELESS POWER TRANSER SYSTEMS                  2    0    4   1 Yarıyıl
+                                                                                                               MTH 3506    PARDUS AND LIBREOFFICE EDUCATION                2    0    4   1 Yarıyıl
+                                                                                                               MTH 3507    SYSTEM ENGINEERING                              2    0    4   1 Yarıyıl
+                                                                                                               MTH 3510    NANOCARBON MATERIALS AND THEIR APPPLICATIONS 2       0    4   1 Yarıyıl
+                                                                                                                                                          03/10/2023 16:01:09
+
+                                                                                                         DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                     Mühendislik Fakültesi - Bilgisayar Mühendisliği 2023-2024 Öğretim Planı
+                                                            Üniversitemiz Senatosunun 12/09/2023 tarih ve 653/7 sayılı karar ile kabul edilen şeklidir.
+
+
+Erasmus Dersleri
+Ön Şart     Kod        Ders Adı                                                                    T     U   AKTS Süresi
+    -       ERA 2300   INTRODUCTION TO GEOSPATIAL ASSESSMENTS ON ENVIROMENTAL SUSTAINABILITY 2           1    5   1 Yarıyıl
+    -       ERA 2301   CLIMATE CHANGE ASSESSMENTS ON ENVIRONMENTAL ISSUES, PRIORITIES AND CHALLENGES 3   0    5   1 Yarıyıl
+    -       ERA 2302   SUSTAINABLE DESIGN OF ENGINEERING STRUCTURES 2                                    1    5   1 Yarıyıl
+    -       ERA 4800   INTRODUCTION TO SUSTAINABLE ENERGY SYSTEMS 3                                      0    5   1 Yarıyıl
+
+
+
+
+  AÇIKLAMALAR: SEÇMELİ DERSLER:
+  3. yarıyıl : 2 kredi (3 AKTS) Sosyal Seçmeli (TOPLAM 3 AKTS)
+  5. yarıyıl : 2 kredi (4 AKTS) Teknik Seçmeli (TOPLAM 4 AKTS)
+  6. yarıyıl: 2 kredi (3 AKTS) Sosyal Seçmeli (TOPLAM 3 AKTS)
+  7. yarıyıl : 9 kredi (18 AKTS) Seçmeli
+  8. yarıyıl : 9 kredi (18 AKTS) Seçmeli HER YARIYIL AÇILAN DERSLER:
+  CME 4203 Computer Engineering Design
+  CME 4202 Senior Project STAJLAR:
+  Toplam staj suresi en az 60 iş günüdür.Stajların öğretim planında gösterilen yarıyıllarda yapılması zorunlu değildir.
+  Öğrenci bu stajın en az 20 iş gününü Bilgisayar Yazılımı geliştiren veya kullanan, en az 10 iş gününü de Bilgisayar Donanımı
+  geliştiren İnternet ve Bilgisayar Ağları ile ilgili kurum ve kuruluşlar veya onların ilgili bölümlerinde yapmak zorundadır.
+
+
+
+  * Öğretim planında yer alan; Beden Eğitimi, Resim, Müzik, Halk Oyunları derslerinden yalnızca bir tanesi seçilecektir.
+

@@ -1,0 +1,157 @@
+                                                                                                                                                                                         07/04/2017 14:55:13
+
+                                                                                   DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                               Mühendislik Fakültesi - Çevre Mühendisliği Öğretim Planı
+                                                      Üniversitemiz Senatosunun 19/04/2016 tarih ve 457/7 sayılı karar ile kabul edilen şeklidir.
+
+
+                                        BİRİNCİ YARIYIL                                                                                            İKİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T    U   AKTS Süresi       Ön Şart     Kod        Ders Adı                                                       T     U   AKTS Süresi
+    -       ÇEV 1003   TEKNİK İNGİLİZCE                                       3    0    3    1 Yarıyıl       -       BİL 1002   BİLGİSAYAR PROGRAMLAMA                                          2    2    3    1 Yarıyıl
+    -       ÇEV 1051   ÇEVRE MÜHENDİSLİĞİNE GİRİŞ                             2    0    2    1 Yarıyıl       -       ÇEV 1006   ÇEVRE BİYOLOJİSİ VE EKOLOJİSİ                                   3    0    3    1 Yarıyıl
+    -       FİZ 1101   FİZİK I                                                3    2    5    1 Yarıyıl       -       ÇEV 1008   ÇEVRE MÜHENDİSLİĞİ KİMYASI I                                    4    0    4    1 Yarıyıl
+    -       İNŞ 1011   TEKNİK RESİM                                           3    1    5    1 Yarıyıl       -       ÇEV 1012   TEKNİK İNGİLİZCE                                                3    0    3    1 Yarıyıl
+    -       KİM 1015   KİMYA                                                  3    2    5    1 Yarıyıl       -       FİZ 1102   FİZİK II                                                        3    2    5    1 Yarıyıl
+    -       MAT 1009   MATEMATİK I                                            4    0    4    1 Yarıyıl       -       İNŞ 1012   STATİK                                                          3    0    4    1 Yarıyıl
+    -       TBT 1003   TEMEL BİLGİ TEKNOLOJİLERİ                              1    1    2    1 Yarıyıl       -       MAT 1010   MATEMATİK II                                                    4    0    4    1 Yarıyıl
+    -       ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                   2    0    2    1 Yarıyıl       -       ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                           2    0    2    1 Yarıyıl
+    -       TDL 1001   Türk Dili I                                            2    0    2    1 Yarıyıl       -       TDL 1002   Türk Dili II                                                    2    0    2    1 Yarıyıl
+                                                                     AKTS TOPLAMI :     30                                                                                           AKTS TOPLAMI :       30
+
+
+                                       ÜÇÜNCÜ YARIYIL                                                                                          DÖRDÜNCÜ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T    U   AKTS Süresi       Ön Şart     Kod        Ders Adı                                                       T     U   AKTS Süresi
+    -       ÇEV 2007   ÇEVRE MÜHENDİSLİĞİ KİMYASI II                          3    0    4    1 Yarıyıl       -       İNŞ 2016   TOPOĞRAFYA                                                      2    2    5    1 Yarıyıl
+    -       ÇEV 2009   ÇEVRE MİKROBİYOLOJİSİ                                  2    2    5    1 Yarıyıl       -       BDE 1003   Beden Eğitimi                                                   2    0    2    1 Yarıyıl
+    -       İNŞ 2009   DİNAMİK                                                3    0    4    1 Yarıyıl       -       GSH 1003   Halk Oyunları                                                   2    0    2    1 Yarıyıl
+    -       İNŞ 2013   MUKAVEMET                                              3    0    4    1 Yarıyıl       -       GSM 1003   Müzik                                                           2    0    2    1 Yarıyıl
+    -       İNŞ 2019   AKIŞKANLAR MEKANİĞİ                                    3    0    4    1 Yarıyıl       -       ÇEV 2010   ÇEVRE ANALİZ TEKNİKLERİ                                         2    2    5    1 Yarıyıl
+    -       İNŞ 2021   ÇEVRE MÜHENDİSLERİ İÇİN MALZEME                        2    0    3    1 Yarıyıl       -       ÇEV 2406   ÇEVRE MÜHENDİSLERİ İÇİN SAYISAL YÖNTEMLER                       3    0    5    1 Yarıyıl
+    -       MAT 2011   MATEMATİK III                                          4    0    4    1 Yarıyıl       -       ÇEV 2408   ATMOSFER FİZİĞİ VE KİMYASI                                      3    0    3    1 Yarıyıl
+                                                                     AKTS TOPLAMI :     28                İNŞ 2019   İNŞ 2018   HİDROLİK                                                        4    0    5    1 Yarıyıl
+                                                                                                             -       MAK 2019   TERMODİNAMİĞE GİRİŞ                                             2    0    3    1 Yarıyıl
+                                                                                                                                                                                     AKTS TOPLAMI :       28
+
+
+                                        BEŞİNCİ YARIYIL                                                                                          ALTINCI YARIYIL
+Ön Şart     Kod        Ders Adı                                               T    U   AKTS Süresi       Ön Şart     Kod        Ders Adı                                                       T     U   AKTS Süresi
+    -       ÇEV 3025   SU GETİRME                                             3    1    5    1 Yarıyıl       -       ÇEV 3014   KANALİZASYON                                                    3    1    6    1 Yarıyıl
+    -       ÇEV 3513   TEMEL İŞLEMLER                                         3    1    4    1 Yarıyıl       -       ÇEV 3024   HİDROLOJİ                                                       2    0    2    1 Yarıyıl
+    -       ÇEV 3517   SU KALİTESİ KONTROLÜ                                   3    0    3    1 Yarıyıl       -       ÇEV 3616   HAVA KİRLİLİĞİ VE KONTROLÜ                                      3    1    4    1 Yarıyıl
+    -       ÇEV 3521   KİMYASAL PROSESLER                                     2    1    3    1 Yarıyıl       -       ÇEV 3618   İÇME SULARININ ARITILMASI                                       3    0    3    1 Yarıyıl
+    -       ÇEV 3523   ÇEVRESEL TAŞINIM SÜREÇLERİ                             2    0    2    1 Yarıyıl       -       ÇEV 3620   İSTATİSTİĞE GİRİŞ                                               3    0    3    1 Yarıyıl
+    -       ÇEV 3569   KATI ATIKLAR                                           3    1    4    1 Yarıyıl       -       ÇEV 3622   BİYOLOJİK PROSESLER                                             2    2    4    1 Yarıyıl
+    -       İNŞ 3015   ZEMİN MEKANİĞİ                                         2    0    3    1 Yarıyıl       -       ÇEV 3624   TEHLİKELİ ATIKLAR                                               2    0    2    1 Yarıyıl
+    -       İNŞ 3517   YAPI MÜHENDİSLİĞİ                                      3    0    3    1 Yarıyıl       -       ÇEV 3200   LABORATUVAR STAJI                                               0    0    3    2 Hafta
+    -       ÇEV 3100   LABORATUVAR STAJI                                      0    0    3    2 Hafta                                                                                 AKTS TOPLAMI :       27
+                                                                     AKTS TOPLAMI :     30
+
+
+                                        YEDİNCİ YARIYIL                                                                                         SEKİZİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                               T    U   AKTS Süresi       Ön Şart     Kod        Ders Adı                                                       T     U   AKTS Süresi
+    -       ÇEV 4719   DENİZ DEŞARJLARI                                       2    0    2    1 Yarıyıl       -       ÇEV 4046   ENDÜSTRİ ATIK SULARININ ARITILMASI                              3    0    4    1 Yarıyıl
+    -       ÇEV 4721   ÇEVRESEL MODELLEME                                     3    1    4    1 Yarıyıl       -       ÇEV 4048   ARITMA ÇAMURLARININ BERTARAFI                                   2    0    2    1 Yarıyıl
+    -       ÇEV 4763   ÇEVRE YÖNETİMİ                                         3    0    3    1 Yarıyıl       -       ÇEV 4050   ARITMA TESİSİ TASARIMI                                          2    2    6    1 Yarıyıl
+    -       ÇEV 4767   KULLANILMIŞ SULARIN ARITILMASI                         4    0    4    1 Yarıyıl       -       İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                                      2    0    2    1 Yarıyıl
+    -       ÇEV 4773   ÇEVRE SİSTEMLERİ ANALİZİ                               3    0    3    1 Yarıyıl       -       ÇEV 4062   BİTİRME PROJESİ                                                 0    6    6    1 Yarıyıl
+    -       İSG 4001   İŞ SAĞLIĞI VE GÜVENLİĞİ I                              2    0    2    1 Yarıyıl       -       ÇEV 4800   MESLEK STAJ                                                     0    0    4    1 Yarıyıl
+    -       ÇEV 4700   MESLEK STAJ                                            0    0    4    4 Hafta                                                                                 AKTS TOPLAMI :       24
+                                                                     AKTS TOPLAMI :     22               Seçmeli Dersler
+Seçmeli Dersler                                                                                              -       ÇEV 4003   ENDÜSTRİYEL ATIKSU ARIT.TES.TASARIMI                            3    0    3    1 Yarıyıl
+    -       ÇEV 4001   İÇME SUYU ARITMA TESİSİ TASARIMI                       3    0    3    1 Yarıyıl       -       ÇEV 4004   TERFİ MERKEZLERİ                                                2    0    2    1 Yarıyıl
+    -       ÇEV 4006   ATIKSU ARITMA TESİSLERİNİN İŞLETİMİ                    2    0    2    1 Yarıyıl       -       ÇEV 4005   SU KAYNAKLARI TEKNOLOJİSİ                                       2    0    2    1 Yarıyıl
+    -       ÇEV 4007   DENİZ VE GÖL BİLİMLERİ                                 2    0    2    1 Yarıyıl       -       ÇEV 4008   YERALTISUYU AKIMI VE KİRLENMESİ                                 3    0    3    1 Yarıyıl
+    -       ÇEV 4009   İLERİ ARITMA TEKNİKLERİ                                3    0    3    1 Yarıyıl       -       ÇEV 4016   KATI ARTIKLARIN GERİ KAZANILMASI                                2    0    2    1 Yarıyıl
+    -       ÇEV 4010   ANAEROBİK ARITMA                                       2    0    2    1 Yarıyıl       -       ÇEV 4017   ATIKLARIN BİYODÖNÜŞÜMÜ                                          2    0    2    1 Yarıyıl
+    -       ÇEV 4011   VERİ DEĞERLENDİRME YÖNTEMLERİ                          2    0    2    1 Yarıyıl       -       ÇEV 4020   HAVA KALİTESİ MODELLERİ                                         2    0    2    1 Yarıyıl
+    -       ÇEV 4015   BİYOÇEVRE MÜHENDİSLİĞİ                                 2    0    2    1 Yarıyıl       -       ÇEV 4029   KATI ATIK YÖNETİMİ VE EKONOMİSİ                                 2    0    2    1 Yarıyıl
+    -       ÇEV 4021   ENDÜSTRİYEL KAYNAKLI HAVA KİRLİLİĞİ                    3    0    3    1 Yarıyıl       -       ÇEV 4030   BİLGİSAYAR DESDEKLİ TASARIM                                     2    0    2    1 Yarıyıl
+    -       ÇEV 4024   ATIK AZALTMA TEKNİKLERİ                                2    0    2    1 Yarıyıl       -       ÇEV 4033   ALTYAPI TESİSLERİ MALİYET ANALİZİ                               2    0    2    1 Yarıyıl
+    -       ÇEV 4025   KATI ATIK TESİSLERİ TASARIMI                           3    0    3    1 Yarıyıl       -       ÇEV 4034   KENTSEL ALTYAPI TESİSLERİ TASARIMI                              3    0    3    1 Yarıyıl
+    -       ÇEV 4027   ARITMA ÇAMURLARI BERTARAF SİS.TAS.                     2    0    2    1 Yarıyıl       -       ÇEV 4037   HAVA KİRLİLİĞİ KONTROL TEKNOLOJİLERİ                            3    0    3    1 Yarıyıl
+    -       ÇEV 4041   DEPONİ PLANLAMA VE TASARIMI                            3    0    3    1 Yarıyıl       -       ÇEV 4038   HAVA KİRLİLİĞİ ÖLÇÜM TEKNİKLERİ                                 2    0    2    1 Yarıyıl
+    -       ÇEV 4042   BİYOLOJİK YÖNTEMLERLE NUTRİENT GİDERİMİ                2    0    2    1 Yarıyıl       -       ÇEV 4044   DERİN DENİZ DEŞARJLARI PROJESİ                                  2    0    2    1 Yarıyıl
+    -       ÇEV 4045   SU KALİTESİ MODELLERİ                                  3    0    3    1 Yarıyıl       -       ÇEV 4052   BİLGİSAYAR DESTEKLİ TEKNİK ÇİZİM                                2    0    2    1 Yarıyıl
+    -       ÇEV 4053   ÇEVRE MÜHENDİSLİĞİNDE COĞRAFİ BİLGİ SİSTEMİ 2               0    2    1 Yarıyıl       -       ÇEV 4064   MESLEKİ UYGULAMALAR                                             3    0    3    1 Yarıyıl
+    -       ÇEV 4089   ARITMA TESİSİ HİDROLİĞİ                                2    0    2    1 Yarıyıl       -       ÇEV 4078   RADYOAKTİF KİRLENME                                             2    0    2    1 Yarıyıl
+    -       ÇEV 4095   ÇEVRE MÜHENDİSLİĞİNDE NANOTEKNOLOJİK UYGULAMALAR 2          0    2    1 Yarıyıl       -       ÇEV 4084   AKTİF ÇAMUR BİYOLOJİSİ                                          2    0    2    1 Yarıyıl
+    -       ÇEV 4097   İKLİM DEĞİŞİMİNİN ÇEVRESEL ETKİLERİ                    2    0    2    1 Yarıyıl       -       ÇEV 4086   ÇEVRESEL ETKİ DEĞERLENDİRMESİ                                   2    0    2    1 Yarıyıl
+    -       ENV 4003   DESIGN OF IND. WASTEWATER TREATMENT PLANTS 2                0    2    1 Yarıyıl       -       ÇEV 4096   İSTATİSTİKSEL DENEY TASARIM METODLARI                           2    0    2    1 Yarıyıl
+    -       ENV 4009   ADVANCED TREATMENT TECHNIQUES                          3    0    3    1 Yarıyıl       -       ÇEV 4106   ENDÜSTRİYEL ATIKSU ARITIMINDA MEMBRAN TEKNOLOJİLERİ UYGULAMALARI 2   0    2    1 Yarıyıl
+    -       ENV 4017   BIOPROCESSING OF WASTES                                2    0    2    1 Yarıyıl       -       ENV 4006   OPERATION OF WASTEWATER TREATNEBT PLANTS 2                           0    2    1 Yarıyıl
+    -       ENV 4027   DESIGN OF SLUDGE PROCESSING UNITS                      2    0    2    1 Yarıyıl       -       ENV 4016   SOLID WASTE RECYLING TECHNOLOGIES                               2    0    2    1 Yarıyıl
+    -       ENV 4035   ENVIRONMENTAL DISPERSION                               2    0    2    1 Yarıyıl       -       ENV 4026   HAZARDOUS WASTES                                                2    0    2    1 Yarıyıl
+    -       ENV 4041   PLANNING AND DESIGN OF LANDFILLS                       3    0    3    1 Yarıyıl       -       ENV 4102   GROUNDWATER HYDROLOGY                                           2    0    2    1 Yarıyıl
+    -       ENV 4101   INTRO. TO CONTAMINANT TRANSPORT IN GROUNDWATER AND SOIL 2   0    2    1 Yarıyıl       -       ENV 4104   ENVIRONMENTAL MODELING                                          2    0    2    1 Yarıyıl
+    -       ENV 4103   NUMARICAL METHODS IN ENVIRONMENTAL ENG.                2    1    3    1 Yarıyıl
+    -       ENV 4105   CONTAMINANT SOIL REMEDIATION                           2    0    2    1 Yarıyıl
+                                                                                                                                                                                                                           07/04/2017 14:55:14
+
+                                                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                                 Mühendislik Fakültesi - Çevre Mühendisliği Öğretim Planı
+                                                               Üniversitemiz Senatosunun 19/04/2016 tarih ve 457/7 sayılı karar ile kabul edilen şeklidir.
+
+
+Sosyal Seçmeli Dersler                                                                                                            Teknik Seçmeli Dersler
+Ön Şart     Kod        Ders Adı                                                                        T     U   AKTS Süresi      Ön Şart     Kod        Ders Adı                                                                 T     U   AKTS Süresi
+            ESE 2065     CAREER PLANNING AND DEVELOPMENT                                                2    0    3   1 Yarıyıl               ETE 3005     METHODS OF ARTIFICAL INTELLIGENCE                                       2    0    4   1 Yarıyıl
+            ESE 2067     BUSINESS MANAGEMENT AND MANAGEMENT                                             2    0    3   1 Yarıyıl               ETE 3014     GIS FOR ENGINEERS                                                       2    0    4   1 Yarıyıl
+            ESE 2069     PERSONAL STYLE AND IMAGE MANAGEMENT                                            2    0    3   1 Yarıyıl               MTS 3003     NANOTEKNOLOJİYE GİRİŞ                                                   2    0    3   1 Yarıyıl
+            MSİ 2001     SUNUM VE SUNUŞ TEKNİKLERİ                                                      2    0    2   1 Yarıyıl               MTS 3007     ROBOTUN TEMELLERİ                                                       2    0    3   1 Yarıyıl
+            MSİ 2005     KİŞİSEL GELİŞİM VE ETKİLİ YAŞAMAK                                              2    0    2   1 Yarıyıl               MTS 3009     ÇEVRENİN KORUNMASINI AMAÇLAYAN DİSİPLİNLERARASI PROJ. GELİŞ. 2               0    3   1 Yarıyıl
+            MSİ 2009     AVRUPA BİRLİĞİNDE SOSYAL POLİTİKA                                              2    0    2   1 Yarıyıl               MTS 3011     MÜHENDİSLİK MALZEMELERİNİN KARAKTERİZASYONU 2                                0    3   1 Yarıyıl
+            MSİ 2013     MÜHENDİSLİK ETİĞİ                                                              2    0    2   1 Yarıyıl               MTS 3015     YOL TEKNOLOJİSİNDE YENİLİKLER                                           2    0    3   1 Yarıyıl
+            MSİ 2015     MÜHENDİSLER İÇİN FRANSIZCA                                                     2    0    2   1 Yarıyıl               MTS 3017     FİZİKSEL MODELLER                                                       2    0    3   1 Yarıyıl
+            MSİ 2027     PSİKOLOJİYE GİRİŞ                                                              2    0    2   1 Yarıyıl               MTS 3019     ÜRETİMDE ÇÖZÜM YAKLAŞIMLARI                                             2    0    3   1 Yarıyıl
+            MSİ 2029     İLETİŞİM BECERİLERİ                                                            2    0    2   1 Yarıyıl               ETE 3006     BIOMEDICAL SYSTEMS                                                      2    0    4   1 Yarıyıl
+            MSİ 2031     İNSAN KAYNAKLARI YÖNETİMİ                                                      2    0    2   1 Yarıyıl               ETE 3029     QUALITY MANAGEMENT                                                      2    0    4   1 Yarıyıl
+            MSİ 2037     MÜHENDİSLİK EKONOMİSİ                                                          2    0    2   1 Yarıyıl               ETE 3031     NAVIGATION ENGINEERING                                                  2    0    4   1 Yarıyıl
+            MSİ 2041     BÜTÜNLEŞİK KIYI YÖNETİMİ, TÜRKİYEDE LİMAN YÖNETİMİ VE DEVLETLERARASI PROGRAMLAR 2   0    2   1 Yarıyıl               ETE 3032     PERFORMANCE MEASUREMENT IN BUSINESSES                                   2    0    4   1 Yarıyıl
+            MSİ 2043     İŞ KANUNU VE UYGULAMASI                                                        2    0    2   1 Yarıyıl               ETE 3034     FINANCIAL MANAGEMENT FOR ENGINEERS                                      2    0    4   1 Yarıyıl
+            MSİ 2049     DOĞAL AFETLER                                                                  2    0    2   1 Yarıyıl               ETE 3035     ELEMENTAL & ISOTOPIC ANALYSIS IN THE MULTIDISCIPLINARY FIELDS 2              0    4   1 Yarıyıl
+            MSİ 2059     AFET YÖNETİMİ                                                                  2    0    2   1 Yarıyıl               MTS 3002     DEPREM MÜHENDİSLİĞİNDE SEÇMELİ KONULAR                                  2    0    3   1 Yarıyıl
+            MSİ 2061     İŞLETMELERDE İÇ DENETİM                                                        2    0    2   1 Yarıyıl               MTS 3004     ARKEOLOJİK PROSPEKSİYON                                                 2    0    3   1 Yarıyıl
+            MSİ 2063     PAZARLAMAYA GİRİŞ                                                              2    0    2   1 Yarıyıl               MTS 3008     MALZEME VE ÜRETİM                                                       2    0    3   1 Yarıyıl
+            MSİ 2065     KARİYER PLANLAMA VE GELİŞTİRME                                                 2    0    2   1 Yarıyıl               MTS 3010     MADENCİLİK FAALİYETLERİNİN ÇEVRESEL ETKİLERİ 2                               0    3   1 Yarıyıl
+            MSİ 2067     İŞLETME YÖNETİMİ VE YÖNETİCİLİĞİ                                               2    0    2   1 Yarıyıl               MTS 3012     TEKNİK TEKSTİLLER II                                                    2    0    3   1 Yarıyıl
+            MSİ 2069     KİŞİSEL STİL VE İMAJ YÖNETİMİ                                                  2    0    2   1 Yarıyıl               MTS 3014     MÜHENDİSLER İÇİN COĞRAFİ BİLGİ SİSTEMİ                                  2    0    3   1 Yarıyıl
+            MSİ 2002     FELSEFEYE GİRİŞ                                                                2    0    2   1 Yarıyıl               MTS 3016     ULAŞIM SİSTEMLERİ ANALİZİNE GİRİŞ                                       2    0    3   1 Yarıyıl
+            MSİ 2004     İNSAN İLİŞKİLERİ                                                               2    0    2   1 Yarıyıl               MTS 3020     ENERJİ VE ÇEVRE                                                         2    0    3   1 Yarıyıl
+            MSİ 2006     BRİÇ                                                                           2    0    2   1 Yarıyıl               MTS 3021     MÜHENDİSLİK PROJELERİNDE KAYA MEKANİĞİ VE SAYISAL MODELLEME UYGULAMALARI 2   0    3   1 Yarıyıl
+            MSİ 2008     EKONOMİK KÜRESELLEŞME                                                          2    0    2   1 Yarıyıl               MTS 3022     TÜNEL AÇMA                                                              2    0    3   1 Yarıyıl
+            MSİ 2010     İŞ GÜVENLİĞİ                                                                   2    0    2   1 Yarıyıl               MTS 3023     MADEN ARAMALARINDA JEOFİZİK YÖNTEMLER                                   2    0    3   1 Yarıyıl
+            MSİ 2012     GENÇ GİRİŞİMCİLİK                                                              2    0    2   1 Yarıyıl               MTS 3024     JEOLOJİK PROBLEMLER VE JEOFİZİK ÇÖZÜMLERİ                               2    0    3   1 Yarıyıl
+            MSİ 2022     MİMAR SİNAN                                                                    2    0    2   1 Yarıyıl               MTS 3025     PROJE YÖNETİMİ                                                          2    0    3   1 Yarıyıl
+            MSİ 2024     DOĞA ÇEVRE VE KENT                                                             2    0    2   1 Yarıyıl               MTS 3026     YER BİLİMLERİNDE BİLGİSAYAR DESTEKLİ TASARIM 2                               0    3   1 Yarıyıl
+            MSİ 2026     AVRUPA BİRLİĞİ VE AVRUPA KONSEYİNDE BÜTÜNLEŞİK ÇEVRE POLİTİKASI 2                   0    2   1 Yarıyıl               MTS 3027     SONDAJ TEKNOLOJİSİ VE UYGULAMALARI                                      2    0    3   1 Yarıyıl
+            MSİ 2030     HALKLA İLİŞKİLER                                                               2    0    2   1 Yarıyıl               MTS 3028     MÜHENDİSLİKTE HARİTA BİLGİSİ                                            2    0    3   1 Yarıyıl
+            MSİ 2032     SOSYAL PSİKOLOJİ                                                               2    0    2   1 Yarıyıl               MTS 3029     KALİTE YÖNETİMİ                                                         2    0    3   1 Yarıyıl
+            MSİ 2044     ORTAÇAĞ'DA ANADOLU UYGARLIKLARI                                                2    0    2   1 Yarıyıl               MTS 3030     SULAK ALANLAR                                                           2    0    3   1 Yarıyıl
+            MSİ 2048     TÜRKİYE'NİN JEO.MİRAS JEOTUR.JEOPARK POT.VE KORUNMASI 2                             0    2   1 Yarıyıl               MTS 3031     SEYİR MÜHENDİSLİĞİ                                                      2    0    3   1 Yarıyıl
+            MSİ 2050     FİKRİ VE SINAİ MÜLKİYET HAKLARI                                                2    0    2   1 Yarıyıl               MTS 3032     İŞLETMELERDE PERFORMANS ÖLÇÜMÜ                                          2    0    3   1 Yarıyıl
+            MSİ 2054     SOSYAL POLİTİKA                                                                2    0    2   1 Yarıyıl               MTS 3033     DIŞ TİCARET İŞLEMLERİ                                                   2    0    3   1 Yarıyıl
+            MSİ 2060     TEMEL JAPONCA                                                                  2    0    2   1 Yarıyıl               MTS 3034     MÜHENDİSLER İÇİN FİNANSAL YÖNETİM                                       2    0    3   1 Yarıyıl
+            MSİ 2062     YÖNETİMDE STRATEJİK PLANLAMA                                                   2    0    2   1 Yarıyıl               MTS 3035     MULTİDİSİPLİNER ALANLARDA ELEMENT VE İZOTOP ÖLÇÜM TEKNİKLERİ 2               0    3   1 Yarıyıl
+            MSİ 2064     SATRANÇ                                                                        2    0    2   1 Yarıyıl
+            MSİ 2066     MÜHENDİSLİKTE MESLEK HASTALIKLARI                                              2    0    2   1 Yarıyıl
+
+
+
+
+  AÇIKLAMALAR: SEÇMELİ DERSLER:
+  3. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  4. yarıyıl : 2 kredi (2 AKTS) Sosyal Seçmeli (TOPLAM 2 AKTS)
+  6. yarıyıl : 2 kredi (3 AKTS) Teknik Seçmeli (TOPLAM 3 AKTS)
+  7. yarıyıl : 8 kredi (8 AKTS) Seçmeli (TOPLAM 8 AKTS)
+  8. yarıyıl : 6 kredi (6 AKTS) Seçmeli (TOPLAM 6 AKTS) HER YARIYIL AÇILAN DERSLER:
+  ÇEV 4062 Bitirme Projesi STAJLAR:
+  Staj süresi toplam 12 haftadır (60 iş günü). Stajların öğreitm planında gösterilen yarıyıllarda yapılması zorunlu değildir.
+  Stajın 4 haftalık (20 iş günü) kısmı laboratuvar veya işletme stajı olup, bu staja hak kazanabilmek için ilk 4 yarıyıldaki derslerin alınmış
+  olması gerekmektedir.
+  Stajın geriye kalan 8 haftalık (40 iş günü) kısmı meslek stajı olup, bu staja hak kazanabilmek için ilk 6 yarıyıldaki derslerin alınmış olması
+  zorunludur.
+
+
+
+  * Öğretim planında yer alan; Beden Eğitimi, Resim, Müzik, Halk Oyunları derslerinden yalnızca bir tanesi seçilecektir.
+

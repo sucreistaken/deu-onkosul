@@ -1,0 +1,1515 @@
+         C
+
+"-ffi-
+         +
+                     DoKuz eyı-üı- üıtivensiresi
+                       MüHENDisLiK FAKüLTESi
+                   2024yıLı einiilı reeliyET RApoRU
+         a9
+
+
+
+
+     BİRİM FAALİYET RAPORU
+              MüHENDislix rnxüLTEsl
+
+
+
+
+                      iztııia, zozq
+'ffi
+        Ey L ajı
+ ,JL
+                   a,
+
+
+      'ı                                                       DoKuz eyı-üı- üııivensiresi
+ çr5} j                                                      MÜHENDlsLlK FAKüLTESl
+                                                         2024yıLı siniilü rAALiyET RApoRu
+
+
+   üsr vöııerici sUNuşU
+       içiııoexiıen
+   ı_ GENEL aiı-ciı-rR
+
+             A- Misyon ve Vizyon
+              B- Yetki, Görev ve Sorumluluklar
+              c- idareye ılişkin Bilgiler
+                        1 .   Fiziksel Yapı
+                        2. Teşkilat Yapısı
+                        3. Teknoloji    Ve Bilişim Altyaplsl
+                        4. İnsan Kaynakları
+                        5. Sunulan Hizmetler
+                  6. Yönetim ve İç Kontrol Sistemi
+              D- Diğer Hususlar
+
+   lI-AMAÇ ve HEDEFLER
+
+             A- Temel Politika ve Öncelikler
+             B- ldarenin stratejik Planlnda Yer Alan Amaç Ve Hedefler
+             C- Dğer Hususlar
+
+   III-FAALiYETLERE iLişKiN BiLGi VE DEĞERLENDiRMELER
+
+             A- Mali Bilgiler
+                        1- Bütçe Uygulama Sonuçlarl
+                        2- Temel Mali Tablolara llişkin Açlklamalar
+                        3- Mali Denetim Sonuçları
+                  4- Diğer Hususlar
+               B- Performans Bilgileri
+                   1- Program, Alt Program, Faaliyet Bilgileri
+                   2- Performans Sonuçlarının Değerlendirilmesi
+                      a. Alt program hedef ve göstergeleriyle ilgili gerçekleşme sonuçlarl ve değerlendirmeler
+                      b. Performans denetim sonuçlarl
+                  3- Stratejik Plan Değerlendirme Tab|oları
+                 4- Performans Bilgi Sisteminin Değerlendirilmesi
+                  5- Diğer Hususlar
+
+   IV_ KuRU MsAL KABi LiYET ve KAPASiTENiıı oeĞeRı_eı.ıoiniı-ıuesi
+
+              A-Üstünlükler
+              B-Zayıflıklar
+              C-Değerlendirme
+
+   V- öNER| / TEDB|RLER
+
+   VI- EKLER
+                                                                      1
+           EvLO,
+o   İ.oa       -ö
+o                  L
+                                                  DoKuz EYLÜL ÜNiVERsiTEsi
+                                                   MüHENDlsLlK FAKüLTESl
+                                               2024YlLl BiRiM FAAL|YET RAPoRU
+
+               üsr yöııerici suNuşu
+     |-    GiRiş
+                Dokuz Eylül Üniversitesi Mühendislik Fakültesi, 1982 yılından itibaren mühendislik eğitimi
+     vermekte olan bır bilim ve araştırma yuvasıdır. On iki bölümümüzde bulunan 256 öğretim üyesi ve görevlisi
+     ile 74 araştırma görevlisi ve öğretim görevlisi (uzmanın) yanında top|am 86 idari işlerle görevli
+     personelimizin de desteği ile eğitim ve öğretim faaliyetlerimizi başarı ile sürdürmekte, ülkemizin kamu ve
+     özel sektör kuruluşlarında hizmet verecek yetkin ve donanımlı mühendisler yetiştirmekteyiz. Fakültemizin
+     tüm bölümleri Ve eğitim programlarl MÜDEK - Mühendislik Eğitim Programlarl Değerlendirme ve
+     Akreditasyon Derneği taraflndan akredite edilmiştir. 2024 ynı sonu itibarlyla Lisans Yerleştirme Sınavı,
+     yatay ve dikey geçiş imkAnları, af kanunu ve yurt dışından kabul edilenlerle birlikte fakültemizde okuyan
+     öğrenci saylsl ise 6238 olmuştur.
+               Mühendislik eğitiminin amacı, güncel ve gelişmekte olan teknolojileri kavrayan, daha iyi eğitilmiş
+     ve daha nitelikli mühendisler yetiştirilmesini ve bu yolla toplumun refahının ileri götürülmesini sağlamaktır.
+     Fakültemiz öğretim üyeleri, öğrencilerimizi teknik yönden donanımlı mühendisler olarak yetiştirirken, aynı
+     zamanda ulusal ve uluslararası birçok bilimsel ve teknolojik çalışmada, endüstriye yönelik mühendislik ve
+     Ar-Ge projelerinde, üniversite-sanayi işbidiği çalışmalarında da önemli görevler üstlenmektedir. Akademik
+     kadromuz her yıl olduğu gibi 2024 yılında da uluslararasl indekslerde yer alan dergilerdeki nitelikli
+     yayınlarını artlrarak sürdürmüştür.
+               Akademisyen kadromuz eğitim, öğretim, araştlrma Ve yayln faaliyetlerinin yanlnda Teknopark
+     içerisinde ve Fakülte Döner Sermayesi kapsamında sanayiye teknik danışmaniık ve mühendislik
+     hizmetleri vermektedir. 2024 ylında olduğu gibi 2025 yılında da Fakültemizin tanıtımına dair
+     gerçekleştireceğimiz etkinliklere tüm faaliyetlerimiz arasında daha fazla öncel|k verilecek ve Fakültemiz
+     Bölümlerine daha yüksek puanlı öğrencilerin yerleşmesi hedefimiz sürdürülecektir. Bu faaliyetler
+     Bö|ümlerimizin tanlnlrl|ğlnl artlrmanln yanında, mezunlarlmızın daha geniş iş sahalarlna açılmasına da
+     vesile olacaktlr.
+
+
+     ll - FAKÜLTE YöNETilü, sisTEMi
+               2024 ytı Süresince PÜKo tabanll yönetim sistemi ile fakültemiz organizasyon birimlerinde yer alan
+     tüm birim|erimizde yönetim ve idari çalışmalara devam edilmiştir. 2024 ytı içerisinde Kalite Yönetimi
+     konularında çalışmalar yapılmış, sürekli iyileştirme ve yönetimin gözden geçirilmesi çalışmaları
+     kapsamında tüm birimlere ait iş aklş şemalarl ve personele yönelik görev tanlmlarl güncellenmiştir.
+
+
+     lll. ARAŞT|RMA Üııivensiresi, KURuMSAL AKRED|TASYoN ve irÜDEK
+               2O22 yil içerisinde Üniversitemiz Araştırma Üniversitesi olarak YÖK tarafından sınıfland ırılm ıştır
+     Aynca 2o21-2o22 yılları içerisinde YÖKAK çalışmaları kapsamlnda uzaktan ve yüz yüze değerlendirme
+
+                                                             2
+     .,J7 Ev L aj,
+ o
+o                    +
+                                                    DoKuz EyLüL üııivensiresi
+                                                      MüHENDiSLiK FAKüLTESl
+                                                 2024 yıLı einirü/ı rııı-iyET RApoRu
+
+       ziyaretleri yapllan üniVersitemiz ve fakültemizdeki çalışmalar sonucunda Üniversitemiz YÖK Kalite Kurulu
+      tarafından Kurumsal Akreditasyon belgesi almaya hak kazanmıştır.
+                 2024 sonu itibariyle eğitim programlarlmlzln akreditasyonuna yönelik olarak 12 programımız
+      MÜDEK akreditasyonlarınln sürdürülmesi yönünde MÜDEK Akreditasyon Belgesi ve Euro-Ace Etiketi
+      almaya hak kazanmıştır.
+                 PÜKo sistemi içerisinde Akran Değerlendirme sistemi de fakültemizde başarılı bir şekilde
+      uygulanmıştır. 2024 ytı içerisinde YÖKAK hedeflerimizin çoğunluğunda hedeflenen çıktılara ulaşılmıştır.
+
+
+      lV - EĞiTiM öĞneriıu FAALiYETLER|
+                 12 Örgün Eğitim ve 2 ikinci Eğitim Programı olmak üzere 14 programda eğitim öğretim faaliyetleri
+      2024 ylında da sürdürülmüştür.
+
+
+      V - AR_GE FAAL|YETLERi
+                 Fakültemizde öğretim üyelerimiz Tübitak, Depark, Avrupa Bidiği Çerçeve Projeleri, Ufuk ve Horizon
+      kapsamında projelere etkin bir şekilde devam etmiştir, Ayrıca Döner Sermaye lşletmesi kapsamında
+      Üniversite-Sanayi işbirliği kapsamında proje, danışmanllk Ve bilirkişilik hizmetlerinin yanl slra laboratuvar
+      hizmeti de Veri|miş olup bu hizmetlerden elde edilen gelirlerden kurum hisseleri ve öğretim üyeleri katkı
+      payları ile öz kaynak çeşitliliği arttlrılarak yine Ar-Ge faaliyetleri i|e Bilimsel Etkinlikleri Destek Fonu araclllğl
+      ile öğretim elemanlarımızın bilimsel etkinliklere katılmaları sağlanmıştır.
+
+
+      Vl - AKADEM|K YAY|N sAYlLARl
+                Fakültemiz öğretim üye ve elemanlarınca 2024 yılında uluslararasl ve ulusal çapta yayınlara etkin
+      bir şekilde devam edilmiştir. Yıl içerisinde yayınlanmış olan bilimsel faaliyetlerde son 3 yıla bakıldığında
+      hemen hemen tüm yayın türlerinde belirgin bir artış elde edilmiştir. 2022 yılında öğretim üyesi başına
+      düşen uluslararası indeksli dergilerde yayın sayısı 0,96 dan 2023 yılında 1,14 e yükselmiştır.2024 ytında
+      da yükseliş devam ederek öğretim üyesi başına düşen yayın sayısı 1,30 olarak gerçekleşmiştir.
+
+
+      Vll - AKADEMiK, sosYAL VE KÜLTÜREL FAALiYETLER
+                Fakültemizde 2024 ytl içerisinde akademik, sportif ve kültürel faaliyetler planlanmış ve
+      gerçekleştirilmiştir. Bölümlerimizin düzenlediği ulusal Ve uluslararası sempozyum, kongre ve çalıştaylar ile
+      konferanslar yapllmlştlr. Uluslararasılaşma kapsamında birçok faaliyet gerçekleştirilmiş Ve yurt dlşlndan
+      birçok bilim insanı, yurt içinden konuşmacıların katıldığı birçok etkinlik düzenlenmiştir. Değişim programları
+      kapsamlnda öğretim üyesi Ve öğrencilerimiz yurt dışına gönderilmiştir.
+
+
+
+
+                                                                3
+     ,Ja EvLüı
+ o               c
+o                +
+                                                DoKuz EyLüL üNivensiresi
+                                                  MÜHENDisLiK FAKÜLTESl
+                                            2024 ylLı einir,Jü reıı-ivET RApoRu
+                 \9
+
+
+
+
+             Önümüzdeki süreçte Mühendislik Fakültesinin eğitim Ve araştlrmada mevcut potansiyelini artan
+     şekilde devam ettirmesi için Üniversitemizin stratejik planına göre yönetim çal|şmalarına devam
+     edilecektir. Bu çerçevede; (1) Donanımlı, bilgili, öğrenmeyi ve araştırma yapmayı bilen, dünyanın her
+     yerinde mesleklerini başarı ile yerine getirebilecek üstün Vaslfll mühendisler yetiştirmek, (2) Bilimsel
+     araştlrma çallşmalarlyla bilimsel literatüre önemli katkllar yapan bir akademik kadro oluşturmak, (3)
+     Türkiye'nin problemlerinin çözülmesine katkılar yapan, ülkemizin bilim ve teknolojide daha iyi noktalara
+     gelmesinde önemli roller üstlenen, ülkemizin sanayinin ve ekonomisinin ihtiyaçlarına yönelik pğeler
+     üreten bir fakülte olmak önde ge|en hedeflerimizdir.
+
+
+
+
+                                                                                       Prof. Dr, Azize AYOL
+                                                                                                 Dekan
+
+
+
+
+                                                            4
+",d}                                       DoKuz eyı_üı_ üııivensiresi
+                                             ııı ü H rıı oi sı-i x FAKü LTESI
+                                        2024 yıı_ı einiıııı reıı_iyer RApoRu
+
+
+ı- GENEL eiı_ciı_en
+
+A. Misyon ve Vizyon
+
+
+
+
+ıvıisyoıı
+        Bilimsel ve özgün araştırmalar yaparak ve sonuçlarını yayarak, evrensel bilimi ilerleten katkılar
+yapmak. Çevre ve toplum bilinci yüksek, yaratıcı, yenilikçi ve girişimci mühendisler yetiştirmek. Eğitim,
+bilim ve araştırma alanlarında, etkin görevler üstlenerek ulusal aydınlanmaya ve ülkemizin ekonomik
+ka|kınmasına ilerletici katkılar yapmak. Fakültenin tüm paydaşları ile ortak bir akıl oluşturarak, eğitim ve
+ülkemizin uluslararası rekabet edebileceği öncelikli araştırma alanlarında, sürekli yenilikçi ve atılımcı bir
+görev üstlenmek. Mühendislik alanında, ülke genelinde ve Ege Bölgesiözelinde toplum, sanayive devletin
+tüm bileşenlerinin gereksinmelerine yanıt vermek ve onların aydınlanmasında ve yapılanmasında öncülük
+etmek.
+
+
+
+vizyort
+
+        Çevreye duyarlı, toplumsal, düşünsel ve kültürel değerler açısından tam gelişmiş bir anlayış
+içerisinde, mühendisliğin tüm dallarında, evrensel ölçülerde mükemme| bir eğitim, bilim ve araştırma
+kurumu olmak.
+
+
+
+
+B. Yetki, Görev ve Sorumluluklar
+
+          Fakültemizde2547 sayılı yasanın 43. maddesi uyarınca dört yıllık lisans eğitimiverilerek mühendis
+yetiştirilmektedir.
+
+Fakültemizde verilen lisans eğitiminde eğitim, bilim ve araştırma alanlarında etkin görevler üstlenecek,
+ulusal aydınlanmaya, toplumun refahına, ülkemizin ekonomik kalkınmasına ilerletici katkılar yapacak,
+çevre ve toplum bilinci yüksek, yaratıcı, yenilikçive girişimci mühendislerin yetiştirilmesi amaçlanmaktadır.
+
+
+
+
+                                                      5
+,$}
+o
+                                                        DoKuz eyı_üı_ üııivensiresi
+                                                        MÜHENDiSLiK FAKÜLTESı
+                                                    2o24yıı_ı einiu rıııiyer RApoRu
+
+              c - idareye iıışı<ın Bitgiler
+
+
+
+                                                   2024 Y ılı Dona nım Enva nteri
+
+                                 Demirbaş Adı                       Sayı         Toplam Kayıt Tutarı (TL)
+                         Masaüstü bi|gisayar                         397
+                         Taşınabilir bilgisayar                      439
+                         Kitap                                        71
+                         Projeksiyon                                 232
+                         Slayt makinesi                                  1
+
+                         Tepegöz
+                         Episkop
+                         Barkod Okuyucu                                  4
+                         Baskı makinesi                                  2
+                         Faks                                            12
+                         Fotoğraf makinesi                            36
+                         kameralar                                       6
+                         Televizyonlar                                26
+                         Tarayıcılar                                  71
+                         Müzik setleri                                   6
+                         Mikroskop (01)                                  4
+                         Mikroskop (02)                              166
+                         DVD'ler                                         4
+                         Diğe11
+
+
+                                                                                           Kiralık       Toplam Araç
+                                      Araç Türü            Kuruma Ait Araçlar              Araçlar          Sa
+                                 Binek Oto
+                                 Kam n
+                                 Minibüs
+                                 Otobüs
+               Mevcut            Kamyonet
+                Araç             Tır    k lcl
+                                    Makinesi
+                                                         Dron                                                    5
+                                                         Elektrikli Bisiklet                                      1
+                                  Diğer
+                                                         Bot                                                      1
+
+
+
+                                          Toplam                                                                 7
+
+
+
+    (t) Taşınır programında kayıtlı olmasına karşılık, listede yer almayan diğer bilgi ve teknoloji kaynakları yazılmalıdır,
+                                                                     6
+-"ffi;            C
+                   +
+                       L                            DoKuz EvLüL üııivensiresi
+                        ,                             ııı Ü H E ıı o sı-i x rRxÜ ı-rrs l
+                                                                      i
+
+
+                      ürl                        2024 yıı_ı eini]ü,ı rnıı_iyer RApoRu
+  jzMrF, ı 992
+
+
+
+                                           TOPLANTİ VE KONFERANS SALONLARİ
+
+                                                ADET                                 ALAN (m2)
+            KAPASıTE              Toplantı    konferans                   Toplantı   konferans
+                                                            Toplam                                  Toplam
+                                   Salonu      Salonu                     SaIonu      SaIonu
+
+  0 - 50 Kişilik                      18                         18         720                       720
+  51 - 75 Kişilik                     2                          2          120                           120
+
+  76 - 100 Kişilik
+   ,l01 -
+                 150 Kişilik                         1           1                      120               120
+
+   151 - 250 Kişilik
+
+  251 ve Üzeri                                       1           1                      545           545
+
+  ToPLAM                             20           2              22         840         665           1   505
+
+
+
+
+                                     eĞiriıııı ALANı sAyıLARı (ADET)
+
+                                                                                 Laboratuvarlar
+       Birimler                Eğitim Alanı    Amfi      Sınıf    Atölye |-                                Toplam
+                                                                          Eğitim I Sağlık Araştırma
+
+Fakülteler                                       6        103                19               165               293
+Devlet
+konservatuvarı
+Enstitüler
+yüksekokullar
+MYO'lar
+Uygulama ve
+Araştırma
+Merkezleri
+
+
+
+
+                                                                 7
+ m}
+                                                  DoKuz eyı_üı_ üııivensiresi
+                                                    ııü H rıı oisLi K rnxü ı-rrs i
+                                               2024 yıı_ı einirüı rııı_iyer RApoRU
+
+                       eĞ iri ıvı ALAN LARı ıt ı ı.ı yüzö ı_ç ü ıvı ı_ e ni ro p ı-ııvı ı (mr)
+
+                      Amfi            Sınıf         Atölye           Laboratuvarlar (Toplam (m2))                  Toplam
+    Kapasite         Toplam         Toplam          Toplam
+                                                                                                                    (m')
+                      (m')           (m')            (m')            Eğitim         Sağlık         Araştırma
+0 - 50 Kişilik                        1620                            2280                           17000            20900
+51 - 75 Kişilik                       297o                                                                            2970
+76 - 100 Kişilik        380           260                                                                              640
+
+101 - 150 Kişilik       520           7600                                                                            8120
+151 - 25O Kişilik                     250                                                                              250
+251 ve Üzeri
+
+ToPLAM                  900          12700                            2280                           1   7000         32880
+
+
+        çALışMA ALANLARıı.ıııI rİzixi ıı-ırı eÜyÜxı_ÜĞÜ, sıyı VE KAPAsİre aİı_cİı_enİ
+
+                                                                        Sayısı          Alanı            Kapasitesi
+                              kullanım Alanı                            (Adet)                             (Klşl)
+                                                                                            (m')
+
+          Çalışma Odası (Akademik Personel)                              407           7404,24              409
+
+          Çalışma Odası (İdari Personel)                                  54           1341,84               53
+
+          Toplantı Odası                                                  20                840             850
+
+          Amfi                                                             6                900             700
+
+          Derslik (Sınıf)                                                103            127o0              8700
+
+          Laboratuvar                                                    185            1   9280           5550
+
+          Kütüphane
+
+          konferans salonu                                                 2                665             530
+
+          Arşiv                                                           16                550
+
+          Atölye
+
+          Diğer Alanlar                                                    1                125
+
+                                ToPLAM                                   794          43806,08             16792
+
+
+
+
+                                                               8
+",$}                                                                                                          DoKuz eyı_üı_ üıtivensiresi
+                                                                                                                nı ü H rıı olsLl K rnrüı-rrsi
+                                                                                                           2024 yıı_ı ginirıi rıeı_lver RApoRu
+
+
+
+
+oeü ıvıü rı eıı oisı_i x rexü lresi oncıııizAsyoN şE MAsı
+
+
+                                                                                                                    DOKUZ EYLÜL Üıı ivınsiıısi
+
+                      r                             Dıİrİi                                                           ıı,ı ü ıı ı ıı oi sıl       r rırüııısi
+                                  hh]ltğ tıru[,
+
+
+
+
+                                                                                                                                                       D.}iİ lııdıMil]il
+                                                                                                                                                                                                                             :]-ul t
+
+
+                      L                                                                                                                                        I
+
+
+
+
+ bıt trliğ.i,ılıPüı       i|1 !    !-,             ı[lh}n    6rrl İği                                                   *ktltıll                 I   li$nr Kıil              itıhııtt*üş        tıE \hİ    iaıınl   M.ö    ıil lll?ı 0ıı
+        i|, ı               liulr'ıg                 lgıır   tİ.İ üİri                             ldo!                  l*gı                          ü!lğ                 smıpqlıı ıüa        ıbprrı      !bı               }ıılııı
+                                                                                                                                                 I                                                                                            üi!mt
+                                                                                                                                                                                                                    'rLd
+                                                                                                                                                 I
+
+
+
+
+                                                                                                                                                 l
+                                                                                                                                                 I
+                                                                                                                                                                                                                           ö$*ııthmı       h,ö|ntn üçıi
+                                                  5dl         ıltİV                                                                                                            !.l              l.U
+
+                                                                                                                                                                                                                                           Sffi(iroaı
+                                                                                                                                                                                                                                             {hslrEü
+                                                                         h{i,B
+                           A*ro                                                                               h*e     &Lİl,d.         ıüh             l!|İll                                     1.1üüİi            gtnü
+                                                                         {üilül                    llEHt                                                                                                   ı+rh!l
+                                                                                                                      sch,l         Jelııtgtıi                                       lrı,İ]r!                                              QEtı rdftit
+                                                                                                                                                                           !rİi.
+
+
+                                                                                                                                                                                                 lıthd
+                                                                                                                                                                           ı+o$       t*puı
+
+                                                                         -1. il,
+                                                                                   ]ı"l
+                                                                                          "İ,ıll
+
+
+
+
+                                                                                                                                9
+  ,rsa EYLü,-C
+ o,§
+o
+                                                 DoKUz EYLÜL ÜNivenslresl
+
+   ffi3                                           MÜHENDiSLiK FAKÜLTESı
+                                              2o24YıLı BıRiM FAALıYET RAPoRu
+
+
+
+   Fakültemiz özelinde kullanılan herhangi bir yazılım kullanılmamaktadır. Fakat Üniversitemizin oracle
+   programı üzerinde yaptığı otomasyon çalışmalarının tamamına entegre olarak Fakültemiz hizmetlerini
+   yürütmeye devam etmektedir.
+
+
+
+
+           (Birimin mevcut insan kaynakları; istihdam şek|i, hizmet sınıfları, kadro unvanları, eğitim durumları,
+   yaşları ve hizmet süreleri ile birlikte tanımlanmalı, varsa bidmin personel ihtiyacı ya da fazlasına yönelik
+   değerlendirmeleri de ayrıca vurgulanmal ıd r. )ı
+
+
+
+
+                            Akademik ve İdari Personelin Cinsiyetlere Göre Dağılımı
+
+                    PersoneIin Ginsiyeti              Akademik personel           ıdari personel
+            Kadın                                                118                      30
+            Erkek                                                213                      56
+
+
+
+                                 Akademik ve İdari Persone|in Yaşa Göre DağıIımı
+
+                           Yaş Aralığı                Akademik personel               ıdari personel
+            21-25                                                 5                         0
+
+            26_30                                                18                         1
+
+
+            31-35                                                23                         8
+
+            36-40                                                44                       23
+
+            41-5o                                                124                      24
+
+            5'1 ve üzeri                                         117                      30
+
+            ToPLAM                                               331                      86
+
+
+
+                            İdarive Destek Personelinin İstihdam Şekline Göre Dağıtımı
+
+                                           İstihdam Şekli                 PersoneI Sayısı
+                             Memur (657 Sayılı Kanun Kapsamı)                    49
+
+                             Büro Personeli (Sözleşmeli İşçi)                     7
+
+                            Destek Pers. (657 Sayılı Kanun Kapsamı
+                                                                                  9
+                            Teknisyen, Teknisyen Yrd. vb. dahil)
+
+                             Destek Pers. (Sözleşmeli İşçi) (Kimyager
+                                                                                 21
+                             Mühendis vb. dahil)
+
+                                                            10
+       EY Lü,
+ ,Ja              -C
+
+'ffi_"1
+n§
+                                                        DoKUz EYLÜL Üıtlvrnsİresi
+  çr-r} j                                                MÜHENDiSLiK FAKÜLTESı
+                                                     2o24YıLı BıRıM FAALıYET RAPoRu
+   j,Mrn. ı 9a2        \'
+
+
+
+
+                            İdarive Destek PersoneIinin Eğitim Durumuna Göre Dağılımı
+
+                                          Mezuniyet Durumu              Persone!Sayısı
+                             llkokul                                          9
+                             Ortaokul                                         6
+                             Lise                                            18
+                             Önlisans                                        16
+                             Lisans                                          30
+                             yüksek Lisans                                    7
+                             Doktora ve sonrası                               0
+
+
+                            İdarive Destek PersoneIinin Hizmet SınıfIarına Göre Dağılımı
+
+                                              Hizmet sınıfları          Personel Sayısı
+                             Genel İdare Hizmetler                           30
+
+                             Teknik Hizmetler                                18
+
+                             yardımcı Hizmetler                              o
+
+                             Sağlık Hizmetleri                                1
+
+
+
+
+                              İdari ve Destek Personelinin Hizmet YıIına Göre Dağıtımı
+
+                                                YılAralığı              Personel Sayısı
+                             '1-3 Yıl                                        0
+
+                             4-6 Yıl                                          1
+
+
+
+                             7-10 Yıl                                        12
+
+                             1 '1-15    Yıl                                  33
+
+                             '16-20 Yıl                                      10
+
+                             21 ve izeri                                     30
+
+                             ToPLAM                                          86
+
+
+
+
+                                                                 Lt
+,m}                                          DoKuz eyı_üı_ üııivensiresi
+                                               ıı ü H Eıı o sı-i x rnrü ı-rrs|
+                                           2o24yıı_ı ainiilı rıelMrı RApoRu
+                                                                l
+
+
+
+
+         (Birimin, ilgili mevzuatta tanımlanan yetki, görev ve sorumlulukları gereği yerine getirdiği faaliyet
+ve çıktılarının tümü; somut parametre ve verileri ile beraber, dönemsel aralıklı (aylık, altı aylık ya da yıllık)
+ve mümkünse geriye dönük son üç yıllık dönemi (ayrıştırılmış ve yıllık bazda) kapsayacak şekilde
+tanımlanarak belirtilmelidir. )
+
+
+
+
+                              FAALiYET rünı_eniııE GöRE DAĞlLlMLAR
+
+                                            KAPSAMı                KAPSAMı
+              FAALıYET rÜnÜ                                                            ToPLAM
+                                            (ULuSAL)            (uLusLARARASı)
+      Sempozyum                                                       2                     2
+      Kongre                                      3                   4                     7
+      konferans                                   2                   17                   19
+      Çalıştay                                    3                   1                    4
+      Panel                                       5                                         5
+      Seminer                                     126                 8                   134
+      Söyleşi                                     22                  5                    27
+      T"pl-t,                                     25                  1                    26
+      Konser
+                                                  ,16
+      Diğer                                                                                16
+      GENEL TOPLAM                                202                 38                  24o
+
+
+
+
+  Metalurji ve Malzeme Mühendisliği Bölümü
+
+                   Maden Mühendisliği Bölümü
+                   Jeofizik Mühendisliği Bölümü
+                                                    -
+                                                    Z
+       Havacılık ve Uzay Mühendisliği Bölümü        -
+    Elektrik - Elektronik Mühendisliği Bölümü
+
+                 Bi|gisayar Mühendisliği Bölümü
+                                                    -
+                                                   o      o,2 o,4 0,6 0,8 L             I,2     L,4
+
+                                                    -
+                                                        WOS Ql+Q2 (kişi başı) - 2O24Yılı
+
+
+                                                           12
+""$}                                        DoKuz eyı_üı_ üııivensiresi
+                                                 rİİ O SLİ K FAKÜLTESİ
+                                              İİİ Ü H         i
+
+
+                                        2o24yılı ainiırü raeı_iyer RApoRu
+
+
+
+        2547 saylı Yükseköğretim Kanununu 16., 17. ve,18. maddelerinde Fakülte Yönetim organları;
+Fakülte Dekanı, Fakülte Kurulu ve Fakülte Yönetim Kurulu olarak belirlenmiş olup, dekana yardımcı olmak
+üzere fakültemizin aylıklı öğretim eleman|arı arasından atanan ikidekan yardımcısı ile idari birimlerin bağlı
+bulunduğu Fakülte Sekreteri de yönetim kadrosu içindedir.
+        Fakültemiz yönetim kademesi içerisinde yer alan; Dekan YÖK tarafından, Fakülte Sekreteri Rektör
+tarafından, Dekan yardımcıları ise Dekan tarafından atanmaktadır.
+        Fakültemiz 4734 sayılı Kamu İhale Kanununa tabi olup, bu kanun uyannca yapılan satın almalarda
+anılan Kanun'un 22ld maddesinde belirtilen parasal sınıra kadar yapılacak alımlarda piyasa araştırması
+Fakülte Harcama Yetkilisi o|an Dekan tarafından görevlendirilen personel tarafından yapılmaktadır.4734
+sayılı Kanun'un22ld maddesinde belirtilen parasal sınırı aşan ve aynı Kanun'un 19/b maddesi uyarınca
+"Açık İhale Usulü" ile yapılacak alımlarda ise Rektörlüğümüzce o|uşturulan İhale Komisyonu görev
+yapmaktadır.
+        Fakültemiz "Harcama Yetkilisi" Fakültemiz Dekanı, "Gerçekleştirme Görevlisi" ise Fakülte
+Sekreteri'dir. Fakültemiz bütçesinden gerçekleştirilecek giderlerle ilgili Ön Mali Kontrol İşlemi; 5018 sayılı
+Kanun ve bu kanun uyarınca yayımlanmış ikincil mevzuat ve Üniversitemiz "Ön Mali Kontrol İşlem
+Yönergesinin 6'ncı maddesi uyarınca Fakültemiz Gerçekleştirme Görevlisi tarafından yapılmaktadır.
+Fakültemiz Gerçekleştirme görevlisi tarafından Ön Mali Kontrolü yapılan ve tahakkuka bağlanan ödeme
+emri belgeleri ödenmek üzere Üniversitemiz Strateji Geliştirme Dairesi Başkanlığına gönderilir. Strateji
+Geliştirme Dairesi Başkanlığına gönderilen ödeme emri belgeleri"Dokuz Eylül ÜniversitesiÖn Mali Kontrol
+İşlemleri Yönergesinin 16'ncı maddesi uyarınca üst yönetici tarafından belirlenen ilke ve limitler döhilinde
+kontrol edilerek hak sahibine/sahiplerine ödenir.
+        Fakültemizde iç denetim; üst yönetici tarafından atanan Denetçiler tarafından, dış denetim ise
+Sayıştay Başkan ığ ı tarafı ndan gerçekleştirilmektedir.
+                 l
+
+
+
+
+                                                        ]-3
+        EYLoı
+o,,ıa           u
+
+
+
+    ffi
+o
+                                                    DoKuz EYLÜL ÜNiVERsiTEsi
+                                                    MüHENDlsLlK FAKüLTESl
+                                                2024YlLl BiRiM FAALıYET RAPoRu
+
+
+                    D - Diğer Hususlar
+        2. AIUAÇ ve HEDEFLER
+    strateiik Amaç|ar                                   strateiik Hedefler
+    strateiik Amaç - 1 .,|                              Hedef - 1.,!.1
+    Değer Yaratacak Araştlrmalarl n, Projelerin         Ulusal Ve uluslararasl ölçekte bilimsel araştlrma, yayln Ve
+    Niceliğini, Niteliğini ve Patent Sayılarını         projeleri arttlrmak,
+    Arttlrmak.
+    stratejik Amaç _ 1.2                                Hedef- 1.2.1
+    Bilgiye eriŞim olanaklarlnl artt|rmak.              Bilqisayar LaboratuVarlarlnln olanaklarlnın iyileştirilmesi
+    stratejik Amaç - 2.,t                               Hedef-2.1.1.
+    Öğrencilerin akademik, sosyal Ve kültürel           Nitelikli öğrenme ortamlarlnın oluşması için fiziksel
+    ge|işimini sağlayacak uygun öğrenme                 altyaplyl geliştirmek.
+    ortamlar|nl geliştirmek.
+
+    stratejik Amaç-2.2                                  Hedei 2-2.1
+    Etkin Bir Yaşam Boyu Eğitam Sastemini               Yaşam Boyu Eğitimin gerekliliği bilincinin sağlanmasl Ve
+    Geliştirip Sürdürmek,                               sürdürü|ebilirliği için teknik ve/ve ya sosyal konulu
+                                                        seminer Ve benzeri etkinliklerin düzenlenmesi, ilgili ders
+                                                        iceriklerinin bu doörultuda qüncellenmesi
+    stratejik Amaç 2.3.                                 Hedef 2.3.1
+    Eğitimin Her Alanlnda Etik Ve Sosyal                Konusunda uzman kaşilerin katlllmlyla seminer ve benzeri
+    Sorumluluk Bilincini Yerleştirmek                   etkinliklerin düzenlenmesi, ilgili ders içeriklerinin bu
+                                                        doğrultuda oüncellenmesi
+    stratelik Amaç 3.,t.                                Hedef - 3.1.1:
+    Öğrencilere Yönelik Geliştirme Faaliyetlerini       Öğrencilerin akademik gelişimini desteklemeye yönelik
+    Güçlendirmek Ve Öğrenciye Yönelik Hizmet            eğatim, konferans, seminer Ve benzera etkinlikleri
+    kalitesini Arttlrmak                                arttlrmak
+                                                        Hedef - 3.1.2:
+                                                        Öğrencilerin sosyo-kültürel gelişimini desteklemeye
+                                                        yönelik etkinliklerj arttlrmak
+    stratejik Amaç 3.2:                                 Hedef 3.2.1:
+    Akademik Ve ldari Persone|in Gelişimini             Akademik Ve idari personele yönelik idari hizmet kalitesini
+    Desteklemek ve Hizmet kalitesini Arttlrmak          geliştirmek.
+                                                        Hedeİ 3.2.2i
+                                                        Her yll akademik Ve idari personelin gelişimini
+                                                        destekleyecek eğitim, konferans, seminer Ve benzeri
+                                                        etkjnlikleri arttlrmak.
+    stratejik Amaç 3.3:                                 Hedef 3.3.2:
+    lç Paydaşlar Arasındaki Kurumsal, Sosyal            lç paydaşlann plan, program Ve prosedürler ile i|gili
+    lletişimi ve lşbirliğina Güçlendirmek,              bilgiye erişimini artlrmak.
+
+    strateiik Amaç 4.,t:                                Hedef 4.1.1 :
+    Kurumsaltoplumsal sorumluluk projelerinin dlş       Dlş paydaşlarla ortak akademik, idari Ve teknik
+    paydaşlarlnl çeşitlend jrip artü rarak ve kamuoyu   çallşmalarl arttlrmak.
+    farklndallğı yaratarak işbirliğini sürdürülebilir
+    kllmak.
+    strateiik Amaç 4.2:                                 Hedef 4.2.'!:
+    Mezunlarla Üniversite lşbirliğini Geliştirmek Ve    sürekli iletişimde olunan mezun saylslnl Ve ortak
+    Sürekliliğini Sağlamak.                             faalivetIefi arttlrmak.
+    strateiik Amaç 4.3:                                 Hede' 4.3.2:
+    Dlş Paydaşlara Sunulan Hizmetleri Geliştirmek       Dlş Paydaşlara Yönelik Sosyo-Kültürel Hizmetleri
+                                                        GeIiŞtirmek,
+
+
+
+
+                                                             I4
+        Ey(ü{
+ osüz           C
+
+
+
+  ffi
+o               +
+                      L                          DoKuz EyLüL üı,ıivensiresi
+                      ı
+                      f,
+                                                   ııı Ü H r rı o SLı K rnxÜ ı-rrs i
+                                                               i
+
+
+                    ,r,                       2024 yıı_ı eini]üı raeı_iyer RApoRu
+    lzuiR.      \''
+
+
+   B. TemeI Po|itikalar ve öncetikter
+
+   Fakültemizin hazırladığı stratejik planında temel politika ve önceliklerini aşağıdaki biçimde belirlemiştir.
+          i) Mühendislik eğitimini çağın gereklerine uygun ve evrensel kalitede sürdürmek,
+          ii) Araştırmacıları ve araştırma alt yapısını bilim ve teknolojiye üstün katkılar yapacak bir duruma
+          getirmek,
+          iii) Mühendislik alanında yerel ve ülke genelindeki sanayi kuruluşları ile uygulamalı araştırmalar
+          yaparak, ülkeye katma değer yaratan bir merkez durumuna gelmek,
+          iv) Kurum içive kurum dışi iletişim ve bilgi pay|aşım ağını güçlendirmek.
+
+
+  C- Diğer Hususlar
+
+
+            (Bu bölümde, varsa birimin yukarıda yer vermediği ancak açıklanmasını gerekli gördüğü diğer
+  faaliyet ve unsurlara özet olarak yer verilmelidir.)
+
+
+
+        3. FAALıYETLERE İı_işxiıı aiı_c| VE DEĞERLENDıRMELER
+                      (Sadece Harcama BirimIeri Tarafından Doldurulacaktır)
+
+                A - Mali Bilgiler
+
+
+
+          ACIKLAMA: Birimin 2022, 2023 ve 2024 ytı bütçeleri aşağıdaki tabloya yazılacak ve kıyaslama
+    yapılacaktır. Mali hususlara ilişkin olarak yaşanan problem ve gerekçeleri kısaca açıklanacaktır.
+    Ödenek üstü harcamalar ile ödenek altında kalan harcamalara ilişkin açıklamalara da ayrıca yer
+    verilecektir.
+
+
+
+
+                                     2022, 2023 ve 2024 Y ılı Ödenek Durumu
+
+
+
+                               Yıl     Odenek (TL)     Harcanan (TL)
+                                                                          l   Harcama
+                                                                          I    Oranı (%)
+
+                                                         99.139.038,25           o/o99
+                             2022      99.347.493,30
+
+                                      185.594.899,17    183.661 .616,82          o/o98
+                              2023
+
+                                                        351.852.790,37           o/o98
+                             2024     355.638.800,00
+
+
+
+
+                                                          15
+                                      DoKuz evı_üı_ üııivensiresi
+
+m-}                                      rıııü H Eıı oiSLl K pnxü
+                                 2o24yıı_ı giniıi rııı_iyer RApoRu
+                                                                    Lrrsi
+
+
+                 2024Yılı Harcamalarının Ekonomik Sınıflara Göre DağıIımı
+
+                        Ekonomik sınıf                     Harcanan (TL)     Dağılımı (%)
+     personel Giderleri                                    310.484.672,89 o/o99
+     Sermaye Giderleri
+     Sermaye Transferleri
+     Borç Verme
+     cari Transferler
+                                                                                 o/o99
+     Mal ve Hiz. Alımları Giderleri                         2.125.630,70
+                                                                                 o/o99
+     Sos. Güv. Kurumlarına Devlet Primi Giderleri          39.020.081,94
+
+
+
+            2024Yılında Ekonomik Sınıflarına Göre Tahsis Edilen Ödenekler
+
+                     Ekonomik                                                    Harcanma
+                      Sınıflar
+                                              l öOenel (TL)      Harcanan (TL
+                                                                                  Oranı
+     personel Giderleri                       310.860.000,00310.484.672,89         %99
+
+     Sermaye Giderleri
+
+     Sermaye Transferi
+
+     Borç Verme
+
+     cariTransferler
+                                                                                   o/o99
+     Mal ve Hizmet Alımları Giderleri           2.130.930.70 2.125.630.70
+     Sos. Güv. Kurumlarına Devlet Primi                                            o/o99
+                                               39. 1 00.000,00   39.020,081,94
+     Gid.
+
+
+
+
+     B - Mali Denetim Sonuçları
+
+      AClKLAMA: Birimlerin, varsa 2O23ve2024 yllarına ait Sayıştay denetim sonuçları
+ yazılacaktır.
+
+
+
+
+     A. Faaliyet ve Proje BiIgiIeri
+
+
+
+                                                16
+"""d;
+               C
+                                                                                        DoKuz EyLüL üııivensiresi
+               1.
+                    1
+                    6
+                    5
+                    h                                                                     ıııı Ü H Eıı oı SLi K rnrÜ ı_rrs i
+                   h,                                                                2024 yıı_ı ginirüi rıaı_iyer RApoRu
+ ızMiR, İ,a2   \9
+                                                                                    ARAşTIRMA pRoJELEniıvıiz
+                                                         üNivBnsirF,ıvıiz özcBı-inı,pni nnsrsxı.i niı,iıvısnı- ARAşTıRMA pRoJELERi 1nı,r;
+                                                                                                                                                                        Baş|ogıç       \luhtemel
+                         lD          Prcje Kodu             P Türu                                  Proje Adı                          Yonetici           Bolum                                      Toplam Butce
+
+                                              l                fYü,kseköğetim Kurumlarında Araştırma Yönetimi                                         Metalurji ve
+                                                               |İçin Performansa Dayalı Stratejik yaklaşım|arın
+                                                                                                                          l
+                                                                                                                          hrof Dr l lĞt jR             Malzeme
+                        2378               uj,|^ı,Japı
+                              202l,KB.FEN.O2'|o,,rur,
+                                       Lı!
+                                                                                                                                                      Mühendisliği
+                                                                                                                                                                       ,l9.o4,2.o2|
+                                                                                                                                                                                      19.o4.2024   rJl .73l .000,00
+
+                                                               |ar"ır"i.^,                                                YeıeyoĞıu                     Bölümü
+                                              l                Füneş Enerjisi Destekli Hibrit Isıl Enerji Depolama SistemiProf.Dr.                       Makina
+                        246,1 202|.KB,MLT.Ooa§ok Disip|inti A. fiasarımı ve Performansının İncelenmesi                    FVEHMET                     Mtihendisliği    31.03.202l 3|.o3.2024 b|.002.325,69
+                                              l                l                                                          hKiF EzAN                     Bölümü
+                                                               Podrum 1Muğa) Magmatik Kompleksi lçinde Yer Alan hrof.Dr.
+                                                                                                                                                         Jeoloji
+                                                                     fVonzonitlerin Petrojenezi Üzerine Radyojenik ve Duraylı ]vEslv
+                        2491     202l.KB.FEN.     .,.F Araştırma     fizotopik Sınırlamalar. Çewe Kayaç İlişkisi ve Dünya'daki kubEl
+                                                                                                                                                      Müendisliği      22.o4.2o2l 22.o4.2024        b99.984,00
+
+                                                                     Piger
+                                                                              Skarn granitoidleri ile   Karşılaştırı|ması         Pzrun«
+                                                                                                                                                        Bölümü
+
+                                                     l               biıürtifurme Karıştırma Prosesi (SKP) İle Kendinden          Pr.ögr.üyesi           Makina
+
+                                                     Il
+                                                     k-ir", s.                      Alüminyum Esaslı Kaymalı Yatak İmali          |GoKÇE
+                        2680      FKI]-2022-2680                     [Yaglama|ı                                                                       Mtihendisliği    4.o4.2022      4.o4.2024     u9.939,56
+                                                                                                                                  lvgrrvpr               Bölümü
+                                                                                                                                  lcENçpn
+                                                                     Beytinyağı Üretimi Atıklarının Biyoyataklarla ve         l
+                                                                     Eiyoyataklara Entegre Edilmiş Mikrobiya| Yakıt Hücreleri hrof Dr AziZE               Çewe
+                                   FBG-2,22-27|5|"**,.,                                                                                               Miüendisliği
+                                                                     Iile Stı,ıdtirtlleUilir Arıtımı Zeytin Endüsırisi için
+                        2,7 |5                                                                                                                                         22 04 1022 22.04.zo25        t545.880,88
+                                                                                                                              layoı_
+                                                                          Dtingusel Ekonomi Yaklaşımının Celişıirilmesi                                 Bölümü
+                                                                     Pir                                                          l
+
+                                                                     [lal<ine öğenmesi algoritmalarının iş-makine çizelgeleme Foç Dı                    Endüstri
+                        273l                                         Iproblemlerindeki performanslarının         araştırı|ması:
+                                                                                                                              IEHMI                   Miihendisliği    22.o4.2022 22.o4.2024        b75.620,o0
+                                  FBA-2022-273l          Araştırma
+                                                                        dut bililim tabanlı bir prototip mode|     önerisi                               Bölümü
+                                                     F               f                                                            E|y§ss^-
+                                                l                    Filrdtirilüebilir Tekstil Üretiminde İyonik    Sıvıların     Prof.Dr.
+                                                                     ptkisinin Araşİırılması                                                              Çewe
+                        2732      FBG-2I22-2732 hra*ıu
+                                  r'v'JvzJ'Jl'z                                                                                   Ny}İl}J.. .         Milüıendisliği   27 -o4.2o22    29-o42024     b376.587,84
+                                                                                                                                                         Bölümü
+                                                ruuulııu             l                                                            nüyürxev
+                                                                     Itiresel iı<ıim oegişikligi, Kurak|lk ve Kirlilik Tehdidi l
+                                                                     lAlıındaki                                                   b.nıo..
+                                                                     PEtOl. Colu için Yüzey ve Yeraltısu Kaynaklarının Kİİİa"r"r"
+                                                                                                                                                          İnşaat
+                                                                                                                                                      Mühendisliği     l2.1o,2022 Iz-o4.2025        t598.625,83
+                        2733      FBG-2.22-2733
+                                                                     lt]irhlrler|   lle                                           hıoceN                Bölümü
+                                                                     IEtkiIeşiminin       Belirlenmesi ve Bütüncül bir YaklaşımIa l
+                                                     |o*..,,,        btı.dtintil"bili, bir Cöl Havza Planının O|usturulması       l
+                                                                     |Araştırma Verilerine Dayalı Politika ve Stratejilerin       l                   Meta|uıji ve
+                                                                       Yiiksekö$etim Kurumlannda Araştırma Bütçesinin             lProf Dr l ]Ğl JR    Malzeme
+                        2823      stjU-lU'z1-1ÜJJ
+                                  SBG_2.22_2823      huo*,u          I
+                                                                              oii"k İrıİ-,İ-^, üzerine Etkiıeri                                       Miüendisliği
+                                                                                                                                                                       |2.o5.2022 l3.05.2024        b980.000,00
+                                                     [o"'.,          |İ,kİ;                                                       fıaı-avoĞı-u          Bölümü
+                                                     l.                                                                 Sağlığı Prof.Dr.
+                        2896      FBA-2O2]-2896                                                                 (Livinglib)
+                                                                     fl<lim oegişil<liğine Uyum Kapsamında Toprak
+                                                                                              iuuo,utu,aİ,
+                                                                                                                                                          Çewe
+                                                                                                                                                      Mtihendisliği    8.o9.2022      8.05,2025     b582.1,70,46
+                                                     |tiffJ'Jİ,L,",, rd;;il;a;i,                                                  kİffi.İ-               Bölümü
+
+
+                                                                                                         15
+'ffi j
+       EfLlJ,
+.\}L
+                Ç
+
+                '..                                                                              DoKuz EYLÜL ÜNivensiresi
+ çru}                                                                                              MüHENDlsLlK FAKüLTESl
+                                                                                               2024YlLl BiRiM FAALıYET RAPoRu
+                       ll)
+                                                                                                                                        Prof.Dr.             J90loji
+                                                                                                                            Belirleme
+                      2929    FBA-7o22.2g2g                                                                                             HAsAN             MühendisIiği    8.Ij).2021   8.03.2024    t,1.496.565.00
+                                                  |tiff],Jii"",, [Hx,tri-r;lru}j$Hi'H:Şliilannt                                         söZBiLiR             Bölümü
+                                                                                                                                        Doç.Dr.              Çevre
+                      2910    F BA-2023:29,70          Araştırma      [eyniraltı Tozundan Ticaıi Kimyasallardan Butrik Asir             SERPiL            Mühendisliği    i9.04.2023   21.04.2025    n99.436.18
+                                                                       üretim Performansının incelenmesi
+                                                  F                   |                                                                 öZMIHÇI             BöIümü
+                                                  l.                  hlektrikli ve Yak|ı Hilcreli Araçlardaii Bararya ve               Prof.Dr. CAN        Makina
+                      2996    F BA-2023   -2996
+                                                  6rfll§i"*r, [v"ıuı
+                                                                     Hıari, ıunı.4ın Terma| iönetim                                     özcüR             Mühendisliği    12.01.2023 l3.01.2025     b2.520.837.25
+                                                  l           pıslemlerlnln lncelenmesl                                                 ÇoLPAN              Bölümü
+                                                                                  EncrjiYe: iklim Değişikliği Konırolünde Kabron        Doç.Dr.              Çevre
+                      ]038    FBA-2.2]-]03E       [*r-u.              hiP                                                               sERPIL            Mühendisliği    30,01.2023 30.01.2026     l,,704.147.|4
+                                                  |unıversllelen biyoenerii üretimTeknoloiisinin Gelistirilmesi        öZMIHÇü                              Bölümü
+                                                                 pptik Uyarımlı Luminesans Yüey TaIih|endirıne Tekniği
+                                                                      li   ı.
+                                                                                                                                        Arş.Gör.             Jeoloj i
+                      ]042    FBA-2023_]M2
+                                           Araştlrma                  fay Duz|emlerinin Tarihlendirilmesi: Paleosismolojik              MUSTAFA           Miihendisliği   25.01.2023 25.0l .2026    i,583.6l8.44
+                                           ünivçrsiteIeri             lÇallşma|aİda Yeni Bir Teknik Celiştirilmesi ve Turkiye           SoFTA                Bölümü
+                                                                      Diri Faylarlnda Uygulanabilirliğinin Tesı tdilmesi-
+                                                                      Fayosı-
+                                                  l         F"'onarme Çerçevelerde Kayar Duvann Guvenli Uygulama ProflDr.                                    İnşaat
+                              FBA_202]_]063 $ra§ıırma .     Petaylaİnın
+                                                                        GeIiştirilmesi ve Dayanlma Cöre sismik   iBRAHiM
+                      _]063                                                                                                                               Mühendisliği    25.01.2023 2,7.01.2025    n5l6.231.10
+                                            lunlversltelerı lla§aftm                                             SERKAN
+                                                                                                                                                             Bölümü
+                                                  l                   hur-etre lerinin Değerlendirilmesi                                MlSlR
+                                                                                                                                        Dr.ög.üyesi         Makina
+                      3077    ı,1.o_2023-3077               Projesi        ınaztepe lKA otonom Tarım Aracı                              MURAT             Müh€ndisliği    |0,02.2023   l2,02.2024    L24.999.48
+                                                  |,.,*",             l                                                                 AKDAĞ               Bölümü
+                                                                                                                                                            I]lektrik -
+                                                                                                                                        Doç.Dr.
+                                                                      |o','u..' Elektromekanik Geri Beslemeli Gelişlirilmiş                                l-]lektronik
+                      3ll2    ljBA-2023_3l I2          Araştırma
+                                                                                  ik sistemi
+                                                                                                                                        AHMET
+                                                                                                                                                          Mühcndisliği
+                                                                                                                                                                          l2.06.2023 l2.06.2025      nl5l -783.10
+                                                                                                                                        öZKURT
+                                                                      |Cercel<l                                                                             Bölümü
+
+                                                                                                                                        Proü]ı)r. iI-Gi      Çevre
+                      3l25    FLo_2023_3 |25                Projesi   [Veyre atıklarından konsolide fermenıasyonla                                        Mühendisliği    l1.05,2023   l].05.2024    t24.899.18
+                                                                                uretimi                                                 KARAPlNAR
+                                                  Io"",               Piyohilan                                                                             Bölümü
+                                                                                                                                        Doç.Dr.             Çevre
+                      ] l64   I]Lo-2023_3l64                Projesi         cşil kimyasal olarak Atlklardan lakıik asit ibetimi         SERPll-           MOhendisliği    l8.0,7.2023 la.0,7.2024    a4.l48-70
+                                                  |ro-,               I                                                                 öZMlHÇü             Bölümü
+                                                                      Pişmiş yemek atıklarının besin dcğerleri bakımından               Doç.Dr, ELlF         Çevre
+                      3l65    FLo-2023-]l65                 Projesi   [ıay,vaı mamasl olarak kullanımlnln değerlendirilmesi             DUYUşEN           Mühendisliği    9.05,2023    9.02.2024     1,16.731.22
+                                                  l.,.,-,             I    için uygun koşulların belirlenmesi                           KoKIjt-tJ           Bölümü
+
+
+                                                                                                                16
+",ffii                                                                            DoKuz EyLüL üHivensiresi
+                                                                                 MüHENDlsLlK FAKüLTESi
+                                                                             2024yıLı einiıJü rııı-ivET RApoRu
+
+          ll)
+
+         ] l66   FLo_202]_3l66              Projesi
+                                                      hrn r" İmentasyonu i]e oİganik aİ|klardan biyobütanol        l,n,,.,, i, ni      Çevre
+                                                                                                                                    Mühendisliği       2.06 2023      2.02.2024      1,24.916,13
+                                                                i                                                    anaeıınn
+                                    [,**                                                                                              Bölümü
+                                               Eıkemik unu iceren karma yemlerde paflitül
+                                                      |uretim                                                      |x
+                                  I                                                                                l
+                                  l            buıüklüğttnun                                         prof.Dr,                           Çevre
+         3I93
+                 ,],KA-202]-]
+                              l9] ft.Araşılrma Eılik PiliçIerde Büyüme Performanst Eı Biyojenik Amin FÖRKEM                         Mühendisliği       4.o7.2023      6.01.2025     nl00.000.00
+                                  |            [çeriği                                               hrıNcı                           Bölümü
+                                  l            l;" r;skı Azoı Atılımına Etkisi                                     l
+                                    I                 b3 KASIM 2022 DIJZCE DEPREMI SONRASINDA
+                                             bnt.ışEN GAzL|
+                                                                                                                   l
+
+                               l
+         3225 Ft{l!202,]-,]225 ftlzll Dcstek IsU ÇlKlŞrNN KöKENSFL AÇ|DAN
+                                                                                                                   Sr.ö6.üyesi         Jeoloji
+                                                                                                                   MURAT            M iihendis l iği   21.09,202] 22.o|.2024         n24.870.00
+                               ll            DcĞERLENDiR|LMEsINE
+                                             lYöNı:LlK öN CAL|SMA
+                                                                                                                   froxceEn
+                                                                                                                   l
+                                                                                                                                       Bölümü
+
+
+                                                                    Lini Polimer Kompoziı ilc Güçlendirilmiş Kes.. Hll?ll               lnşaat
+         3234    |-tsA_202_]_]2]1       Araştlrma
+                                                      [<enevir
+                                                      Palanımı        Ycıcrsiz Bctonaımc Kiriş   Davranışının hr?İl                 Mühendisliği       8.06.2023      9.06,2025     t,l27.500.00
+                                                      lncclenmesl                                                  lı nNansı.nı
+                                                                                                                                      Bölumü
+
+                                                                                                                                        Çevre
+         3382    FBA.2'24.3382                                                                                                      Mühendisliği       |6.01.2024 l8,05,2026        ljL9l6.701t_4l
+                                    [ff:ffi,". [*,uı.*;*ttiiiT,H,::ii'"Tiiİ,;i*İio"ğ,',,",*R.iiİl;,lİİ|                                ttolümu
+                                                                                                                                      Jeoloji
+
+                                    [H,::§,x,"., [T:}l,;ruı;|;t m"lJ#:*T;'#ill',T[!.-. Fj,!}il., *
+         3400    FBA-2024-34oo                                                                                                      Mühendisliği       _,]0.01.2024   30.01.2025    n569,000.00
+                                                                                                                                       Bölümü
+
+
+                                    f, uo,.,o FrYHÜl'ffiru*.?,.,ffi H:i.;i3lil"i"J,til.'- [*.,,.lZ
+                                                                                                                                      Makina
+         3490    |:tsC_2024_]490                                                                   ron^                             Mtüendisliği       |3.02.2024     l ],02,2025   t,230.560.2l
+                                    |                 l,Jreıimi                                                    rAVl                tJolumu
+                                                                    ve cevresinin haıeketinin Kü.ese| Navigasyon                      Jeofizik
+         35l4    IrBA_2024-]5l4         Ara§llrma     floıbalı                                                     [r,İli,r?r^      Mühendisliği       |6 04.2024     l6.04.2025    ü244,800.00
+                                    F                 lsıste mi cNss ile      sozlenmesi                           hevuxcu            Bölümü
+                                                                                                                                    Metalu.ji ve
+                                                                                       j:ffi-,';iiilffi l*,i""o'"'Pffi               Malzeme
+         352l    |,l]A_2024_]52l        AraŞtırma
+                                                      [*"x'"t*x,llx;ri'                                                     o"*o    Mühendisliği
+                                                                                                                                                       l6 l0.2021 l6.04.2026        n554.209.20
+                                                      Pellştlrllmesl                                               L                   Bölümü
+
+
+
+
+                                                                                                 L7
+"""F-
+        Ç
+                                                                  DoKuz EyLüL üııivensiresi
+                                                              MüHENDlSLlK FAKüLTESl
+                                                          2024yıLı einiıüi rıeı-iyET RApoRu
+        f
+                                   MüHENDiSLİK FAKüLTESı BüNYEsiNDE YüRüYEN Dlş KAYNAKL! PRoJELER
+
+              HıBE        DETAY      PRoJE ito /                                                                                                    aAŞr-ANcl(,         BlTl§            PRoJı]
+              KArTtAĞl   PRoGRAM     AKRoNint         thivANl      PRoJEY(R{]TücÜsü PROJEBAŞl.tĞl                                                     TARiHi          l,ARlHI           B(nçfsl
+                                                                                        Yeni Geliştirilon Biyo-Gubrelerin ve Akdeniz
+                                                                                        ikliminde Y€tiş€n  Yenilebiliİ Yabani Bitki Turlerinin
+            I,üBiTAK      l()7l         l |9N494      Prol:Dr      liörkcm AK]N(']      Toprak Özellitlerini lyileşıirici Etkilerinin          01.06.2020 01.06.2021                 n966.073.00
+                                                                                        lncelenmesi (VALUEFARM) (Thematic Aİea 2 Topic
+                                                                                        2.2.1,\
+                                                                                        t{azIr Ciyim ÜrOnl§rinin Ç€vresel    Etkilerinin Yaşam
+                                                                   Nurdan               Döngüs0 Analizi Yaklaşıml ile Belirlenmesi V€
+            I,tJBll,AK    2244          l l9c078      ProtDr                                                                                        l5,07.2020     1 5 .0,1   ,202,7 n1.338,888.00
+                                                                   BtJYt]KKAMACı        Çevresel Etkilerin Belirlenmesi için sistem
+                                                                                        Geliştiriımesi
+                                                      or.ögı. ü                        Termopla5tik'l'abanlt sızdlrmazllk Profi llerinln
+            rüBiTAK       2214          I   l9Cl84
+                                                      yesi
+                                                                   Bahadır l lYt]l.GAN
+                                                                                        Üİetim Yöntemlerinin Geliştirilmesi
+                                                                                                                                                    |5,07.2020 |5.0,1.202,/ tJI.328,088.00
+
+                                                                   YeIiz YÜKSELEN       [,nerj i Geo-Yapllal lçin Taİnpon Malzeme Bentonilin
+            TüBiTAK       l00l          l20M470       Prof.l)r                          Ilsa Ve Uzun Vadeli MOhendistik Performansl ile            01.02.202 ı o1.02.2024            168l -250_00
+                                                                   AKSoY
+                                                                                        rtermal lleılenlik olellikIerinin lyileşıirilmesi
+                                                      D..öğr.ü Çaglaf                   3B Yazdırılabilir Puzolanlt ılarçIarın G€liştirilmesi   Ve ()1.1().2()]l
+            IüBil,AK      l()()l        l2lM28,t
+                                                      yesi         YALçlNKAYA           Mühendislik Özelliklerinin Araştln]ma5ı
+                                                                                                                                                                   ol .(1,1 .2025 ll777.100.00
+                                                                                        Deniz ortamında Farkll Beton Tllrlerinin Donatl
+                                                                                        Kofozyonu Performanslaıı ile Korozyon Önleme
+            lüBil,AK      l()()I        |   2l R042   Prol'.I)r    Halit YAZICI
+                                                                                        Etkinliklerinin Aİaşılrtlaraİ Betonarme Elemanlartn
+                                                                                                                                                   01.10.202I 0l,l0.2025             tii l7.9tt()_{X)
+                                                                                        Deorem Guvenliğinin Anlrllmasl
+                                                                                        ]0 Ekim 2020 Ege D€nizi Depreminden En Çok
+                                                                   Mahmul (jöktuğ
+            IUBlTAK       l00l          12ly252       Prof.Dr                           Etkilenen izmir Bomova Havzası'nın yerbilim§el             01.11,202l      01.o2.2024 1,777,835.00
+                                                                   DRAlIoR
+                                                                                        özolliklerinin Belirlenm€si
+                                                                                        izmir Ve Çevİesinin Depremselliğine Neden olaİı
+            IUBlTAK       l00l          l21Y212       |'roIDr      oya PAMUKÇU          Jcodinamik Yapınln Jeoİizik ve Jeodczik vcriler İle         l5.02.2022 15.o,7.2024 tJ567.079,00
+                                                                                        Analizi ve Jeolojik Yorumu
+                                                                                        Yenililçi Ulaşlm Tur|erinin sürdurülebilir KentseI
+                                                                                        Haİek€tlilik Perspektifinde Ulaşım sisı€mi lle
+            TUBlTAK       l00l         22l M3l0       Doç.Dr       Mustafa öZtJYSAL     B0ıOnleştirilmesi İçin Kafar D€stek Modeti                  01.04.2022 01.I0.2024            t/94,686.00
+                                                                                        Geliştirilmesi: Kenlsel Hava Hafeketliliği ve
+                                                                                        s0rüclisuz Tasıtla, Ömeği
+                                                                                        oİganize sanayi Bölgele.i Atlksuları il€ Yuzey
+                                                                                        sulanıda MikopIastikl.İin ve Mikoplastiklerl€
+            TüBiTAK       l00l          l2lY460       ProIDr       Neval t]AYCAN
+                                                                                        Tasınan Mikokif laticilerin Belirlonm€si    ve
+                                                                                                                                                    15.o4.2022 l5.1o.2024 t 8l0.000.00
+                                                                                        Ta§ınlmlaıtnın Araslınlması
+                                                                   AyŞe Merih           Aramid EsaslI Tek§til Materyallefi lçin Etkili ve
+            IüBiTAK       l00!          Iz2M518       ProiDr       sARllşlK             s0rdürillebiliİ UV Koru},ucu sist€m Tasanmı
+                                                                                                                                                    l5.10.2022 l5.01.2025 tJ830.880.00
+
+
+                                                                                18
+",$}                                               DoKuz eyı_ü ı_ üıtivensiresi
+                                                    ıı ü H rıı ol sll K rnrü ı-rrsi
+                                                2o24yıı_ı einiıı rııı_iyer RApoRU
+
+        HiBE       DETAY    PRoJENo/                                                                                               BAŞLANGIÇ     BiTiŞ        PRoJE
+        KAYNAĞl   PROGRAM    AKRoNiM      üNVANI    PROJEYURUTUCUSU
+                                                                       Ir*or" rns,-,Ğ,                                              TARiHi      TARIHı       Bt_rrÇEsi
+
+                                                    Cem Polat          |Rl<deniz İ kl im oegişi kl igi Koşul larında Kurakl ıkla
+       IüBiTAK     2565       122N412     Doç.Dr                                                                                   01.04.2023 01.04.2025 b539.000,00
+                                                    ÇETİNKAYA          [Vucadele İçin Birleşik Çerçeve
+                                                                       Evsel,kenısel Atıksulardaki Mikrokirleıiçilerin lleri
+                                                                       |Orrnor r. Ters Osmoz Sistemleri ile Enıegre Edilmiş
+                                                                       |Anaerobik Dinamik Membran Biyoreaktör Sistemiyle
+       IüBiTAK     100 l      l22Y344     Prof.Dr   Azize AYOL         |Arılımı ve Akıbetlerinın Araştırılması: DiişUk       0|.04.2023 0|.04.2025 tJ1.694.080,00
+                                                                       [Va|iyetli. Materyal ve Enerji Geri Kazanımı Sağlayan
+                                                                       §ürdürülebilir Bir Aİltma Sisteminin Döngüsel
+                                                                       bkonomi yailasımı ile Gelistirilmesi
+                                                                     |Derin Dondurucularda Cıda Güvenliğinin
+       IüBiTAK     l 505      5220l20     Doç.Dr    Mehmet Akif EZAN Iyileştirilmesine Yöne|ik Faz Değişim Malzemesi               01.04.2023 31,03.2025 b877.542,40
+                                                                     Iullanımının Deneysel ve Sayısal İncelenmesi
+       IüBiTAK     l00l       l 22R088    Doç.Dr
+                                                    Mete               [Venderes Masifi'nin AIpin Metamorfizmasinin Basınç 0|.04.2023 01.04.2026 ij1.370.990,00
+                                                    ÇETiNKAPLAN        I Sıcaklık -Zamwı Evrimi Ve Tektonik Modeli
+                                                                       ft,endi-Kendini Merkezleyebilen Burkulması Önlenmiş
+       IüBiTAK     l00l       222Ml36     Prof.Dr   özgur özçEıix      §oklu U-Şeklinde EğiIme P|ak|arına Sahip Enerji     01.06.2023 0ı.l0.2025 bl.683.6l1,00
+                                                                       Ponu.l.yen Diyagonal Sisıemin Geliştirilmesi
+       IüBiTAK     l007       l 23 G008   Doç.Dr.   ökmen SüMER        fru*iy. Diri Faylarının Paleosismolojik Özelliklerinin 01.09.2023 01.09.2025 b4.598.001,00
+                                                                       Pelirlenmesi
+                                                                       [rurl.iy. Diri Faylarının Paleosismolojik Özelliklerinin                            bl0.009.359,0
+       IüBİTAK     l 007      l 23G009    Prof.Dr   Hasan SöZBiLiR                                                                 01.09,2023 01.09,2025
+                                                                                                                                                                 0
+                                                                       Pelirlenmesi
+                                                                       folodifiye Edilmiş Esnek Duvar|| Permametre İle
+       IüBiTAK     l 002      123N762     Prof.Dr   4ıi Hakan ÖREN     |Geosentetik Kil Örtu|erin (GKÖ) Hidrolik İletkenlik        01.11.2023 0l.|1.2024    tJ75.000,00
+                                                                       Peneyi Sırasında Şişme Davranışının Belirlenmesi
+                                                                       f,inlil.ı.n Çatala - Küçük Menderes Havzasında
+       IüBiTAK     l00l       l 23Y303    Prof.Dr   3örkem ŞEN         |-arımsal Toprak ve Urünlerde M ikroplastik|erin            20.|1.2023 20.11.2026 L1.488.480,00
+                                                                       Pağılımı. Kaynakları ve Takibi
+                                          ugr.Uor                      |Conocytisus Dirmilensis'in Fitokimyasal İçeriğinin
+       IüBiTAK     l002       123Z823
+                                          Dr.
+                                                    Hilal KILINÇ                                                                   15.12.2023 15.09.2024    b74.976,00
+                                                                       Incelenmesi
+                                                                       fl4enderes Masifi 'nin Bozdağ Ünitesi çerisinde
+                                                                                                                 İ
+
+
+
+
+                                                    )sman Ersin        §özlenen -620-630 My Yaş|ı Felsik/Mafik
+       IüBiTAK     l 002      |23y3l.7    Doç.Dr.
+                                                    KoRALAY            [Vetamagmatiklerin Jeokono|oj isi Ve Çevre            15.11.2023 15.05.2024          E59.790,00
+                                                                       Iayalarını Oluşturaıı Sistlerin Jeokimyası Ve ÇOkelme
+                                                                       yasına yaklasım
+
+
+
+
+                                                                  19
+",$}                                           DoKuz eyı_üı_ üııivensiresi
+                                                ıııı ü H rN olslı K rnxü ı-rrsi
+                                            2o24yıı_ı einiın raıı_iver RApoRu
+        HİBE
+                   DETAY    PRoJENo/     üNvANl     pRoJE yüRürücorO            *r",",                                         BAŞLANGİÇ       BİTİŞ         PRoJı]
+        KAıNAĞr   PRoGRAM   Aı(RoNıM                                   |r*or"                                                    rlniıri      TARıHl        BtnÇFsı
+
+                                                                       $ilgisayarlı Tomografide Y apay ZekaVe Radyomiks
+                                                    \4ustafa Alper     [Uygulamalarının Daha Etkin Kul|anımı İçin Uzay-
+       IüBiTAK     l00l       l 23R036   Pro[ [)r
+                                                    SELVER
+                                                                                                                               01.03.2024 01.03.2026 n1.556.766.00
+                                                                       [rekans Tabanlı Dokum
+                                                                                              (Texture) Kalibrasyonu Ve
+                                                                       Picom  Standardına TümleştiriI mesi
+
+                                                                       [tampon Malzeme Bentonit Ve Kum-Bentonit
+                                                    Yeliz YÜKSEt.EN                   Şişme Ve Büzülme Davranışlarının
+       IüBiTAK     l002       223M4l5    Prof.Dr
+                                                    AKSoY
+                                                                       Iaıışımlarının
+                                                                       yuksek sıcaklIklar A|tında lnce lenmesi ve kaıkılarla   01.03.2024 01.02.2025      b75.000,00
+                                                                       hvilestirilmesi
+                                                                       feniş Çalışma Atanına Süip Kablo İle Surulen
+       TüBİTAK     l00l       123M892    Prof.Dr    Vehmet iTiK        Paıale| 3-Boyuılu Yazıcı Geliştirilmesi, Matematiksel   0l .l l .2023 01.11.2025 nl . ı 50.6l2,00
+                                                                       [Vodellenmesi ve Kontrolü
+
+       IüBİTAK     l00l       l24M500    Doç.Dr,
+                                                    Vletin             §elişmiş Speklral Duyarlılık İçin ZnolSi Ultraviyole    25.10.2024 25.10.2026 t2.023.1 38,80
+                                                    YURDDAŞKAL         Potodedektor Geliştirilmesi
+                                                    Yeliz YÜKSELEN     Purdurulebilir Malzemelerle Enerji Geo-Yapı|arının
+       r[lgirnx    l 00l      l24M454    Prof.Dr
+                                                    AKSoY
+                                                                                                                               25.10.2024 25.10.2027 t2.740.500,00
+                                                                       Performaııs Ve Güvenliğinin Arttırılması
+
+                                                                       |Gun.ybat, Anadolunun 1Aydın-Kuşadası ve Söke
+                                                    Mine Sezgül        Çevresi) PIeyistosen-Holosen Paleoiklim ve
+       IüBiTAK     l00l       l24Yl30    Prof.Dr                                                                               l5.10,2024 l5.10.2027 tJ2.009.8l7,00
+                                                    KAYSERi ÖZER       Paleortamsal Değişimlerinin Çoklu Disiplinli Bir
+                                                                       §alışma İle Yeniden Yapılandırılması
+
+
+
+
+                                                                  20
+""$}                                                         DoKuz eyı_üı_ üNivensiresi
+                                                               rıı Ü H Eıı o ıSLı K rnxÜı-rEsi
+                                                          2024 yıı-ı einini rıaı_iyer RApoRU
+
+         HıBE              DETAY        PRoJE No/                                     I
+                                                                                                                                              BAŞLANGIÇ      BlT|Ş              PRoJE
+          KAYNAĞı         PR(rcRAM      AKRONiM        üNvANl    PROJE YÜRÜTÜC(is(l            BAŞLıĞı                                          TARiHi      TARlHi             BtaÇEsİ
+                                                                                      IPROJE
+       Afet ve Acil
+                        Ulusal Deprem                                                 I
+       Durum                                                                          Pnuretimli Betonarme Binaların Dayanıma Göre
+                          Araştırma
+       Yönetimi                         UDAP-Ç-22-05   Doç.Dr    Sadlk Can GİRGIN     |tasarımında Sismik Performans Fa.l*ıörlerinin Analitik 15.07.2023 15.07.2025 b294.513,00
+                          Programı                                                      a| ısmalar Aracılığıyla Arştırılması
+       Başkanlığı
+       (AFAD)             (UDAP)
+                                                                                      f
+       Afet ve Acil
+                        Ulusal Deprem
+       Durum
+                          Araştırma                                                   f,ge aolgesinin Kabuk ve Manto Yapısının Tümleşik
+       Yönetimi                         UDAP-Ç-22-06   Doç.Dr    Elçin GÖK
+                                                                                               il< ve Gravite Yöntemleriyle Araştırılması
+                                                                                                                                              15.07.2023   l5.07 .2025       t/30.5l7,50
+                          Programı
+       Başkanlığı
+                          (UDAP)
+       (AFAD)                                                                         Iismoloj
+                                                                                      §ustaınable Croundwater Resources Managemenı By
+       AB               Horizon 2020    RESERVolR      Prof.Dr   Alper ELÇİ           I
+                                                                                        ntegraııng Earth Observatıon Derıved Monıtorıng       26.02.2020 31.05.2024      €     195.923,00
+                                                                                      ]And Flow Modelıng Results
+                                                                                                     of industrial Treaıed wasıewater ReUse
+                                                                                      [Vanagement
+                                                                 A.Melis SOMAY        Fs mıtıgat|on measures to
+       AB               Horizon 2020       TRUST       Doç.Dr
+                                                                 ALTAŞ
+                                                                                                                                              07.05.202l 06.05.2024      €     l60.375,00
+                                                                                      |water Scarcity in climaTe change context in two
+                                                                                                       regions
+                                                                                      [Vediterranean
+
+                                          MARA-                  ]em Polat            fi,lenn-v Eoı rER R A : Safeguarding üe ivel ihood of
+                                                                                                                                l
+
+       Aı]              Horizon 2020
+                                        MEDITERRA
+                                                       Doç.Dr                         |ural communities aııd the environment in the           01.04.2022 31.03.2025      €     239.962,50
+                                                                 ;ETiNKAYA
+                                                                                      [Vediterranean ürough Nature-based Solutions
+                                                                                      firansforming Advanced Water SkiIling Through The
+       AB             HORIZON-WIDERA    WATERLINE      Prof.Dr   {li GüL              |Creaııon Of A Network Of Extended-Reality Water        01-1o.2022 30.09.2025      €     204.825,00
+                                                                                      bmulative Centres
+
+
+
+
+                                                                              27
+       EY(ü(
+o§üz           ö
+
+
+
+ ffi
+               1.
+                    1                       DoKuz EvLüL üıtivensiresi
+                                             rıı Ü H Eıı o SLı K pRrÜı-rrsi
+                    6
+                                                           i
+
+
+                                          2o24yılı einiu rıeı_iyer RApoRU
+               \q
+
+
+
+                        B. Performans Sonuçları Tablosu
+
+
+                 AClKLAMA: Her birim 2024yılı performans esaslı bütçesinde yer alan performans
+           hedef ve göstergelerine ilişkin gerçekleşmeleri aşağıdaki tabloya göre dolduracaktır.
+
+
+   Birim Adı
+
+   Stratejik Amaç
+
+   Stratejik Hedef
+
+
+                                                                                   Gerçekleşme Sapma
+                   Performa ns Göstergeleri            Hedeflenen    Gerçekleşen
+                                                                                    Oranı (%)  Oranı (%
+
+
+  ESapma Nedeni
+   2
+
+   Sapma Nedeni
+   3
+
+   Sapma Nedeni
+
+  ESapma Nedeni
+   5
+
+
+
+
+                        Performans Sonuçlarının Değerlend irilmesi
+
+
+                        ACIKLAMA,. 2024 Yılı Performans Programı ve 2O21-2025 Dönemi Stratejik
+           Planı'nda yer alan amaç ve hedeflere bağlı performans hedeflerinin, hedefe ulaşılıp
+           ulaşılamadığının i2eme ve değerlendirmesini yapmak için belirlenen performans
+           göstergeleri "Performans Sonuçları Tablosu" na göre yorum|anacak ve değerlendirme
+           sonuçları yazılacaktır.
+
+
+
+
+                                                      22
+,"$}                                  DoKuz eyı_üı_ üıtivrnsiresi
+                                        ııı Ü H rıı oi SLi K rnxÜ ı-rEsi
+                                    2o24yıı_ı einiıı,ı reıı-iyşr RApoRu
+
+            Performans Bi !g i Sistem inin Değerlend i ri lmesi
+
+
+ıv. Ku Ru Msıı_ xıa iı_iyer vE KApAsir rı.ı iıı oeĞ eRı_eıı o lniı_nıesi
+
+
+   A- Üstünlükler
+
+   1) Değişime ve gelişime olan ihtiyacın farkında olunması
+   2) Eleştirilere açık bir anlayışın benimsenmiş olması
+   3) Deneyimli öğetim üyelerinden oluşan güçlü, değişime ve gelişime açık dinamik bir akademik
+      kadronun varlığı
+   4) Ege bölgesinin mühendislik eğitimi açısından en köklü ve en geniş kadrosuna sahip kurumu
+       olması.
+   5) lı,lÜng« Akreditasyonuna sahip olmak
+   6) Araştırmaya ve eğitime yönelik Laboratuvar altyapısının ve personelinin sayı ve nitelik olarak
+        oldukça iyi bir duruma gelmiş olması.
+   7) Çalışma ortamının fiziksel koşullarının iyi olması
+   8) Teknolojik donanım ve altyapının (bilgisayar ve internet olanaklarının) iyi olması
+   9) Fakültemiz öğrencilerine kaynak oluşturabilecek kitapların Fakültemiz bünyesinde basımının
+        gerçekleştirilerek öğrencilerimize uygun fiyatlarla satışa sunulması
+   10) Güçlü bir Döner Sermaye Kaynağına sahip olunması ve Döner Sermaye Gelirlerinin
+        kullanılmasıyla ek kaynaklar yaratılması
+   l l) Öğretim Elemanlarının bilimsel etkinliklere katılımının teşvik edilmesi ve desteklenmesi
+
+   B- Zayıflıklar
+
+   1) Ögrenci ve Personel Otomasyon Sisteminin kullanımı sırasında oluşan sorunları ve eksikleri
+       giderebilmek için hızlı çözümler oluşturulamaması
+   2) İşe yeni başlayan personeli için hizmet içi eğitim eksikliği.
+   3) Yabancı dil bilen idari personel yetersizliği
+   4) Fakültenin bulunduğu Tınaztepe Yerleşkesinin ulaşım sorunlarının henüz çözülememiş olması
+       ve öğrencilerin sosyal-kültürel gereksinimlerini karşılayacak olanaklardaki yetersizlikler
+
+
+
+
+                                                   23
+     .J7 Ey L u,
+ o                 <)
+o
+                                            DOKUZ EYLÜL ÜNİVERS|TESİ
+                                              MÜHENDlsLlK FAKüLTESl
+                                          2024YlLl BiRıM FAAL|YET RAPoRu
+                    \z.
+
+
+
+
+                          Harcama Yetkilisinin lç Kontrol Güvence Beyanı
+
+
+
+
+                                  iç xoı.ırnoı- GüVENCE BEYAN|
+
+              Harcama     yetkilisi olarak yetkim
+       dAhilinde;
+
+               Bu raporda yer alan bilgilerin güvenilir, tam Ve doğru olduğunu beyan ederim.
+
+               Bu raporda açlklanan faaliyetler için idare bütçesinden harcama birimimize tahsis
+       edilmiş kaynakların etkili, ekonomik ve Verimli bir şekilde kullanıldığını, görev Ve yetki alanlm
+       çerçevesinde iç kontrol sisteminin idari ve mali kararlar ile bunlara ilişkin işlemlerin yasallık ve
+       düzenliliği hususunda yeterli güVenceyi sağladığını Ve harcama birimimizde süreç
+       kontrolünün etkin olarak uygulandığını bildiririm.
+
+             Bu güvence, harcama yetkilisi olarak sahip olduğum bilgi ve değerlendirmeler, iç
+       kontroller, iç deneiçi raporları ile Sayıştay raporları gibi bilgim döhilindeki hususlara
+       dayanmaktadlr.
+
+               Burada raporlanmayan, idarenin menfaatlerine zarar veren herhangi bir husus
+       hakkında bilgim olmadığınl beyan ederim.
+
+
+
+
+                                                                           Prof, Dr. Azize AYOL
+                                                                                    Dekan
+
+
+
+
+                                                        24
+

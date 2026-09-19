@@ -1,0 +1,863 @@
+             DOKUZ EYLÜL ÜNİVERSİTESİ
+  MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+BİRİM FAALİYET RAPORU
+    MÜHENDİSLİK FAKÜLTESİ
+
+
+
+
+                    İZMİR, 2021
+           2021 YILI MÜHENDİSLİK FAKÜLTESİ BİRİM FAALİYET RAPORU
+
+ÜST YÖNETİCİ SUNUŞU
+
+İÇİNDEKİLER
+
+I- GENEL BİLGİLER
+
+      A- Misyon ve Vizyon
+      B- Yetki, Görev ve Sorumluluklar
+      C- İdareye İlişkin Bilgiler
+          1. Fiziksel Yapı
+          2. Örgüt Yapısı
+          3. Bilgi ve Teknolojik Kaynaklar
+          4. İnsan Kaynakları
+          5. Sunulan Hizmetler
+          6. Yönetim ve İç Kontrol Sistemi
+      D- Diğer Hususlar
+
+II- AMAÇ ve HEDEFLER
+
+      A- İdarenin Amaç ve Hedefleri
+      B- Temel Politikalar ve Öncelikler
+      C- Diğer Hususlar
+
+III- FAALİYETLERE İLİŞKİN BİLGİ VE DEĞERLENDİRMELER
+
+      A- Mali Bilgiler
+         1- Bütçe Uygulama Sonuçları
+         2- Temel Mali Tablolara İlişkin Açıklamalar
+         3- Mali Denetim Sonuçları
+         4- Diğer Hususlar
+      B- Performans Bilgileri
+         1- Faaliyet ve Proje Bilgileri
+         2- Performans Sonuçları Tablosu
+         3- Performans Sonuçlarının Değerlendirilmesi
+         4- Performans Bilgi Sisteminin Değerlendirilmesi
+         5- Diğer Hususlar
+
+IV- KURUMSAL KABİLİYET ve KAPASİTENİN DEĞERLENDİRİLMESİ
+
+      A-Üstünlükler
+      B-Zayıflıklar
+      C-Değerlendirme
+
+V- ÖNERİ / TEDBİRLER
+
+VI-   EKLER
+                         DOKUZ EYLÜL ÜNİVERSİTESİ
+              MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+ÜST YÖNETİCİ SUNUŞU
+
+        Dokuz Eylül Üniversitesi Mühendislik Fakültesi, 1982 yılından itibaren mühendislik eğitimi
+vermekte olan bir bilim ve araştırma yuvasıdır. On bir bölümümüzde bulunan 256 öğretim üyesi ve
+görevlisi ile 107 araştırma görevlisi ve öğretim görevlisi (uzmanın) yanında toplam 79 idari işlerle
+görevli personelimizin de desteği ile eğitim ve öğretim faaliyetlerimizi başarı ile sürdürmekte,
+ülkemizin kamu ve özel sektör kuruluşlarında hizmet verecek yetkin ve donanımlı mühendisler
+yetiştirmekteyiz.   Fakültemizin tüm bölümleri ve eğitim programları MÜDEK – Mühendislik Eğitim
+Programları Değerlendirme ve Akreditasyon Derneği tarafından akredite edilmiştir. 2021 yılı sonu
+itibarıyla Lisans Yerleştirme Sınavı, yatay ve dikey geçiş imkânları, af kanunu ve yurt dışından kabul
+edilenlerle birlikte fakültemizde okuyan öğrenci sayısı ise 6960 olmuştur.
+        Mühendislik eğitiminin amacı, güncel ve gelişmekte olan teknolojileri kavrayan, daha iyi
+eğitilmiş ve daha nitelikli mühendisler yetiştirilmesini ve bu yolla toplumun refahının ileri
+götürülmesini sağlamaktır. Fakültemiz öğretim üyeleri, öğrencilerimizi teknik yönden donanımlı
+mühendisler olarak yetiştirirken, aynı zamanda ulusal ve uluslararası birçok bilimsel ve teknolojik
+çalışmada, endüstriye yönelik mühendislik ve Ar-Ge projelerinde, üniversite-sanayi işbirliği
+çalışmalarında da önemli görevler üstlenmektedir. Akademik kadromuz her yıl olduğu gibi 2021 yılında
+da uluslararası indekslerde yer alan dergilerdeki nitelikli yayınlarını artırarak sürdürmüştür.
+        Akademisyen kadromuz eğitim, öğretim, araştırma ve yayın faaliyetlerinin yanında Teknopark
+içerisinde ve Fakülte Döner Sermayesi kapsamında sanayiye teknik danışmanlık ve mühendislik
+hizmetleri vermektedir.
+        2021 yılında olduğu gibi 2022 yılında da Fakültemizin tanıtımına dair gerçekleştireceğimiz
+etkinliklere tüm faaliyetlerimiz arasında daha fazla öncelik verilecek ve Fakültemiz Bölümlerine daha
+yüksek puanlı öğrencilerin yerleşmesi hedefimiz sürdürülecektir. Bu faaliyetler Bölümlerimizin
+tanınırlığını artırmanın yanında, mezunlarımızın daha geniş iş sahalarına açılmasına da vesile olacaktır.
+
+
+                                                                           Prof. Dr. Turgay ONARGAN
+                                                                                 Dekan Vekili
+
+
+
+
+                                                                                                            1
+                         DOKUZ EYLÜL ÜNİVERSİTESİ
+              MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+               I- GENEL BİLGİLER
+
+A. Misyon ve Vizyon
+
+
+MİSYON
+
+• Bilimsel ve özgün araştırmalar yaparak ve sonuçlarını yayarak, evrensel bilimi ilerleten ve
+teknolojiyi geliştiren katkılar yapmak,
+• Eğitim, bilim ve araştırma alanlarında etkin görevler üstlenecek, ulusal aydınlanmaya, insan
+refahına ülkemizin ekonomik kalkınmasına ilerletici katkılar yapacak, çevre ve toplum bilinci yüksek,
+yaratıcı, yenilikçi ve girişimci mühendisler yetiştirmek,
+• Fakültenin tüm paydaşları ile ortak bir akıl oluşturarak, eğitim ve ülkemizin uluslararası ortamda
+söz sahibi olabileceği öncelikli araştırma alanlarında, sürekli yenilikçi ve atılımcı bir görev üstlenmek
+ve
+• Mühendislik alanında Ege Bölgesinde, ulusal ve uluslararası ortamlarda toplum, sanayi ve devletin
+tüm bileşenlerinin gereksinmelerine yanıt vermek ve onların aydınlanmasında ve yapılanmasında
+öncülük etmektir.
+
+
+VİZYON
+
+Dokuz Eylül Üniversitesi Mühendislik Fakültesinin vizyonu; çevreye duyarlı, toplumsal, düşünsel,
+kültürel, ulusal ve insani değerlerle bütünleşmiş bir mükemmellik anlayışıyla, mühendislik eğitiminde
+öncü, bilim ve araştırmada çekim merkezi olan bir kurum olmaktır.
+
+
+B. Yetki, Görev ve Sorumluluklar
+
+Fakültemizde 2547 sayılı yasanın 43. maddesi uyarınca dört yıllık lisans eğitimi verilerek mühendis
+yetiştirilmektedir.
+
+Fakültemizde verilen lisans eğitiminde eğitim, bilim ve araştırma alanlarında etkin görevler üstlenecek,
+ulusal aydınlanmaya, toplumun refahına, ülkemizin ekonomik kalkınmasına ilerletici katkılar yapacak,
+çevre ve toplum bilinci yüksek, yaratıcı, yenilikçi ve girişimci mühendislerin yetiştirilmesi
+amaçlanmaktadır.
+
+
+
+
+                                                                                                       2
+                DOKUZ EYLÜL ÜNİVERSİTESİ
+     MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+       C. İdareye İlişkin Bilgiler
+
+       1. Fiziksel Yapı
+
+    2020 Yılı Donanım Envanteri
+
+
+
+               Donanım Araçları       Sayısı
+
+               Kişisel Bilgisayar     438
+
+               Dizüstü Bilgisayar     293
+
+               Tablet Bilgisayar      99
+Bilgisayar
+               Cep Bilgisayar          7
+                                      29
+               Terminal bilgisayar
+               Yazıcı                 467
+
+               Tarayıcı               73
+Diğer                                 12
+               Faks Cihazı
+Donanım
+               Projeksiyon Cihazı     227
+
+               Televizyon             23
+
+               Fotokopi Makinesi      22
+             Sunucular                30
+             Klima                    509
+Sistem Odası
+             Kesintisiz Güç Kaynağı    85
+             Yönlendirmeler            2
+             Ağ Anahtarları            7
+
+
+
+
+                                                             3
+                        DOKUZ EYLÜL ÜNİVERSİTESİ
+             MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                            Kuruma Ait           Kiralık         Toplam Araç
+                      Araç Türü
+                                             Araçlar             Araçlar            Sayısı
+                 Binek Oto                        1                                   1
+
+                 Kamyon
+                 Minibüs
+                 Otobüs
+   Mevcut
+    Araç         Kamyonet
+                 Tır (Çekici)
+                 İş Makinesi
+                 Diğer                         2 (Drone)                                3
+                                                                                        3
+                 Toplam
+
+1.1- Eğitim Alanları Derslikler
+
+                                0-50      51-75       76-100      101-150     151-250       251-Üzeri
+Amfi                              -         -           2            4
+Sınıf                            27        33           2           40           1
+Bilgisayar Laboratuvarı          19         1            -           -
+Diğer Laboratuvarlar            165                      -           -
+                  Toplam        211        34           4           44           1
+
+
+1.2- Sosyal Alanlar
+
+1.2.1.Kantinler ve Kafeteryalar Kantin Sayısı : 4 Adet
+       Kantin Alanı           : 1643 m2
+       Kafeterya Sayısı: -
+       Kafeterya Alanı : -
+
+1.2.2.Yemekhaneler
+Fakültemize özel öğrenci ve personel yemekhanesi bulunmamaktadır. Tınaztepe kampüsünde bulunan
+Merkez Yemekhane ’den yararlanılmaktadır.
+
+1.2.3.Misafirhaneler
+Fakültemize ait misafirhane bulunmamaktadır.
+
+1.2.4.Öğrenci Yurtları
+Fakültemize ait yurt bulunmamaktadır. Öğrenciler Dokuz Eylül Üniversitesi ve Kredi Yurtlar
+Kurumu’nun yurtlarından faydalanmaktadır.
+
+
+1.2.5.Lojmanlar
+Fakültemize ait lojman bulunmamaktadır.
+
+                                                                                                    4
+                        DOKUZ EYLÜL ÜNİVERSİTESİ
+             MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+1.2.6.Spor Tesisleri
+Halı saha 1 Adet, Açık Basketbol sahası 1Adet
+
+1.2.7.Toplantı – Konferans Salonları
+
+                Kapasitesi     Kapasitesi       Kapasitesi   Kapasitesi     Kapasitesi     Kapasitesi
+                  0–50          51–75            76–100       101–150        151–250       251–Üzeri
+Toplantı
+                     18             2                 -          -              -               -
+Salonu
+Konferans
+                       -            -                 -          2              -              1
+Salonu
+      Toplam         18             2                 -          2              -              1
+
+1.2.8. Sinema Salonu
+Fakültemize ait sinema salonu yoktur.
+
+1.2.9.Eğitim ve Dinlenme Tesisleri
+Fakültemize ait Eğitim ve Dinlenme Tesisleri yoktur. Öğrencilerimiz ve personelimiz Üniversitemizin
+Seferihisar Öğrenci Eğitim ve Dinlenme Tesislerinden faydalanmaktadır.
+
+1.2.10. Öğrenci Toplulukları
+Sağlık Kültür Spor Dairesi Başkanlığına bağlıdır.
+
+1.2.11.Mezun Öğrenciler Derneği
+              Mezun Öğrenciler Derneği Sayısı      : 1 Adet
+              Derneğin adı: DEÜ Mühendislik Fakültesi Mezunlar Derneği
+
+1.2.12.Okul Öncesi ve İlköğretim Okulu
+Fakültemize ait okul öncesi ve ilköğretim okulu yoktur.
+
+1.3- Hizmet Alanları
+
+
+1.3.1. Akademik Personel Hizmet Alanları
+
+                                         Sayısı (Adet)         Alanı (m2)      Kullanan Sayısı (Kişi)
+Çalışma Odası                                 407               7404,24                  409
+                           Toplam             407               7404,24                  409
+
+
+1.3.2. İdari Personel Hizmet Alanları
+
+                                             Sayısı            Alanı (m2)           Kullanan Sayısı
+Servis                                         6                 672,00                   31
+Çalışma Odası                                 54                1341,84                   53
+                           Toplam             60                2013,84                   84
+
+                                                                                                        5
+                        DOKUZ EYLÜL ÜNİVERSİTESİ
+             MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+               1.4- Ambar Alanları
+               Ambar Sayısı            : 1 Adet
+               Ambar Alanı             : 125 m2
+
+               1.5- Arşiv Alanları
+               Arşiv Sayısı            : 16 Adet
+               Arşiv Alanı             : 550 m2
+
+               1.6- Atölyeler
+               Fakültemize ait atölye yoktur.
+
+               1.7- Hastane Alanları
+       Öğrencilerimiz ve personelimiz Tınaztepe Yerleşkesi’nde bulunan Sağlık Kültür ve Spor Daire
+Başkanlığına bağlı Mediko Sosyal Hizmetler Ünitesinin hizmetlerinden yararlanmaktadır.
+
+        Birimde “Aile Hekimliği Bilgi Sistemi” programına geçilmiştir. Üniversitemiz çalışanları ve
+öğrencileri tüm sağlık işlemleri için nüfus cüzdanları ile Mediko Sosyal Hizmetler Ünitemize
+başvururlar. Aile Hekimliği Birinci Basamak Sağlık Hizmeti, “Yetkilendirilmiş Aile Hekimliği Belgesi”
+olan 1 Pratisyen 2 Uzman Hekimi tarafından yürütülmektedir.
+
+2- Örgüt Yapısı
+        Fakültemiz 2547 sayılı Yükseköğretim Kanunun 16. maddesi ve Yükseköğretim Üst Kuruluşları
+ile Yükseköğretim Kurumlarının İdari Teşkilatı Hakkındaki 124 sayılı Kanun Hükmünde Kararnamenin
+1. maddesinin hükümlerine göre teşkilatlanmıştır.
+        2547 sayılı Kanunun 16., 17. ve 18. maddeleri uyarınca Fakültemiz yönetim organları; Fakülte
+Kurulu ve Fakülte Yönetim Kurulu olarak belirlenmiş olup, ayrıca Dekana yardımcı olmak üzere
+Fakültenin aylıklı öğretim elemanları arasından Dekanca atanan 2 adet Dekan Yardımcısı ile idari
+birimlerin bağlı bulunduğu Fakülte Sekreteri de Fakültemizin yönetim kadrosu içerisinde yer
+almaktadır.
+
+
+
+
+                                                                                                   6
+                        DOKUZ EYLÜL ÜNİVERSİTESİ
+             MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+DEÜ MÜHENDİSLİK FAKÜLTESİ ORGANİZASYON ŞEMASI
+
+
+
+
+                                                                     7
+                        DOKUZ EYLÜL ÜNİVERSİTESİ
+             MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+3. Bilgi ve Teknolojik Kaynaklar
+
+Fakültemiz özelinde kullanılan herhangi bir yazılım kullanılmamaktadır. Fakat Üniversitemizin oracle
+programı üzerinde yaptığı otomasyon çalışmalarının tamamına entegre olarak Fakültemiz hizmetlerini
+yürütmeye devam etmektedir.
+
+4. İnsan Kaynaklar
+Personelinin Cinsiyetlere Göre Dağılımı(Fiilen çalışan personel ve taşerondan kadroya geçenler
+dahil)
+                      Personelin Cinsiyeti               Personel Sayısı
+                      Kadın                              176
+                      Erkek                              283
+                      TOPLAM                             459
+
+
+Personelinin Yaşa Göre Dağılımı(Fiilen çalışan personel ve taşerondan kadroya geçenler dahil)
+                           Yaş Aralığı                   Personel Sayısı
+                           21-25                         2
+                           26-30                         8
+                           31-35                         73
+                           36-40                         52
+                           41-50                         169
+                           51 ve üzeri                   155
+                           TOPLAM                        459
+
+
+Personelinin İstihdam Şekline Göre Dağılımı(Fiilen çalışan personel ve taşerondan kadroya
+geçenler dahil)
+                     İstihdam Şekli                               Personel Sayısı
+                     Memur (657 Sayılı Kanun Kapsamı)             70
+                     Memur (2547 Sayılı Kanun Kapsamı)            360
+                     Büro Personeli (Taşerondan geçen)            3
+                     Temizlik Pers. (Taşerondan geçen)            20
+                     Teknik Pers. (Taşerondan geçen)              4
+                     İdari Büro Görevlisi (SKS. 4/B)              1
+                     Destek Personeli (SKS.4/B)                   1
+                     TOPLAM                                       459
+
+                                                                                                  8
+                       DOKUZ EYLÜL ÜNİVERSİTESİ
+            MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+Personelinin Eğitim Durumuna Göre Dağılımı(Fiilen çalışan personel ve taşerondan kadroya
+geçenler dahil)
+                       Mezuniyet Durumu                  Personel Sayısı
+                       İlkokul                           9
+                       Orta Okul                         11
+                       Lise                              27
+                       Ön lisans                         15
+                       Lisans                            52
+                       Yüksek Lisans                     40
+                       Doktora ve sonrası                305
+                       TOPLAM                            459
+
+
+Memur Personelin Hizmet Sınıflarına Göre Dağılımı(Fiilen çalışan, taşerondan kadroya geçenler
+hariç)
+                     Hizmet Sınıfları                          Personel Sayısı
+                     Genel İdare Hizmetler                     37
+
+                     Teknik Hizmetler                          23
+
+                     Yardımcı Hizmetler                        8
+
+                     Sağlık Hizmetleri                         2
+                     TOPLAM                                    70
+
+
+Memur Personelin Hizmet Yılına Göre Dağılımı
+
+
+                     Yıl Aralığı             Personel Sayısı
+                     1-3 Yıl                 0
+
+                     4-6 Yıl                 3
+
+                     7-10 Yıl                12
+
+                     11-15 Yıl               12
+
+                     16-20 Yıl               5
+
+                     21 ve üzeri             38
+
+                     TOPLAM                  70
+
+
+
+                                                                                                9
+                               DOKUZ EYLÜL ÜNİVERSİTESİ
+                    MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+5- Sunulan Hizmetler
+
+                                 2021 Yılı Bilimsel Faaliyetler
+  2021 Yılı Bölümlerin Yurtiçi ve Yurtdışı Bilimsel Etkinliklere Bildiri olarak Katılım Sayıları
+         Bölümler            Yurtiçi      Yurtdışı         Uluslararası            Uusal
+   Çevre Mühendisliği          X                                4                   1
+   İnşaat Mühendisliği         X                                1
+   Maden Mühendisliği          X                                2                     1
+                               X                                2
+   Tekstil Mühendisliği
+                                              X                 3
+
+ *DEBİS’e Kayıtlı
+
+6- Yönetim ve İç Kontrol Sistemi
+
+        2547 sayılı Yükseköğretim Kanununu 16., 17. ve 18. maddelerinde Fakülte Yönetim organları;
+Fakülte Dekanı, Fakülte Kurulu ve Fakülte Yönetim Kurulu olarak belirlenmiş olup, dekana yardımcı
+olmak üzere fakültemizin aylıklı öğretim elemanları arasından atanan iki dekan yardımcısı ile idari
+birimlerin bağlı bulunduğu Fakülte Sekreteri de yönetim kadrosu içindedir.
+        Fakültemiz yönetim kademesi içerisinde yer alan; Dekan YÖK tarafından, Fakülte Sekreteri
+Rektör tarafından, Dekan Yardımcıları ise Dekan tarafından atanmaktadır.
+        Fakültemiz 4734 sayılı Kamu İhale Kanununa tabi olup, bu kanun uyarınca yapılan satın
+almalarda anılan Kanun’un 22/d maddesinde belirtilen parasal sınıra kadar yapılacak alımlarda piyasa
+araştırması Fakülte Harcama Yetkilisi olan Dekan tarafından görevlendirilen personel tarafından
+yapılmaktadır. 4734 sayılı Kanun’un 22/d maddesinde belirtilen parasal sınırı aşan ve aynı Kanun’un
+19/b maddesi uyarınca “Açık İhale Usulü” ile yapılacak alımlarda ise Rektörlüğümüzce oluşturulan İhale
+Komisyonu görev yapmaktadır.
+        Fakültemiz “Harcama Yetkilisi” Fakültemiz Dekanı, “Gerçekleştirme Görevlisi” ise Fakülte
+Sekreteri’dir.Fakültemiz bütçesinden gerçekleştirilecek giderlerle ilgili Ön Mali Kontrol İşlemi; 5018
+sayılı Kanun ve bu kanun uyarınca yayımlanmış ikincil mevzuat ve Üniversitemiz “Ön Mali Kontrol
+İşlem Yönergesinin 6’ncı maddesi uyarınca Fakültemiz Gerçekleştirme Görevlisi tarafından
+yapılmaktadır. Fakültemiz Gerçekleştirme görevlisi tarafından Ön Mali Kontrolü yapılan ve tahakkuka
+bağlanan ödeme emri belgeleri ödenmek üzere Üniversitemiz Strateji Geliştirme Dairesi Başkanlığına
+gönderilir. Strateji Geliştirme Dairesi Başkanlığına gönderilen ödeme emri belgeleri “Dokuz Eylül
+Üniversitesi Ön Mali Kontrol İşlemleri Yönergesinin 16’ncı maddesi uyarınca üst yönetici tarafından
+belirlenen ilke ve limitler dâhilinde kontrol edilerek hak sahibine/sahiplerine ödenir.
+        Fakültemizde iç denetim; üst yönetici tarafından atanan Denetçiler tarafından, dış denetim ise
+Sayıştay Başkanlığı tarafından gerçekleştirilmektedir.
+
+D- Diğer Hususlar
+
+
+
+
+                                                                                                   10
+                        DOKUZ EYLÜL ÜNİVERSİTESİ
+             MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+II- AMAÇ ve HEDEFLER
+A. İdarenin Amaç ve Hedefleri
+
+
+
+
+                                                                     11
+                           DOKUZ EYLÜL ÜNİVERSİTESİ
+                MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+Stratejik Amaçlar                                        Stratejik Hedefler
+Stratejik Amaç - 1.1                                     Hedef - 1.1.1
+Değer Yaratacak Araştırmaların, Projelerin               Ulusal ve uluslararası ölçekte bilimsel araştırma,
+Niceliğini, Niteliğini ve Patent Sayılarını Arttırmak.   yayın ve projeleri arttırmak.
+Stratejik Amaç - 1.2                                     Hedef- 1.2.1
+Bilgiye erişim olanaklarını arttırmak.                   Bilgisayar Laboratuvarlarının olanaklarının
+                                                         iyileştirilmesi
+Stratejik Amaç – 2.1                                     Hedef–2.1.1.
+Öğrencilerin akademik, sosyal ve kültürel gelişimini     Nitelikli öğrenme ortamlarının oluşması için fiziksel
+sağlayacak uygun öğrenme ortamlarını geliştirmek.        altyapıyı geliştirmek.
+
+Stratejik Amaç–2.2                                       Hedef 2.2.1
+Etkin Bir Yaşam Boyu Eğitim Sistemini Geliştirip         Yaşam Boyu Eğitimin gerekliliği bilincinin
+Sürdürmek.                                               sağlanması ve sürdürülebilirliği için teknik ve/ve ya
+                                                         sosyal konulu seminer ve benzeri etkinliklerin
+                                                         düzenlenmesi, ilgili ders içeriklerinin bu doğrultuda
+                                                         güncellenmesi
+Stratejik Amaç 2.3.                                      Hedef 2.3.1
+Eğitimin Her Alanında Etik ve Sosyal Sorumluluk          Konusunda uzman kişilerin katılımıyla seminer ve
+Bilincini Yerleştirmek                                   benzeri etkinliklerin düzenlenmesi, ilgili ders
+                                                         içeriklerinin bu doğrultuda güncellenmesi
+Stratejik Amaç 3.1.                                      Hedef - 3.1.1:
+Öğrencilere Yönelik Geliştirme Faaliyetlerini            Öğrencilerin akademik gelişimini desteklemeye
+Güçlendirmek ve Öğrenciye Yönelik Hizmet                 yönelik eğitim, konferans, seminer ve benzeri
+Kalitesini Arttırmak                                     etkinlikleri arttırmak
+                                                         Hedef - 3.1.2:
+                                                         Öğrencilerin sosyo-kültürel gelişimini desteklemeye
+                                                         yönelik etkinlikleri arttırmak
+Stratejik Amaç 3.2:                                      Hedef 3.2.1:
+Akademik ve İdari Personelin Gelişimini                  Akademik ve idari personele yönelik idari hizmet
+Desteklemek ve Hizmet Kalitesini Arttırmak.              kalitesini geliştirmek.
+                                                         Hedef 3.2.2:
+                                                         Her yıl akademik ve idari personelin gelişimini
+                                                         destekleyecek eğitim, konferans, seminer ve benzeri
+                                                         etkinlikleri arttırmak.
+Stratejik Amaç 3.3:                                      Hedef 3.3.2:
+İç Paydaşlar Arasındaki Kurumsal, Sosyal İletişimi       İç paydaşların plan, program ve prosedürler ile ilgili
+ve İşbirliğini Güçlendirmek.                             bilgiye erişimini artırmak.
+
+Stratejik Amaç 4.1:                                      Hedef 4.1.1:
+Kurumsal-toplumsal sorumluluk projelerinin dış           Dış paydaşlarla ortak akademik, idari ve teknik
+paydaşlarını çeşitlendirip artırarak ve kamuoyu          çalışmaları arttırmak.
+farkındalığı yaratarak işbirliğini sürdürülebilir
+kılmak.
+Stratejik Amaç 4.2:                                      Hedef 4.2.1:
+Mezunlarla Üniversite İşbirliğini Geliştirmek ve         Sürekli iletişimde olunan mezun sayısını ve ortak
+Sürekliliğini Sağlamak.                                  faaliyetleri arttırmak.
+Stratejik Amaç 4.3:                                      Hedef 4.3.2:
+Dış Paydaşlara Sunulan Hizmetleri Geliştirmek            Dış Paydaşlara Yönelik Sosyo-Kültürel Hizmetleri
+                                                         Geliştirmek.
+
+
+
+
+                                                                                                                  12
+                        DOKUZ EYLÜL ÜNİVERSİTESİ
+             MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+               B. Temel Politikalar ve Öncelikler
+
+        Fakültemizin hazırladığı stratejik planında temel politika ve önceliklerini aşağıdaki biçimde
+belirlemiştir.
+
+       i) Mühendislik eğitimini çağın gereklerine uygun ve evrensel kalitede sürdürmek,
+       ii) Araştırmacıları ve araştırma alt yapısını bilim ve teknolojiye üstün katkılar yapacak bir
+       duruma getirmek,
+       iii) Mühendislik alanında yerel ve ülke genelindeki sanayi kuruluşları ile uygulamalı araştırmalar
+       yaparak, ülkeye katma değer yaratan bir merkez durumuna gelmek,
+       iv) Kurum içi ve kurum dışı iletişim ve bilgi paylaşım ağını güçlendirmek.
+
+
+
+C. Diğer Hususlar
+
+
+
+III. FAALİYETLERE İLİŞKİN BİLGİ VE DEĞERLENDİRMELER
+
+A. Mali Bilgiler
+         Bütçe Uygulama Sonuçları ve Temel Mali Tablolara İlişkin Açıklamalar
+
+           2019, 2020 ve 2021 Yılı Ödenek Durumu
+
+
+
+                                                                        Harcama
+                   Yıl     Ödenek (TL)         Harcanan (TL)
+                                                                         Oranı (%)
+
+                   2019      1.024.005,00           848.222,00             82,83
+                              665.856,00            24.603,00               3,69
+                   2020
+                              824.565,00            158.533,26             19,23
+                   2021
+
+
+
+
+                                                                                                      13
+                        DOKUZ EYLÜL ÜNİVERSİTESİ
+             MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+                         2021 Yılı Harcamalarının Ekonomik Sınıflara Göre Dağılımı
+
+
+                     Ekonomik Sınıf                 Harcanan (TL)       Dağılımı (%)
+
+Personel Giderleri                                    47.080.768,37
+
+Sermaye Giderleri
+Sermaye Transferleri
+Borç Verme
+Cari Transferler
+Mal ve Hiz. Alımları Giderleri                         158.533,26
+
+Sos. Güv. Kurumlarına Devlet Primi Giderleri           7.887.596,59
+
+
+              2021 Yılı Ekonomik Sınıflarına Göre Tahsis Edilen Ödenekler
+
+
+                       Ekonomik                     Ödenek       Harcanan Harcanma
+                        Sınıflar                     (TL)          (TL)   Oranı (%)
+
+Personel Giderleri                                54.948.115,48 47.080.768,37   85,68
+
+Sermaye Giderleri                                       -
+
+Sermaye Transferi                                       -
+
+Borç Verme                                              -
+
+Cari Transferler                                        -
+
+Mal ve Hizmet Alımları Giderleri                   824.565,00    158.533,26     19,23
+
+Sos. Güv. Kurumlarına Devlet Primi Gideri         8.947.162,11 7.887.596,59     88,16
+
+
+
+
+                                                                                        14
+                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                  MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+    Performans Bilgileri
+
+A . Faaliyet ve Proje Bilgileri
+
+
+
+
+                                                                                          15
+           DOKUZ EYLÜL ÜNİVERSİTESİ
+MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                                        16
+           DOKUZ EYLÜL ÜNİVERSİTESİ
+MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                                        17
+                                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                                   MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+2019-2020-2021 Yıllarına ait Mühendislik Fakültesi Projeleri (BAP)
+
+
+
+
+                                                                                           18
+           DOKUZ EYLÜL ÜNİVERSİTESİ
+MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                                        19
+                                              DOKUZ EYLÜL ÜNİVERSİTESİ
+                                   MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+Cumhurbaşkanlıgı Strateji ve Bütçe Başkanlıgı Projeleri
+
+
+
+
+                                                                                           20
+                         DOKUZ EYLÜL ÜNİVERSİTESİ
+              MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+          B . Performans Sonuçları Tablosu
+
+Dokuz Eylül Üniversitesi 2020-2025 Stratejik Planı kapsamında Stratejik Amaçlar belirlemiş ve her bir
+stratejik amaç için Stratejik Hedefler koymuştur. 2021 yılının Stratejik hedefleri ne derece
+gerçekleştirildiği de Performans Göstergeleri ile takip edilmektedir.
+
+2021 yılı İlk 6 ay için gerçekleşme hedefleri,
+
+
+
+
+                                                                                                  21
+           DOKUZ EYLÜL ÜNİVERSİTESİ
+MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                                        22
+           DOKUZ EYLÜL ÜNİVERSİTESİ
+MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                                        23
+           DOKUZ EYLÜL ÜNİVERSİTESİ
+MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                                        24
+           DOKUZ EYLÜL ÜNİVERSİTESİ
+MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                                        25
+           DOKUZ EYLÜL ÜNİVERSİTESİ
+MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                                                        26
+                         DOKUZ EYLÜL ÜNİVERSİTESİ
+              MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+2021 yılı ikinci altı ay için gerçekleşme hedefleri,
+
+
+
+
+                                                                      27
+                       DOKUZ EYLÜL ÜNİVERSİTESİ
+            MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+IV- KURUMSAL KABİLİYET ve KAPASİTENİN DEĞERLENDİRİLMESİ
+
+
+  A- Üstünlükler
+
+  1) Değişime ve gelişime olan ihtiyacın farkında olunması
+  2) Eleştirilere açık bir anlayışın benimsenmiş olması
+  3) Deneyimli öğretim üyelerinden oluşan güçlü, değişime ve gelişime açık dinamik bir akademik
+      kadronun varlığı
+  4) Ege bölgesinin mühendislik eğitimi açısından en köklü ve en geniş kadrosuna sahip kurumu
+      olması.
+  5) MÜDEK Akreditasyonuna sahip olmak
+  6) Araştırmaya ve eğitime yönelik Laboratuvar altyapısının ve personelinin sayı ve nitelik olarak
+      oldukça iyi bir duruma gelmiş olması.
+  7) Çalışma ortamının fiziksel koşullarının iyi olması
+  8) Teknolojik donanım ve altyapının (bilgisayar ve internet olanaklarının) iyi olması
+  9) Fakültemiz öğrencilerine kaynak oluşturabilecek kitapların Fakültemiz bünyesinde basımının
+      gerçekleştirilerek öğrencilerimize uygun fiyatlarla satışa sunulması
+  10) Güçlü bir Döner Sermaye Kaynağına sahip olunması ve Döner Sermaye Gelirlerinin
+      kullanılmasıyla ek kaynaklar yaratılması
+  11) Öğretim Elemanlarının bilimsel etkinliklere katılımının teşvik edilmesi ve desteklenmesi
+
+  B- Zayıflıklar
+
+
+  1) Öğrenci ve Personel Otomasyon Sisteminin kullanımı sırasında oluşan sorunları ve eksikleri
+     giderebilmek için hızlı çözümler oluşturulamaması
+  2) İşe yeni başlayan personeli için hizmet içi eğitim eksikliği.
+  3) Yabancı dil bilen idari personel yetersizliği
+  4) Fakültenin bulunduğu Tınaztepe Yerleşkesinin ulaşım sorunlarının henüz çözülememiş olması
+     ve öğrencilerin sosyal-kültürel gereksinimlerini karşılayacak olanaklardaki yetersizlikler
+
+
+
+
+                                                                                                      28
+                         DOKUZ EYLÜL ÜNİVERSİTESİ
+              MÜHENDİSLİK FAKÜLTESİ 2021 YILI BİRİM FAALİYET RAPORU
+
+
+
+
+                        Harcama Yetkilisinin İç Kontrol Güvence Beyanı
+
+
+
+                             İÇ KONTROL GÜVENCE BEYANI
+
+
+
+Harcama yetkilisi olarak yetkim dahilinde;
+
+Bu raporda yer alan bilgilerin güvenilir, tam ve doğru olduğunu beyan ederim.
+
+Bu raporda açıklanan faaliyetler için idare bütçesinden harcama birimimize tahsis edilmiş kaynakların
+etkili, ekonomik ve verimli bir şekilde kullanıldığını, görev ve yetki alanım çerçevesinde iç kontrol
+sisteminin idari ve mali kararlar ile bunlara ilişkin işlemlerin yasallık ve düzenliliği hususunda yeterli
+güvenceyi sağladığını ve harcama birimimizde süreç kontrolünün etkin olarak uygulandığını bildiririm.
+
+Bu güvence, harcama yetkilisi olarak sahip olduğum bilgi ve değerlendirmeler, iç kontroller, iç denetçi
+raporları ile Sayıştay raporları gibi bilgim dahilindeki hususlara dayanmaktadır.
+
+Burada raporlanmayan, idarenin menfaatlerine zarar veren herhangi bir husus hakkında bilgim
+olmadığını beyan ederim. (İzmir-31.12.2021)
+
+
+
+
+                                                                            Prof.Dr. Turgay ONARGAN
+                                                                                         Dekan
+
+
+
+
+                                                                                                       29
+

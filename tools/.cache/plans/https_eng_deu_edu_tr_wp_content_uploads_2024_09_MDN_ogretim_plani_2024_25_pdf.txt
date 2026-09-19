@@ -1,0 +1,190 @@
+                                                                                                 DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                    Mühendislik Fakültesi - Maden Mühendisliği 2024-2025 Öğretim Planı
+                                                       Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+                                         BİRİNCİ YARIYIL                                                                                                           İKİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                                            T     U   AKTS Süresi       Ön Şart     Kod        Ders Adı                                                                 T     U   AKTS Süresi
+    -       FİZ 1103   FİZİK I                                                              3    2    4    1 Yarıyıl       -       İNŞ 1011   TEKNİK RESİM                                                              3    1    5    1 Yarıyıl
+    -       JEO 1013   GENEL JEOLOJİ                                                        2    0    3    1 Yarıyıl       -       FİZ 1102   FİZİK II                                                                  3    2    5    1 Yarıyıl
+    -       KİM 1115   KİMYA                                                                3    2    4    1 Yarıyıl       -       JEO 1024   MİNERALOJİ VE PETROGRAFİ                                                  2    1    3    1 Yarıyıl
+    -       KPD 1000   Kariyer Planlama                                                     1    0    2    1 Yarıyıl       -       KİM 1040   FİZİKOKİMYA                                                               2    0    3    1 Yarıyıl
+    -       MAT 1009   MATEMATİK I                                                          4    0    4    1 Yarıyıl       -       MAT 1010   MATEMATİK II                                                              4    0    4    1 Yarıyıl
+    -       MDN 1007   TEKNİK İNGİLİZCE                                                     2    0    3    1 Yarıyıl       -       YDİ 1006   Yabancı Dil II (İngilizce)                                                2    0    2    1 Yarıyıl
+    -       MDN 1105   MADEN MÜHENDİSLİĞİNE GİRİŞ                                           2    0    4    1 Yarıyıl       -       MDN 1501   STAJ II                                                                   0    0    4    25 IG
+    -       TBT 1003   TEMEL BİLGİ TEKNOLOJİLERİ                                            1    1    2    1 Yarıyıl                                                                    ZORUNLU AKTS TOPLAMI :                    26
+    -       YDİ 1007   Yabancı Dil I (İngilizce)                                            2    0    2    1 Yarıyıl                                                                      SEÇMELİ AKTS TOPLAMI :                  4
+    -       MDN 1100   STAJ I                                                               0    0    2    10 IG
+                                                                                                                       Alan Seçmeli Dersler
+                                                              ZORUNLU AKTS TOPLAMI :                  30
+                                                                                                                           -       MDN 1400   CAD TABANLI TASARIM                                                       2    2    4    1 Yarıyıl
+                                                                SEÇMELİ AKTS TOPLAMI :                0
+                                                                                                                           -       MDN 1402   MÜHENDİSLİK PROBLEMLERİNİN SAYISAL HESAPLAMA YAZILIMLARI İLE ÇÖZÜMÜ 2          2    4    1 Yarıyıl
+                                                                                                                           -       MDN 1404   BİLGİSAYAR PROGRAMLAMA                                                    2    2    4    1 Yarıyıl
+
+
+
+
+                                        ÜÇÜNCÜ YARIYIL                                                                                                        DÖRDÜNCÜ YARIYIL
+Ön Şart     Kod        Ders Adı                                                            T     U   AKTS Süresi       Ön Şart     Kod        Ders Adı                                                                 T     U   AKTS Süresi
+    -       ELK 2081   ELEKTROTEKNİK VE ELEKTRİK MAKİNALARI                                 2    0    2    1 Yarıyıl       -       İNŞ 2013   MUKAVEMET                                                                 3    0    4    1 Yarıyıl
+    -       İNŞ 2033   AKIŞKANLAR MEKANİĞİ                                                  2    0    3    1 Yarıyıl       -       JEO 2044   MADEN YATAKLARI                                                           2    0    3    1 Yarıyıl
+    -       JEO 2501   MÜHENDİSLİK JEOLOJİSİ                                                2    1    4    1 Yarıyıl       -       MDN 2012   CEVHER HAZIRLAMA I                                                        3    2    6    1 Yarıyıl
+    -       MAT 2011   MATEMATİK III                                                        4    0    4    1 Yarıyıl       -       MDN 2014   MADEN TOPOĞRAFYASI                                                        2    2    5    1 Yarıyıl
+    -       MDN 2503   OLASILIK VE İSTATİSTİK                                               3    0    5    1 Yarıyıl       -       MDN 2020   MÜHENDİSLİKTE TEMEL BİLİMLER PRATİĞİ (PBL)                                2    0    4    1 Yarıyıl
+    -       ATA 1001   Atatürk İlkeleri ve İnkılap Tarihi I                                 2    0    2    1 Yarıyıl       -       ATA 1002   Atatürk İlkeleri ve İnkılap Tarihi II                                     2    0    2    1 Yarıyıl
+    -       TDL 1001   Türk Dili I                                                          2    0    2    1 Yarıyıl       -       TDL 1002   Türk Dili II                                                              2    0    2    1 Yarıyıl
+    -       MDN 2500   STAJ III                                                             0    0    4    25 IG                                                                        ZORUNLU AKTS TOPLAMI :                    26
+    -       İNŞ 1012   STATİK                                                               3    0    4    1 Yarıyıl                                                                      SEÇMELİ AKTS TOPLAMI :                  4
+                                                              ZORUNLU AKTS TOPLAMI :                  30
+                                                                SEÇMELİ AKTS TOPLAMI :                0
+
+
+
+
+                                         BEŞİNCİ YARIYIL                                                                                                         ALTINCI YARIYIL
+Ön Şart     Kod        Ders Adı                                                            T     U   AKTS Süresi       Ön Şart     Kod        Ders Adı                                                                 T     U   AKTS Süresi
+    -       MDN 3019   MADEN EKONOMİSİ                                                      2    0    3    1 Yarıyıl       -       MDN 3006   KAYA VE ZEMİN MEKANİĞİ                                                    2    2    4    1 Yarıyıl
+ MDN 2012   MDN 3023   CEVHER HAZIRLAMA II                                                  3    2    5    1 Yarıyıl    MDN 2012   MDN 3010   CEVHER HAZIRLAMA III                                                      3    2    6    1 Yarıyıl
+    -       MDN 3029   MADEN ARAMA VE SONDAJ TEKNİĞİ                                        2    1    4    1 Yarıyıl       -       MDN 3204   MADENLERDE HAVALANDIRMA                                                   3    1    5    1 Yarıyıl
+    -       MDN 3031   AÇIK İŞLETME MADENCİLİĞİ VE TASARIMI                                 3    0    4    1 Yarıyıl                                                                    ZORUNLU AKTS TOPLAMI :                    15
+    -       MDN 3211   YERALTI MADENCİLİK YÖNTEMLERİ                                        3    0    4    1 Yarıyıl                                                                      SEÇMELİ AKTS TOPLAMI :                  15
+                                                              ZORUNLU AKTS TOPLAMI :                  20
+                                                                                                                       Alan Seçmeli Dersler
+                                                                SEÇMELİ AKTS TOPLAMI :                10
+                                                                                                                        MDN 3211   MDN 3400   MADEN İŞLETME PDÖ                                                         2    2    4    1 Yarıyıl
+Alan Seçmeli Dersler                                                                                                    MDN 2012   MDN 3402   CEVHER HAZIRLAMA PDÖ                                                      2    2    4    1 Yarıyıl
+    -       MDN 3401   MADENCİLİKTE SAYISAL YÖNTEMLER                                       2    0    5    1 Yarıyıl   Seçmeli Dersler
+    -       MDN 3403   FİZİKSEL ANALİZ METODLARI VE UYGULAMALARI                            2    0    5    1 Yarıyıl       -       MDN 3334   CEVHER ZENGİNLEŞTİRMEDE UYGULAMALI YÖNTEM SEÇİMİ 2                             0    4    1 Yarıyıl
+    -       MDN 3405   MADENCİLİKTE ÇÖZELTİ KİMYASI                                         2    0    5    1 Yarıyıl       -       MDN 3336   AGREGA ÜRETİM TESİSLERİ MODELLEME VE SİMÜLASYONU 2                             0    4    1 Yarıyıl
+    -       MDN 3409   YÜZEY KİMYASINA GİRİŞ                                                2    0    5    1 Yarıyıl       -       MDN 3338   DOĞAL TAŞ MADENCİLİĞİNİN ÇEVRESEL ETKİLERİ VE ARTIKLARIN DEĞERLENDİRİLMESİ 2   0    4    1 Yarıyıl
+    -       MDN 3407   KİMYASAL ANALİZ METOTLARI VE UYGULAMALARI                            2    0    5    1 Yarıyıl       -       MDN 3340   DOĞAL TAŞLARDA KALİTE VE KONTROL TESTLERİ                                 2    0    4    1 Yarıyıl
+Seçmeli Dersler                                                                                                            -       MDN 3342   MADEN İŞLETME FAALİYETLERİNİN ÇEVRESEL ETKİLERİ 2                              0    4    1 Yarıyıl
+    -       MDN 3347   AÇIK OCAK PLANLAMASI VE MAKİNA EKİPMAN SEÇİMİ 2                           0    4    1 Yarıyıl       -       MDN 3344   MADENCİLİK YATIRIMLARININ EKONOMİK ANALİZİ VE FİNANSMANI 2                     0    4    1 Yarıyıl
+    -       MDN 3349   BOR TEKNOLOJİLERİ                                                    2    0    4    1 Yarıyıl       -       MDN 3346   MADENCİLİKTE KAZI TEKNOLOJİSİ                                             2    0    4    1 Yarıyıl
+    -       MDN 3351   ENDÜSTRİYEL HAMMADDELER VE ZENGİNLEŞTİRİLMESİ 2                           0    4    1 Yarıyıl       -       MDN 3350   MADENCİLİKTE BİLGİSAYAR DESTEKLİ TASARIM                                  2    0    4    1 Yarıyıl
+    -       MDN 3353   KAYA KÜTLE ÖZELLİKLERİ                                               2    0    4    1 Yarıyıl       -       MDN 3352   AÇIK MADEN OCAKLARINDA ŞEV STABİLİTESİ                                    2    0    4    1 Yarıyıl
+    -       MDN 3355   MADEN OCAKLARININ REKÜLTİVASYONU                                     2    0    4    1 Yarıyıl       -       MDN 3354   CEVHER HAZIRLAMA VE ZENGİNLEŞTİRMEDE ISIL İŞLEMLER 2                           0    4    1 Yarıyıl
+    -       MDN 3357   MADENCİLİKTE COĞRAFİ BİLGİ SİSTEMLERİ (CBS)                          2    0    4    1 Yarıyıl       -       MDN 3358   MADENCİLİK FAALİYETLERİNDE SÜREKSİZLİKLERİN ETKİSİ 2                           0    4    1 Yarıyıl
+    -       MDN 3359   YERALTI MADENLERİNDE TEHLİKE KAYNAKLARI VE RİSK DEĞERLENDİRMELERİ 2       0    4    1 Yarıyıl       -       MDN 3360   YERALTI MADENCİLİĞİNDE DELME PATLATMA TASARIMI 2                               0    4    1 Yarıyıl
+    -       MDN 3361   YOĞUNLUK FARKINA DAYALI ZENGİNLEŞTİRMENİN PRENSİPLERİ VE UYGULAMALARI 2   0    4    1 Yarıyıl       -       MDN 3398   MADENLERDE YALIN ÜRETİM VE SÜREKLİ İYİLEŞTİRME 2                               0    4    1 Yarıyıl
+    -       MDN 3363   BOYUT KÜÇÜLTME MODELLERİ                                             2    0    4    1 Yarıyıl       -       MIN 3393   THE BASIC PRINCIPLES AND APPLICATIONS OF GRAVITY CONCENTRATION 2               0    4    1 Yarıyıl
+    -       MDN 3365   TANE TEKNOLOJİSİ VE KARAKTERİZASYONU                                 2    0    4    1 Yarıyıl       -       MIN 3395   MARBLE MINING TECHNOLOGY                                                  2    0    4    1 Yarıyıl
+    -       MDN 3367   MADENCİLİKTE SATIŞ VE PAZARLAMA TEKNİKLERİ                           2    0    4    1 Yarıyıl
+    -       MDN 3369   MERMER İŞLETME TEKNOLOJİSİ                                           2    0    4    1 Yarıyıl
+    -       MDN 3371   SIĞ YERALTI YAPILARI VE TASARIMI                                     2    0    4    1 Yarıyıl
+    -       MDN 3373   TÜNEL PLANLAMA VE PROJELENDİRME                                      2    0    4    1 Yarıyıl
+    -       MDN 3375   PATLATMA TASARIMI VE VERİMLİLİK ANALİZİ                              2    0    4    1 Yarıyıl
+    -       MDN 3377   MADENCİLİK OPERASYONLARININ TASARIMI                                 2    0    4    1 Yarıyıl
+    -       MDN 3379   ÇİMENTO HAMMADDELERİ VE ÇİMENTO TEKNOLOJİSİ 2                             0    4    1 Yarıyıl
+    -       MDN 3383   KATI-SIVI AYIRIMI                                                    2    0    4    1 Yarıyıl
+    -       MDN 3385   YERALTI MADENCİLİĞİNDE DOLGU YÖNTEMLERİ                              2    0    4    1 Yarıyıl
+    -       MDN 3387   MADENCİLİK FAALİYETLERİNDE UZAKTAN ALGILAMA YÖNTEMLERİNİN KULLANIMI 2     0    4    1 Yarıyıl
+    -       MDN 3389   MADENLERDE MÜHENDİSLİK YÖNETİMİ                                      2    0    4    1 Yarıyıl
+    -       MDN 3391   MADEN ARAMALARINDA ULUSAL VE ULUSLARARASI STANDARTLAR 2                   0    4    1 Yarıyıl
+                                                                                                             DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                            Mühendislik Fakültesi - Maden Mühendisliği 2024-2025 Öğretim Planı
+                                                              Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+                                             YEDİNCİ YARIYIL                                                                                                                         SEKİZİNCİ YARIYIL
+Ön Şart     Kod        Ders Adı                                                                       T      U   AKTS Süresi        Ön Şart            Kod        Ders Adı                                                                       T      U   AKTS Süresi
+    -       MDN 4005     KÖMÜR HAZIRLAMA VE TEKNOLOJİSİ                                                2     0    4    1 Yarıyıl           -           MDN 4008   MADEN HUKUKU VE ÇEVRE                                                           2     0    3    1 Yarıyıl
+    -       MDN 4711     MADEN MEKANİZASYONU VE NAKLİYAT                                               3     0    6    1 Yarıyıl           -           MDN 4206   YERALTI YAPILARI VE TAHKİMAT TASARIMI                                           2     0    3    1 Yarıyıl
+    -       İSG 4001     İŞ SAĞLIĞI VE GÜVENLİĞİ I                                                     2     0    2    1 Yarıyıl           -           İSG 4002   İŞ SAĞLIĞI VE GÜVENLİĞİ II                                                      2     0    2    1 Yarıyıl
+    -       MDN 4012     MÜHENDİSLİK ETİĞİ                                                             2     0    2    1 Yarıyıl           -           MDN 4894   BİTİRME PROJESİ                                                                 0     6    6    1 Yarıyıl
+                                                                      ZORUNLU AKTS TOPLAMI :                      14                                                                                            ZORUNLU AKTS TOPLAMI :                       14
+                                                                       SEÇMELİ AKTS TOPLAMI :                     16                                                                                              SEÇMELİ AKTS TOPLAMI :                     16
+
+                                                                                                                                   Alan Seçmeli Dersler
+                                                                                                                                    MDN 3023           MDN 4400   CEVHER HAZIRLAMA TASARIMI                                                       2     4    12   1 Yarıyıl
+                                                                                                                                   MDN 3211,MDN 3031   MDN 4402   MADEN İŞLETME TASARIMI                                                          2     4    12   1 Yarıyıl
+
+
+
+
+Sosyal Seçmeli Dersler                                                                                                             Teknik Seçmeli Dersler
+Ön Şart     Kod        Ders Adı                                                                        T     U   AKTS Süresi        Ön Şart            Kod        Ders Adı                                                                        T     U   AKTS Süresi
+            GÇD 1000     Gönüllülük Çalışmaları                                                         1    2    4    1 Yarıyıl                       ETE 3003    INTRODUCTION TO NANOTECHNOLOGY                                                  2    0    4    1 Yarıyıl
+            GÇD 1001     Volunteerism Studies                                                           1    2    4    1 Yarıyıl                       ETE 3007    FUNDAMENTALS OF ROBOTICS                                                        2    0    4    1 Yarıyıl
+            İHD 1001     İnsan Hakları                                                                  2    0    4    1 Yarıyıl                       ETE 3014    GIS FOR ENGINEERS                                                               2    0    4    1 Yarıyıl
+            ESE 2065     CAREER PLANNING AND DEVELOPMENT                                                2    0    3    1 Yarıyıl                       ETE 3017    PHYSICAL MODELS                                                                 2    0    4    1 Yarıyıl
+            ESE 2067     BUSINESS MANAGEMENT AND MANAGEMENT                                             2    0    3    1 Yarıyıl                       ETE 3043    DIGITAL TRANSFORMATION IN INDUSTRY                                              2    0    4    1 Yarıyıl
+            ESE 2069     PERSONAL STYLE AND IMAGE MANAGEMENT                                            2    0    3    1 Yarıyıl                       MTH 3617    HAVA KALİTESİ MODELLEMESİ                                                       2    0    3    1 Yarıyıl
+            MSİ 2001     SUNUM VE SUNUŞ TEKNİKLERİ                                                      2    0    2    1 Yarıyıl                       MTS 3001    BİYOTEKNOLOJİ                                                                   2    0    3    1 Yarıyıl
+            MSİ 2005     KİŞİSEL GELİŞİM VE ETKİLİ YAŞAMAK                                              2    0    2    1 Yarıyıl                       MTS 3009    ÇEVRENİN KORUNMASINI AMAÇLAYAN DİSİPLİNLERARASI PROJ. GELİŞ. 2                       0    3    1 Yarıyıl
+            MSİ 2009     AVRUPA BİRLİĞİNDE SOSYAL POLİTİKA                                              2    0    2    1 Yarıyıl                       MTS 3015    YOL TEKNOLOJİSİNDE YENİLİKLER                                                   2    0    3    1 Yarıyıl
+            MSİ 2015     MÜHENDİSLER İÇİN FRANSIZCA                                                     2    0    2    1 Yarıyıl                       MTS 3043    ENDÜSTRİDE DİJİTAL DÖNÜŞÜM                                                      2    0    3    1 Yarıyıl
+            MSİ 2027     PSİKOLOJİYE GİRİŞ                                                              2    0    2    1 Yarıyıl                       ETE 3006    BIOMEDICAL SYSTEMS                                                              2    0    4    1 Yarıyıl
+            MSİ 2029     İLETİŞİM BECERİLERİ                                                            2    0    2    1 Yarıyıl                       ETE 3018    MODERN ENGINEERING MATHEMATICS                                                  2    0    4    1 Yarıyıl
+            MSİ 2031     İNSAN KAYNAKLARI YÖNETİMİ                                                      2    0    2    1 Yarıyıl                       ETE 3025    PROJECT MANAGEMENT                                                              2    0    4    1 Yarıyıl
+            MSİ 2041     BÜTÜNLEŞİK KIYI YÖNETİMİ, TÜRKİYEDE LİMAN YÖNETİMİ VE DEVLETLERARASI PROGRAMLAR 2   0    2    1 Yarıyıl                       ETE 3029    QUALITY MANAGEMENT                                                              2    0    4    1 Yarıyıl
+            MSİ 2043     İŞ KANUNU VE UYGULAMASI                                                        2    0    2    1 Yarıyıl                       ETE 3031    NAVIGATION ENGINEERING                                                          2    0    4    1 Yarıyıl
+            MSİ 2049     DOĞAL AFETLER                                                                  2    0    2    1 Yarıyıl                       ETE 3032    PERFORMANCE MEASUREMENT IN BUSINESSES                                           2    0    4    1 Yarıyıl
+            MSİ 2059     AFET YÖNETİMİ                                                                  2    0    2    1 Yarıyıl                       ETE 3034    FINANCIAL MANAGEMENT FOR ENGINEERS                                              2    0    4    1 Yarıyıl
+            MSİ 2061     İŞLETMELERDE İÇ DENETİM                                                        2    0    2    1 Yarıyıl                       ETE 3035    ELEMENTAL & ISOTOPIC ANALYSIS IN THE MULTIDISCIPLINARY FIELDS 2                      0    4    1 Yarıyıl
+            MSİ 2063     PAZARLAMAYA GİRİŞ                                                              2    0    2    1 Yarıyıl                       MTS 3002    DEPREM MÜHENDİSLİĞİNDE SEÇMELİ KONULAR                                          2    0    3    1 Yarıyıl
+            MSİ 2065     KARİYER PLANLAMA VE GELİŞTİRME                                                 2    0    2    1 Yarıyıl                       MTS 3005    YAPAY ZEKA YÖNTEMLERİ                                                           2    0    3    1 Yarıyıl
+            MSİ 2067     İŞLETME YÖNETİMİ VE YÖNETİCİLİĞİ                                               2    0    2    1 Yarıyıl                       MTS 3020    ENERJİ VE ÇEVRE                                                                 2    0    3    1 Yarıyıl
+            MSİ 2069     KİŞİSEL STİL VE İMAJ YÖNETİMİ                                                  2    0    2    1 Yarıyıl                       MTS 3023    MADEN ARAMALARINDA JEOFİZİK YÖNTEMLER                                           2    0    3    1 Yarıyıl
+            MSİ 2071     HALK OYUNLARI                                                                  2    0    2    1 Yarıyıl                       MTS 3024    JEOLOJİK PROBLEMLER VE JEOFİZİK ÇÖZÜMLERİ                                       2    0    3    1 Yarıyıl
+            ESE 2070     CLIMATE CHANGE AND SUSTAINABLE MANAGEMENT 2                                         0    3    1 Yarıyıl                       MTS 3025    PROJE YÖNETİMİ                                                                  2    0    3    1 Yarıyıl
+            MSİ 2002     FELSEFEYE GİRİŞ                                                                2    0    2    1 Yarıyıl                       MTS 3028    MÜHENDİSLİKTE HARİTA BİLGİSİ                                                    2    0    3    1 Yarıyıl
+            MSİ 2004     İNSAN İLİŞKİLERİ                                                               2    0    2    1 Yarıyıl                       MTS 3032    İŞLETMELERDE PERFORMANS ÖLÇÜMÜ                                                  2    0    3    1 Yarıyıl
+            MSİ 2006     BRİÇ                                                                           2    0    2    1 Yarıyıl                       MTS 3033    DIŞ TİCARET İŞLEMLERİ                                                           2    0    3    1 Yarıyıl
+            MSİ 2008     EKONOMİK KÜRESELLEŞME                                                          2    0    2    1 Yarıyıl                       MTS 3036    YERBİLİMLERİNDE YAPAY ZEKA UYGULAMALARI                                         2    0    3    1 Yarıyıl
+            MSİ 2012     GENÇ GİRİŞİMCİLİK                                                              2    0    2    1 Yarıyıl                       MTS 3037    MÜHENDİSLER İÇİN GENEL FİZİKİ COĞRAFYA                                          2    0    3    1 Yarıyıl
+            MSİ 2016     ÇEVRE KİRLİLİĞİ VE KONTROLU                                                    2    0    2    1 Yarıyıl                       MTS 3038    MÜHENDİSLİK VE YERYÜZÜ YAPILARININ GLOBAL NAVİGASYON UYDU SİSTEMLERİ (GNSS) İLE 2    0    3    1 Yarıyıl
+            MSİ 2022     MİMAR SİNAN                                                                    2    0    2    1 Yarıyıl                       MTS 3039    YERBİLİMLERİ TARİHİ VE FELSEFESİ                                                2    0    3    1 Yarıyıl
+            MSİ 2024     DOĞA ÇEVRE VE KENT                                                             2    0    2    1 Yarıyıl                       MTS 3040    JEOARKEOLOJİ                                                                    2    0    3    1 Yarıyıl
+            MSİ 2026     AVRUPA BİRLİĞİ VE AVRUPA KONSEYİNDE BÜTÜNLEŞİK ÇEVRE POLİTİKASI 2                   0    2    1 Yarıyıl                       MTS 3044    YER BİLİMLERİNDE İNSANSIZ HAVA ARAÇLARININ (İHA) KULLANIM ALANLARI VE UYGULAMALA 2   0    3    1 Yarıyıl
+            MSİ 2030     HALKLA İLİŞKİLER                                                               2    0    2    1 Yarıyıl
+            MSİ 2032     SOSYAL PSİKOLOJİ                                                               2    0    2    1 Yarıyıl
+            MSİ 2044     ORTAÇAĞ'DA ANADOLU UYGARLIKLARI                                                2    0    2    1 Yarıyıl
+            MSİ 2048     TÜRKİYE'NİN JEO.MİRAS JEOTUR.JEOPARK POT.VE KORUNMASI 2                             0    2    1 Yarıyıl
+            MSİ 2050     FİKRİ VE SINAİ MÜLKİYET HAKLARI                                                2    0    2    1 Yarıyıl
+            MSİ 2054     SOSYAL POLİTİKA                                                                2    0    2    1 Yarıyıl
+            MSİ 2060     TEMEL JAPONCA                                                                  2    0    2    1 Yarıyıl
+            MSİ 2062     YÖNETİMDE STRATEJİK PLANLAMA                                                   2    0    2    1 Yarıyıl
+            MSİ 2064     SATRANÇ                                                                        2    0    2    1 Yarıyıl
+            MSİ 2066     MÜHENDİSLİKTE MESLEK HASTALIKLARI                                              2    0    2    1 Yarıyıl
+            MSİ 2070     İKLİM DEĞİŞİKLİĞİ VE SÜRDÜRÜLEBİLİR YÖNETİM                                    2    0    2    1 Yarıyıl
+            MSİ 2072     BİLİŞİM HUKUKU                                                                 2    0    2    1 Yarıyıl
+                                                                                                        DOKUZ EYLÜL ÜNİVERSİTESİ
+                                                                      Mühendislik Fakültesi - Maden Mühendisliği 2024-2025 Öğretim Planı
+                                                        Üniversitemiz Senatosunun 19/09/2024 tarih ve 693/13 sayılı karar ile kabul edilen şeklidir.
+
+
+Erasmus Dersleri
+Ön Şart    Kod        Ders Adı                                                                    T      U   AKTS Süresi
+    -      ERA 2300   INTRODUCTION TO GEOSPATIAL ASSESSMENTS ON ENVIROMENTAL SUSTAINABILITY 2            1    5   1 Yarıyıl
+    -      ERA 2301   CLIMATE CHANGE ASSESSMENTS ON ENVIRONMENTAL ISSUES, PRIORITIES AND CHALLENGES 3    0    5   1 Yarıyıl
+    -      ERA 2302   SUSTAINABLE DESIGN OF ENGINEERING STRUCTURES 2                                     1    5   1 Yarıyıl
+    -      ERA 4800   INTRODUCTION TO SUSTAINABLE ENERGY SYSTEMS 3                                       0    5   1 Yarıyıl
+
+
+
+
+  AÇIKLAMALAR:
+  SEÇMELİ DERSLER;
+  Aşağıda öğretim planındaki yarıyılları belirtilen seçmeli derslerden;'Seçmeli dersler 2. yarıyıldan itibaren, Alan Seçmeli Dersler
+  6.yarıyıldan itibaren,Sosyal Seçmeli Dersler (MSİ Kodlu)
+  4.yarıyıldan itibaren,' Teknik Seçmeli Ders 6.yarıyıldan itibaren alınabilir.'
+
+  2. yarıyıl : Seçmeli ders ( 4 AKTS / İlgili dönemde açılan seçmeli derslerden en az 1 adet alınması zorunludur.)(Toplam 4 AKTS)(MDN
+  1400,MDN 1402,MDN 1404) 4. yarıyıl : 2 Adet Sosyal seçmeli ders (Toplam 4 AKTS) (MSİ Kodlu)
+
+  5. yarıyıl : Seçmeli ders (10 AKTS / İlgili dönemde açılan seçmeli derslerden - MDN 3401,MDN 3403, MDN 3405, MDN 3407, MDN 3409 en az 2
+  adet alınması zorunludur) (Toplam 10 AKTS)
+
+  6. yarıyıl : 1 Adet Teknik seçmeli ders (3 AKTS), Seçmeli ders (8 AKTS), Alan seçmeli ders ( 4 AKTS /en az 1 adet PDÖ dersi alınması
+  zorunludur) (Toplam 15 AKTS)
+  7. yarıyıl : Seçmeli ders (TOPLAM 16 AKTS
+  8. yarıyıl : Alan seçmeli ders (12 AKTS / En az 1 adet Tasarım dersi alınması zorunludur), Seçmeli ders (4 AKTS) (Toplam 16 AKTS
+  HER YARIYIL AÇILAN DERSLER:
+  MDN 4402 Maden İşletme Tasarımı, MDN 4400 Cevher Hazırlama Tasarımı, MDN 4894 Bitirme Projesi
+
+  STAJLAR:Staj süresi en az 60 iş günüdür(12 Hafta) (5 iş günü 1 hafta olarak kabul edilir). Stajların öğretim planında gösterilen
+  yarı yıllarda yapılması zorunlu değildir. Öğrenci, bu stajın en az 20 iş gününü (4 hafta) Yeraltında, en az 10 iş gününü (2 Hafta) Açık
+  İşletme, en az 10 iş günü Cevher Hazırlama tesislerinde yapmak zorundadır.
+
