@@ -1,0 +1,1 @@
+{"id":"1501","name":"Restorasyon Yüksek Lisans","faculty":"Fen Bilimleri Enstitüsü","levelLabel":"Yuksek Lisans","catalogYear":"2025-2026","courses":[{"code":"ARC 5183","name":"Konservasyona Giriş","term":1,"prerequisites":[]},{"code":"ARC 5166","name":"Konservasyon","term":2,"prerequisites":[{"code":"ARC 5183","name":"Konservasyona Giriş"}]}]}

@@ -1,0 +1,1 @@
+{"id":"1086","name":"Kimya Öğretmenliği","faculty":"Buca Eğitim Fakültesi","levelLabel":"Lisans","catalogYear":"2025-2026","courses":[{"code":"MBD 4201","name":"Öğretmenlik Uygulaması I","term":7,"prerequisites":[]},{"code":"MBD 4202","name":"Öğretmenlik Uygulaması II","term":8,"prerequisites":[{"code":"MBD 4201","name":"Öğretmenlik Uygulaması I"}]}]}

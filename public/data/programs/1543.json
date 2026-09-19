@@ -1,0 +1,1 @@
+{"id":"1543","name":"Mekanik Yüksek Lisans","faculty":"Fen Bilimleri Enstitüsü","levelLabel":"Yuksek Lisans","catalogYear":"2025-2026","courses":[{"code":"MEE 6021","name":"Termoelastisite","term":1,"prerequisites":[{"code":"MEE 5083","name":"Elastisite Teorisi"}]},{"code":"MEE 5083","name":"Elastisite Teorisi","term":1,"prerequisites":[]}]}

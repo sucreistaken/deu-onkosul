@@ -1,0 +1,1 @@
+{"id":"9176","name":"Mekanik Doktora","faculty":"Fen Bilimleri Enstitüsü","levelLabel":"Doktora","catalogYear":"2025-2026","courses":[{"code":"MEE 6021","name":"Termoelastisite","term":null,"prerequisites":[{"code":"MEE 5083","name":"Elastisite Teorisi"}]},{"code":"MEE 5083","name":"Elastisite Teorisi","term":null,"prerequisites":[]}]}

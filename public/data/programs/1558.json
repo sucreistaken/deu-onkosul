@@ -1,0 +1,1 @@
+{"id":"1558","name":"Deniz Kimyası Yüksek Lisans","faculty":"Fen Bilimleri Enstitüsü","levelLabel":"Yuksek Lisans","catalogYear":"2025-2026","courses":[{"code":"MCP 5017","name":"Deniz Kimyası - I","term":1,"prerequisites":[]},{"code":"MCP 5008","name":"Deniz Kimyası - II","term":2,"prerequisites":[{"code":"MCP 5017","name":"Deniz Kimyası - I"}]}]}

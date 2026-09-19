@@ -1,0 +1,1 @@
+{"id":"1101","name":"Fransızca Öğretmenliği","faculty":"Buca Eğitim Fakültesi","levelLabel":"Lisans","catalogYear":"2025-2026","courses":[{"code":"MBD 4035","name":"Öğretmenlik Uygulaması 1","term":7,"prerequisites":[]},{"code":"MBD 4040","name":"Öğretmenlik Uygulaması 2","term":8,"prerequisites":[{"code":"MBD 4035","name":"Öğretmenlik Uygulaması 1"}]}]}

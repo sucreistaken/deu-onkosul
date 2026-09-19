@@ -1,0 +1,1 @@
+{"id":"1085","name":"Fizik Öğretmenliği","faculty":"Buca Eğitim Fakültesi","levelLabel":"Lisans","catalogYear":"2025-2026","courses":[{"code":"MBD 4119","name":"Öğretmenlik Uygulaması 1","term":7,"prerequisites":[]},{"code":"MBD 4100","name":"Öğretmenlik Uygulaması 2","term":8,"prerequisites":[{"code":"MBD 4119","name":"Öğretmenlik Uygulaması 1"}]}]}

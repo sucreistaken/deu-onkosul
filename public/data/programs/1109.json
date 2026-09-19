@@ -1,0 +1,1 @@
+{"id":"1109","name":"Müzik Öğretmenliği","faculty":"Buca Eğitim Fakültesi","levelLabel":"Lisans","catalogYear":"2025-2026","courses":[{"code":"MBD 4001","name":"Öğretmenlik Uygulaması 1","term":7,"prerequisites":[]},{"code":"MBD 4002","name":"Öğretmenlik Uygulaması 2","term":8,"prerequisites":[{"code":"MBD 4001","name":"Öğretmenlik Uygulaması 1"}]}]}

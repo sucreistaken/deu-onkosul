@@ -1,0 +1,1 @@
+{"id":"1100","name":"Almanca Öğretmenliği","faculty":"Buca Eğitim Fakültesi","levelLabel":"Lisans","catalogYear":"2025-2026","courses":[{"code":"MBD 4301","name":"Öğretmenlik Uygulaması I","term":7,"prerequisites":[]},{"code":"MBD 4300","name":"Öğretmenlik Uygulaması II","term":8,"prerequisites":[{"code":"MBD 4301","name":"Öğretmenlik Uygulaması I"}]}]}

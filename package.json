@@ -1,0 +1,34 @@
+{
+  "name": "deu-onkosul",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build && tsx tools/prerender.ts",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "data": "tsx tools/build-data.ts",
+    "prerender": "tsx tools/prerender.ts",
+    "deploy": "npm run build && wrangler pages deploy dist --project-name=deu-onkosul --branch=main --commit-dirty=true"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.5",
+    "react-bootstrap-icons": "^1.11.4",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.30.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8",
+    "vitest": "^1.6.0",
+    "wrangler": "^4.113.0"
+  }
+}

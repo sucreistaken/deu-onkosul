@@ -1,0 +1,1 @@
+{"id":"1102","name":"İngilizce Öğretmenliği (İngilizce)","faculty":"Buca Eğitim Fakültesi","levelLabel":"Lisans","catalogYear":"2025-2026","courses":[{"code":"MBD 4107","name":"Öğretmenlik Uygulaması 1","term":7,"prerequisites":[]},{"code":"MBD 4108","name":"Öğretmenlik Uygulaması 2","term":8,"prerequisites":[{"code":"MBD 4107","name":"Öğretmenlik Uygulaması 1"}]}]}

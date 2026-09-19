@@ -1,0 +1,1 @@
+{"id":"1108","name":"Türk Dili ve Edebiyatı Öğretmenliği","faculty":"Buca Eğitim Fakültesi","levelLabel":"Lisans","catalogYear":"2025-2026","courses":[{"code":"MBD 4217","name":"Teaching Practice I","term":7,"prerequisites":[]},{"code":"MBD 4218","name":"Öğretmenlik Uygulaması II","term":8,"prerequisites":[{"code":"MBD 4217","name":"Teaching Practice I"}]}]}

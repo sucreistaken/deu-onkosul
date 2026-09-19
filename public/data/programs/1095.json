@@ -1,0 +1,1 @@
+{"id":"1095","name":"Okul Öncesi Öğretmenliği","faculty":"Buca Eğitim Fakültesi","levelLabel":"Lisans","catalogYear":"2025-2026","courses":[{"code":"MBD 4033","name":"Öğretmenlik Uygulaması I","term":7,"prerequisites":[]},{"code":"MBD 4038","name":"Öğretmenlik Uygulaması II","term":8,"prerequisites":[{"code":"MBD 4033","name":"Öğretmenlik Uygulaması I"}]}]}

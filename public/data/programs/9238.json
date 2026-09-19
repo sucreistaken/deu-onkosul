@@ -1,0 +1,1 @@
+{"id":"9238","name":"Medikal Fizik Yüksek Lisans","faculty":"Sağlık Bilimleri Enstitüsü","levelLabel":"Yuksek Lisans","catalogYear":"2025-2026","courses":[{"code":"MDF 5047","name":"Nükleer Tıp Fiziği","term":1,"prerequisites":[]},{"code":"MDF 5058","name":"Radyonüklid Terapi","term":2,"prerequisites":[{"code":"MDF 5047","name":"Nükleer Tıp Fiziği"}]}]}

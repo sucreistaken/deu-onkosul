@@ -1,0 +1,1 @@
+{"id":"9175","name":"Makine Teorisi ve Dinamiği Doktora (İngilizce)","faculty":"Fen Bilimleri Enstitüsü","levelLabel":"Doktora","catalogYear":"2025-2026","courses":[{"code":"MEE 5017","name":"İleri Otomatik Kontrol","term":null,"prerequisites":[]},{"code":"MEE 6009","name":"Optimal Kontrol","term":null,"prerequisites":[{"code":"MEE 5017","name":"İleri Otomatik Kontrol"}]}]}
