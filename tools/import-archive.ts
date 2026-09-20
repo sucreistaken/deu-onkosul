@@ -118,6 +118,28 @@ function columns(header: string): [number, number, number][] {
 
 const clean = (s: string): string => s.replace(/\s+/g, ' ').trim()
 
+/** "UCUNCU YARIYIL" -> 3. Plan PDF'leri yariyili yaziyla yaziyor. */
+const ORDINALS: Record<string, number> = {
+    'BİRİNCİ': 1, 'İKİNCİ': 2, 'ÜÇÜNCÜ': 3, 'DÖRDÜNCÜ': 4,
+    'BEŞİNCİ': 5, 'ALTINCI': 6, 'YEDİNCİ': 7, 'SEKİZİNCİ': 8,
+}
+
+/**
+ * Yariyil basligi satirindan (konum, yariyil) ciftlerini cikarir.
+ *
+ * Tablo basliginin hemen ustunde durur ve iki sutunlu yerlesimde iki
+ * yariyili yan yana yazar:
+ *   "        UCUNCU YARIYIL                        DORDUNCU YARIYIL"
+ */
+function termHeader(line: string): [number, number][] {
+    const out: [number, number][] = []
+    for (const m of line.matchAll(/([A-ZÇĞİÖŞÜ]+)\s+YARIYIL/g)) {
+        const n = ORDINALS[m[1]]
+        if (n) out.push([m.index as number, n])
+    }
+    return out
+}
+
 /**
  * Ders tablosunu sutun konumundan okur.
  *
@@ -126,19 +148,44 @@ const clean = (s: string): string => s.replace(/\s+/g, ' ').trim()
  * alinir. Plan PDF'leri 2016'dan beri iki yariyili yan yana basiyor, bu
  * yuzden satir basina birden fazla blok olabilir.
  */
-function parsePlan(text: string): Map<string, { name: string; prereqs: Set<string> }> {
-    const out = new Map<string, { name: string; prereqs: Set<string> }>()
+function parsePlan(
+    text: string,
+): Map<string, { name: string; prereqs: Set<string>; term: number | null }> {
+    const out = new Map<
+        string,
+        { name: string; prereqs: Set<string>; term: number | null }
+    >()
     let blocks: [number, number, number][] | null = null
+    let terms: [number, number][] = []
+    let blockTerms: (number | null)[] = []
 
     for (const raw of text.split('\n')) {
         const line = raw.replace(/\s+$/, '')
+
+        const th = termHeader(line)
+        if (th.length) { terms = th; continue }
+
         if (line.includes('Ön Şart') && /\bKod\b/.test(line)) {
             blocks = columns(line)
+            // Her sutun blogunu, konumca en yakin yariyil basligiyla esle.
+            blockTerms = blocks.map(([start]) => {
+                let best: number | null = null
+                let bestDist = Infinity
+                for (const [pos, n] of terms) {
+                    const d = Math.abs(pos - start)
+                    if (d < bestDist) { bestDist = d; best = n }
+                }
+                // Cok uzaksa (orn. secmeli ders tablosu) yariyil atanmaz.
+                return bestDist <= 220 ? best : null
+            })
+            // Baslik tuketildi; bir sonraki tablo kendi basligini bekler.
+            terms = []
             continue
         }
         if (!blocks) continue
 
-        for (const [start, kod, end] of blocks) {
+        for (let bi = 0; bi < blocks.length; bi += 1) {
+            const [start, kod, end] = blocks[bi]
             const right = line.slice(kod, end)
             const m = CODE.exec(right)
             CODE.lastIndex = 0
@@ -152,8 +199,10 @@ function parsePlan(text: string): Map<string, { name: string; prereqs: Set<strin
             const left = line.slice(Math.max(0, start - 4), kod)
             const prereqs = [...left.matchAll(CODE)].map((x) => clean(x[0]))
 
-            const entry = out.get(code) ?? { name, prereqs: new Set<string>() }
+            const entry = out.get(code)
+                ?? { name, prereqs: new Set<string>(), term: blockTerms[bi] ?? null }
             if (!entry.name && name) entry.name = name
+            if (entry.term === null) entry.term = blockTerms[bi] ?? null
             for (const p of prereqs) entry.prereqs.add(p)
             out.set(code, entry)
         }
@@ -230,7 +279,7 @@ async function main(): Promise<number> {
         const courses: Course[] = [...table].map(([code, v]) => ({
             code,
             name: v.name || code,
-            term: null,
+            term: v.term,
             prerequisites: [...v.prereqs].map((c) => ({ code: c, name: table.get(c)?.name ?? c })),
         }))
 
@@ -307,6 +356,7 @@ async function main(): Promise<number> {
                 validTo: null,
                 label: `${v.year}-${v.year + 1}`,
                 fingerprint: fp,
+                source: v.url,
                 courses: v.courses,
             })
         }

@@ -16,6 +16,13 @@ import { buildGraph, cascade, chainLevels, depth, impactOf } from '../src/lib/pr
 import type { DataIndex, ProgramChain } from '../src/types'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
+
+/**
+ * Sitenin canli adresi. canonical, og:url ve sitemap mutlak adres ister;
+ * yanlis alan adi canonical'i zararli hale getirir, bu yuzden deploy ettigin
+ * adrese gore SITE_URL ile ezilmeli.
+ */
+const SITE = (process.env.SITE_URL ?? 'https://deu-onkosul.pages.dev').replace(/\/+$/, '')
 const DIST = join(ROOT, 'dist')
 const DATA = join(ROOT, 'public', 'data')
 
@@ -33,13 +40,38 @@ const esc = (s: string): string =>
  */
 function render(
     template: string,
-    opts: { title: string; description: string; body: string; noindex?: boolean },
+    opts: {
+        title: string
+        description: string
+        body: string
+        /** Sitedeki yol, "/program/1198" gibi. canonical ve og:url icin. */
+        path: string
+        noindex?: boolean
+        /** Sayfaya gomulecek JSON-LD; arama sonucunda zengin gosterim icin. */
+        jsonLd?: object
+    },
 ): string {
-    const head = opts.noindex
-        ? '<meta name="robots" content="noindex" />\n  <title>'
-        : '<title>'
+    const url = `${SITE}${opts.path}`
+    const head = [
+        opts.noindex ? '<meta name="robots" content="noindex,follow" />' : '',
+        `<link rel="canonical" href="${esc(url)}" />`,
+        '<meta property="og:type" content="website" />',
+        '<meta property="og:site_name" content="DEU On Kosul" />',
+        '<meta property="og:locale" content="tr_TR" />',
+        `<meta property="og:url" content="${esc(url)}" />`,
+        `<meta property="og:title" content="${esc(opts.title)}" />`,
+        `<meta property="og:description" content="${esc(opts.description)}" />`,
+        '<meta name="twitter:card" content="summary" />',
+        `<meta name="twitter:title" content="${esc(opts.title)}" />`,
+        `<meta name="twitter:description" content="${esc(opts.description)}" />`,
+        opts.jsonLd
+            ? `<script type="application/ld+json">${JSON.stringify(opts.jsonLd)}</script>`
+            : '',
+        `<title>${esc(opts.title)}</title>`,
+    ].filter(Boolean).join('\n  ')
+
     return template
-        .replace(/<title>.*?<\/title>/s, `${head}${esc(opts.title)}</title>`)
+        .replace(/<title>.*?<\/title>/s, head)
         .replace(
             /<meta name="description"[\s\S]*?\/>/,
             `<meta name="description" content="${esc(opts.description)}" />`,
@@ -86,6 +118,29 @@ function resultBody(program: ProgramChain, code: string): string {
         + 'tamami</a></p>',
     ]
     return out.join('\n')
+}
+
+/** Sonuc sayfasi icin soru-cevap yapisal verisi. */
+function faqJsonLd(program: ProgramChain, code: string): object {
+    const graph = buildGraph(program.courses)
+    const impact = impactOf(graph, code)
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [{
+            '@type': 'Question',
+            name: `${program.name} bolumunde ${code} ${impact.name} dersinden kalirsam ne olur?`,
+            acceptedAnswer: {
+                '@type': 'Answer',
+                text:
+                    `${impact.locked.length} ders kilitlenir: `
+                    + impact.locked.map((c) => `${c.code} ${c.name}`).join(', ')
+                    + `. Zincir ${impact.depth} kademe`
+                    + (impact.lastTerm !== null ? `, en gec ${impact.lastTerm}. yariyila kadar` : '')
+                    + '.',
+            },
+        }],
+    }
 }
 
 const NO_PREREQ_NOTE =
@@ -180,6 +235,9 @@ function main(): number {
     let withNote = 0
     let results = 0
     const links: string[] = []
+    // sitemap'e yalnizca INDEKSLENEBILIR sayfalar girer; noindex isaretli
+    // ara adimlari listelemek Google'a celiskili sinyal verir.
+    const sitemap: string[] = ['/']
 
     for (const meta of index.programs) {
         const file = join(DATA, 'programs', `${meta.id}.json`)
@@ -203,6 +261,7 @@ function main(): number {
         writeFileSync(
             join(dir, 'index.html'),
             render(template, {
+                path: `/program/${meta.id}`,
                 title: `${program.name} on kosullu dersler | DEU On Kosul`,
                 description:
                     `${program.name} (${program.faculty}) on kosullu dersleri ve hangi `
@@ -213,6 +272,7 @@ function main(): number {
             'utf-8',
         )
         written += 1
+        sitemap.push(`/program/${meta.id}`)
 
         // Sihirbazin ara adimlari (yil ve ders secimi) icerik tasimaz;
         // indekslenirlerse 647 x yil x ders kadar degersiz sayfa cikar.
@@ -224,6 +284,7 @@ function main(): number {
             writeFileSync(
                 join(path, 'index.html'),
                 render(template, {
+                    path: path.replace(DIST, ''),
                     title: `${program.name} | DEU On Kosul`,
                     description: `${program.name} on kosul sihirbazi.`,
                     body: `<h1>${esc(program.name)}</h1>`,
@@ -241,6 +302,10 @@ function main(): number {
             writeFileSync(
                 join(dir, 'index.html'),
                 render(template, {
+                    path: `/program/${meta.id}/yil/guncel/ders/${slugify(code)}`,
+                    // "X dersinden kalirsam ne olur" bir soru; arama sonucunda
+                    // cevabiyla birlikte gorunsun.
+                    jsonLd: faqJsonLd(program, code),
                     title:
                         `${code} dersinden kalirsan ne olur? | ${program.name} `
                         + '| DEU On Kosul',
@@ -253,6 +318,7 @@ function main(): number {
                 'utf-8',
             )
             results += 1
+            sitemap.push(`/program/${meta.id}/yil/guncel/ders/${slugify(code)}`)
         }
 
         links.push(
@@ -268,6 +334,7 @@ function main(): number {
     writeFileSync(
         join(DIST, 'index.html'),
         render(template, {
+            path: '/',
             title: 'DEU on kosullu dersler | Hangi dersten kalinca ne olur',
             description:
                 'Dokuz Eylul Universitesi bolumlerinin on kosullu ders zincirleri. '
@@ -283,7 +350,31 @@ function main(): number {
         'utf-8',
     )
 
+    // sitemap.xml ve robots.txt
+    const today = new Date().toISOString().slice(0, 10)
+    writeFileSync(
+        join(DIST, 'sitemap.xml'),
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        + '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + sitemap
+            .map(
+                (u) =>
+                    `  <url><loc>${esc(SITE + u)}</loc>`
+                    + `<lastmod>${today}</lastmod></url>`,
+            )
+            .join('\n')
+        + '\n</urlset>\n',
+        'utf-8',
+    )
+    writeFileSync(
+        join(DIST, 'robots.txt'),
+        `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n`,
+        'utf-8',
+    )
+
     console.log(`Prerender: ${written} bolum sayfasi + giris sayfasi`)
+    console.log(`  sitemap girisi          : ${sitemap.length}`)
+    console.log(`  site adresi             : ${SITE}`)
     console.log(`  zinciri olan bolum      : ${withChain}`)
     console.log(`  yalniz metin sarti olan : ${withNote}`)
     console.log(`  sonuc sayfasi           : ${results}`)

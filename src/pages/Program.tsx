@@ -368,6 +368,66 @@ const Program: React.FC = () => {
 
             <Collapse in={showDetail}>
                 <div>
+                    {/* Kanit: her iddianin DEU'nun kendi sayfasinda karsiligi var. */}
+                    <Card className="shadow-sm mb-3">
+                        <Card.Header className="fw-medium">Kaynak</Card.Header>
+                        <ListGroup variant="flush">
+                            <ListGroup.Item>
+                                <div className="small text-body-secondary">Kural</div>
+                                Ogretim ve Sinav Uygulama Esaslari MADDE 6/5 &ndash; &ldquo;Bir
+                                derse on sart olan ders veya dersler basarilmis olmadikca o ders
+                                alinamaz.&rdquo;{' '}
+                                <a
+                                    href="https://eng.deu.edu.tr/wp-content/uploads/2024/09/ogretim_ve_sinav_uygulama_esaslari_ver5.pdf"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
+                                    ver5 (30.09.2024)
+                                </a>
+                            </ListGroup.Item>
+
+                            {choice.kind === 'archive' ? (
+                                <ListGroup.Item>
+                                    <div className="small text-body-secondary">
+                                        {choice.version.label} ogretim plani
+                                    </div>
+                                    <a href={choice.version.source} target="_blank" rel="noreferrer">
+                                        Fakultenin yayinladigi plan PDF&rsquo;i
+                                    </a>
+                                </ListGroup.Item>
+                            ) : (
+                                program.source && (
+                                    <ListGroup.Item>
+                                        <div className="small text-body-secondary">
+                                            DEU Ders Katalogu {program.catalogYear}
+                                        </div>
+                                        <a href={program.source} target="_blank" rel="noreferrer">
+                                            {program.name} ders plani
+                                        </a>
+                                    </ListGroup.Item>
+                                )
+                            )}
+
+                            {graph.byCode.get(impact.code)?.source && (
+                                <ListGroup.Item>
+                                    <div className="small text-body-secondary">
+                                        Bu dersin on kosulu nerede yaziyor
+                                    </div>
+                                    <a
+                                        href={graph.byCode.get(impact.code)?.source}
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
+                                        {impact.code} katalog sayfasi
+                                    </a>
+                                    <div className="small text-body-secondary mt-1">
+                                        Sayfadaki &ldquo;Dersin Onkosulu/Onkosullari&rdquo; alanina bak.
+                                    </div>
+                                </ListGroup.Item>
+                            )}
+                        </ListGroup>
+                    </Card>
+
                     <Card className="shadow-sm mb-3">
                         <Card.Header className="fw-medium">
                             Kalinca en cok ders kilitleyenler
@@ -430,6 +490,16 @@ const Program: React.FC = () => {
                                                             <ArrowRight size={12} /> on kosul:{' '}
                                                             {node.requires.join(', ')}
                                                         </div>
+                                                    )}
+                                                    {graph.byCode.get(node.code)?.source && (
+                                                        <a
+                                                            className="small"
+                                                            href={graph.byCode.get(node.code)?.source}
+                                                            target="_blank"
+                                                            rel="noreferrer"
+                                                        >
+                                                            katalog
+                                                        </a>
                                                     )}
                                                 </div>
                                             ))}

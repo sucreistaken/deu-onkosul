@@ -46,6 +46,22 @@ export function buildGraph(courses: Course[]): PrereqGraph {
         if (!byCode.has(course.code)) byCode.set(course.code, course)
     }
 
+    // Katalog, programin kendi ders listesinde OLMAYAN bir dersi onkosul
+    // gosterebiliyor (orn. MMM 2402 MALZEME II -> MMZ 2001 MALZEME I, eski
+    // koddan kalma). Bu dugumler zincirde yine gorunur; adlari onkosul
+    // kaydindan alinmazsa ekranda "MMZ 2001 / MMZ 2001" diye cikar.
+    for (const course of courses) {
+        for (const pre of course.prerequisites ?? []) {
+            if (!pre.code || byCode.has(pre.code)) continue
+            byCode.set(pre.code, {
+                code: pre.code,
+                name: pre.name || pre.code,
+                term: null,
+                prerequisites: [],
+            })
+        }
+    }
+
     for (const course of courses) {
         for (const pre of course.prerequisites ?? []) {
             if (!pre.code) continue

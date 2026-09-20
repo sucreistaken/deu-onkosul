@@ -19,6 +19,11 @@ export interface Course {
     term: number | null
     /** On kosul yoksa bos dizi. */
     prerequisites: Prerequisite[]
+    /**
+     * Dersin DEU Ders Katalogu'ndaki sayfasi. Kullaniciya kanit olarak
+     * gosterilir: iddia bizim degil, katalogun.
+     */
+    source?: string
 }
 
 export interface ProgramMeta {
@@ -47,6 +52,8 @@ export interface ProgramChain {
     faculty: string
     levelLabel: string
     catalogYear: string
+    /** Programin katalogdaki sayfasi; kanit baglantisi. */
+    source?: string
     /** Yalnizca zincire katilan dersler: on kosulu olanlar ve on kosul olanlar. */
     courses: Course[]
 }
@@ -68,6 +75,8 @@ export interface PlanVersion {
      * uretilir; arayuzde kullanilmaz.
      */
     fingerprint: string
+    /** Bu surumun alindigi ogretim plani PDF'i; kanit baglantisi. */
+    source: string
     courses: Course[]
 }
 

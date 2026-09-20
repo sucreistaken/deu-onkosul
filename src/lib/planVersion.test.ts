@@ -47,6 +47,28 @@ describe('Insaat arsiv verisi', () => {
         expect(codes.has('İNŞ 4109')).toBe(true)
     })
 
+    it('arsiv plani yariyil bilgisi tasir ve katalogla tutar', () => {
+        // PDF yariyili "UCUNCU YARIYIL" diye yaziyla yaziyor; sutun konumundan
+        // eslestiriliyor. Tasinmazsa sonuc ekraninda "Son yariyil" kayboluyor.
+        const v2020 = plans.versions.find((x) => x.validFrom === 2020)!
+        const byCode = new Map(v2020.courses.map((c) => [c.code, c]))
+        expect(byCode.get('İNŞ 1012')?.term).toBe(2)   // STATIK
+        expect(byCode.get('İNŞ 2001')?.term).toBe(3)   // MUKAVEMET I
+        expect(byCode.get('İNŞ 3007')?.term).toBe(5)   // YAPI STATIGI I
+
+        // Guncel katalogla ayni yariyillar.
+        const cur = new Map(current.courses.map((c) => [c.code, c]))
+        for (const code of ['İNŞ 1012', 'İNŞ 2001', 'İNŞ 3007']) {
+            expect(byCode.get(code)?.term).toBe(cur.get(code)?.term)
+        }
+    })
+
+    it('her plan surumu kaynak PDF adresini tasir', () => {
+        for (const v of plans.versions) {
+            expect(v.source).toMatch(/^https:\/\/eng\.deu\.edu\.tr\/.*\.pdf$/)
+        }
+    })
+
     it('eski planlar daha cok on kosul iceriyordu', () => {
         // 2020 plani elektif derslere de on kosul koymus, 2024 kaldirmis.
         const v2020 = plans.versions.find((x) => x.validFrom === 2020)

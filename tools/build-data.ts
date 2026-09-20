@@ -40,6 +40,8 @@ interface SourceProgram {
         name: string
         term: number | null
         prerequisites?: { code: string; name: string }[]
+        /** Katalogdaki ders sayfasi, yil koku olmadan. */
+        detail?: string
     }[]
 }
 
@@ -57,6 +59,11 @@ function main(): number {
     const sourceIndex = JSON.parse(
         readFileSync(join(SOURCE, 'index.json'), 'utf-8'),
     ) as { catalogYear: string; source: string }
+
+    // "https://debis.deu.edu.tr/ders-katalog/2025-2026/tr/"
+    const catalogBase = sourceIndex.source.endsWith('/')
+        ? sourceIndex.source
+        : `${sourceIndex.source}/`
 
     // Her kosuda sifirdan uret; kaynaktan kalkan program artik yayinlanmasin.
     rmSync(join(OUT, 'programs'), { recursive: true, force: true })
@@ -83,6 +90,8 @@ function main(): number {
             name: c.name,
             term: c.term,
             prerequisites: c.prerequisites ?? [],
+            // Kanit baglantisi: iddia bizim degil, katalogun.
+            ...(c.detail ? { source: catalogBase + c.detail } : {}),
         }))
 
         const graph = buildGraph(courses)
@@ -136,6 +145,7 @@ function main(): number {
             faculty: src.faculty,
             levelLabel: src.levelLabel,
             catalogYear: src.catalogYear,
+            source: `${catalogBase}bolum_${src.id}_tr.html`,
             courses: slim,
         }
         writeFileSync(

@@ -54,6 +54,16 @@ describe('gercek katalog verisi (Insaat 1198)', () => {
         expect(levels[4].map((n) => n.code)).toContain('İNŞ 4109')
     })
 
+    it('her ders katalogdaki kaynak sayfasini tasir', () => {
+        // Kanit baglantisi: kullaniciya "iddia bizim degil, katalogun"
+        // diyebilmek icin her dersin kendi katalog sayfasi gerekli.
+        const withSource = loadCourses('1198').filter((c) => c.source)
+        expect(withSource.length).toBeGreaterThan(0)
+        expect(withSource[0].source).toMatch(
+            /^https:\/\/debis\.deu\.edu\.tr\/ders-katalog\/.*\.html$/,
+        )
+    })
+
     it('ince veri yalnizca zincire katilan dersleri tasir', () => {
         // ATA 1001 katalogda var ama hicbir zincire girmiyor. Veri uretici onu
         // disarida birakmali, yoksa 688 KB'lik veri seti sismeye baslar.
@@ -100,6 +110,18 @@ describe('kenar durumlar', () => {
         expect([...(graph.requires.get('CCC 3001') ?? [])].sort())
             .toEqual(['AAA 1001', 'BBB 1002'])
         expect(cascade(graph, 'AAA 1001')).toEqual(['CCC 3001'])
+    })
+
+    it('programda olmayan onkosul dersinin ADI onkosul kaydindan gelir', () => {
+        // Katalog bunu yapiyor: MMM 2402 MALZEME II'nin onkosulu MMZ 2001
+        // MALZEME I, ama MMZ 2001 programin ders listesinde yok (eski kod).
+        // Ad tasinmazsa ekranda "MMZ 2001 / MMZ 2001" cikiyordu.
+        const graph = buildGraph([
+            make('MMM 2402', [{ code: 'MMZ 2001', name: 'MALZEME I' }]),
+        ])
+        expect(graph.byCode.get('MMZ 2001')?.name).toBe('MALZEME I')
+        expect(chainLevels(graph).flat().find((n) => n.code === 'MMZ 2001')?.name)
+            .toBe('MALZEME I')
     })
 
     it('prerequisites alani eksikse cokmez', () => {
