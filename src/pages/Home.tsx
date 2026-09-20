@@ -28,12 +28,16 @@ const LockedBadge: React.FC<{ meta: ProgramMeta }> = ({ meta }) => {
         // Zincir kurmayan ama gercek olan sartlar (orn. hazirlik sinifi) burada
         // "on kosul yok" diye gosterilmemeli.
         const label = meta.noteCount > 0 ? 'hazirlik / metin sarti' : 'on kosul yok'
-        return <Badge bg="secondary-subtle" text="secondary-emphasis">{label}</Badge>
+        return (
+            <Badge bg="secondary-subtle" text="secondary-emphasis" className="align-self-start">
+                {label}
+            </Badge>
+        )
     }
     const bg = meta.maxLocked >= 5 ? 'danger' : meta.maxLocked >= 2 ? 'warning' : 'primary'
     const text = meta.maxLocked >= 2 && meta.maxLocked < 5 ? 'dark' : undefined
     return (
-        <Badge bg={bg} text={text}>
+        <Badge bg={bg} text={text} className="align-self-start text-wrap">
             en fazla {meta.maxLocked} ders kilitlenir
         </Badge>
     )
@@ -124,7 +128,7 @@ const Home: React.FC = () => {
                                     action
                                     as={Link}
                                     to={`/program/${p.id}`}
-                                    className="d-flex justify-content-between align-items-center gap-3 flex-wrap"
+                                    className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-sm-center gap-1 gap-sm-3"
                                 >
                                     <span>
                                         <span className="fw-medium">{p.name}</span>

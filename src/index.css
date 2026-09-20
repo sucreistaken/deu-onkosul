@@ -21,3 +21,54 @@ body {
 .chain-col {
     min-width: 15rem;
 }
+
+/* ---- Mobil ------------------------------------------------------------ */
+
+/*
+ * Sonuc ekranindaki sayilar. Telefonda fs-3 (1.75rem) "3 kademe" ile birlikte
+ * satiri tasiriyor; kucuk ekranda bir tik kuculur.
+ */
+.stat-value {
+    font-size: 1.35rem;
+    line-height: 1.2;
+}
+
+@media (min-width: 576px) {
+    .stat-value {
+        font-size: 1.75rem;
+    }
+}
+
+/*
+ * Dokunma hedefi. Apple ve Google ikisi de en az 44px oneriyor; Bootstrap'in
+ * varsayilan .btn'i ~38px kaliyor.
+ */
+@media (max-width: 575.98px) {
+    .btn,
+    .form-select,
+    .form-control,
+    .list-group-item-action {
+        min-height: 44px;
+    }
+}
+
+/* Yatay kaydirma kaplarinda parmakla kaydirma akici olsun. */
+.chain-scroll,
+.table-responsive {
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Zincir kolonu telefonda ekrani doldurmasin, yanindaki gorunsun ki
+   kaydirilabilecegi anlasilsin. */
+@media (max-width: 575.98px) {
+    .chain-col {
+        min-width: 13rem;
+    }
+}
+
+/* Uzun ders adlari ve kodlar tasmasin. */
+.chain-col,
+.list-group-item,
+.alert {
+    overflow-wrap: anywhere;
+}

@@ -167,7 +167,7 @@ const Program: React.FC = () => {
                                   + 'kalirsan ustundeki dersleri alamazsin.'
                                 : 'Bu bolum icin katalogda on kosul tanimli degil.'}
                         </p>
-                        <div className="d-flex gap-2 flex-wrap">
+                        <div className="d-grid d-sm-flex gap-2">
                             <Link to={next} className="btn btn-primary btn-lg">
                                 Evet, devam et
                             </Link>
@@ -302,19 +302,21 @@ const Program: React.FC = () => {
                     kilitlenir
                 </Alert.Heading>
 
+                {/* Telefonda uc sutun dar kaliyor ("3 kademe" satira sigmiyor);
+                    kucuk ekranda ikiye duser. */}
                 <Row className="g-3 my-1">
-                    <Col xs={4}>
+                    <Col xs={6} sm={4}>
                         <div className="small text-uppercase opacity-75">Kilitlenen</div>
-                        <div className="fs-3 fw-semibold">{impact.locked.length}</div>
+                        <div className="stat-value fw-semibold">{impact.locked.length}</div>
                     </Col>
-                    <Col xs={4}>
+                    <Col xs={6} sm={4}>
                         <div className="small text-uppercase opacity-75">Zincir</div>
-                        <div className="fs-3 fw-semibold">{impact.depth} kademe</div>
+                        <div className="stat-value fw-semibold">{impact.depth} kademe</div>
                     </Col>
                     {impact.lastTerm !== null && (
-                        <Col xs={4}>
+                        <Col xs={6} sm={4}>
                             <div className="small text-uppercase opacity-75">Son yariyil</div>
-                            <div className="fs-3 fw-semibold">{impact.lastTerm}</div>
+                            <div className="stat-value fw-semibold">{impact.lastTerm}</div>
                         </Col>
                     )}
                 </Row>
@@ -357,7 +359,7 @@ const Program: React.FC = () => {
                 </Alert>
             )}
 
-            <div className="d-flex gap-2 flex-wrap my-3">
+            <div className="d-grid d-sm-flex gap-2 my-3">
                 <Link to={`${base}/yil/${year}/ders`} className="btn btn-outline-primary">
                     Baska ders sec
                 </Link>
@@ -468,6 +470,7 @@ const Program: React.FC = () => {
                         <Card.Body>
                             <p className="text-body-secondary small">
                                 Soldaki dersi gecmeden sagindakini alamazsin.
+                                <span className="d-inline d-md-none"> Yana kaydir.</span>
                             </p>
                             <div className="chain-scroll d-flex gap-3 pb-2">
                                 {chainLevels(graph).map((level, i) => (
