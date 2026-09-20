@@ -52,18 +52,35 @@ const Home: React.FC = () => {
         loadIndex().then(setIndex).catch((err: Error) => setError(err.message))
     }, [])
 
+    /**
+     * Tum bolumler, alfabetik.
+     *
+     * Once "en agir zincire sahip" siralamasindaydi ve 25 taneyle kesiliyordu;
+     * kullanici arananini bulamayip listede geziniyordu. Liste tam ve alfabetik
+     * olunca goz nereye bakacagini biliyor.
+     */
     const results = useMemo(() => {
         if (!index) return []
         const q = fold(query.trim())
-        // Arama bosken listeyi bosaltmak yerine en riskli programlari goster:
-        // ziyaretcinin hemen tiklayabilecegi bir sey olsun.
         const pool = q
             ? index.programs.filter(
                 (p) => fold(p.name).includes(q) || fold(p.faculty).includes(q),
             )
-            : index.programs.filter((p) => p.prereqCount > 0)
-        return pool.slice(0, 25)
+            : index.programs
+        return [...pool].sort((a, b) => a.name.localeCompare(b.name, 'tr'))
     }, [index, query])
+
+    /** Arama bosken ustte duran kisa vitrin; tiklanacak bir sey olsun diye. */
+    const riskli = useMemo(
+        () =>
+            index && !query.trim()
+                ? [...index.programs]
+                    .filter((p) => p.prereqCount > 0)
+                    .sort((a, b) => b.maxLocked - a.maxLocked)
+                    .slice(0, 5)
+                : [],
+        [index, query],
+    )
 
     if (error) {
         return <Alert variant="danger">Program listesi yuklenemedi: {error}</Alert>
@@ -110,10 +127,37 @@ const Home: React.FC = () => {
                 </div>
             ) : (
                 <>
+                    {riskli.length > 0 && (
+                        <div className="mb-4">
+                            <h2 className="h6 text-body-secondary text-uppercase mb-2">
+                                En agir zincire sahip bolumler
+                            </h2>
+                            <ListGroup className="shadow-sm">
+                                {riskli.map((p) => (
+                                    <ListGroup.Item
+                                        key={p.id}
+                                        action
+                                        as={Link}
+                                        to={`/program/${p.id}`}
+                                        className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-sm-center gap-1 gap-sm-3"
+                                    >
+                                        <span>
+                                            <span className="fw-medium">{p.name}</span>
+                                            <span className="text-body-secondary small d-block">
+                                                {p.faculty} &middot; {p.levelLabel}
+                                            </span>
+                                        </span>
+                                        <LockedBadge meta={p} />
+                                    </ListGroup.Item>
+                                ))}
+                            </ListGroup>
+                        </div>
+                    )}
+
                     <h2 className="h6 text-body-secondary text-uppercase mb-2">
                         {query.trim()
                             ? `${results.length} sonuc`
-                            : 'En agir zincire sahip bolumler'}
+                            : `Tum bolumler (${results.length}), alfabetik`}
                     </h2>
 
                     {results.length === 0 ? (
