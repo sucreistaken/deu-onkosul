@@ -115,6 +115,30 @@ function resultBody(program: ProgramChain, code: string): string {
         `<p>${esc(program.name)} &middot; ${esc(program.faculty)} &middot; `
         + `DEU Ders Katalogu ${esc(program.catalogYear)}</p>`,
 
+        // Zincirin kendisi: "3 adim" demek yerine yolu gostermek.
+        ...(yol.length > 1
+            ? [
+                '<h2>Zincir</h2>',
+                '<p>'
+                + yol
+                    .map(
+                        (c) =>
+                            esc(`${c.code} ${c.name}`)
+                            + (c.term !== null ? ` (${esc(termLabel(c.term))})` : ''),
+                    )
+                    .join(' &rarr; ')
+                + '</p>',
+                ...(yol[0].term !== null && yol[yol.length - 1].term !== null
+                    ? [
+                        `<p>${yol[0].term}. yariyil &rarr; ${yol[yol.length - 1].term}. `
+                        + 'yariyil. Her adim bir sonraki doneme gectigi icin ayni yil '
+                        + 'telafi edilemez.</p>',
+                    ]
+                    : []),
+            ]
+            : []),
+
+        '<h2>Kilitlenen dersler</h2>',
         '<ul>',
         ...[...zor, ...sec].map(
             (c) =>
