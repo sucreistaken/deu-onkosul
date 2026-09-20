@@ -18,7 +18,7 @@ import {
 } from 'react-bootstrap'
 import { ArrowRight, ExclamationTriangleFill, LockFill } from 'react-bootstrap-icons'
 import { loadPlans, loadProgram } from '../lib/data'
-import { buildGraph, cascade, chainLevels, depth, impactOf } from '../lib/prereq'
+import { buildGraph, cascade, chainLevels, depth, impactOf, longestPath } from '../lib/prereq'
 import { CATALOG_FROM, entryYearOptions, planForYear } from '../lib/planVersion'
 import { findBySlug, slugify } from '../lib/slug'
 import WizardSteps, { type Step } from '../components/WizardSteps'
@@ -93,6 +93,21 @@ const Program: React.FC = () => {
         () => (selected ? impactOf(graph, selected) : null),
         [graph, selected],
     )
+
+    /** Zincirin en uzun kolu; sonuc ekraninda ok ok gosterilir. */
+    const path = useMemo(
+        () =>
+            selected
+                ? longestPath(graph, selected).map((c) => ({
+                    code: c,
+                    name: graph.byCode.get(c)?.name ?? c,
+                    term: graph.byCode.get(c)?.term ?? null,
+                }))
+                : [],
+        [graph, selected],
+    )
+    const ilkTerm = path[0]?.term ?? null
+    const sonTerm = path[path.length - 1]?.term ?? null
 
     /** On kosulu ders degil de serbest metin olanlar (orn. hazirlik sinifi). */
     const notes = useMemo(
@@ -306,22 +321,54 @@ const Program: React.FC = () => {
                     kucuk ekranda ikiye duser. */}
                 <Row className="g-3 my-1">
                     <Col xs={6} sm={4}>
-                        <div className="small text-uppercase opacity-75">Kilitlenen</div>
+                        <div className="small text-uppercase opacity-75">Kilitlenen ders</div>
                         <div className="stat-value fw-semibold">{impact.locked.length}</div>
                     </Col>
                     <Col xs={6} sm={4}>
-                        <div className="small text-uppercase opacity-75">Zincir</div>
-                        <div className="stat-value fw-semibold">{impact.depth} kademe</div>
+                        <div className="small text-uppercase opacity-75">Zincir uzunlugu</div>
+                        <div className="stat-value fw-semibold">{impact.depth} adim</div>
                     </Col>
                     {impact.lastTerm !== null && (
                         <Col xs={6} sm={4}>
-                            <div className="small text-uppercase opacity-75">Son yariyil</div>
-                            <div className="stat-value fw-semibold">{impact.lastTerm}</div>
+                            <div className="small text-uppercase opacity-75">En gec etkilenen</div>
+                            <div className="stat-value fw-semibold">{impact.lastTerm}. yariyil</div>
                         </Col>
                     )}
                 </Row>
 
-                <ListGroup variant="flush" className="mt-2">
+                {/* Sayi degil, zincirin kendisi. "3 kademe" kimseye bir sey
+                    anlatmiyor; "Akiskanlar -> Hidrolik -> Su Yapilari" anlatiyor. */}
+                {path.length > 1 && (
+                    <div className="mt-2 mb-3">
+                        <div className="small">
+                            <strong>{path[0].code}</strong>&rsquo;i gecmeden{' '}
+                            <strong>{path[1].code}</strong>&rsquo;i alamazsin, onu gecmeden
+                            bir sonrakini. Zincirin en uzun kolu:
+                        </div>
+                        <div className="d-flex flex-wrap align-items-center gap-1 mt-2 small">
+                            {path.map((c, i) => (
+                                <React.Fragment key={c.code}>
+                                    {i > 0 && <ArrowRight size={13} className="opacity-50" />}
+                                    <span className="border rounded px-2 py-1 bg-body">
+                                        <strong>{c.code}</strong> {c.name}
+                                        {c.term !== null && (
+                                            <span className="opacity-75"> ({c.term}. yariyil)</span>
+                                        )}
+                                    </span>
+                                </React.Fragment>
+                            ))}
+                        </div>
+                        {ilkTerm !== null && sonTerm !== null && sonTerm > ilkTerm && (
+                            <div className="small mt-2">
+                                Yani {ilkTerm}. yariyildaki bir ders, {sonTerm}. yariyildaki
+                                dersi kilitliyor.
+                            </div>
+                        )}
+                    </div>
+                )}
+
+                <div className="small fw-medium mt-2">Kilitlenen dersler</div>
+                <ListGroup variant="flush">
                     {impact.locked.map((c) => (
                         <ListGroup.Item
                             key={c.code}

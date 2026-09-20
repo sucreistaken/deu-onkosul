@@ -8,7 +8,7 @@
 import { readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { describe, expect, it } from 'vitest'
-import { buildGraph, cascade, chainLevels, depth, impactOf } from './prereq'
+import { buildGraph, cascade, chainLevels, depth, impactOf, longestPath } from './prereq'
 import type { Course, Prerequisite, ProgramChain } from '../types'
 
 const loadCourses = (id: string): Course[] => {
@@ -52,6 +52,20 @@ describe('gercek katalog verisi (Insaat 1198)', () => {
         expect(levels).toHaveLength(5)
         expect(levels[0].map((n) => n.code)).toContain('İNŞ 1012')
         expect(levels[4].map((n) => n.code)).toContain('İNŞ 4109')
+    })
+
+    it('en uzun zincir kolu, dersin kendisiyle baslar ve adim sayisi kadar uzar', () => {
+        // Kullaniciya "3 adim" demek yetmiyor; zincirin kendisini gosteriyoruz.
+        const p = longestPath(graph, 'İNŞ 1012')
+        expect(p[0]).toBe('İNŞ 1012')
+        expect(p).toHaveLength(depth(graph, 'İNŞ 1012') + 1)
+        // Statik > Mukavemet I > Yapi Statigi I > Yapi Statigi II > Yapi Dinamigi
+        expect(p).toContain('İNŞ 2001')
+        expect(p[p.length - 1]).toMatch(/^İNŞ 4/)
+    })
+
+    it('onkosulsuz derste zincir yalnizca kendisidir', () => {
+        expect(longestPath(graph, 'ATA 1001')).toEqual(['ATA 1001'])
     })
 
     it('her ders katalogdaki kaynak sayfasini tasir', () => {

@@ -12,7 +12,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { buildGraph, cascade, chainLevels, depth, impactOf } from '../src/lib/prereq'
+import { buildGraph, cascade, chainLevels, depth, impactOf, longestPath } from '../src/lib/prereq'
 import type { DataIndex, ProgramChain } from '../src/types'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
@@ -97,15 +97,19 @@ const slugify = (code: string): string =>
 function resultBody(program: ProgramChain, code: string): string {
     const graph = buildGraph(program.courses)
     const impact = impactOf(graph, code)
+    const yol = longestPath(graph, code).map((c) => ({
+        code: c,
+        name: graph.byCode.get(c)?.name ?? c,
+        term: graph.byCode.get(c)?.term ?? null,
+    }))
     const out = [
         `<h1>${esc(impact.code)} ${esc(impact.name)} dersinden kalirsan `
         + `${impact.locked.length} ders kilitlenir</h1>`,
         `<p>${esc(program.name)} &middot; ${esc(program.faculty)} &middot; `
         + `DEU Ders Katalogu ${esc(program.catalogYear)}</p>`,
-        `<p>Zincir ${impact.depth} kademe`
+        `<p>Zincir ${impact.depth} adim`
         + (impact.lastTerm !== null ? `, en gec ${impact.lastTerm}. yariyila kadar` : '')
         + '.</p>',
-        '<h2>Kilitlenen dersler</h2>',
         '<ul>',
         ...impact.locked.map(
             (c) =>

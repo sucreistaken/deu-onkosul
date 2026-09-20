@@ -208,6 +208,32 @@ export function chainLevels(graph: PrereqGraph): ChainNode[][] {
     return out
 }
 
+/**
+ * `code` dersinden baslayan EN UZUN on kosul zinciri, dersin kendisi dahil.
+ *
+ * "3 kademe" tek basina kimseye bir sey anlatmiyor. Zinciri gostermek
+ * anlatiyor: Akiskanlar -> Hidrolik -> Su Yapilari -> Su Yapilarinin
+ * Tasarimi. Okuyan "demek ki 4. yariyildan 7. yariyila kadar suruyor"
+ * diyebiliyor.
+ */
+export function longestPath(graph: PrereqGraph, code: string): string[] {
+    const visiting = new Set<string>()
+
+    const walk = (current: string): string[] => {
+        visiting.add(current)
+        let best: string[] = []
+        for (const dep of graph.dependents.get(current) ?? []) {
+            if (visiting.has(dep)) continue
+            const sub = walk(dep)
+            if (sub.length > best.length) best = sub
+        }
+        visiting.delete(current)
+        return [current, ...best]
+    }
+
+    return walk(code)
+}
+
 // --------------------------------------------------------------------------
 // Etki ozeti ("bu dersten kalirsam ne olur")
 // --------------------------------------------------------------------------
