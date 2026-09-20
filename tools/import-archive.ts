@@ -150,20 +150,28 @@ function termHeader(line: string): [number, number][] {
  */
 function parsePlan(
     text: string,
-): Map<string, { name: string; prereqs: Set<string>; term: number | null }> {
+): Map<
+    string,
+    { name: string; prereqs: Set<string>; term: number | null; elective: boolean }
+> {
     const out = new Map<
         string,
-        { name: string; prereqs: Set<string>; term: number | null }
+        { name: string; prereqs: Set<string>; term: number | null; elective: boolean }
     >()
     let blocks: [number, number, number][] | null = null
     let terms: [number, number][] = []
     let blockTerms: (number | null)[] = []
+    // Plan PDF'i her yariyilin altinda "Secmeli Dersler" basligiyla ikinci bir
+    // tablo aciyor. Bu basliktan sonraki dersler secmeli sayilir; yeni bir
+    // yariyil basligi gelince zorunluya doner.
+    let elective = false
 
     for (const raw of text.split('\n')) {
         const line = raw.replace(/\s+$/, '')
 
         const th = termHeader(line)
-        if (th.length) { terms = th; continue }
+        if (th.length) { terms = th; elective = false; continue }
+        if (/Se[çc]meli\s+Dersler/i.test(line)) { elective = true; continue }
 
         if (line.includes('Ön Şart') && /\bKod\b/.test(line)) {
             blocks = columns(line)
@@ -200,7 +208,7 @@ function parsePlan(
             const prereqs = [...left.matchAll(CODE)].map((x) => clean(x[0]))
 
             const entry = out.get(code)
-                ?? { name, prereqs: new Set<string>(), term: blockTerms[bi] ?? null }
+                ?? { name, prereqs: new Set<string>(), term: blockTerms[bi] ?? null, elective }
             if (!entry.name && name) entry.name = name
             if (entry.term === null) entry.term = blockTerms[bi] ?? null
             for (const p of prereqs) entry.prereqs.add(p)
@@ -280,6 +288,7 @@ async function main(): Promise<number> {
             code,
             name: v.name || code,
             term: v.term,
+            type: v.elective ? ('SECMELI' as const) : ('ZORUNLU' as const),
             prerequisites: [...v.prereqs].map((c) => ({ code: c, name: table.get(c)?.name ?? c })),
         }))
 

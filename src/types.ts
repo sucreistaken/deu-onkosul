@@ -20,6 +20,12 @@ export interface Course {
     /** On kosul yoksa bos dizi. */
     prerequisites: Prerequisite[]
     /**
+     * Zorunlu mu secmeli mi. "15 ders kilitlenir" tek basina yaniltici:
+     * secmeliyi alamamak baskasini secmek, zorunluyu alamamak mezun
+     * olamamak demek.
+     */
+    type?: 'ZORUNLU' | 'SECMELI'
+    /**
      * Dersin DEU Ders Katalogu'ndaki sayfasi. Kullaniciya kanit olarak
      * gosterilir: iddia bizim degil, katalogun.
      */

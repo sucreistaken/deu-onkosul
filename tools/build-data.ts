@@ -42,6 +42,8 @@ interface SourceProgram {
         prerequisites?: { code: string; name: string }[]
         /** Katalogdaki ders sayfasi, yil koku olmadan. */
         detail?: string
+        /** "ZORUNLU", "TEKNIK SECMELI", "STAJ"... */
+        rawType?: string
     }[]
 }
 
@@ -90,6 +92,8 @@ function main(): number {
             name: c.name,
             term: c.term,
             prerequisites: c.prerequisites ?? [],
+            // Staj zorunlu bir yukumluluk; secmeli havuzu degil.
+            type: c.rawType === 'ZORUNLU' || c.rawType === 'STAJ' ? 'ZORUNLU' : 'SECMELI',
             // Kanit baglantisi: iddia bizim degil, katalogun.
             ...(c.detail ? { source: catalogBase + c.detail } : {}),
         }))

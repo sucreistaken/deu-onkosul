@@ -13,6 +13,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { buildGraph, cascade, chainLevels, depth, impactOf, longestPath } from '../src/lib/prereq'
+import { termLabel } from '../src/lib/term'
 import type { DataIndex, ProgramChain } from '../src/types'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
@@ -102,19 +103,24 @@ function resultBody(program: ProgramChain, code: string): string {
         name: graph.byCode.get(c)?.name ?? c,
         term: graph.byCode.get(c)?.term ?? null,
     }))
+    const zor = impact.locked.filter((c) => graph.byCode.get(c.code)?.type !== 'SECMELI')
+    const sec = impact.locked.filter((c) => graph.byCode.get(c.code)?.type === 'SECMELI')
     const out = [
         `<h1>${esc(impact.code)} ${esc(impact.name)} dersinden kalirsan `
-        + `${impact.locked.length} ders kilitlenir</h1>`,
+        + (zor.length
+            ? `${zor.length} zorunlu ders kilitlenir`
+            : `${impact.locked.length} ders kilitlenir`)
+        + '</h1>',
+        `<p>Zorunlu ${zor.length} ders, secmeli ${sec.length} ders.</p>`,
         `<p>${esc(program.name)} &middot; ${esc(program.faculty)} &middot; `
         + `DEU Ders Katalogu ${esc(program.catalogYear)}</p>`,
-        `<p>Zincir ${impact.depth} adim`
-        + (impact.lastTerm !== null ? `, en gec ${impact.lastTerm}. yariyila kadar` : '')
-        + '.</p>',
+
         '<ul>',
-        ...impact.locked.map(
+        ...[...zor, ...sec].map(
             (c) =>
                 `<li>${esc(c.code)} ${esc(c.name)}`
-                + (c.term !== null ? ` (${c.term}. yariyil)` : '')
+                + (c.term !== null ? ` (${esc(termLabel(c.term))})` : '')
+                + (graph.byCode.get(c.code)?.type === 'SECMELI' ? ' &middot; secmeli' : '')
                 + '</li>',
         ),
         '</ul>',

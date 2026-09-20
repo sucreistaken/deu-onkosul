@@ -21,6 +21,7 @@ import { loadPlans, loadProgram } from '../lib/data'
 import { buildGraph, cascade, chainLevels, depth, impactOf, longestPath } from '../lib/prereq'
 import { CATALOG_FROM, entryYearOptions, planForYear } from '../lib/planVersion'
 import { findBySlug, slugify } from '../lib/slug'
+import { termLabel } from '../lib/term'
 import WizardSteps, { type Step } from '../components/WizardSteps'
 import type { Course, ProgramChain, ProgramPlans } from '../types'
 
@@ -108,6 +109,20 @@ const Program: React.FC = () => {
     )
     const ilkTerm = path[0]?.term ?? null
     const sonTerm = path[path.length - 1]?.term ?? null
+
+    /**
+     * "15 ders kilitlenir" tek basina yaniltici: secmeliyi alamamak
+     * baskasini secmek, zorunluyu alamamak mezun olamamak demek.
+     */
+    const kilit = useMemo(() => {
+        const zor = impact
+            ? impact.locked.filter((c) => graph.byCode.get(c.code)?.type !== 'SECMELI')
+            : []
+        const sec = impact
+            ? impact.locked.filter((c) => graph.byCode.get(c.code)?.type === 'SECMELI')
+            : []
+        return { zor, sec }
+    }, [impact, graph])
 
     /** On kosulu ders degil de serbest metin olanlar (orn. hazirlik sinifi). */
     const notes = useMemo(
@@ -313,20 +328,22 @@ const Program: React.FC = () => {
             <Alert variant={impact.locked.length >= 5 ? 'danger' : 'warning'}>
                 <Alert.Heading className="h5 d-flex align-items-center gap-2">
                     <ExclamationTriangleFill />
-                    {impact.code} {impact.name} dersinden kalirsan {impact.locked.length} ders
-                    kilitlenir
+                    {impact.code} {impact.name} dersinden kalirsan{' '}
+                    {kilit.zor.length > 0
+                        ? `${kilit.zor.length} zorunlu ders kilitlenir`
+                        : `${impact.locked.length} ders kilitlenir`}
                 </Alert.Heading>
 
                 {/* Telefonda uc sutun dar kaliyor ("3 kademe" satira sigmiyor);
                     kucuk ekranda ikiye duser. */}
                 <Row className="g-3 my-1">
                     <Col xs={6} sm={4}>
-                        <div className="small text-uppercase opacity-75">Kilitlenen ders</div>
-                        <div className="stat-value fw-semibold">{impact.locked.length}</div>
+                        <div className="small text-uppercase opacity-75">Zorunlu</div>
+                        <div className="stat-value fw-semibold">{kilit.zor.length} ders</div>
                     </Col>
                     <Col xs={6} sm={4}>
-                        <div className="small text-uppercase opacity-75">Zincir uzunlugu</div>
-                        <div className="stat-value fw-semibold">{impact.depth} adim</div>
+                        <div className="small text-uppercase opacity-75">Secmeli</div>
+                        <div className="stat-value fw-semibold">{kilit.sec.length} ders</div>
                     </Col>
                     {impact.lastTerm !== null && (
                         <Col xs={6} sm={4}>
@@ -340,11 +357,7 @@ const Program: React.FC = () => {
                     anlatmiyor; "Akiskanlar -> Hidrolik -> Su Yapilari" anlatiyor. */}
                 {path.length > 1 && (
                     <div className="mt-2 mb-3">
-                        <div className="small">
-                            <strong>{path[0].code}</strong>&rsquo;i gecmeden{' '}
-                            <strong>{path[1].code}</strong>&rsquo;i alamazsin, onu gecmeden
-                            bir sonrakini. Zincirin en uzun kolu:
-                        </div>
+                        <div className="small fw-medium">Zincir</div>
                         <div className="d-flex flex-wrap align-items-center gap-1 mt-2 small">
                             {path.map((c, i) => (
                                 <React.Fragment key={c.code}>
@@ -352,7 +365,7 @@ const Program: React.FC = () => {
                                     <span className="border rounded px-2 py-1 bg-body">
                                         <strong>{c.code}</strong> {c.name}
                                         {c.term !== null && (
-                                            <span className="opacity-75"> ({c.term}. yariyil)</span>
+                                            <span className="opacity-75"> ({termLabel(c.term)})</span>
                                         )}
                                     </span>
                                 </React.Fragment>
@@ -360,8 +373,8 @@ const Program: React.FC = () => {
                         </div>
                         {ilkTerm !== null && sonTerm !== null && sonTerm > ilkTerm && (
                             <div className="small mt-2">
-                                Yani {ilkTerm}. yariyildaki bir ders, {sonTerm}. yariyildaki
-                                dersi kilitliyor.
+                                {ilkTerm}. yariyil &rarr; {sonTerm}. yariyil. Her adim bir
+                                sonraki doneme gectigi icin ayni yil telafi edilemez.
                             </div>
                         )}
                     </div>
@@ -369,20 +382,24 @@ const Program: React.FC = () => {
 
                 <div className="small fw-medium mt-2">Kilitlenen dersler</div>
                 <ListGroup variant="flush">
-                    {impact.locked.map((c) => (
-                        <ListGroup.Item
-                            key={c.code}
-                            className="bg-transparent px-0 py-1 border-0 d-flex align-items-center gap-2"
-                        >
-                            <LockFill size={14} className="flex-shrink-0 opacity-75" />
-                            <span>
-                                <strong>{c.code}</strong> {c.name}
-                                {c.term !== null && (
-                                    <span className="opacity-75"> ({c.term}. yariyil)</span>
-                                )}
-                            </span>
-                        </ListGroup.Item>
-                    ))}
+                    {[...kilit.zor, ...kilit.sec].map((c) => {
+                        const sec = graph.byCode.get(c.code)?.type === 'SECMELI'
+                        return (
+                            <ListGroup.Item
+                                key={c.code}
+                                className="bg-transparent px-0 py-1 border-0 d-flex align-items-center gap-2"
+                            >
+                                <LockFill size={14} className="flex-shrink-0 opacity-75" />
+                                <span>
+                                    <strong>{c.code}</strong> {c.name}
+                                    {c.term !== null && (
+                                        <span className="opacity-75"> ({termLabel(c.term)})</span>
+                                    )}
+                                    {sec && <span className="opacity-75"> &middot; secmeli</span>}
+                                </span>
+                            </ListGroup.Item>
+                        )
+                    })}
                 </ListGroup>
             </Alert>
 
