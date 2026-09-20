@@ -1,100 +1,188 @@
-# DEU On Kosul
+# DEÜ Ön Koşul
 
-Dokuz Eylul Universitesi on kosullu dersler: hangi dersten kalinca hangi
-dersleri alamazsin, zincir kac yariyil ileri gider.
+Dokuz Eylül Üniversitesi'nde hangi dersten kalırsan hangi dersleri alamazsın.
 
-Giris yok, transkript yok, kullanici verisi yok. Tek bir soruyu cevaplar.
+**Canlı: [onkosul.kadiray.com](https://onkosul.kadiray.com)**
 
-## Neden ayri bir uygulama
+Giriş yok, transkript yok, kullanıcı verisi yok. Tek bir soruyu cevaplar.
 
-`dokuzeylul-analyzer` transkript okur, not tutar, GANO hesaplar. Bu uygulama
-hicbirini yapmaz; katalogun on kosul bilgisini herkese acik sekilde gosterir.
-Ayri tutulmasinin bedeli veri uretim adiminin paylasilmasi, karsiligi ise
-228 KB'lik bir paket ve 688 KB'lik bir veri seti (analyzer'da 14 MB).
+![Ana sayfa](docs/img/ana-sayfa.jpg)
 
-## Gorunum
+## Sorun
 
-NodeBB Harmony (forum) ile ayni: Bootstrap 5, Inter, `--bs-primary #0d6efd`,
-`--bs-border-radius 0.375rem`. Ek tema katmani yok.
+Notlar DEBİS'te, ön koşullar başka yerde, ikisini birleştiren hiçbir şey yok.
+Öğrenci hangi dersi neden alamadığını ders kayıt haftasında, iş işten geçtikten
+sonra öğreniyor. Karar penceresi yılda dört gün.
 
-## Akis
+Mevcut çözüm: üst sınıflara sormak ya da internette aramak.
 
-Adim adim sihirbaz, ekranda ayni anda tek soru:
+## Ne gösteriyor
+
+Bölümünü seç, kaç girişli olduğunu söyle, kaldığın dersi işaretle. Gerisi çıkıyor.
+
+![Sonuç ekranı](docs/img/sonuc.jpg)
+
+İnşaat Mühendisliği, 2021 girişli, Akışkanlar Mekaniği'nden kalan bir öğrenci için:
 
 ```
-/program/:id                       1) Bolum onayi
-/program/:id/yil                   2) Giris yili   (arsiv yoksa atlanir)
-/program/:id/yil/:year/ders        3) Hangi dersten kaldin
-/program/:id/yil/:year/ders/:code  4) Sonuc
+İNŞ 2014 AKIŞKANLAR MEKANİĞİ       (4. yarıyıl, bahar)
+  → İNŞ 3023 HİDROLİK              (5. yarıyıl, güz)
+  → İNŞ 3024 SU YAPILARI           (6. yarıyıl, bahar)
+  → İNŞ 4005 SU YAPILARININ TASARIMI (7. yarıyıl, güz)
 ```
 
-Siralama tablosu ve zincir haritasi sonuc ekraninda "Detayi goster"
-altinda durur.
+3 zorunlu, 11 seçmeli ders kilitleniyor. Her adım bir sonraki döneme geçtiği
+için aynı yıl telafi edilemiyor.
+
+## Üç tasarım kararı
+
+**Zorunlu ile seçmeli ayrı sayılır.** "15 ders kilitlenir" felaket gibi okunuyor,
+oysa çoğu seçmeli. Seçmeliyi alamamak başkasını seçmek, zorunluyu alamamak mezun
+olamamak demek.
+
+**Sayı yerine zincirin kendisi gösterilir.** "Zincir 3 adım" kimseye bir şey
+anlatmıyor; yolu göstermek anlatıyor.
+
+**Giriş yılı sorulur.** Planlar değişiyor. İnşaat 2024'te derslerini yeniden
+numaralandırdı: Akışkanlar `İNŞ 2014` iken `İNŞ 2114`, Yapı Dinamiği `İNŞ 4009`
+iken `İNŞ 4109` oldu. 2021 girişli bir öğrencinin transkriptinde eski kodlar
+yazar ve o plan daha sıkıydı: aynı dersten kalmak 3 değil 15 dersi kilitliyordu.
+
+## Mobil
+
+![Mobil görünüm](docs/img/mobil.jpg)
+
+390px'te doğrulandı: yatay taşma yok, tablo ve zincir kaydırma kabında, 44px
+altında dokunma hedefi yok.
 
 ## Veri
 
-Kazima tek yerde: `dokuzeylul-analyzer/tools/scraper/scrape.py`. Bu depo onun
-ciktisindan ince bir set uretir:
+Kaynak: DEÜ Ders Kataloğu / Bilgi Paketi, her dersin sayfasındaki
+**"Dersin Önkoşulu/Önkoşulları"** alanı.
+
+| | |
+|---|---|
+| Program | 647 |
+| Zinciri olan program | 125 |
+| Ön koşullu ders | 990 |
+| Yalnız metin şartı (örn. hazırlık sınıfı) | 5 program |
+| Veri boyutu | 688 KB |
+
+Ön koşul en yoğun Güzel Sanatlar'da (354 ders) ve İşletme'de (263), Mühendislik
+üçüncü sırada (143).
+
+Sekiz fakülte hiç ön koşul tanımlamamış (Tıp ve Hukuk dahil). O sayfalar bunu
+açıkça söyler, **"ön koşul yok" demez**: katalogda tanımlı olmaması, fakültenin
+kendi esaslarında uygulamadığı anlamına gelmiyor.
+
+### Eski plan sürümleri
+
+```
+npm run archive    # eng.deu.edu.tr plan PDF arşivi -> public/data/plans
+```
+
+Kaynak `eng.deu.edu.tr`; `robots.txt`'i yalnızca `/wp-includes/` kapatıyor.
+`debis`'in yasaklı katalog yıllarına dokunulmuyor.
+
+Kapsam yalnızca **Mühendislik Fakültesi** (12 program, 49 sürüm). Diğer
+fakülteler ya arşiv yayınlamıyor (İşletme, İİBF) ya da `robots.txt` ile kapatmış
+(Güzel Sanatlar). Arşivi olmayan bölümlerde yıl adımı atlanır ve sayfa bunu söyler.
+
+Plan PDF'lerinde "hangi dönem açılır" sütunu yok; yarıyıl tekliğinden türetiliyor.
+Kural katalogla sınandı: **13.599 lisans dersinde sıfır istisna** (tek yarıyıl güz,
+çift yarıyıl bahar).
+
+### Kazıma
+
+Kazıma tek yerde: `dokuzeylul-analyzer`'daki `tools/scraper/scrape.py`.
+Bu depo onun çıktısından ince bir set üretir:
 
 ```
 npm run data                            # ../dokuzeylulanalyzer/public/data
-DEU_CATALOG_DIR=/baska/yol npm run data
+DEU_CATALOG_DIR=/başka/yol npm run data
 ```
 
-Uretilen `public/data` commit edilir; uygulama calisma aninda analyzer'a
-bagimli degildir.
+Üretilen `public/data` commit edilir; uygulama çalışma anında analyzer'a bağımlı
+değildir.
 
-Kaynak: DEU Ders Katalogu / Bilgi Paketi, "Dersin Onkosulu/Onkosullari" alani.
-Yalnizca 2025-2026 katalogu cekilir (robots.txt eski yillari yasakliyor).
+## Kanıt
 
-### Eski plan surumleri
+Her iddia DEÜ'nün kendi sayfasına bağlanır. "Detayı göster" altındaki **Kaynak**
+kartında:
 
-Planlar degisiyor. Insaat 2024'te derslerini yeniden numaralandirdi:
-AKISKANLAR MEKANIGI INS 2014 iken INS 2114 oldu, YAPI DINAMIGI INS 4009
-iken INS 4109. 2021 girisli bir ogrencinin transkriptinde eski kodlar yazar
-ve o plan daha siki: ayni dersten kalmak 3 degil 15 dersi kilitliyordu.
+- **Kural:** Öğretim ve Sınav Uygulama Esasları MADDE 6/5 — *"Bir derse ön şart
+  olan ders veya dersler başarılmış olmadıkça o ders alınamaz."*
+- **Plan:** arşiv sürümünde fakültenin yayınladığı PDF, güncelde katalog sayfası
+- **Ders:** o dersin katalog sayfası, "Dersin Önkoşulu alanına bak" notuyla
+
+## Doğrulama kapıları
+
+`npm run archive` şu durumda hata koduyla durur: aynı döneme ait bir plan PDF'i,
+katalogda **olmayan** bir ön koşul iddia ederse. Bu, ayrıştırıcının sahte
+bağlantı üretmesini yakalar.
+
+`npm run data` hiçbir programda ön koşul bulamazsa durur.
+
+## Akış
 
 ```
-npm run archive    # eng.deu.edu.tr plan PDF arsivi -> public/data/plans
+/program/:id                       1) Bölüm onayı
+/program/:id/yil                   2) Giriş yılı   (arşiv yoksa atlanır)
+/program/:id/yil/:year/ders        3) Hangi dersten kaldın
+/program/:id/yil/:year/ders/:code  4) Sonuç
 ```
 
-Kaynak eng.deu.edu.tr; robots.txt'i yalnizca /wp-includes/ kapatiyor.
-debis'in yasakli katalog yillarina dokunulmaz.
+Ekranda aynı anda tek soru. Sıralama tablosu ve zincir haritası sonuç ekranında
+"Detayı göster" altında durur. Her adımın kendi adresi var: paylaşılabilir, geri
+tuşu çalışır, prerender edilebilir.
 
-Kapsam yalnizca **Muhendislik Fakultesi** (12 program, 49 surum). Diger
-fakulteler ya arsiv yayinlamiyor (Isletme, IIBF) ya da robots.txt ile
-kapatmis (Guzel Sanatlar: /wp-content/, /archives/). Arsivi olmayan
-bolumlerde yil adimi atlanir ve sayfa bunu acikca soyler.
+## Görünüm
 
-2024 ve sonrasi katalogdan gelir: katalog coklu onkosulu tasiyabiliyor,
-PDF'in dar "On Sart" sutunu tasiyamiyor. `npm run archive` ayni doneme ait
-bir PDF katalogda olmayan bir onkosul iddia ederse hata koduyla durur.
+Forumla (NodeBB Harmony) aynı: Bootstrap 5, Inter, `--bs-primary #0d6efd`,
+`--bs-border-radius 0.375rem`. Ek tema katmanı yok.
 
-## Kurallar
+## SEO
 
-On kosul kurali: Ogretim ve Sinav Uygulama Esaslari MADDE 6/5 -- "Bir derse on
-sart olan ders veya dersler basarilmis olmadikca o ders alinamaz."
+`npm run build` şunları üretir:
 
-Katalogda on kosulun bos olmasi, fakultenin kendi esaslarinda bir sart
-olmadigi anlamina gelmez. Sekiz fakulte (Tip ve Hukuk dahil) hic on kosul
-tanimlamamis; o sayfalar bunu acikca soyler, "on kosul yok" demez.
+- `dist/program/<id>/index.html` — bölümün zinciri, düz metin
+- `dist/program/<id>/yil/guncel/ders/<slug>/index.html` — "X dersinden kalırsan
+  ne olur" sonuç sayfası, her ön koşullu ders için bir tane (**803 adet**)
+- `sitemap.xml` (1451 adres) ve `robots.txt`
+- her sayfada `canonical`, Open Graph, Twitter kartı
+- sonuç sayfalarında `FAQPage` yapısal verisi
+- sihirbazın ara adımları `noindex`, sitemap dışı
 
-Bazi on kosullar ders degil serbest metindir (orn. "HAZIRLIK SINIFI").
-Zincire giremezler, ayri bir not olarak gosterilirler.
+Gövde JavaScript çalışmadan okunur, arama motoru zinciri olduğu gibi görür.
+
+> Başka bir alan adına deploy ederken `SITE_URL` ver, yoksa `canonical` yanlış
+> adresi gösterir.
 
 ## Komutlar
 
 ```
 npm run dev        # 5174
-npm run archive    # eski plan surumlerini yeniden cek
 npm test           # vitest
-npm run build      # tsc + vite + prerender (647 statik sayfa)
+npm run data       # ince veri setini üret
+npm run archive    # eski plan sürümlerini çek
+npm run build      # tsc + vite + prerender
 npm run deploy     # Cloudflare Pages
 ```
 
-`npm run build` su statik sayfalari uretir:
+## Yığın
 
-- `dist/program/<id>/index.html` -- bolumun zinciri, duz metin
-- `dist/program/<id>/yil/guncel/ders/<slug>/index.html` -- "X dersinden
-  kalirsan ne olur" sonuc sayfasi, her onkosullu ders icin bir tane (803 adet)
-- sihirbazin ara adimlari `noindex` ile isaretlenir; icerik tasimiyorlar
+React 18, TypeScript, Vite, React Bootstrap, React Router. Cloudflare Pages.
+Çalışma anında sunucu yok, veritabanı yok, çerez yok.
+
+## Sınırlar
+
+DEÜ'nün *"öğrenci giriş yılının planına tabidir"* diye yazılı bir kuralı
+bulunamadı; Muafiyet ve İntibak Yönergesi yatay geçiş ve dışarıdan alınan dersler
+içindir. Bu yüzden ürün **"senin giriş yılında yürürlükte olan plan buydu"** der,
+*"sana bu plan uygulanır"* demez.
+
+76 ders detay sayfası katalogun kendisinde HTTP 404 veriyor, hepsi yüksek lisans
+programlarında. Lisans verisi eksiksiz.
+
+Resmi bir DEÜ uygulaması değildir. Kesin bilgi için danışmanınıza ve kayıt
+ekranına bakın.
